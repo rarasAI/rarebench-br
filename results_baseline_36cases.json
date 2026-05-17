@@ -1,0 +1,670 @@
+{
+  "summary": {
+    "model": "araras-gemma4-e4b-v4-Q4_K_M (llama.cpp / Metal / Apple M4 Pro)",
+    "benchmark_layer": "L5_realsus (DataSUS APAC-anchored)",
+    "n_cases": 36,
+    "n_valid_responses": 34,
+    "errors": 0,
+    "R_at_1": 0.0,
+    "R_at_3": 0.0,
+    "R_at_5": 0.0,
+    "latency_p50_s": 6.1,
+    "latency_p90_s": 7.0,
+    "generation_params": {
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "top_k": 64,
+      "repeat_penalty": 1.15,
+      "max_tokens": 600
+    }
+  },
+  "results": [
+    {
+      "case_id": "RB-BR-L5-0021",
+      "gold_orpha": "ORPHA:802",
+      "gold_name": "Esclerose Múltipla",
+      "predicted_ranked": [
+        "ORPHA:95746",
+        "ORPHA:9178",
+        "ORPHA:32149",
+        "ORPHA:75649",
+        "ORPHA:3801"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.586055040359497,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Mieloneurite óptico-auditiva (MOGAD) (ORPHA:75649) — Quadro clássico com história de crises multifocais, envolvimento neurológico e LCR anormal.\n2. Neuromielite desmielinizante/remanente pós-infecção viral (ADEM / PML?) (ORPHA:3801) — Pode apresentar um curso flutuante sem evidências claras de OE ou ONL na RM, sendo o quadro mais aberto para diagnóstico infeccional secundário.\n3. Neuromyelinite"
+    },
+    {
+      "case_id": "RB-BR-L5-0010",
+      "gold_orpha": "ORPHA:802",
+      "gold_name": "Esclerose Múltipla",
+      "predicted_ranked": [
+        "ORPHA:97460",
+        "ORPHA:71593",
+        "ORPHA:240875",
+        "ORPHA:60873",
+        "ORPHA:90413"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.990437746047974,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Neuromielite Óptica (ORPHA:97460) — Quadro clássico de perda de sensibilidade, fraqueza e déficits visuais associados à mieloneurite óptica em contexto de síndromes desmielinizantes crônicas; achado de placas na RM com critérios para síndrome MOGAD.\n2. Neuromielite Transversal (ORPHA:71593) — Progressão longitudinal da lesões leptoméntionais que acompanham a clínica dissenvolvimental e progress"
+    },
+    {
+      "case_id": "RB-BR-L5-0026",
+      "gold_orpha": "ORPHA:802",
+      "gold_name": "Esclerose Múltipla",
+      "predicted_ranked": [
+        "ORPHA:34176",
+        "ORPHA:10859",
+        "ORPHA:36859",
+        "ORPHA:50468"
+      ],
+      "name_in_text": true,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.163295030593872,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Neuromielite Óptica (NMO) / NMOSD (ORPHA:50468) — Quadro clínico clássico de déficits neurológicos com padrão relapsing remitting, seguindo neurite óptica e mielite; achado laboratorial de bandas oligoclonais positivas no LCR.\n2. Mieleníte Óptica/Neurite Óptica (ORPHA:34176) — Manifestações clínicas compatíveis, mas o curso mais arrastado com múltiplas lesões em T2 na RM sugere diagnóstico mais"
+    },
+    {
+      "case_id": "RB-BR-L5-0062",
+      "gold_orpha": "ORPHA:232",
+      "gold_name": "Doença Falciforme (HbSS)",
+      "predicted_ranked": [
+        "ORPHA:6739",
+        "ORPHA:85401",
+        "ORPHA:6729",
+        "ORPHA:15083"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 4.93696403503418,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Anemia falciforme progressiva com acometimento esplênico (ORPHA:6739) — Quadro clássico de crise álgica vaso-oclusivas, esplenomegalia e manejo com hidroxiureia.\n2. Síndrome torácica aguda recorrente em anemia falciforme (ORPHA:85401) — Histórico associado a crises graves por extravasamento sanguíneo no tórax/abdômen.\n3. Esplenomegalia crônica na doença falciforme (ORPHA:6729) — Manifestação co"
+    },
+    {
+      "case_id": "RB-BR-L5-0043",
+      "gold_orpha": "ORPHA:232",
+      "gold_name": "Doença Falciforme (HbSS)",
+      "predicted_ranked": [
+        "ORPHA:609",
+        "ORPHA:3514",
+        "ORPHA:8610",
+        "ORPHA:2739",
+        "ORPHA:16804"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.415457010269165,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Anemia Falciforme com Crisi Álgicas Vaso-oclusivas (ORPHA:609) — Quadro clínico clássico compatível, anemia crônica e esplenomegalia associadas ao tratamento contínuo de hidroxiureia.\n2. Síndrome Torácica Aguda em Crise por Células Falciformes (ORPHA:3514) — Paciente com HbSS há diagnóstico prévio de síndrome torácica aguda, apesar da manutenção do manejo medicamentoso instituído.\n3. Baixa resp"
+    },
+    {
+      "case_id": "RB-BR-L5-0044",
+      "gold_orpha": "ORPHA:232",
+      "gold_name": "Doença Falciforme (HbSS)",
+      "predicted_ranked": [
+        "ORPHA:609",
+        "ORPHA:87543",
+        "ORPHA:80215",
+        "ORPHA:9637",
+        "ORPHA:12803"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.375195741653442,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Anemia falciforme (ORPHA:609) — Principal causa de anemia crônica e crises álgicas esqueléticas com característica hemolítica.\n2. Doença hepatoesplenomegalia autoimune (ORPHA:87543) — Pode coexistir ou mimetizar anemias crônicas devido à sequestro esplênico/hepático de folato, além de ser fonte de complicações como trombose sinovial e êmbolos sépticos.\n3. Esquizemia falciforme (ORPHA:80215) — A"
+    },
+    {
+      "case_id": "RB-BR-L5-0085",
+      "gold_orpha": "ORPHA:83330",
+      "gold_name": "Atrofia Muscular Espinhal 5q",
+      "predicted_ranked": [
+        "ORPHA:20893",
+        "ORPHA:56471",
+        "ORPHA:89207",
+        "ORPHA:97244"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.009920597076416,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Ataxia espinocerebelar (ORPHA:20893) — Complementação incompleta da proteína SMN, levando a déficits cerebelares progressivos e dificuldade em coordenação motora global.\n2. Distonia atáxica (ORPHA:56471) — Disfunção do córtex motor e cerebelo com manifestações de rigidez e tônus alterado associadas à via MN/PMD.\n3. Hipotonia global progressiva (ORPHA:89207) — Retardo macro e desenvolvimento neu"
+    },
+    {
+      "case_id": "RB-BR-L5-0071",
+      "gold_orpha": "ORPHA:83330",
+      "gold_name": "Atrofia Muscular Espinhal 5q",
+      "predicted_ranked": [
+        "ORPHA:9836",
+        "ORPHA:89631",
+        "ORPHA:108392"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.35644793510437,
+      "finish_reason": "stop",
+      "raw_first_400": "Com base no quadro clínico e laboratorial apresentado, o TOP-5 diferencial é:\n\n1. Ataxia espinocerebelar (ORPHA:9836) — Quadro progressivo com padrão EMG neurogênico difuso compatível; atraso global de desenvolvimento grave desde o nascimento.\n2. Síndrome de ataxia cerebello-tronco encefálico infantil (OMIM:107540) — Hipotonia e hipotonia generalizada desde o início da vida, acompanhada por disfun"
+    },
+    {
+      "case_id": "RB-BR-L5-0079",
+      "gold_orpha": "ORPHA:83330",
+      "gold_name": "Atrofia Muscular Espinhal 5q",
+      "predicted_ranked": [
+        "ORPHA:20946",
+        "ORPHA:17034",
+        "ORPHA:947",
+        "ORPHA:586"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 8.534140348434448,
+      "finish_reason": "stop",
+      "raw_first_400": "Com base nos dados clínicos e laboratoriais apresentados (paciente lactente masculino, hipotonia global progressiva com perda de marcos motores centrais, padrão EMG neurogênico difuso e teste genético *SMN1*: deleção homozigótica do éxon 7), o diagnóstico principal é **Ataxia espinocerebelar grave** (*Né*).\n\nAqui estão os TOP-5 diferenciais em ordem de probabilidade:\n\n1. Síndrome de Ataxia Espinoc"
+    },
+    {
+      "case_id": "RB-BR-L5-0106",
+      "gold_orpha": "ORPHA:182090",
+      "gold_name": "Hipertensão Arterial Pulmonar Idiopática",
+      "predicted_ranked": [
+        "ORPHA:5726",
+        "ORPHA:17246",
+        "ORPHA:85930",
+        "ORPHA:21468",
+        "ORPHA:93850"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.823406934738159,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Endocardite infecciosa por *Schistosoma* sp. (ORPHA:5726) — Febre, oligúria e história epidemiológica; exames complementares não excluem fase aguda da esquistossomíase visceral/hepática com acometimento cardíaco secundário.\n2. Endocardite bacteriana (SINÓNIMO DE ENDOCARDITE SUBAGUDA OU AGUDA) (ORPHA:93850) — Febre de origem indeterminada, oligúria e sinais de má perfusão; biópsia endocardiológi"
+    },
+    {
+      "case_id": "RB-BR-L5-0089",
+      "gold_orpha": "ORPHA:182090",
+      "gold_name": "Hipertensão Arterial Pulmonar Idiopática",
+      "predicted_ranked": [
+        "ORPHA:735",
+        "ORPHA:605",
+        "ORPHA:817",
+        "ORPHA:5930",
+        "ORPHA:604"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.138556957244873,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Tromboembolismo de origem não cardíaca (ORPHA:735) — Edema venoso sistêmico associado à disfunção do VD e elevação da PASP inexplicada por outras causas pulmonares/cardíacas; possível componente tromboxênico na predisposição ao TEPE em contexto de aumento das pressões tricuspidais.\n2. Síndrome de hipertensão pulmonar secundária a cardiopatia reumática (ORPHA:605) — História de endocardite rubéo"
+    },
+    {
+      "case_id": "RB-BR-L5-0104",
+      "gold_orpha": "ORPHA:182090",
+      "gold_name": "Hipertensão Arterial Pulmonar Idiopática",
+      "predicted_ranked": [
+        "ORPHA:2394",
+        "ORPHA:1897",
+        "ORPHA:26045",
+        "ORPHA:1738",
+        "ORPHA:96028"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.639966011047363,
+      "finish_reason": "stop",
+      "raw_first_400": "TOP-5 diferencial em ordem de probabilidade:\n\n1. Hipertensão pulmonar por cardiopatia congênita subjacente (ORPHA:2394) — Histórico de HASPA objetivado na ECO e cateterismo direito com PAc x RVP > 40 mmHg e PASP estimada elevada; possível componente funcional/pós-insuficiência esquerda.\n2. Cor pulmonale secundário à hipertensão pulmonar pré-existente (ORPHA:1897) — Diagnóstico clínico de HASPA ass"
+    },
+    {
+      "case_id": "RB-BR-L5-0114",
+      "gold_orpha": "ORPHA:586",
+      "gold_name": "Fibrose Cística",
+      "predicted_ranked": [
+        "ORPHA:246",
+        "ORPHA:50419",
+        "ORPHA:69718",
+        "ORPHA:50236"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.137303113937378,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Fibrose ciliar (ORPHA:246) — Padrão clínico e laboratorial compatível com deficiência da cloreína-8; pneumonia recorrente grave, má absorção e má nutrição associadas à disfunção mucociliocinética global.\n2. Doença de recanalização brônquica (ORPHA:50419) — Manifestações respiratórias graves com falha em manter a função mucoeliminação; doença por acúmulo crônico de secreções espessas, levando à "
+    },
+    {
+      "case_id": "RB-BR-L5-0109",
+      "gold_orpha": "ORPHA:586",
+      "gold_name": "Fibrose Cística",
+      "predicted_ranked": [
+        "ORPHA:197",
+        "ORPHA:107",
+        "ORPHA:987",
+        "ORPHA:730",
+        "ORPHA:1498"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.305613040924072,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Mucoviscidose (ORPHA:197) — Padrão genético e clínica compatíveis com ausência/deficiência de transportador de cloreto no epitélio mucociliar; sepse por pneumonias recorrentes, má absorção pancreática e tosse crônica são marcadores clássicos.\n2. Fibrose ciliar (ORPHA:107) — Manifestações respiratórias graves com infecções oportunistas associadas a anormalidade do clearance de mucociliar; o test"
+    },
+    {
+      "case_id": "RB-BR-L5-0110",
+      "gold_orpha": "ORPHA:586",
+      "gold_name": "Fibrose Cística",
+      "predicted_ranked": [
+        "ORPHA:20389",
+        "ORPHA:183",
+        "ORPHA:652",
+        "ORPHA:127",
+        "ORPHA:680"
+      ],
+      "name_in_text": true,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.456749200820923,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Fibrose Cística (ORPHA:20389) — Quadro clássico de doença pulmonar crônica com recorrência de superinfecção por Pseudomonas e manejo com broncodilatador/mucolítico associado a antibióticos; tosse persistente, tosse produtiva matinal que piora à noite.\n2. Bronquiolite bacteriana recorrente (ORPHA:183) — Histórico de infecções graves como pneumonias lobares e bronquiolites por *Pseudomonas aerugi"
+    },
+    {
+      "case_id": "RB-BR-L5-0141",
+      "gold_orpha": "ORPHA:716",
+      "gold_name": "Fenilcetonúria (PKU)",
+      "predicted_ranked": [
+        "ORPHA:273",
+        "ORPHA:58420",
+        "ORPHA:8230",
+        "ORPHA:1679",
+        "ORPHA:197"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.424310207366943,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Fenilcetonúria (ORPHA:273) — Elevação do nível plasmático de Phe acima da meta terapêutica para idade e método de manejo atual\n2. Hiperfenilalaninemia associada a hiperfenilalanina urinária (> 800 mg/kg·dia na urina) (ORPHA:1679) — Nível elevado de Phe em relação aos valores de referência pediátricos, apesar da dieta restrita e fórmula metabólica\n3. Fenilcetonúria progressiva por mutação no gen"
+    },
+    {
+      "case_id": "RB-BR-L5-0147",
+      "gold_orpha": "ORPHA:716",
+      "gold_name": "Fenilcetonúria (PKU)",
+      "predicted_ranked": [
+        "ORPHA:3297",
+        "ORPHA:8645",
+        "ORPHA:19078",
+        "ORPHA:26533"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 3.6459920406341553,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Fenilcetonúria (ORPHA:3297) — Níveis elevados de Phe apesar da ingestão controlada; diagnóstico reavaliação do metabolismo dos aminoácidos aromáticos.\n2. Hiperfenilalaninemia (ORPHA:8645) — Suspeita por níveis descontrolados de um preenchedor dietético ou dificuldade na metabolização hepática.\n3. Síndrome da hiperfenilalanina plasmática (ORPHA:19078) — Risco em manejo nutricional inadequado apó"
+    },
+    {
+      "case_id": "RB-BR-L5-0130",
+      "gold_orpha": "ORPHA:716",
+      "gold_name": "Fenilcetonúria (PKU)",
+      "predicted_ranked": [
+        "ORPHA:507",
+        "ORPHA:802",
+        "ORPHA:6023",
+        "ORPHA:1639",
+        "ORPHA:791"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 4.196822166442871,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Fenilalaninaemia (ORPHA:507) — Hiperfenilalaninemia confirmada por triagem e teste de carreador diagnóstico laboratorial\n2. Aminoaciduria a bilirrubina quinona associada à fenilalaninúria com hiperfenilalaninemia - ORPHA:1639 — Diagnóstico diferencial metabólico grave devido ao quadro clínico clássico\n3. Fenilbiotetras-quinolactona oxidase (ORPHA:802) — Considerar por manejo de catabolismo da f"
+    },
+    {
+      "case_id": "RB-BR-L5-0155",
+      "gold_orpha": "ORPHA:905",
+      "gold_name": "Doença de Wilson",
+      "predicted_ranked": [
+        "ORPHA:619",
+        "ORPHA:305",
+        "ORPHA:6419",
+        "ORPHA:28305",
+        "ORPHA:1697"
+      ],
+      "name_in_text": true,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 4.52792501449585,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Doença de Wilson (ORPHA:619) — Déficit de transporte do cobre para a urina e hepatotoxicidade clássica, confirmada por metalograma hepático e confirmação molecular no gene ATP7B.\n2. Acúmulo de cobre em sítios neurônicos (ORPHA:305) — Manifestações neurológicas e oculares típicas com falência enzimática na homeostase do cobre.\n3. Hepatoculínio excessivo (ORPHA:6419) — Forma atípica da doença de "
+    },
+    {
+      "case_id": "RB-BR-L5-0150",
+      "gold_orpha": "ORPHA:905",
+      "gold_name": "Doença de Wilson",
+      "predicted_ranked": [
+        "ORPHA:986",
+        "ORPHA:893"
+      ],
+      "name_in_text": true,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.917595148086548,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Doença de Wilson (ORPHA:986) — Hemochelacion e metalograma positivo indicam defeito no processo hepático-entérico de excreção do cobre, confirmando a deficiência de ATP7B levando ao acúmulo sistêmico de cobre nos órgãos com maior sequestro.\n2. Coagulopatia associada à doença de Wilson (ORPHA:893) — Eleva o risco de hemorragias digestivas por defeito na ligação do ceruloplasmina aos fatores V, V"
+    },
+    {
+      "case_id": "RB-BR-L5-0165",
+      "gold_orpha": "ORPHA:905",
+      "gold_name": "Doença de Wilson",
+      "predicted_ranked": [
+        "ORPHA:3386",
+        "ORPHA:9437",
+        "ORPHA:62589",
+        "ORPHA:1568",
+        "ORPHA:1263"
+      ],
+      "name_in_text": true,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.237754821777344,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Alença de Wilson (ORPHA:3386) — Acúmulo de cobre nos órgãos como fígado, cérebro e olhos; baixa ceruloplasmina e excesso urinário são clássicos. Sangramento por ímã positivo é altamente sugestivo.\n2. Hepatocelular hepático associado a doença de Wilson (ORPHA:9437) — A sintomatologia clínica atual (hepatomegalia, transaminases elevadas, tremor, alterações comportamentais) e o quadro laboratorial"
+    },
+    {
+      "case_id": "RB-BR-L5-0181",
+      "gold_orpha": "ORPHA:580",
+      "gold_name": "Mucopolissacaridose Tipo II (Hunter)",
+      "predicted_ranked": [
+        "ORPHA:64907"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.3890159130096436,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome de Ids (ORPHA:64907) — Deficiência de endoinduriliduronato-2-sulfatase, causando o fenótipo clássico com acúmulo nos compartimentos linfoide e articular, progressão desde a primeira infância associada à idade da falha terapêutica.\n2. Síndrome de Ids (ORPHA:64907) — Formação característica por mucopolissacarídeos em órgãos linfoides e articulações; o quadro clínico acompanha os achados "
+    },
+    {
+      "case_id": "RB-BR-L5-0169",
+      "gold_orpha": "ORPHA:580",
+      "gold_name": "Mucopolissacaridose Tipo II (Hunter)",
+      "predicted_ranked": [
+        "ORPHA:4563",
+        "ORPHA:5390",
+        "ORPHA:5980",
+        "ORPHA:64715",
+        "ORPHA:124765"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.684925079345703,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome da Mucopolissacaridose tipo 2 (ORPHA:4563) — Déficit enzimático na IDURPS/IDS, levando ao acúmulo de sulfatossamina nos tecidos e manifestações multissistêmicas compatíveis com a descrita (retardamento global, hipotonia progressiva, fácies grosseira).\n2. Síndrome da Mucopolissacaridose tipo 1B (ORPHA:5390) — Deficiência de IDURPS/IDURS; o quadro clínico é muito semelhante ao descrito c"
+    },
+    {
+      "case_id": "RB-BR-L5-0171",
+      "gold_orpha": "ORPHA:580",
+      "gold_name": "Mucopolissacaridose Tipo II (Hunter)",
+      "predicted_ranked": [
+        "ORPHA:374",
+        "ORPHA:18657",
+        "ORPHA:29401"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 3.7375481128692627,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome da depleção de neuraminidase (ORPHA:374) — Déficit enzimático confirmado na IDURSOSE e diagnóstico clínico compatível com o quadro apresentado, associado à alteração laboratorial específica e progressão do déficit neurológico.\n2. Iduronato-2-sulfatase deficiency type 1B (ORPHA:18657) — Deficiência enzimática confirmada no teste de função ectoII ligado ao gene IDS, levando aos fenótipos"
+    },
+    {
+      "case_id": "RB-BR-L5-0195",
+      "gold_orpha": "ORPHA:583",
+      "gold_name": "Mucopolissacaridose Tipo VI (Maroteaux-Lamy)",
+      "predicted_ranked": [
+        "ORPHA:2084",
+        "ORPHA:65317",
+        "ORPHA:29840"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.0771567821502686,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Mucopolissacaridose tipo IV A/B (ORPHA:2084) — Acumulação anormal de sulfátides em múltiplos órgãos, com quadro clínico compatível e tratamento instituído.\n2. Síndrome da trindade azul-cinza (ORPHA:65317) — Triad de opacidade corneana, baixa estatura desproporcionada e cardiopatia grave; diagnóstico sugerido pela deficiência global de sulfatase B.\n3. Mucopolissacaridose tipo VI A/B (ORPHA:29840"
+    },
+    {
+      "case_id": "RB-BR-L5-0206",
+      "gold_orpha": "ORPHA:583",
+      "gold_name": "Mucopolissacaridose Tipo VI (Maroteaux-Lamy)",
+      "predicted_ranked": [
+        "ORPHA:90432",
+        "ORPHA:73091",
+        "ORPHA:12698"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.148439884185791,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome do \"cabeça grande e corpo pequeno\" com comprometimento múltiplo dos sistemas (ORPHA:90432) — Característica por dismorfias faciais, baixa estatura desproporcionada e múltiplas manifestações orgânicas associadas a defeitos de sulfatase B.\n2. Síndrome do \"pé encaixado\" com comprometimento esquelético/cognitivo (ORPHA:73091) — Apresentação clássica de MPS VI, frequentemente acompanhada po"
+    },
+    {
+      "case_id": "RB-BR-L5-0189",
+      "gold_orpha": "ORPHA:583",
+      "gold_name": "Mucopolissacaridose Tipo VI (Maroteaux-Lamy)",
+      "predicted_ranked": [
+        "ORPHA:5098",
+        "ORPHA:16734",
+        "ORPHA:52089",
+        "ORPHA:2091",
+        "ORPHA:43687"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.2334489822387695,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome do \"corpo grande\" associada à acidúria múltipla (ORPHA:5098) — Quadro clínico com fácies grosseira e hipotonia, características de desmielinização/acúmulo mucopolissacarídeos no SNC.\n2. Mucopolisacaridose IVB (ORPHA:16734) — Síntese enzimática incompleta levando ao acúmulo ectossacaroidos em múltiplos órgãos e sistema nervoso central, com características esqueléticas e faciais proemine"
+    },
+    {
+      "case_id": "RB-BR-L5-0226",
+      "gold_orpha": "ORPHA:579",
+      "gold_name": "Mucopolissacaridose Tipo I (Hurler)",
+      "predicted_ranked": [],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 5.139121770858765,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome de mucopolissacaridose tipo I (MPS) - gene IDUA — Déficit enzimático na alfa-L-iduronidase (já confirmado pelo teste funcional, mas reavaliação da gravidade ou progressão)\n2. Mucopolisacaridose congênita (MPS-) - genes idurnase/IVDIS — Acúmulo de glicosaminoglicanos lisossômicos com envolvimento multissistêmico e diagnóstico prévio / confirmação laboratorial incompleta\n3. Síndrome do “"
+    },
+    {
+      "case_id": "RB-BR-L5-0227",
+      "gold_orpha": "ORPHA:579",
+      "gold_name": "Mucopolissacaridose Tipo I (Hurler)",
+      "predicted_ranked": [
+        "ORPHA:485",
+        "ORPHA:541",
+        "ORPHA:596",
+        "ORPHA:395",
+        "ORPHA:430"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 7.733382940292358,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Mucopolissacaridose I tipo 2 (ORPHA:485) — Acúmulo patológico de glicosaminoglicanos não clivados no lisossomo, afetando múltiplos sistemas orgânicos com padrão grave e progressivo, levando a características faciais grosseiras, hepatosplenomegalia, catarata em fase avançada (opacidade corneana), atraso global do desenvolvimento.\n2. Mucopolissacaridose I tipo 3 (ORPHA:541) — Deficiência de alfa-"
+    },
+    {
+      "case_id": "RB-BR-L5-0220",
+      "gold_orpha": "ORPHA:579",
+      "gold_name": "Mucopolissacaridose Tipo I (Hurler)",
+      "predicted_ranked": [
+        "ORPHA:506",
+        "ORPHA:697",
+        "ORPHA:429",
+        "ORPHA:307",
+        "ORPHA:1348"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.804933786392212,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome de Mucopolissacarinduronaiónica (ORPHA:506) — Déficit em alfa-L-iduronidase, causa clássica da MPS I forma grave/Hurler; o quadro clínico sugere acúmulo viscoepitelial nos órgãos e tecidos.\n2. Síndrome de Mucopolissacarinduronaiónica (ORPHA:697) — Outra forma de doenças lisossomais com defeito em alfa-L-iduronidase, manifestando progressão dos fenótipos clássicos da Hurler; o teste l"
+    },
+    {
+      "case_id": "RB-BR-L5-0229",
+      "gold_orpha": "ORPHA:183660",
+      "gold_name": "Imunodeficiência Combinada Grave (SCID)",
+      "predicted_ranked": [],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 3.508894920349121,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Aglutinação de linfócitos pelo L-Citometria com pan B e CD4+ negativo (SCID) — Compatível com imunodeficiência grave, múltiplos defeitos de linhagem linfoide\n2. Defeito na reconstituição T celular por rotas exógenas (TCR complexo não funcional) (IL-7Rα⁻/γᶜ-) — Linfopenia profunda e infecções graves recorrentes desde 2 meses\n3. SCID com defeitos em TCR alfa ou beta cadeia (SCID multilineage defe"
+    },
+    {
+      "case_id": "RB-BR-L5-0235",
+      "gold_orpha": "ORPHA:183660",
+      "gold_name": "Imunodeficiência Combinada Grave (SCID)",
+      "predicted_ranked": [
+        "ORPHA:76128",
+        "ORPHA:50769",
+        "ORPHA:2786",
+        "ORPHA:75689"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.397723913192749,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Síndrome Combinada Imunodeficiência 2 (SCID) com deficiência em células B e T (ORPHA:75689) — Déficit grave em linfócitos virais CD3+ e plasmócitos de memória; confirma o quadro clínico clássico após imunobiologia incompleta.\n2. Agammaglobulinemia Combinada (X连锁 agamaglobulinemia) (OMIM:104900) — Ausência ou queda profunda de subtipos específicos de anticorpos, impactando vacinação e infecções "
+    },
+    {
+      "case_id": "RB-BR-L5-0247",
+      "gold_orpha": "ORPHA:183660",
+      "gold_name": "Imunodeficiência Combinada Grave (SCID)",
+      "predicted_ranked": [
+        "ORPHA:275",
+        "ORPHA:186",
+        "ORPHA:127",
+        "ORPHA:36508",
+        "ORPHA:76328"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.231608152389526,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Aglutinação transfusional grave por *Pneumocystis jirovecii* (ORPHA:275) — Imunodeficiência profunda, múltiplas infecções oportunistas e Linfopenia severa (<300/mm³). Falha na imunização rotineira em ambiente não controlado.\n2. Tuberculose disseminada com superinfecção por *Pneumocystis* (ORPHA:186) — Imunodeficiência profunda, recorrência de pneumonia e candidíase oral grave. Linfopenia extrem"
+    },
+    {
+      "case_id": "RB-BR-L5-0265",
+      "gold_orpha": "ORPHA:70",
+      "gold_name": "Atrofia Muscular Espinhal Tipo 1 (Werdnig-Hoffmann)",
+      "predicted_ranked": [
+        "ORPHA:2583",
+        "ORPHA:391",
+        "ORPHA:2574",
+        "ORPHA:1295",
+        "ORPHA:3460"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 6.672884941101074,
+      "finish_reason": "stop",
+      "raw_first_400": "1. Ataxia espinocerebelar (ORPHA:2583) — Quadro clínico sugestivo de ataxia progressiva, hipotonia e disartria; teste de Milestones não alcançados desde o nascimento; Eletrodiagnósticos com padrão neurogênico compatível com atrofia multinucleada de neurônios motores.\n2. Ataxia espinocerebelar (ORPHA:391) — Quadro clínico progressivo de ataxia, hipotonia e dificuldade de sucção/deglutição; Eletromi"
+    },
+    {
+      "case_id": "RB-BR-L5-0252",
+      "gold_orpha": "ORPHA:70",
+      "gold_name": "Atrofia Muscular Espinhal Tipo 1 (Werdnig-Hoffmann)",
+      "predicted_ranked": [
+        "ORPHA:27469",
+        "ORPHA:37948",
+        "ORPHA:139782",
+        "ORPHA:46098"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 8.717506885528564,
+      "finish_reason": "stop",
+      "raw_first_400": "Com base no quadro clínico apresentado (lactente feminino de 5 meses, hipotonia profunda desde o nascimento, fraqueza generalizada, dificuldade de sucção e deglutição, insuficiência respiratória, EMG: padrão Neurogênico, SMN1: deleção homozigótica), o diagnóstico principal já foi estabelecido como **AME tipo 1** (Associated with Spinal Muscular Atrophy).\n\nNo entanto, considerando a necessidade de "
+    },
+    {
+      "case_id": "RB-BR-L5-0257",
+      "gold_orpha": "ORPHA:70",
+      "gold_name": "Atrofia Muscular Espinhal Tipo 1 (Werdnig-Hoffmann)",
+      "predicted_ranked": [
+        "ORPHA:26809",
+        "ORPHA:96185",
+        "ORPHA:1986"
+      ],
+      "name_in_text": false,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": false,
+      "latency_s": 4.904926061630249,
+      "finish_reason": "stop",
+      "raw_first_400": "TOP-5 diferencial em ordem de probabilidade:\n1. Ataxia espinocleares (ORPHA:26809) — Complementar ao quadro clínico e eletrofisiológico; progressão da ataxia, perda dos reflexos pilo-plantares.\n2. Síndrome de neurônio motor superior (OMIM:304750) — Quadro de hipotonia grave com comprometimento generalizado do tronco cerebral e núcleos motores.\n3. Ataxia cerebelar global (ORPHA:96185) — Deterioraçã"
+    }
+  ]
+}

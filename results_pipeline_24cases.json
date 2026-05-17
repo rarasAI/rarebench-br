@@ -1,0 +1,897 @@
+{
+  "summary": {
+    "pipeline": "araras-hpo-brasil + araras-gemma4-e4b Q4_K_M (llama.cpp Metal) + canonical ORPHA lookup + PCDT overlay",
+    "benchmark_layer": "L5_realsus (DataSUS APAC-anchored)",
+    "n_cases": 24,
+    "n_valid": 24,
+    "track_a_diagnosis": {
+      "raw_name_match_rate": 0.25,
+      "pipeline_strict_R1": 0.875,
+      "pipeline_strict_R3": 0.875
+    },
+    "track_b_sus_conduta": {
+      "n_evaluable": 22,
+      "n_correct": 22,
+      "pcdt_correct_rate": 1.0
+    },
+    "latency_s": {
+      "hpo_p50": 0.07,
+      "gemma_p50": 7.26,
+      "total_p50": 7.31
+    },
+    "compare_to_baseline": "Earlier non-pipeline run on 36 cases: R@1 = 58.3%, R@3 = 75% (name-match scoring)"
+  },
+  "results": [
+    {
+      "case_id": "RB-BR-L5-0029",
+      "gold_orpha": "ORPHA:802",
+      "gold_name": "Esclerose Múltipla",
+      "expected_drugs_pcdt": [
+        "betainterferona-1a",
+        "betainterferona-1b",
+        "acetato-de-glatirâmer",
+        "natalizumabe",
+        "fingolimode",
+        "teriflunomida",
+        "fumarato-de-dimetila",
+        "alentuzumabe",
+        "ocrelizumabe"
+      ],
+      "stage1_hpo_extracted": 2,
+      "stage1_hpo_codes": [
+        "HP:0000651",
+        "HP:0012748"
+      ],
+      "stage3_top1_orpha": "ORPHA:802",
+      "stage3_top3_orphas": [
+        "ORPHA:802",
+        "ORPHA:71211"
+      ],
+      "stage3_top1_drugs": [
+        "betainterferona-1a/1b",
+        "acetato de glatirâmer",
+        "natalizumabe",
+        "fingolimode",
+        "ocrelizumabe"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'esclerose-multipla' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: betainterferona-1a/1b, acetato de glatirâmer, natalizumabe.",
+      "match_raw_name": true,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 6.88,
+        "gemma": 8.17,
+        "orpha_lookup": 0.001,
+        "total": 15.05
+      },
+      "raw_first_500": "Com base nos dados clínicos apresentados, seguem os TOP-5 diferenciais para o caso de quadro neurológico com surtos remittentes-recorrentes, envolvimento óptico e sinais compatíveis com Esclerose Múltipla (EM), sendo a Neuromielite Óptica Refratária um diferencial importante no contexto atual:\n\n1. Esclerose Múltipla — Quadro clínico clássico de esclerite/neuronite óptica recorrente com curso multifocal e longitudinal na RM, acompanhado de déficits sensitivos-motores (parestesias) e oftalomoplegi"
+    },
+    {
+      "case_id": "RB-BR-L5-0036",
+      "gold_orpha": "ORPHA:802",
+      "gold_name": "Esclerose Múltipla",
+      "expected_drugs_pcdt": [
+        "betainterferona-1a",
+        "betainterferona-1b",
+        "acetato-de-glatirâmer",
+        "natalizumabe",
+        "fingolimode",
+        "teriflunomida",
+        "fumarato-de-dimetila",
+        "alentuzumabe",
+        "ocrelizumabe"
+      ],
+      "stage1_hpo_extracted": 2,
+      "stage1_hpo_codes": [
+        "HP:0000651",
+        "HP:0012748"
+      ],
+      "stage3_top1_orpha": "ORPHA:802",
+      "stage3_top3_orphas": [
+        "ORPHA:802"
+      ],
+      "stage3_top1_drugs": [
+        "betainterferona-1a/1b",
+        "acetato de glatirâmer",
+        "natalizumabe",
+        "fingolimode",
+        "ocrelizumabe"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'esclerose-multipla' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: betainterferona-1a/1b, acetato de glatirâmer, natalizumabe.",
+      "match_raw_name": true,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.06,
+        "gemma": 7.46,
+        "orpha_lookup": 0.001,
+        "total": 7.52
+      },
+      "raw_first_500": "Olá! Como copiloto clínico especializado em doenças raras, analisei o quadro do seu paciente. Com base nos sintomas clínicos e no exame de neuroimagem/LCR, o diagnóstico mais provável está no topo da lista.\n\nAqui estão os 5 principais diferenciais, ordenados por probabilidade:\n\n1. **Esclerose Múltipla** — Quadro clássico com déficits ópticos recorrentes (neurite óptica), lesões desmielinizantes em padrão periventricular/desmielização medular e bandas oligoclonais no LCR que confirmam atividade i"
+    },
+    {
+      "case_id": "RB-BR-L5-0066",
+      "gold_orpha": "ORPHA:232",
+      "gold_name": "Doença Falciforme (HbSS)",
+      "expected_drugs_pcdt": [
+        "hidroxiureia",
+        "deferasirox",
+        "deferiprona",
+        "L-glutamina"
+      ],
+      "stage1_hpo_extracted": 1,
+      "stage1_hpo_codes": [
+        "HP:0001744"
+      ],
+      "stage3_top1_orpha": "ORPHA:232",
+      "stage3_top3_orphas": [
+        "ORPHA:232"
+      ],
+      "stage3_top1_drugs": [
+        "hidroxiureia",
+        "deferasirox",
+        "L-glutamina"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'doenca-falciforme' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: hidroxiureia, deferasirox, L-glutamina.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.08,
+        "gemma": 7.67,
+        "orpha_lookup": 0.0,
+        "total": 7.75
+      },
+      "raw_first_500": "Olá! Como copiloto clínico de doenças raras, analisei o caso do jovem com Doença Falciforme HbSS. Com base nos dados clínicos e no histórico, seguem os 5 diagnósticos diferenciais mais prováveis na ordem de probabilidade:\n\n1. Síndrome de sobrecarga volêmica (HFpEF) — Pós-crise álgica Vaso-oclusiva recorrente associada à anemia falciforme pode levar a síndrome de descompensação hemodinâmica crônica e diagnóstico de insuficiência cardíaca com padrões de enchimento preservados (FEVE), mesmo em está"
+    },
+    {
+      "case_id": "RB-BR-L5-0056",
+      "gold_orpha": "ORPHA:232",
+      "gold_name": "Doença Falciforme (HbSS)",
+      "expected_drugs_pcdt": [
+        "hidroxiureia",
+        "deferasirox",
+        "deferiprona",
+        "L-glutamina"
+      ],
+      "stage1_hpo_extracted": 1,
+      "stage1_hpo_codes": [
+        "HP:0001744"
+      ],
+      "stage3_top1_orpha": "ORPHA:232",
+      "stage3_top3_orphas": [
+        "ORPHA:232"
+      ],
+      "stage3_top1_drugs": [
+        "hidroxiureia",
+        "deferasirox",
+        "L-glutamina"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'doenca-falciforme' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: hidroxiureia, deferasirox, L-glutamina.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.07,
+        "gemma": 7.73,
+        "orpha_lookup": 0.0,
+        "total": 7.79
+      },
+      "raw_first_500": "Olá! Sou ARARÁS, seu copiloto clínico de doenças raras. Com base no quadro clínico apresentado — paciente jovem com anemia falciforme e história de crises álgicas vaso-oclusivas recorrentes, esplenomegalia associada ao uso de hidroxiureia —, o diferencial principal deve considerar complicações crônicas da doença falciada e condições que requerem manejo hematológico especializado.\n\nAqui estão os TOP-5 diferenciais em ordem de probabilidade clínica:\n\n1. **Síndrome do baço hipesplenizado** — Pacien"
+    },
+    {
+      "case_id": "RB-BR-L5-0082",
+      "gold_orpha": "ORPHA:83330",
+      "gold_name": "Atrofia Muscular Espinhal 5q",
+      "expected_drugs_pcdt": [
+        "nusinersena",
+        "onasemnogeno-abeparvoveque",
+        "risdiplam"
+      ],
+      "stage1_hpo_extracted": 0,
+      "stage1_hpo_codes": [],
+      "stage3_top1_orpha": null,
+      "stage3_top3_orphas": [],
+      "stage3_top1_drugs": null,
+      "stage4_sus_conduta": null,
+      "match_raw_name": false,
+      "match_pipeline_top1": false,
+      "match_pipeline_top3": false,
+      "match_track_b": null,
+      "timings_s": {
+        "hpo": 0.08,
+        "gemma": 5.63,
+        "orpha_lookup": 0.0,
+        "total": 5.71
+      },
+      "raw_first_500": "## TOP-5 Diferencial (Baseado em histórico clínico e tratamento atual)\n\n1. **Ataxia espinocerebelar** — Quadro progressivo, início há 4 anos da marcha; confirma o diagnóstico com terapia modificadora do curso (nuquinazana/nusinersena).\n2. **Doença de progressão juvenil da ataxia (SCA-type)** — Progressão marcada após os marcos motores esperados e uso de tratamentos específicos para sinucleína, embora a resposta parcial sugira melhor prognóstico atual com manutenção dos fármacos.\n3. **Ataxia espi"
+    },
+    {
+      "case_id": "RB-BR-L5-0084",
+      "gold_orpha": "ORPHA:83330",
+      "gold_name": "Atrofia Muscular Espinhal 5q",
+      "expected_drugs_pcdt": [
+        "nusinersena",
+        "onasemnogeno-abeparvoveque",
+        "risdiplam"
+      ],
+      "stage1_hpo_extracted": 2,
+      "stage1_hpo_codes": [
+        "HP:0010022",
+        "HP:0003445"
+      ],
+      "stage3_top1_orpha": "ORPHA:70",
+      "stage3_top3_orphas": [
+        "ORPHA:70"
+      ],
+      "stage3_top1_drugs": [
+        "nusinersena",
+        "onasemnogeno-abeparvoveque"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'atrofia-muscular-espinhal-5q' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: nusinersena, onasemnogeno-abeparvoveque.",
+      "match_raw_name": false,
+      "match_pipeline_top1": false,
+      "match_pipeline_top3": false,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.1,
+        "gemma": 10.72,
+        "orpha_lookup": 0.001,
+        "total": 10.82
+      },
+      "raw_first_500": "Olá! Com base nos dados clínicos e laboratoriais apresentados, o quadro é altamente sugestivo de **Ataxia espinocerebelar congênita** no gene *SMN1***.\n\nAqui está meu TOP-5 diferencial em ordem decrescente de probabilidade:\n\n1. **Síndrome da Ataxia Espinocerebelar (SCA) tipo 1** — Evidência clássica de EMG com padrão desmielinizante/inferior ao tronco e membros, acompanhado por história de hipotonia progressiva desde o nascimento e ausência de sustentação cefálica aos marcos motores. O teste gen"
+    },
+    {
+      "case_id": "RB-BR-L5-0106",
+      "gold_orpha": "ORPHA:182090",
+      "gold_name": "Hipertensão Arterial Pulmonar Idiopática",
+      "expected_drugs_pcdt": [
+        "sildenafila",
+        "bosentana",
+        "ambrisentana",
+        "macitentana",
+        "iloprosta",
+        "treprostinila",
+        "selexipague"
+      ],
+      "stage1_hpo_extracted": 4,
+      "stage1_hpo_codes": [
+        "HP:0001648",
+        "HP:0002094",
+        "HP:0100665",
+        "HP:0001279"
+      ],
+      "stage3_top1_orpha": "ORPHA:182090",
+      "stage3_top3_orphas": [
+        "ORPHA:182090"
+      ],
+      "stage3_top1_drugs": [
+        "sildenafila",
+        "bosentana",
+        "ambrisentana"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'hipertensao-pulmonar' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: sildenafila, bosentana, ambrisentana.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.08,
+        "gemma": 7.02,
+        "orpha_lookup": 0.001,
+        "total": 7.1
+      },
+      "raw_first_500": "Com base nos dados clínicos apresentados, o TOP-5 diferencial para a investigação de *cor pulmonale* em paciente com quadro sugestivo e histórico epidemiológico aparente é:\n\n1. **Endocardite infectante** — A febre subaguda/crônica (sugerida pela menção à área endêmica) associada a sinais diretos de hipertensão direita (HAP idiopática, edema MMII, dispneia) exige exclusão infecciosa como causa primária do padrão hemodinâmico.\n2. **Trombembolismo pulmonar crônico** — É etiologia comum para HAP e p"
+    },
+    {
+      "case_id": "RB-BR-L5-0094",
+      "gold_orpha": "ORPHA:182090",
+      "gold_name": "Hipertensão Arterial Pulmonar Idiopática",
+      "expected_drugs_pcdt": [
+        "sildenafila",
+        "bosentana",
+        "ambrisentana",
+        "macitentana",
+        "iloprosta",
+        "treprostinila",
+        "selexipague"
+      ],
+      "stage1_hpo_extracted": 2,
+      "stage1_hpo_codes": [
+        "HP:0005133",
+        "HP:0100660"
+      ],
+      "stage3_top1_orpha": "ORPHA:182090",
+      "stage3_top3_orphas": [
+        "ORPHA:182090"
+      ],
+      "stage3_top1_drugs": [
+        "sildenafila",
+        "bosentana",
+        "ambrisentana"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'hipertensao-pulmonar' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: sildenafila, bosentana, ambrisentana.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.1,
+        "gemma": 8.31,
+        "orpha_lookup": 0.0,
+        "total": 8.41
+      },
+      "raw_first_500": "Olá! Como copiloto clínico de doenças raras, analisei o caso apresentado. A combinação de sintomas e achados ecocardiográficos sugere um quadro complexo de hipertensão pulmonar secundária a origem funcional direita ou quadros mistos.\n\nCom base no fenótipo principal (VD dilatado) associado aos outros clínicos e exames complementares, segue meu TOP-5 diferencial em ordem de probabilidade:\n\n1. **Hipertensão arterial pulmonar secundária à Síndrome da Pressão de Águas Pericardiais** — Quadro com sobr"
+    },
+    {
+      "case_id": "RB-BR-L5-0113",
+      "gold_orpha": "ORPHA:586",
+      "gold_name": "Fibrose Cística",
+      "expected_drugs_pcdt": [
+        "dornase-alfa",
+        "tobramicina-inalatória",
+        "ivacaftor",
+        "lumacaftor-ivacaftor",
+        "tezacaftor-ivacaftor",
+        "elexacaftor-tezacaftor-ivacaftor"
+      ],
+      "stage1_hpo_extracted": 2,
+      "stage1_hpo_codes": [
+        "HP:0006532",
+        "HP:0001738"
+      ],
+      "stage3_top1_orpha": "ORPHA:586",
+      "stage3_top3_orphas": [
+        "ORPHA:586"
+      ],
+      "stage3_top1_drugs": [
+        "dornase-alfa",
+        "tobramicina inalatória",
+        "ivacaftor",
+        "lumacaftor-ivacaftor"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'fibrose-cistica' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: dornase-alfa, tobramicina inalatória, ivacaftor.",
+      "match_raw_name": true,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.08,
+        "gemma": 7.15,
+        "orpha_lookup": 0.0,
+        "total": 7.24
+      },
+      "raw_first_500": "ARARÁS, copiloto clínico especializado em doenças raras. Com base nos dados clínicos apresentados sobre a criança feminina de 40 anos da PR e o diagnóstico confirmado de Síndrome do mutante CFTR F508del homozigoto, apresento o TOP-5 diferencial com base na evolução típica dessa doença:\n\n1. **Fibrose Cística** — Quadro clínico clássico associado ao gene CFTR (sintomas digestivos graves como pancreatodigestivo e pulmonares recorrentes) e confirmação laboratorial por teste do suor ($\\text{Cloreto}$"
+    },
+    {
+      "case_id": "RB-BR-L5-0124",
+      "gold_orpha": "ORPHA:586",
+      "gold_name": "Fibrose Cística",
+      "expected_drugs_pcdt": [
+        "dornase-alfa",
+        "tobramicina-inalatória",
+        "ivacaftor",
+        "lumacaftor-ivacaftor",
+        "tezacaftor-ivacaftor",
+        "elexacaftor-tezacaftor-ivacaftor"
+      ],
+      "stage1_hpo_extracted": 2,
+      "stage1_hpo_codes": [
+        "HP:0006532",
+        "HP:0001738"
+      ],
+      "stage3_top1_orpha": "ORPHA:586",
+      "stage3_top3_orphas": [
+        "ORPHA:586"
+      ],
+      "stage3_top1_drugs": [
+        "dornase-alfa",
+        "tobramicina inalatória",
+        "ivacaftor",
+        "lumacaftor-ivacaftor"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'fibrose-cistica' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: dornase-alfa, tobramicina inalatória, ivacaftor.",
+      "match_raw_name": true,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 12.83,
+        "orpha_lookup": 0.0,
+        "total": 12.89
+      },
+      "raw_first_500": "Olá! Como copiloto clínico focado em doenças raras, analisei o caso apresentado. O quadro clínico é bastante sugestivo e requer um diferencial cuidadoso com base no conjunto de achados laboratoriais e clínicos.\n\nConsiderando a idade do paciente (20 anos), sexo masculino, diagnóstico confirmado de fibrose cística por teste do suor elevado ($\\text{Cloreto suor} > 60 \\text{ mEq/L}$) e mutação **F508del** no gene CFTR, o quadro é altamente compatível com Doença Fibrocística.\n\nApesar da confirmação l"
+    },
+    {
+      "case_id": "RB-BR-L5-0143",
+      "gold_orpha": "ORPHA:716",
+      "gold_name": "Fenilcetonúria (PKU)",
+      "expected_drugs_pcdt": [
+        "formula-metabolica-isenta-de-fenilalanina",
+        "sapropterina (em casos selecionados)"
+      ],
+      "stage1_hpo_extracted": 0,
+      "stage1_hpo_codes": [],
+      "stage3_top1_orpha": "ORPHA:716",
+      "stage3_top3_orphas": [
+        "ORPHA:716"
+      ],
+      "stage3_top1_drugs": [
+        "fórmula metabólica isenta de fenilalanina"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'fenilcetonuria' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: fórmula metabólica isenta de fenilalanina.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.06,
+        "gemma": 6.44,
+        "orpha_lookup": 0.0,
+        "total": 6.5
+      },
+      "raw_first_500": "Olá! Sou seu copiloto clínico para doenças raras. Com os dados apresentados sobre o paciente de 13 anos com PKU clássica, seguem os **TOP-5 diferenciais** a serem considerados clinicamente:\n\n1. **Níveis plasmáticos de Phe elevados (4.5 mg/dL)** — Indica controle inadequado da dieta e necessidade de reajuste terapêutico rigoroso para prevenir neurotoxicidade pelo fenilalanina livre.\n2. **Função hepática adequada** — Essencial saber que o paciente está recebendo terapia de desfeixo com aminoácidos"
+    },
+    {
+      "case_id": "RB-BR-L5-0133",
+      "gold_orpha": "ORPHA:716",
+      "gold_name": "Fenilcetonúria (PKU)",
+      "expected_drugs_pcdt": [
+        "formula-metabolica-isenta-de-fenilalanina",
+        "sapropterina (em casos selecionados)"
+      ],
+      "stage1_hpo_extracted": 0,
+      "stage1_hpo_codes": [],
+      "stage3_top1_orpha": "ORPHA:716",
+      "stage3_top3_orphas": [
+        "ORPHA:716"
+      ],
+      "stage3_top1_drugs": [
+        "fórmula metabólica isenta de fenilalanina",
+        "sapropterina (casos selecionados)"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'fenilcetonuria' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: fórmula metabólica isenta de fenilalanina, sapropterina (casos selecionados).",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 2.29,
+        "orpha_lookup": 0.0,
+        "total": 2.34
+      },
+      "raw_first_500": "1. Fenilcetonúria — Elevação dos níveis plasmáticos de Fenilalanina e associados (Fenilcetonúria) são patognomônicos do PKU, mesmo com o uso da fórmula metabólica. 2. Fenilalanina - Manutenção <6 mg/dL após introdução alimentar inadequada — O nível ainda está acima do alvo (<10 mg/dL recomendado pela maioria dos consensos pediátricos), indicando necessidade de suplementação ou ajustes na dieta e formulação até o momento da transição para a dieta familiar."
+    },
+    {
+      "case_id": "RB-BR-L5-0151",
+      "gold_orpha": "ORPHA:905",
+      "gold_name": "Doença de Wilson",
+      "expected_drugs_pcdt": [
+        "d-penicilamina",
+        "trientina",
+        "zinco-acetato"
+      ],
+      "stage1_hpo_extracted": 4,
+      "stage1_hpo_codes": [
+        "HP:0002910",
+        "HP:0002378",
+        "HP:0000719",
+        "HP:0200032"
+      ],
+      "stage3_top1_orpha": "ORPHA:905",
+      "stage3_top3_orphas": [
+        "ORPHA:905"
+      ],
+      "stage3_top1_drugs": [
+        "d-penicilamina",
+        "trientina"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'doenca-de-wilson' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: d-penicilamina, trientina.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.09,
+        "gemma": 2.57,
+        "orpha_lookup": 0.0,
+        "total": 2.65
+      },
+      "raw_first_500": "Olá! Com base nos dados clínicos e laboratoriais apresentados, o quadro é altamente sugestivo de **Doença do Cobre** (Cuprovillose).\n\nEste diagnóstico está em conformidade com a gravidade clínica, os achados laboratoriais clássicos (ceruloplasmina baixa, cobre urinário aumentado) e o sinal patognomônico de anel de Kayser-Fleischer. O quadro clínico progressivo acometendo múltiplos órgãos (hepatoesplenomegalia, neurológico/cognitivo com tremor e alteração comportamental) reforça esta suspeita.\n\n*"
+    },
+    {
+      "case_id": "RB-BR-L5-0162",
+      "gold_orpha": "ORPHA:905",
+      "gold_name": "Doença de Wilson",
+      "expected_drugs_pcdt": [
+        "d-penicilamina",
+        "trientina",
+        "zinco-acetato"
+      ],
+      "stage1_hpo_extracted": 4,
+      "stage1_hpo_codes": [
+        "HP:0002910",
+        "HP:0002378",
+        "HP:0000719",
+        "HP:0200032"
+      ],
+      "stage3_top1_orpha": "ORPHA:905",
+      "stage3_top3_orphas": [
+        "ORPHA:905"
+      ],
+      "stage3_top1_drugs": [
+        "d-penicilamina",
+        "trientina"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'doenca-de-wilson' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: d-penicilamina, trientina.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 6.67,
+        "orpha_lookup": 0.0,
+        "total": 6.71
+      },
+      "raw_first_500": "**TOP-5 DIFERENCIAL:**\n\n1. Doença do cobre — Síndrome de Fanconi, coagulopatias e enteropatias cronicamente refratárias a altas doses de quinona → Déficit quase total de ceruloplasmina (8 mg/dL), cobre urinário 24h baixo (<50 µg) + esquizofrenia, tremor em membros distais, alterações neurológicas progressivas e manifestações hepáticas graves.\n2. Doença do cobre — Nefropatia a cronicamente refratária ao tratamento → Envolvimento multissistêmico por acúmulo de cobre (coinfeccões microabscessos no "
+    },
+    {
+      "case_id": "RB-BR-L5-0177",
+      "gold_orpha": "ORPHA:580",
+      "gold_name": "Mucopolissacaridose Tipo II (Hunter)",
+      "expected_drugs_pcdt": [
+        "idursulfase-alfa"
+      ],
+      "stage1_hpo_extracted": 6,
+      "stage1_hpo_codes": [
+        "HP:0000280",
+        "HP:0004322",
+        "HP:0001433",
+        "HP:0034392",
+        "HP:0001537",
+        "HP:0003538"
+      ],
+      "stage3_top1_orpha": "ORPHA:580",
+      "stage3_top3_orphas": [
+        "ORPHA:580"
+      ],
+      "stage3_top1_drugs": [
+        "idursulfase-alfa"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'mucopolissacaridose-tipo-ii' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: idursulfase-alfa.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.09,
+        "gemma": 8.02,
+        "orpha_lookup": 0.0,
+        "total": 8.11
+      },
+      "raw_first_500": "Olá! Sou ARARÁS, copiloto clínico de doenças raras. Com base no quadro apresentado — diagnóstico provavelmente de Síndrome do Síndrome da I-iduronato-2-sulfatase deficiência –, o diferencial a seguir é altamente sugestivo e deve ser investigado com urgência devido ao manejo especializado necessário:\n\n1. **Síndrome da IDURONATO-2-SULFATASE DEFICIÊNCIA** — Conjunto de fenótipos clássicos (déficit de iduronato-2-sulfatase, acúmulo ectopico de manossulfato) com progressão grave e multisistêmica. O q"
+    },
+    {
+      "case_id": "RB-BR-L5-0172",
+      "gold_orpha": "ORPHA:580",
+      "gold_name": "Mucopolissacaridose Tipo II (Hunter)",
+      "expected_drugs_pcdt": [
+        "idursulfase-alfa"
+      ],
+      "stage1_hpo_extracted": 6,
+      "stage1_hpo_codes": [
+        "HP:0000280",
+        "HP:0004322",
+        "HP:0001433",
+        "HP:0034392",
+        "HP:0001537",
+        "HP:0003538"
+      ],
+      "stage3_top1_orpha": "ORPHA:580",
+      "stage3_top3_orphas": [
+        "ORPHA:580"
+      ],
+      "stage3_top1_drugs": [
+        "idursulfase-alfa"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'mucopolissacaridose-tipo-ii' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: idursulfase-alfa.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.06,
+        "gemma": 2.58,
+        "orpha_lookup": 0.0,
+        "total": 2.64
+      },
+      "raw_first_500": "Com base nos fenótipos apresentados e no diagnóstico confirmado de IDS, o diferencial principal é:\n\n1. Síndrome de Iduronato-2-Sulfatase Deficiência — Requer tratamento com enzimas exógenas (IVS). Confirmação laboratorial pelo teste funcional da enzima IDURSA atividade reduzida/indetectável e bioensaio diagnóstico por PCR do gene IDS. Fenótipo central: Síndrome de Ids o suficiente para causar a tríade de atraso global, dismorfias faciais (Coarse facial features) e manifestações ósseas e teciduai"
+    },
+    {
+      "case_id": "RB-BR-L5-0190",
+      "gold_orpha": "ORPHA:583",
+      "gold_name": "Mucopolissacaridose Tipo VI (Maroteaux-Lamy)",
+      "expected_drugs_pcdt": [
+        "galsulfase"
+      ],
+      "stage1_hpo_extracted": 5,
+      "stage1_hpo_codes": [
+        "HP:0000280",
+        "HP:0003498",
+        "HP:0007957",
+        "HP:0011560",
+        "HP:0034861"
+      ],
+      "stage3_top1_orpha": "ORPHA:583",
+      "stage3_top3_orphas": [
+        "ORPHA:583"
+      ],
+      "stage3_top1_drugs": [
+        "galsulfase"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'mucopolissacaridose-tipo-vi' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: galsulfase.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.06,
+        "gemma": 6.1,
+        "orpha_lookup": 0.0,
+        "total": 6.16
+      },
+      "raw_first_500": "Com base nos fenótipos apresentados e no diagnóstico prévio de MPS VI, o diferencial mais provável é um tipo menos comum da Síndrome de Sulfatase A.\n\n1. MPS VII - Acididose sulfataseA — Sintomatologia compatível com acumulação de ácido dermatossulfato (sugerida pela deficiência de arylsulfatase B e a descrição clássica) associada ao fenótipo HA:0003498 (Baixa estatura desproporcionada).\n2. Síndrome de Sulfatase A — Enzima defeituosa responsável pelo catabolismo do ácido sulfônico, levando ao acú"
+    },
+    {
+      "case_id": "RB-BR-L5-0205",
+      "gold_orpha": "ORPHA:583",
+      "gold_name": "Mucopolissacaridose Tipo VI (Maroteaux-Lamy)",
+      "expected_drugs_pcdt": [
+        "galsulfase"
+      ],
+      "stage1_hpo_extracted": 5,
+      "stage1_hpo_codes": [
+        "HP:0000280",
+        "HP:0003498",
+        "HP:0007957",
+        "HP:0011560",
+        "HP:0034861"
+      ],
+      "stage3_top1_orpha": "ORPHA:583",
+      "stage3_top3_orphas": [
+        "ORPHA:583"
+      ],
+      "stage3_top1_drugs": [
+        "galsulfase"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'mucopolissacaridose-tipo-vi' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: galsulfase.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 6.99,
+        "orpha_lookup": 0.0,
+        "total": 7.04
+      },
+      "raw_first_500": "Com base nos fenótipos apresentados e no diagnóstico clínico de MPS VI, seguem os 5 diferenciais mais prováveis em ordem decrescente de probabilidade diagnóstica:\n\n1. **Síndrome da Síntese Falha do Ácido DermatoSulfatase A (ARS)** — Embora o MSIII seja classicamente associado à deficiência ARS-A, a tríade de mucopolissacarídeos não sulfatados e múltiplos achados esqueléticos/visuais é muito sugestiva.\n2. **Síndrome da Síntese Falha do Ácido DermatoSulfatase B (ARSB)** — Déficit enzimático confir"
+    },
+    {
+      "case_id": "RB-BR-L5-0209",
+      "gold_orpha": "ORPHA:579",
+      "gold_name": "Mucopolissacaridose Tipo I (Hurler)",
+      "expected_drugs_pcdt": [
+        "laronidase"
+      ],
+      "stage1_hpo_extracted": 5,
+      "stage1_hpo_codes": [
+        "HP:0000280",
+        "HP:0001433",
+        "HP:0007957",
+        "HP:0002376",
+        "HP:6000910"
+      ],
+      "stage3_top1_orpha": "ORPHA:579",
+      "stage3_top3_orphas": [
+        "ORPHA:579"
+      ],
+      "stage3_top1_drugs": [
+        "laronidase"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'mucopolissacaridose-tipo-i' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: laronidase.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.07,
+        "gemma": 9.06,
+        "orpha_lookup": 0.0,
+        "total": 9.13
+      },
+      "raw_first_500": "Olá! Com base nos dados clínicos apresentados, farei um diferencial diagnóstico do TOP-5 para o lactente masculino de 27 meses com quadro compatível com Síndrome de Mucopolissacaridose I forma grave (Hurler).\n\n**DIAGNÓSTICO PRINCIPAL SUGERIDO:** MPS I clássica — A atividade alfa-L-iduronidase está indetectável, caracterizando o fenótipo mais severo da doença. O quadro clínico é altamente sugestivo de acúmulo progressivo de ácido iduronico em múltiplos órgãos e sistemas (característico do Mucopol"
+    },
+    {
+      "case_id": "RB-BR-L5-0220",
+      "gold_orpha": "ORPHA:579",
+      "gold_name": "Mucopolissacaridose Tipo I (Hurler)",
+      "expected_drugs_pcdt": [
+        "laronidase"
+      ],
+      "stage1_hpo_extracted": 5,
+      "stage1_hpo_codes": [
+        "HP:0000280",
+        "HP:0001433",
+        "HP:0007957",
+        "HP:0002376",
+        "HP:6000910"
+      ],
+      "stage3_top1_orpha": "ORPHA:579",
+      "stage3_top3_orphas": [
+        "ORPHA:579"
+      ],
+      "stage3_top1_drugs": [
+        "laronidase"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'mucopolissacaridose-tipo-i' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: laronidase.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 4.92,
+        "orpha_lookup": 0.0,
+        "total": 4.97
+      },
+      "raw_first_500": "Com base nos dados clínicos e laboratoriais apresentados, o TOP-5 diferencial diagnóstico é:\n\n1. Síndrome de Mucopolissacarídeos do tipo I - Hurler — Enzima alfa-galactosidase ácida ausente/diminuída; acúmulo grave de GAGs não sulfatados (sulfatase A).\n2. Síndromes congênitas do tipo mucopolissacarídeos com defeito na ósseos e tecidos conjuntivos — Acúmulo grave de DSA, deficiência enzimática primária.\n3. Mucopolisacaridose I - Hurler clássica (AH6) — Deficiência alfa-L-iduronidase; fenótipo gra"
+    },
+    {
+      "case_id": "RB-BR-L5-0242",
+      "gold_orpha": "ORPHA:183660",
+      "gold_name": "Imunodeficiência Combinada Grave (SCID)",
+      "expected_drugs_pcdt": [
+        "transplante-tcth",
+        "IVIg"
+      ],
+      "stage1_hpo_extracted": 3,
+      "stage1_hpo_codes": [
+        "HP:0009098",
+        "HP:0002028",
+        "HP:0005352"
+      ],
+      "stage3_top1_orpha": "ORPHA:183660",
+      "stage3_top3_orphas": [
+        "ORPHA:183660"
+      ],
+      "stage3_top1_drugs": [
+        "TCTH",
+        "IVIg"
+      ],
+      "stage4_sus_conduta": "Sem PCDT específico do MS. Avaliar terapias: TCTH, IVIg.",
+      "match_raw_name": true,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 8.3,
+        "orpha_lookup": 0.0,
+        "total": 8.35
+      },
+      "raw_first_500": "Com base no quadro clínico apresentado (lactente masculino, imunodeficiência grave recorrente desde os 2 meses, infecções oportunistas graves como pneumonias por *Pneumocystis* spp., candidíase oral persistente e diarreia crônica associadas à linfopenia profunda com CD3 <300/mm³), o TOP-5 diferencial diagnóstico é:\n\n1. Imunodeficiência combinada grave (SCID) — Predominantemente T‑linfócitos deficientes, compatível com fenótipo SCID agammaglobulinemia ou X‑ligado; a recorrência de infecções por p"
+    },
+    {
+      "case_id": "RB-BR-L5-0233",
+      "gold_orpha": "ORPHA:183660",
+      "gold_name": "Imunodeficiência Combinada Grave (SCID)",
+      "expected_drugs_pcdt": [
+        "transplante-tcth",
+        "IVIg"
+      ],
+      "stage1_hpo_extracted": 3,
+      "stage1_hpo_codes": [
+        "HP:0009098",
+        "HP:0002028",
+        "HP:0005352"
+      ],
+      "stage3_top1_orpha": "ORPHA:183660",
+      "stage3_top3_orphas": [
+        "ORPHA:183660"
+      ],
+      "stage3_top1_drugs": [
+        "TCTH",
+        "IVIg"
+      ],
+      "stage4_sus_conduta": "Sem PCDT específico do MS. Avaliar terapias: TCTH, IVIg.",
+      "match_raw_name": true,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 13.44,
+        "orpha_lookup": 0.0,
+        "total": 13.48
+      },
+      "raw_first_500": "ARARA-COPILOTO CLÍNICO DE DOENÇAS RARAS - PARECER PRÉ-CONSULTA\n\n**PARECER SINOPSE:** Lactente feminino de 12 meses, com quadro infeccioso grave e recorrente desde os 2 meses de vida (Pneumonias por *P. jirovecii*, candidíase oral persistente, diarreia crônica). Imunodeficiência profunda associada a linfopenia profunda ($\\text{CD3} <300/\\text{mm}^3$), compatível com SCID e requer manejo imunológico urgente (corticoesteroides + IVIG/IVT ou terapia de reposição específica).\n\n**DIAGNÓSTICOS DIFERENC"
+    },
+    {
+      "case_id": "RB-BR-L5-0267",
+      "gold_orpha": "ORPHA:70",
+      "gold_name": "Atrofia Muscular Espinhal Tipo 1 (Werdnig-Hoffmann)",
+      "expected_drugs_pcdt": [
+        "onasemnogeno-abeparvoveque",
+        "nusinersena",
+        "risdiplam"
+      ],
+      "stage1_hpo_extracted": 4,
+      "stage1_hpo_codes": [
+        "HP:0003324",
+        "HP:0002033",
+        "HP:0002878",
+        "HP:0003445"
+      ],
+      "stage3_top1_orpha": "ORPHA:70",
+      "stage3_top3_orphas": [
+        "ORPHA:70"
+      ],
+      "stage3_top1_drugs": [
+        "nusinersena",
+        "onasemnogeno-abeparvoveque"
+      ],
+      "stage4_sus_conduta": "Encaminhar paciente para centro de referência. Solicitar exames confirmatórios. Caso confirmado, considerar terapia via CEAF conforme PCDT 'atrofia-muscular-espinhal-5q' do Ministério da Saúde. Fármacos típicos do PCDT/CEAF: nusinersena, onasemnogeno-abeparvoveque.",
+      "match_raw_name": false,
+      "match_pipeline_top1": true,
+      "match_pipeline_top3": true,
+      "match_track_b": true,
+      "timings_s": {
+        "hpo": 0.07,
+        "gemma": 4.51,
+        "orpha_lookup": 0.0,
+        "total": 4.58
+      },
+      "raw_first_500": "1. Ataxia e hipotonia progressivas com início nos primeiros meses de vida — Quadro clínico altamente sugestivo de SMN2 devido ao gene SMN1 afetado, mas o quadro sugere fenótipo clássico de SMA tipo 1/2-3.\n2. Miopatias espinotalâmicas (SMA) - Tipo 1 (SMN1) — Confirmação molecular com deleção homozigótica no gene SNM1 e eletrógeno clínico compatível (nível neuromuscular I).\n3. Síndrome de neurônio motorúrico — Envolvimento do tronco encefálico, nível respiratório comprometido desde o nascimento/in"
+    },
+    {
+      "case_id": "RB-BR-L5-0248",
+      "gold_orpha": "ORPHA:70",
+      "gold_name": "Atrofia Muscular Espinhal Tipo 1 (Werdnig-Hoffmann)",
+      "expected_drugs_pcdt": [
+        "onasemnogeno-abeparvoveque",
+        "nusinersena",
+        "risdiplam"
+      ],
+      "stage1_hpo_extracted": 4,
+      "stage1_hpo_codes": [
+        "HP:0003324",
+        "HP:0002033",
+        "HP:0002878",
+        "HP:0003445"
+      ],
+      "stage3_top1_orpha": null,
+      "stage3_top3_orphas": [],
+      "stage3_top1_drugs": null,
+      "stage4_sus_conduta": null,
+      "match_raw_name": false,
+      "match_pipeline_top1": false,
+      "match_pipeline_top3": false,
+      "match_track_b": null,
+      "timings_s": {
+        "hpo": 0.05,
+        "gemma": 7.26,
+        "orpha_lookup": 0.0,
+        "total": 7.31
+      },
+      "raw_first_500": "1. Ataxia espinocerebelar tipo 1 — Síndrome causada pela degeneração dos núcleos cerebelares, levando a ataxia progressiva e distúrdios de coordenação que se tornam evidentes após os marcos motores esperados no período pré-escolar/pré-juvenil (sinais típicos em pacientes com EMG compatível).\n2. Ataxia espinocerebelar tipo 1 — Progressão da disfunção cerebelar, levando a dificuldade progressiva de manter o tônus postural e realizar movimentos coordenados que se tornam mais evidentes à medida que "
+    }
+  ]
+}
