@@ -1,0 +1,3449 @@
+{
+  "source": "datasus_apac_cns_linkage_v2",
+  "n_trajectories_total": 52343,
+  "n_orphas_with_5plus_patients": 12,
+  "generation_date": "2026-05-17T12:09:11.242376",
+  "top_50_orphas_by_volume": [
+    {
+      "orpha": "802",
+      "n_patients": 20867,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "232",
+      "n_patients": 13122,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "83330",
+      "n_patients": 6078,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "182090",
+      "n_patients": 5508,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "586",
+      "n_patients": 3804,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "716",
+      "n_patients": 1504,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "905",
+      "n_patients": 656,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "646",
+      "n_patients": 619,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "580",
+      "n_patients": 101,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "579",
+      "n_patients": 73,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "183660",
+      "n_patients": 33,
+      "top_uf": "01"
+    },
+    {
+      "orpha": "70",
+      "n_patients": 10,
+      "top_uf": "01"
+    }
+  ],
+  "per_orpha_patterns": {
+    "802": {
+      "orpha": "ORPHA:802",
+      "n_patients_in_sus": 20867,
+      "age_at_first_event": {
+        "p10": 24,
+        "p50": 39,
+        "p90": 57,
+        "median": 39
+      },
+      "sex_distribution": {
+        "F": 15355,
+        "M": 5512
+      },
+      "top_5_ufs": {
+        "01": 437394,
+        "10": 7259,
+        "03": 193,
+        "04": 159,
+        "02": 73
+      },
+      "top_5_cids": {
+        "G35": 445053,
+        "G122": 107,
+        "D570": 19,
+        "E840": 16,
+        "I270": 7
+      },
+      "top_5_procedures": {
+        "0604520018": 88267,
+        "0604320132": 70607,
+        "0604390106": 70003,
+        "0604390092": 63225,
+        "0604320116": 58316
+      },
+      "median_events_per_patient": 21,
+      "median_trajectory_months": 36,
+      "orphan_drug_event_rate": 0.328,
+      "monthly_cost_brl_median": 551,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "F",
+          "birth_year": 1954,
+          "n_events": 36,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 63.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-08",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 63.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-08",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 63.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-03",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 63.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-03",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 63.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-03",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 1979,
+          "n_events": 30,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 38.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-10",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-08",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-08",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-08",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "F",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-07-04",
+              "valid_until": "2017-09-30",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 7
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1979,
+          "n_events": 38,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "M",
+              "age_at_authorization_years": 38.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-24",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-10",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-10",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-10",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "G35",
+              "orpha": "802",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-12",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604390092",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        }
+      ]
+    },
+    "232": {
+      "orpha": "ORPHA:232",
+      "n_patients_in_sus": 13122,
+      "age_at_first_event": {
+        "p10": 5,
+        "p50": 19,
+        "p90": 47,
+        "median": 19
+      },
+      "sex_distribution": {
+        "M": 6392,
+        "F": 6730
+      },
+      "top_5_ufs": {
+        "01": 176699,
+        "10": 14527,
+        "17": 94,
+        "06": 38,
+        "24": 34
+      },
+      "top_5_cids": {
+        "D570": 109254,
+        "D571": 72352,
+        "D572": 9578,
+        "I270": 118,
+        "G35": 68
+      },
+      "top_5_procedures": {
+        "0604480016": 191184,
+        "0604350015": 126,
+        "0604320116": 32,
+        "0604320132": 29,
+        "0604750013": 25
+      },
+      "median_events_per_patient": 13,
+      "median_trajectory_months": 36,
+      "orphan_drug_event_rate": 0.0,
+      "monthly_cost_brl_median": 84,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 2005,
+          "n_events": 6,
+          "first_year": 2017,
+          "last_year": 2019,
+          "events_summary": [
+            {
+              "cid": "D571",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-16",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 96.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 13.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-10",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 96.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 13.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-10",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 96.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "D571",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2019-10-17",
+              "valid_until": "2019-12-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 78.0,
+              "type": "treatment",
+              "year": 2019,
+              "month": 10
+            },
+            {
+              "cid": "D571",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2019-10-17",
+              "valid_until": "2019-12-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 78.0,
+              "type": "treatment",
+              "year": 2019,
+              "month": 11
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1993,
+          "n_events": 25,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 24.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-11",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 76.8,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 24.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-13",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 57.6,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 24.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-13",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 57.6,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 24.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-13",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 76.8,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "M",
+              "age_at_authorization_years": 25.0,
+              "uf_code": "01",
+              "auth_date": "2017-09-15",
+              "valid_until": "2017-11-30",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 57.6,
+              "type": "treatment",
+              "year": 2017,
+              "month": 9
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 1975,
+          "n_events": 19,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "F",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-19",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 96.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "F",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-19",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "F",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-31",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 96.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "F",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-31",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 96.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            },
+            {
+              "cid": "D570",
+              "orpha": "232",
+              "sex": "F",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-31",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604480016",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 7
+            }
+          ]
+        }
+      ]
+    },
+    "83330": {
+      "orpha": "ORPHA:83330",
+      "n_patients_in_sus": 6078,
+      "age_at_first_event": {
+        "p10": 43,
+        "p50": 61,
+        "p90": 76,
+        "median": 61
+      },
+      "sex_distribution": {
+        "M": 3358,
+        "F": 2720
+      },
+      "top_5_ufs": {
+        "01": 87287,
+        "10": 2146,
+        "04": 94,
+        "02": 53,
+        "03": 41
+      },
+      "top_5_cids": {
+        "G122": 89565,
+        "G35": 58,
+        "E830": 9,
+        "I270": 1
+      },
+      "top_5_procedures": {
+        "0604540019": 89565,
+        "0604520018": 31,
+        "0604530013": 12,
+        "0604560010": 9,
+        "0604520026": 6
+      },
+      "median_events_per_patient": 12,
+      "median_trajectory_months": 24,
+      "orphan_drug_event_rate": 0.999,
+      "monthly_cost_brl_median": 573,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 1947,
+          "n_events": 36,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 70.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-01",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 573.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 71.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 71.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 71.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 71.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-01",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 1961,
+          "n_events": 38,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "F",
+              "age_at_authorization_years": 56.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-06",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 573.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "F",
+              "age_at_authorization_years": 56.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-06",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "F",
+              "age_at_authorization_years": 56.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-13",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "F",
+              "age_at_authorization_years": 56.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-13",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "F",
+              "age_at_authorization_years": 56.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-13",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1968,
+          "n_events": 3,
+          "first_year": 2017,
+          "last_year": 2017,
+          "events_summary": [
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 49.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-31",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 573.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 49.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-31",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "G122",
+              "orpha": "83330",
+              "sex": "M",
+              "age_at_authorization_years": 49.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-31",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604540019",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            }
+          ]
+        }
+      ]
+    },
+    "182090": {
+      "orpha": "ORPHA:182090",
+      "n_patients_in_sus": 5508,
+      "age_at_first_event": {
+        "p10": 14,
+        "p50": 46,
+        "p90": 72,
+        "median": 46
+      },
+      "sex_distribution": {
+        "M": 1565,
+        "F": 3943
+      },
+      "top_5_ufs": {
+        "01": 95970,
+        "10": 3969,
+        "04": 86,
+        "02": 23
+      },
+      "top_5_cids": {
+        "I270": 67950,
+        "I272": 20197,
+        "I278": 11639,
+        "E752": 97,
+        "D570": 73
+      },
+      "top_5_procedures": {
+        "0604350015": 71933,
+        "0604750048": 12728,
+        "0604750021": 7974,
+        "0604750013": 4313,
+        "0604750030": 2408
+      },
+      "median_events_per_patient": 16,
+      "median_trajectory_months": 36,
+      "orphan_drug_event_rate": 0.001,
+      "monthly_cost_brl_median": 745,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 1976,
+          "n_events": 31,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 41.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-01",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 617.4,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 529.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 529.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 705.6,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 42.0,
+              "uf_code": "01",
+              "auth_date": "2017-08-01",
+              "valid_until": "2017-10-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 352.8,
+              "type": "treatment",
+              "year": 2017,
+              "month": 9
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1973,
+          "n_events": 15,
+          "first_year": 2017,
+          "last_year": 2018,
+          "events_summary": [
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 44.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 529.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 44.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 529.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 44.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 441.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 44.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 793.8,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "M",
+              "age_at_authorization_years": 44.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 617.4,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 1955,
+          "n_events": 30,
+          "first_year": 2017,
+          "last_year": 2019,
+          "events_summary": [
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "F",
+              "age_at_authorization_years": 62.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 970.8,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "F",
+              "age_at_authorization_years": 62.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 1023.68,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "F",
+              "age_at_authorization_years": 62.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 970.8,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "F",
+              "age_at_authorization_years": 62.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 1147.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "I270",
+              "orpha": "182090",
+              "sex": "F",
+              "age_at_authorization_years": 62.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604350015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": 1059.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        }
+      ]
+    },
+    "586": {
+      "orpha": "ORPHA:586",
+      "n_patients_in_sus": 3804,
+      "age_at_first_event": {
+        "p10": 0,
+        "p50": 13,
+        "p90": 43,
+        "median": 13
+      },
+      "sex_distribution": {
+        "M": 1983,
+        "F": 1821
+      },
+      "top_5_ufs": {
+        "01": 84125,
+        "10": 1707,
+        "03": 97,
+        "02": 6
+      },
+      "top_5_cids": {
+        "E848": 54604,
+        "E840": 18229,
+        "E841": 13065,
+        "E700": 25,
+        "G35": 4
+      },
+      "top_5_procedures": {
+        "0604440014": 50295,
+        "0604580029": 18861,
+        "0604580010": 16742,
+        "0604060025": 25,
+        "0604350015": 5
+      },
+      "median_events_per_patient": 20,
+      "median_trajectory_months": 36,
+      "orphan_drug_event_rate": 0.585,
+      "monthly_cost_brl_median": 887,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 1996,
+          "n_events": 37,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 21.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-04",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2882.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 21.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-04",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2882.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 21.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-04",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2882.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 21.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-06",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2882.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 21.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-06",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2882.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 1940,
+          "n_events": 37,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E840",
+              "orpha": "586",
+              "sex": "F",
+              "age_at_authorization_years": 77.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-13",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2147.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E840",
+              "orpha": "586",
+              "sex": "F",
+              "age_at_authorization_years": 77.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-13",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2147.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E840",
+              "orpha": "586",
+              "sex": "F",
+              "age_at_authorization_years": 77.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-21",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2147.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E840",
+              "orpha": "586",
+              "sex": "F",
+              "age_at_authorization_years": 77.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-21",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E840",
+              "orpha": "586",
+              "sex": "F",
+              "age_at_authorization_years": 77.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-21",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2147.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2015,
+          "n_events": 38,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 2.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-18",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2406.9,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 2.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-09",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2406.9,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 2.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-09",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2406.9,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 2.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-09",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2406.9,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E848",
+              "orpha": "586",
+              "sex": "M",
+              "age_at_authorization_years": 3.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-18",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604440014",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 2507.7,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        }
+      ]
+    },
+    "716": {
+      "orpha": "ORPHA:716",
+      "n_patients_in_sus": 1504,
+      "age_at_first_event": {
+        "p10": 0,
+        "p50": 11,
+        "p90": 27,
+        "median": 11
+      },
+      "sex_distribution": {
+        "M": 780,
+        "F": 724
+      },
+      "top_5_ufs": {
+        "01": 31013
+      },
+      "top_5_cids": {
+        "E700": 31010,
+        "E840": 3
+      },
+      "top_5_procedures": {
+        "0604060025": 29837,
+        "0604060017": 1173,
+        "0604440014": 3
+      },
+      "median_events_per_patient": 23,
+      "median_trajectory_months": 48,
+      "orphan_drug_event_rate": 0.0,
+      "monthly_cost_brl_median": 2147,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 2017,
+          "n_events": 31,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 0.5833333333333334,
+              "uf_code": "01",
+              "auth_date": "2016-12-15",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604060017",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 0.5833333333333334,
+              "uf_code": "01",
+              "auth_date": "2016-12-15",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604060017",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 0.9166666666666666,
+              "uf_code": "01",
+              "auth_date": "2017-03-20",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604060017",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 0.9166666666666666,
+              "uf_code": "01",
+              "auth_date": "2017-03-20",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604060017",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 1.0,
+              "uf_code": "01",
+              "auth_date": "2017-06-26",
+              "valid_until": "2017-08-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 2002,
+          "n_events": 24,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "F",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-23",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "F",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-23",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "F",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-23",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "F",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-13",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "F",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-13",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2009,
+          "n_events": 16,
+          "first_year": 2017,
+          "last_year": 2019,
+          "events_summary": [
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 8.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-25",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 9.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-05",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 9.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-05",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 9.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-05",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 7
+            },
+            {
+              "cid": "E700",
+              "orpha": "716",
+              "sex": "M",
+              "age_at_authorization_years": 9.0,
+              "uf_code": "01",
+              "auth_date": "2017-11-10",
+              "valid_until": "2018-01-31",
+              "procedure_code": "0604060025",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 11
+            }
+          ]
+        }
+      ]
+    },
+    "905": {
+      "orpha": "ORPHA:905",
+      "n_patients_in_sus": 656,
+      "age_at_first_event": {
+        "p10": 13,
+        "p50": 31,
+        "p90": 50,
+        "median": 31
+      },
+      "sex_distribution": {
+        "F": 307,
+        "M": 349
+      },
+      "top_5_ufs": {
+        "01": 9174,
+        "10": 239
+      },
+      "top_5_cids": {
+        "E830": 9394,
+        "I272": 13,
+        "G122": 6
+      },
+      "top_5_procedures": {
+        "0604560010": 9394,
+        "0604750048": 13,
+        "0604540019": 6
+      },
+      "median_events_per_patient": 11,
+      "median_trajectory_months": 36,
+      "orphan_drug_event_rate": 0.999,
+      "monthly_cost_brl_median": 190,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "F",
+          "birth_year": 2003,
+          "n_events": 16,
+          "first_year": 2017,
+          "last_year": 2018,
+          "events_summary": [
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "F",
+              "age_at_authorization_years": 14.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-12",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 144.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "F",
+              "age_at_authorization_years": 14.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-12",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 267.84,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "F",
+              "age_at_authorization_years": 14.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-23",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 216.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "F",
+              "age_at_authorization_years": 14.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-23",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 216.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "F",
+              "age_at_authorization_years": 14.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-23",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 72.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1978,
+          "n_events": 31,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-01",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 267.84,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-01",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-01",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 259.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 39.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 144.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1988,
+          "n_events": 34,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 29.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 144.0,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 29.0,
+              "uf_code": "01",
+              "auth_date": "2016-10-01",
+              "valid_until": "2016-12-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 29.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 29.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E830",
+              "orpha": "905",
+              "sex": "M",
+              "age_at_authorization_years": 29.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604560010",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": 259.2,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            }
+          ]
+        }
+      ]
+    },
+    "646": {
+      "orpha": "ORPHA:646",
+      "n_patients_in_sus": 619,
+      "age_at_first_event": {
+        "p10": 11,
+        "p50": 29,
+        "p90": 57,
+        "median": 29
+      },
+      "sex_distribution": {
+        "F": 371,
+        "M": 248
+      },
+      "top_5_ufs": {
+        "01": 14124,
+        "10": 456,
+        "24": 12
+      },
+      "top_5_cids": {
+        "E752": 14506,
+        "I270": 86
+      },
+      "top_5_procedures": {
+        "0604240031": 11664,
+        "0604240023": 2301,
+        "0604630018": 536,
+        "0604350015": 86,
+        "0604240015": 5
+      },
+      "median_events_per_patient": 28,
+      "median_trajectory_months": 48,
+      "orphan_drug_event_rate": 0.994,
+      "monthly_cost_brl_median": 529,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "F",
+          "birth_year": 1992,
+          "n_events": 34,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "F",
+              "age_at_authorization_years": 25.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-30",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "F",
+              "age_at_authorization_years": 26.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-29",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "F",
+              "age_at_authorization_years": 26.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-29",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "F",
+              "age_at_authorization_years": 26.0,
+              "uf_code": "01",
+              "auth_date": "2017-03-29",
+              "valid_until": "2017-05-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "F",
+              "age_at_authorization_years": 26.0,
+              "uf_code": "01",
+              "auth_date": "2017-06-23",
+              "valid_until": "2017-08-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1984,
+          "n_events": 35,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 33.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-01",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 33.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 33.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 33.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-01",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 33.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-02",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1951,
+          "n_events": 25,
+          "first_year": 2017,
+          "last_year": 2019,
+          "events_summary": [
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 66.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-20",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 66.0,
+              "uf_code": "01",
+              "auth_date": "2016-12-20",
+              "valid_until": "2017-02-28",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 66.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-19",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 66.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-19",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            },
+            {
+              "cid": "E752",
+              "orpha": "646",
+              "sex": "M",
+              "age_at_authorization_years": 66.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-19",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604240031",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 6
+            }
+          ]
+        }
+      ]
+    },
+    "580": {
+      "orpha": "ORPHA:580",
+      "n_patients_in_sus": 101,
+      "age_at_first_event": {
+        "p10": 4,
+        "p50": 12,
+        "p90": 24,
+        "median": 12
+      },
+      "sex_distribution": {
+        "M": 100,
+        "F": 1
+      },
+      "top_5_ufs": {
+        "01": 795,
+        "10": 56
+      },
+      "top_5_cids": {
+        "E761": 851
+      },
+      "top_5_procedures": {
+        "0604240074": 851
+      },
+      "median_events_per_patient": 9,
+      "median_trajectory_months": 24,
+      "orphan_drug_event_rate": 1.0,
+      "monthly_cost_brl_median": null,
+      "auth_years_active": [
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 2004,
+          "n_events": 14,
+          "first_year": 2019,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-21",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 2
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-21",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 3
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 15.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-21",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 4
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-05-15",
+              "valid_until": "2019-07-31",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 5
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-05-15",
+              "valid_until": "2019-07-31",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 6
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2003,
+          "n_events": 14,
+          "first_year": 2019,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-14",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 2
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-14",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 3
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-14",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 4
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-05-09",
+              "valid_until": "2019-07-31",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 5
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 16.0,
+              "uf_code": "01",
+              "auth_date": "2019-05-09",
+              "valid_until": "2019-07-31",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 6
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2007,
+          "n_events": 14,
+          "first_year": 2019,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-14",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 2
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-14",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 3
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-14",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 4
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 13.0,
+              "uf_code": "01",
+              "auth_date": "2019-05-23",
+              "valid_until": "2019-07-31",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 5
+            },
+            {
+              "cid": "E761",
+              "orpha": "580",
+              "sex": "M",
+              "age_at_authorization_years": 13.0,
+              "uf_code": "01",
+              "auth_date": "2019-05-23",
+              "valid_until": "2019-07-31",
+              "procedure_code": "0604240074",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 6
+            }
+          ]
+        }
+      ]
+    },
+    "579": {
+      "orpha": "ORPHA:579",
+      "n_patients_in_sus": 73,
+      "age_at_first_event": {
+        "p10": 2,
+        "p50": 13,
+        "p90": 30,
+        "median": 13
+      },
+      "sex_distribution": {
+        "M": 39,
+        "F": 34
+      },
+      "top_5_ufs": {
+        "01": 637,
+        "10": 23
+      },
+      "top_5_cids": {
+        "E760": 660
+      },
+      "top_5_procedures": {
+        "0604240066": 660
+      },
+      "median_events_per_patient": 9,
+      "median_trajectory_months": 24,
+      "orphan_drug_event_rate": 1.0,
+      "monthly_cost_brl_median": null,
+      "auth_years_active": [
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "M",
+          "birth_year": 1999,
+          "n_events": 13,
+          "first_year": 2018,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 19.0,
+              "uf_code": "01",
+              "auth_date": "2018-10-29",
+              "valid_until": "2018-12-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 11
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 19.0,
+              "uf_code": "01",
+              "auth_date": "2018-10-29",
+              "valid_until": "2018-12-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 11
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 19.0,
+              "uf_code": "01",
+              "auth_date": "2018-10-29",
+              "valid_until": "2018-12-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 12
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 20.0,
+              "uf_code": "01",
+              "auth_date": "2019-03-06",
+              "valid_until": "2019-05-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 3
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 20.0,
+              "uf_code": "01",
+              "auth_date": "2019-03-06",
+              "valid_until": "2019-05-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 4
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 2008,
+          "n_events": 17,
+          "first_year": 2018,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2018-11-09",
+              "valid_until": "2019-01-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 11
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2018-11-09",
+              "valid_until": "2019-01-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 12
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2018-11-09",
+              "valid_until": "2019-01-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 1
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-28",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 2
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2019-02-28",
+              "valid_until": "2019-04-30",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 3
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2006,
+          "n_events": 15,
+          "first_year": 2018,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2018-11-28",
+              "valid_until": "2019-01-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 11
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2018-11-28",
+              "valid_until": "2019-01-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2018,
+              "month": 12
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2018-11-28",
+              "valid_until": "2019-01-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 1
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2019-03-13",
+              "valid_until": "2019-05-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 3
+            },
+            {
+              "cid": "E760",
+              "orpha": "579",
+              "sex": "M",
+              "age_at_authorization_years": 12.0,
+              "uf_code": "01",
+              "auth_date": "2019-03-13",
+              "valid_until": "2019-05-31",
+              "procedure_code": "0604240066",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 4
+            }
+          ]
+        }
+      ]
+    },
+    "183660": {
+      "orpha": "ORPHA:183660",
+      "n_patients_in_sus": 33,
+      "age_at_first_event": {
+        "p10": 0,
+        "p50": 13,
+        "p90": 56,
+        "median": 13
+      },
+      "sex_distribution": {
+        "F": 18,
+        "M": 15
+      },
+      "top_5_ufs": {
+        "01": 323
+      },
+      "top_5_cids": {
+        "D811": 323
+      },
+      "top_5_procedures": {
+        "0604310056": 323
+      },
+      "median_events_per_patient": 3,
+      "median_trajectory_months": 12,
+      "orphan_drug_event_rate": 1.0,
+      "monthly_cost_brl_median": null,
+      "auth_years_active": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "F",
+          "birth_year": 2007,
+          "n_events": 36,
+          "first_year": 2017,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2016-11-08",
+              "valid_until": "2017-01-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-02",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-02",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "F",
+              "age_at_authorization_years": 10.0,
+              "uf_code": "01",
+              "auth_date": "2017-02-02",
+              "valid_until": "2017-04-30",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "F",
+              "age_at_authorization_years": 11.0,
+              "uf_code": "01",
+              "auth_date": "2017-05-23",
+              "valid_until": "2017-07-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 1995,
+          "n_events": 21,
+          "first_year": 2017,
+          "last_year": 2018,
+          "events_summary": [
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 22.0,
+              "uf_code": "01",
+              "auth_date": "2016-10-01",
+              "valid_until": "2016-12-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 22.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 22.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 22.0,
+              "uf_code": "01",
+              "auth_date": "2017-01-01",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 22.0,
+              "uf_code": "01",
+              "auth_date": "2017-04-01",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2017,
+          "n_events": 6,
+          "first_year": 2017,
+          "last_year": 2017,
+          "events_summary": [
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 0.3333333333333333,
+              "uf_code": "01",
+              "auth_date": "2017-01-10",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 1
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 0.3333333333333333,
+              "uf_code": "01",
+              "auth_date": "2017-01-10",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 2
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 0.3333333333333333,
+              "uf_code": "01",
+              "auth_date": "2017-01-10",
+              "valid_until": "2017-03-31",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 3
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 0.5833333333333334,
+              "uf_code": "01",
+              "auth_date": "2017-04-07",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 4
+            },
+            {
+              "cid": "D811",
+              "orpha": "183660",
+              "sex": "M",
+              "age_at_authorization_years": 0.5833333333333334,
+              "uf_code": "01",
+              "auth_date": "2017-04-07",
+              "valid_until": "2017-06-30",
+              "procedure_code": "0604310056",
+              "is_orphan_drug": true,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2017,
+              "month": 5
+            }
+          ]
+        }
+      ]
+    },
+    "70": {
+      "orpha": "ORPHA:70",
+      "n_patients_in_sus": 10,
+      "age_at_first_event": {
+        "p10": 0,
+        "p50": 1,
+        "p90": 4,
+        "median": 1
+      },
+      "sex_distribution": {
+        "F": 7,
+        "M": 3
+      },
+      "top_5_ufs": {
+        "01": 21,
+        "10": 1
+      },
+      "top_5_cids": {
+        "G120": 22
+      },
+      "top_5_procedures": {
+        "0604790015": 22
+      },
+      "median_events_per_patient": 2,
+      "median_trajectory_months": 12,
+      "orphan_drug_event_rate": 0.0,
+      "monthly_cost_brl_median": null,
+      "auth_years_active": [
+        2019,
+        2020
+      ],
+      "template_cases": [
+        {
+          "sex": "F",
+          "birth_year": 2018,
+          "n_events": 3,
+          "first_year": 2019,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "F",
+              "age_at_authorization_years": 1.0,
+              "uf_code": "01",
+              "auth_date": "2019-12-13",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 12
+            },
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "F",
+              "age_at_authorization_years": 1.0,
+              "uf_code": "01",
+              "auth_date": "2019-12-13",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2020,
+              "month": 1
+            },
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "F",
+              "age_at_authorization_years": 1.0,
+              "uf_code": "01",
+              "auth_date": "2019-12-13",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2020,
+              "month": 2
+            }
+          ]
+        },
+        {
+          "sex": "M",
+          "birth_year": 2019,
+          "n_events": 2,
+          "first_year": 2019,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "M",
+              "age_at_authorization_years": 0.25,
+              "uf_code": "01",
+              "auth_date": "2019-12-12",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 12
+            },
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "M",
+              "age_at_authorization_years": 0.25,
+              "uf_code": "01",
+              "auth_date": "2019-12-12",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2020,
+              "month": 1
+            }
+          ]
+        },
+        {
+          "sex": "F",
+          "birth_year": 2019,
+          "n_events": 3,
+          "first_year": 2019,
+          "last_year": 2020,
+          "events_summary": [
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "F",
+              "age_at_authorization_years": 0.6666666666666666,
+              "uf_code": "01",
+              "auth_date": "2019-12-05",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2019,
+              "month": 12
+            },
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "F",
+              "age_at_authorization_years": 0.6666666666666666,
+              "uf_code": "01",
+              "auth_date": "2019-12-05",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2020,
+              "month": 1
+            },
+            {
+              "cid": "G120",
+              "orpha": "70",
+              "sex": "F",
+              "age_at_authorization_years": 0.6666666666666666,
+              "uf_code": "01",
+              "auth_date": "2019-12-05",
+              "valid_until": "2020-02-29",
+              "procedure_code": "0604790015",
+              "is_orphan_drug": false,
+              "monthly_cost_brl": null,
+              "type": "treatment",
+              "year": 2020,
+              "month": 2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

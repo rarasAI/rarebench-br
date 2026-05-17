@@ -1,0 +1,771 @@
+{
+  "slug": "mucopolissacaridose-tipo-vii",
+  "name_pt": "Mucopolissacaridose tipo VII",
+  "icd10": "E76.2",
+  "orphanet": "ORPHA:584",
+  "omim": "253220",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/20210531_pcdt_mps_vii.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A mucopolissacaridose tipo VII (MPS VII), também conhecida como Síndrome de Sly, é uma\ndoença lisossômica, autossômica recessiva, extremamente rara, crônica, debilitante e associada a óbito\nprecoce1, 2. Em todo o mundo, a incidência de MPS VII é de aproximadamente 1:300.000 a 1:2.000.000\ncasos por nascidos vivos3 e é inferior a 200 pacientes por ano2. No Brasil, a incidência de MPS VII foi\nestimada em 0,026 casos por 100.000 nascidos vivos4, 5, tendo sido confirmados 21 casos no período de\n1982 e 20196.\n             A MPS VII ocorre devido à presença de variantes patogênicas bialélicas no gene GUSB que\ncodifica a beta-glicuronidase (GUSB), e está localizado no cromossomo 7q21—q22. A GUSB tem papel\nessencial na degradação de glicosaminoglicanos (GAG), especialmente sulfato de condroitina (SC),\nsulfato de dermatan (SD) e sulfato de heparan (SH), que são constituintes do tecido conjuntivo. A\natividade deficiente da GUSB resulta em degradação parcial e acúmulo de GAG em lisossomos de vários\ntecidos por todo o corpo, incluindo o sistema nervoso central (SNC), com consequente dano celular e\ndisfunção orgânica1, 7.\n             A heterogeneidade alélica desse gene contribui para a extensa variabilidade clínica\napresentada pelos indivíduos com MPS VII8, 9, que varia desde hidropisia fetal letal até formas atenuadas\nem adolescentes ou adultos com cifose torácica. Não existem critérios nítidos que permitam uma\nclassificação exata da apresentação clínica em forma grave, moderada ou atenuada, haja vista que\nexiste um espectro de gravidade. Entretanto, de forma geral, o início das manifestações clínicas no\nperíodo pré-natal, com presença de hidropisia, caracteriza uma forma grave da doença. As\nmanifestações clínicas da MPS VII incluem macrocefalia, face infiltrada, pescoço curto, opacidade da\ncórnea, pectus carinatum, hepatomegalia, esplenomegalia, hérnia umbilical, hérnia inguinal, disostose\nmúltipla, hipoplasia do processo odontoide, hipertricose, atraso no desenvolvimento neuropsicomotor e\nhidrocefalia; além disso, infecções respiratórias são comuns nesses indivíduos 10.\n             Entre as manifestações clínicas mais frequentes entre crianças e adultos com MPS VII, de\ndiferentes países, incluindo o Brasil3, foram descritas as seguintes: anormalidades cardíacas (50% com\nvalvulopatias e 37% possuíam cardiomiopatias); perda da amplitude de movimento articular (85%),\ndando origem à mobilidade restrita (78%), contraturas articulares (84%) e rigidez (72%); deformidades\nda coluna - escoliose (69%), cifose (68%) e gibosidade toraco-lombar (63%). Além disso, as deformidades\nnas pernas encontradas incluíram genu valgum (63%) e talipes equinovarus (35%). Anormalidades nas\nmãos incluíram redução do movimento do punho (58%), mãos em garra (56%) e dedos curvos (54%).\nDisplasia acetabular nos quadris foi observada em 53% dos pacientes e 63% tinham dor no quadril ou\nnas costas quando se curvaram, 88% dos pacientes tinham tronco curto, 85% tinham pectus carinatum\nou excavatum e 79% tinham baixa estatura. No âmbito neurológico, 94% dos pacientes mostravam\nlimitações no vocabulário e 86% apresentavam deficiência intelectual3.\n             As manifestações clínicas e gravidade da doença estão relacionadas ao genótipo e à\natividade enzimática residual3. Indivíduos com MPS VII podem ir a óbito antes do nascimento ou\nsobreviver apenas alguns meses ou até os 35 anos de vida11, sendo raros os pacientes que sobrevivem\naté a quinta década de vida3, e, em geral, são pacientes com início dos sintomas mais tardio e\ninteligência normal ou quase normal. Geralmente, a expectativa de vida é reduzida também pelas\ninfecções frequentes do trato respiratório superior, complicações neurodegenerativas e anormalidades\ndo trato gastrointestinal12.\n             Embora a MPS VII seja uma doença rara, o impacto social negativo na vida de pacientes e\nfamiliares a torna um problema de saúde pública13.\n\n            A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento\nágil e adequado para o atendimento especializado dão à Atenção Primária um caráter essencial para um\nmelhor resultado terapêutico e prognóstico dos casos.\n            Este PCDT visa a estabelecer os critérios de diagnóstico, acompanhamento e tratamento,\nincluindo terapia de reposição enzimática (TRE) intravenosa (TER IV) com alfavestronidase, de pacientes\ncom MPS VII. A metodologia de busca e avaliação das evidências estão detalhadas no Apêndice 4.\n\n2.          CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL                  DE    DOENÇAS      E   PROBLEMAS\nRELACIONADOS À SAÚDE (CID-10)\n           - E76.2 Outras Mucopolissacaridoses\n\n3.             DIAGNÓSTICO\n\n           A confirmação do diagnóstico de MPS VII envolve exames bioquímicos e, caso necessário,\ntestes genéticos, que deverão ser realizados sempre que houver suspeita clínica dessa doença.\n\n3.1.          Suspeita Diagnóstica\n\n           O diagnóstico de MPS VII deve ser suspeitado em indivíduos que apresentarem pelo menos\num dos seguintes sinais e sintomas abaixo relacionados, especialmente naqueles que tiverem a\ncombinação de pelo menos dois deles3:\n           - Características faciais sugestivas de doença lisossômica (face infiltrada ou de “depósito”);\n           - infecções respiratórias superiores precoces e de repetição, incluindo otite média, excluídas\noutras causas mais frequentes;\n           - perda auditiva;\n           - diminuição da velocidade de crescimento;\n           - hepatoesplenomegalia, excluídas outras causas mais frequentes;\n           - hérnias;\n           - hidropisia fetal;\n           - alterações esqueléticas ou articulares típicas [disostose múltipla, giba, limitação da\namplitude de movimento (AM) das articulações];\n           - mãos em garra;\n           - alterações cardíacas valvares ou cardiomiopatia;\n           - achados oculares característicos (opacificação bilateral da córnea);\n           - irmã (ão) com MPS VII.\n\n             Como os achados clínicos variam de acordo com a gravidade da doença, os sinais e sintomas,\npor si só, não são diagnósticos.\n\n3.2.          Diagnóstico laboratorial\n          A apresentação extremamente variável dessa doença dificulta o diagnóstico precoce\nbaseado somente na avaliação clínica. A confirmação do diagnóstico de MPS VII envolve métodos\nbioquímicos e genéticos, caso necessário (Figura 1).",
+      "char_count": 6370
+    },
+    {
+      "number": "3.2.1",
+      "title": "Análises bioquímicas (atividade da GUSB e análise da excreção urinária de GAG)",
+      "depth": 3,
+      "content": "A atividade deficiente de GUSB gera o acúmulo de GAG, que são excretados em quantidade\naumentada na urina, fundamentando a análise qualitativa ou quantitativa de GAG na urina 14. Contudo,\nem formas clínicas moderadas, especialmente em adultos, esses níveis urinários de GAG podem estar\nnormais ou apenas levemente aumentados. Estudos de granulócitos podem revelar inclusões\n\nmetacromáticas grosseiras nesses pacientes.1\n            A redução ou ausência de atividade da GUSB em fibroblastos, leucócitos ou sangue\nimpregnado em papel-filtro sugere fortemente o diagnóstico de MPS VII, mas não é suficiente para\nconfirmá-lo devido à possibilidade de ocorrência de pseudo-deficiência15. Para exclusão de pseudo-\ndeficiência, é necessária, também, a demonstração de níveis urinários aumentados de GAG (por meio de\ndosagem quantitativa de GAG totais ou cromatografia ou eletroforese de GAG evidenciando aumento\nde SH e SD) E análise genética compatível ou níveis normais de atividade da alfa-L-iduronidase (IDUA) e\niduronato-sulfatase (IDS) em leucócitos ou papel-filtro. Os níveis de atividade enzimática, contudo, não\npermitem uma determinação precisa da gravidade da doença.\n            O diagnóstico pré-natal é possível pela amniocentese ou coleta de amostras de vilosidades\ncoriônicas para medir a atividade da GUSB, ou ainda por meio de testes genéticos do gene GUSB.16",
+      "char_count": 1371
+    },
+    {
+      "number": "3.2.2",
+      "title": "Teste genético",
+      "depth": 3,
+      "content": "Testes genéticos do gene GUSB também estão disponíveis para fins diagnósticos e podem, às\nvezes, oferecer informações sobre o prognóstico. A presença de duas variantes patogênicas bialélicas no\ngene GUSB auxilia na confirmação do diagnóstico. A análise por sequenciamento do gene GUSB permite\na detecção das variantes que provocam a doença e, consequentemente, o diagnóstico genético e a\ndetecção de heterozigotos, facilitando o aconselhamento genético individual e familiar 3. Já foram\ndescritas 63 mutações no gene GUSB17 que levam à MPS VII.",
+      "char_count": 544
+    },
+    {
+      "number": "3.2.3",
+      "title": "Associação genótipo-fenótipo clínico",
+      "depth": 3,
+      "content": "A maior importância dos estudos de genótipo-fenótipo é a possibilidade de predição\naproximada, em idade precoce, da forma da doença que os indivíduos apresentarão. Apesar de não\nestar estabelecida para todas as variantes, para algumas delas há associação entre genótipo-fenótipo3, 9.\nPor exemplo, as variantes p.L176F, p.R382C, p.P408S e p.P415L associam-se ao fenótipo atenuado,\nenquanto a variante p.D362N associa-se ao fenótipo grave3. O alelo p.D512N é considerado um alelo de\npseudo-deficiência15.\n\n4.               CRITÉRIOS DE INCLUSÃO\n\n           Serão incluídos neste PCDT todos os pacientes que tiverem o diagnóstico de MPS VII\nconfirmado, de acordo com os critérios abaixo, os quais devem ser comprovados por laudo/relatório\nmédico e pela cópia dos exames realizados 3, 18, que são também os critérios para início do tratamento\ncom alfavestronidase, ou seja (Figura 1):\n\n            Presença de níveis aumentados de GAG totais na urina ou de excreção aumentada de SH ou\nSD E atividade da GUSB < 10% do limite inferior dos valores de referência em fibroblastos ou leucócitos\nou sangue impregnado em papel-filtro;\nE\na)     Atividade da IDUA e da IDS, avaliadas na mesma amostra que a GUSB deficiente, apresentando\nvalores normais;\nOU\nb)     Presença de variantes patogênicas em homozigose ou heterozigose composta no gene GUSB.\n\n           Os pacientes que já estiverem em uso de alfavestronidase quando da publicação deste PCDT\ndeverão ser reavaliados para verificação dos critérios de inclusão. Caso não preencham os critérios\nestabelecidos neste PCDT, a reposição da enzima deve ser imediatamente suspensa.\n\n                                       Suspeita diagnóstica a partir de sinais e sintomas de MPS VII\n\n\n                                Dosagem urinária de GAG totais aumentada ou aumento da excreção\n                                                          urinária de SH e SD\n                                                                   E\n                               Atividade da GUSB < 10% do limite inferior dos valores de referência em\n                                   fibroblastos ou leucócitos ou sangue impregnado em papel-filtro\n\n                               Atividade da GUSB < 10% do limite inferior dos valores de referência em\n\n\n\n\n             Diagnóstico\n                                   fibroblastos\n                                       Atividadeou\n                                                 daleucócitos  ou sangue\n                                                    alfa-L-iduronidase    impregnado\n                                                                        e da          em papel-filtro\n                                                                             iduronato-sulfatase\n                                Dosagem urinária de GAGs totais     aumentada ou aumento da excreção\n                                                                normais\n                                                           urináriaOU\n                                                                    de SH e SD\n                                                                     E\n                                        Presença de variantes patogênicas    em homozigose ou\n                                                 heterozigose composta no gene GUSB\n\n\n\n\n                                        Sim               Algum critério                  Não\n                                                           de exclusão\n                                                            para TRE?\n\n\n\n                           Tratamento de Suporte                                    Iniciar TRE com alfavestronidase\n\n\n\n\nFigura 1 - Fluxograma para o Diagnóstico e Tratamento da MPS VII\n\nGAG= Glicosaminoglicanos. SH= sulfato de heparan. SD= sulfato de dermatan. GUSB= beta-\nglicuronidase. TRE= terapia de reposição enzimática.\n\n\n\n5.                   CRITÉRIOS DE EXCLUSÃO\n\n           Serão excluídos do tratamento com alfavestronidase os pacientes que se enquadrarem em\npelo menos uma das seguintes situações:\n✓ Condição médica irreversível e que implique em sobrevida provavelmente < 6 meses como resultado\nda MPS VII ou de outra doença associada, em acordo entre mais de um especialista, incluindo a forma\ngrave neonatal da doença (com manifestações multissistêmicas e hidropisia fetal)3;\n✓ pacientes maiores de 18 anos que, após serem informados sobre os potenciais riscos e benefícios\nassociados ao tratamento com alfavestronidase, recusarem-se a serem tratados.\n\n6.                   CASOS ESPECIAIS\n\n            Inexistem dados disponíveis sobre segurança para a gestante e o feto quanto ao uso da\nalfavestronidase durante a gestação e lactação, embora não se espere que enzimas recombinantes\n\ncruzem a barreira placentária ou sejam excretadas em quantidade aumentada no leite materno19-21.\nRecomenda-se que o tratamento com TRE não seja iniciado durante a gestação.\n            Quando houver reação à infusão mediada por IgE, deve ser discutida a possibilidade de\ntolerância.\n\n7.               TRATAMENTO\n\n            O tratamento dos pacientes com MPS VII é estabelecido com base na melhor evidência\ndisponível, também para outras mucopolissacaridoses, uma vez que se trata de doença ultra-rara. Ele\nenvolve equipe multidisciplinar18, 22-24 e inclui intervenções inespecíficas, realizadas no nível do fenótipo\nclínico (como cirurgias para correção das alterações esqueléticas), e específicas, realizadas no nível da\nproteína mutante (como a TRE intravenosa)18, 25.\n            O transplante de células tronco-hematopoiéticas (TCTH) não está indicado em pacientes com\nMPS VII devido à alta heterogeneidade e limitações dos estudos existentes até o momento da\npublicação deste PCDT3, 26-28.",
+      "char_count": 5767
+    },
+    {
+      "number": "7.1",
+      "title": "Conduta Geral",
+      "depth": 2,
+      "content": "O paciente com MPS VII tem uma doença crônica, progressiva e multissistêmica e\nrotineiramente requer cuidados urgentes por equipe multiprofissional que inclua fonoaudiólogos,\nfisioterapeutas, terapeutas ocupacionais, equipe de enfermagem e diferentes especialidades médicas,\nentre outros profissionais18. É crucial que um médico cuide continuamente do paciente, monitorando a\nevolução da doença, fornecendo orientação à família, encaminhando o paciente para especialistas\nconforme necessário e coordenando o atendimento ao paciente como um todo, idealmente em um\ncentro de referência. Como é uma doença genética, com risco de recorrência de 25% para os irmãos do\npaciente afetado, é fundamental a realização de aconselhamento genético por profissional habilitado.\n            Além disso, é importante que os pacientes e as famílias sejam orientados sobre sua doença e\npossíveis complicações e riscos, também por meio de um relatório escrito. Os pacientes também devem\nser informados de que, em caso de emergência, o médico assistente deve ser informado sobre a doença\ne receber uma cópia do relatório médico.18 Os pacientes com MPS VII podem desenvolver sintomas\nneurológicos secundários à compressão medular; dessa forma, um neurocirurgião poderá fazer parte da\nequipe multidisciplinar de seu acompanhamento.18\n            As principais manifestações clínicas da MPS VII e suas opções de tratamento de suporte e\nsintomáticas podem ser encontradas no Apêndice 1. É importante frisar que nem todos os pacientes\napresentarão todas as manifestações citadas, as quais costumam ser mais frequentes e mais graves nos\npacientes com a forma grave da doença, que envolve história prévia de hidropisia fetal. Da mesma\nforma, nem todos os pacientes necessitarão ser submetidos a todas as formas de tratamento.",
+      "char_count": 1798
+    },
+    {
+      "number": "7.1.1",
+      "title": "Tratamento ortopédico",
+      "depth": 3,
+      "content": "Pacientes com MPS VII apresentam acometimento ósseo3, 18, 22, 29 e requerem fisioterapia\nmotora dinâmica, cujo objetivo principal é a prevenção ou estabilização de deformidades\nosteoarticulares, mantendo a amplitude de movimento. A fisioterapia, associada ou não a medicação\nanalgésica, deve se concentrar em massoterapia para ajudar o relaxamento de todos os músculos, além\nde manobras e manipulações de todas as articulações com movimentos lentos para não causar dor, de\nacordo com os critérios da técnica de mobilização miofascial18.\n          Além disso, equipamentos de auxílio da marcha ou cadeira de rodas podem aumentar a\nmobilidade e aliviar a dor; contudo, esforços na medida de postergar ao máximo a utilização dos\nmesmos devem ser feitos para manter esses pacientes móveis por maior tempo possível, uma vez que a\nsua qualidade de vida reduz drasticamente ao se tornarem dependentes de cadeira de rodas 18.",
+      "char_count": 917
+    },
+    {
+      "number": "7.1.2",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "As manifestações respiratórias são as principais causas de morbimortalidade e podem\nocorrer por causas obstrutivas ou restritivas18. Entre os objetivos do tratamento clínico está o melhor\ncontrole das infecções recorrentes de via aérea. Normalmente, solução salina é usada para eliminar\ncrostas e secreções. Antibióticos são utilizados para o tratamento de exacerbações respiratórias agudas\nde origem bacteriana, como otite média aguda ou tonsilite, conforme indicação clínica e a critério\nmédico. Corticosteroides sistêmicos por breves períodos podem ajudar a reduzir o edema e facilitar a\ndrenagem de secreções, conforme indicação clínica e a critério médico. Os medicamentos para asma\ndevem ser administrados conforme PCDT específico para essa condição clínica30. Pacientes podem,\nainda, se beneficiar de terapias de suporte, como imunizações regulares para influenza e pneumococo 18,\nseguindo o calendário obrigatório de vacinação do SUS.\n             Fisioterapia respiratória visa a melhorar a função pulmonar, ventilação e biomecânica\nrespiratória, prejudicadas na MPS VII3. Estão indicadas as manobras de higiene brônquica descritas na\nliteratura, como vibrocompressão, drenagem postural, tosse controlada por manobra de aceleração do\nfluxo expiratório, nebulização e aspiração nasotraqueal com material estéril e descartável. Orientação\npara cuidadores e membros da família é de vital importância, porque a fisioterapia respiratória deve ser\nrealizada diariamente.18",
+      "char_count": 1475
+    },
+    {
+      "number": "7.1.3",
+      "title": "Tratamento oftalmológico",
+      "depth": 3,
+      "content": "A opacificação na córnea e as alterações de refração (astigmatismo, miopia e hipermetropia)\nsão comuns na MPS VII, podendo levar à diminuição da acuidade visual e fotossensibilidade18, 31. Lentes\ncorretivas devem ser prescritas para corrigir erros de refração18. O transplante de córnea pode melhorar\nnotavelmente a visão18, embora possa ocorrer opacificação na córnea transplantada, como já relatado\npara a MPS IV-A32.",
+      "char_count": 419
+    },
+    {
+      "number": "7.1.4",
+      "title": "Tratamento das manifestações cardíacas",
+      "depth": 3,
+      "content": "O tratamento do acometimento cardíaco é essencialmente de suporte, envolvendo\nidentificação e tratamento de pacientes com insuficiência cardíaca congestiva desenvolvida como\nresultado da miocardiopatia, geralmente hipertrófica ou, mais raramente, devido a disfunção valvar\ngrave. Nesse caso, o paciente deve ser tratado com betabloqueador, inibidor da enzima conversora da\nangiotensina ou diurético, conforme a avaliação clínica. No último caso, os pacientes devem se\nsubmeter a valvuloplastia com balão ou reparação/substituição valvar cirúrgica 33-36. De acordo com as\norientações da American Heart Association, recomenda-se profilaxia de endocardite bacteriana apenas\npara pacientes com história de endocardite ou prótese valvar37.",
+      "char_count": 734
+    },
+    {
+      "number": "7.1.5",
+      "title": "Tratamento das manifestações cognitivas",
+      "depth": 3,
+      "content": "Crianças com MPS VII devem receber o máximo de estimulação possível ao desenvolvimento\ndurante os estágios iniciais da doença. A adaptação do ambiente às necessidades da criança (por\nexemplo, teclados com caracteres de grandes dimensões) pode apoiar o desenvolvimento. Habilidades\ndesenvolvidas precocemente podem ser mantidas em fases posteriores de progressão da doença.\nCrianças com MPS VII que tenham dificuldade de aprendizagem ou alterações comportamentais e\nbeneficiam-se de intervenções usuais para crianças sem MPS38.",
+      "char_count": 526
+    },
+    {
+      "number": "7.1.6",
+      "title": "Tratamento cirúrgico",
+      "depth": 3,
+      "content": "A MPS VII pode evoluir com complicações neurológicas, como hidrocefalia comunicante e\ncompressão medular18, 39, 40; porém, os sinais clássicos de hipertensão intracraniana geralmente estão\nausentes, evoluindo de forma insidiosa, e os sintomas são difíceis de distinguir de danos primários ao\ncérebro18. A maioria dos casos de compressão medular apresentam tetraparesia espástica, mas\nparaparesia espástica ou hemiparesia também podem ocorrer, conforme descrito para outras MPS. 41\n\n            Cirurgia de coluna tóraco-lombar para correção da cifose pode ser uma alternativa quando a\ndeformidade progride42-45. Há relatos que sugerem que os pacientes com MPS que realizam cirurgia da\ncoluna vertebral aumentam risco de grandes complicações, incluindo infarto da medula espinhal e\ninstabilidade da coluna vertebral42. Assim, cirurgias de coluna devem ter avaliações periódicas de\nmonitorização com neurofisiologia. Seguimento com ressonância magnética do crânio ao diagnóstico e\ndurante o seguimento a cada 2 a 3 anos é recomendado e imagens da coluna devem ser obtidas na\npresença de novos sintomas39. Eventualmente esses pacientes necessitam de cirurgias corretivas devido\na deformidades ósseas diversas, incluindo a região do quadril e joelhos 18, 29.\n            Com relação ao tratamento cirúrgico das manifestações clínicas nas vias aéreas, os\nprocedimentos cirúrgicos mais frequentes incluem adenotonsilectomia, cirurgia de cornetos nasais e\ntraqueostomia18. Como o bloqueio das vias aéreas em MPS é multifatorial, os resultados da\nadenotonsilectomia variam, mas a melhora a médio prazo na qualidade respiratória é percebida na\nmaioria dos casos. Com relação ao tratamento da perda auditiva, quando decorrente de causas\ncondutivas e por infecções respiratórias frequentes requer inserção de tubos de ventilação de longa\nduração, porém nem sempre é resolutivo46.\n            Cirurgias das vias aéreas podem ser complicadas pela macroglossia, abertura limitada da\nboca, margem cirúrgica restrita e instabilidade da coluna cervical, dificultando a visualização do campo\ncirúrgico. Hiperextensão no pescoço nesses pacientes pode causar compressão medular aguda. Uma\nalternativa de realização de adenoidectomia, quando o acesso pela abertura bucal está comprometido,\né a cirurgia endoscópica por via nasal47. A traqueostomia definitiva ou temporária pode ser realizada\nantes de outras cirurgias para facilitar o controle das vias aéreas, se o suporte ventilatório for inefetivo\nou em pacientes com obstrução de via aérea também quando acordados. A traqueostomia deve ser\nevitada sempre que possível, devido a dificuldades na técnica cirúrgica, endurecimento da traqueia,\nalterações anatômicas significativas como pescoço curto, e possibilidade de complicações pós-\noperatórias, como traqueíte, pneumonia recorrente e bloqueio da traqueostomia por secreções\nespessas. Assim, como as complicações são frequentes neste procedimento, sugere-se a realização\napenas em centros com experiência nesses pacientes18. Os desafios da gestão de uma traqueostomia\nnesses pacientes, associados à dificuldade de aceitação pelo paciente e pela família, também devem ser\nlevados em consideração.\n            O tratamento cirúrgico das manifestações oftalmológicas consiste, quando necessário, em\ncorreção do estrabismo, do aumento da pressão intraocular, além do transplante de córnea já\nmencionado. Além disso, quando há aumento da pressão intracraniana, a drenagem ventrículo-\nperitoneal pode evitar atrofia do nervo ótico e perda de visão, podendo ser indicada também a\ndescompressão cirúrgica deste nervo18.\n            Muitos pacientes com MPS apresentam risco anestésico elevado devido à obstrução das vias\naéreas superiores. Avaliação pré-operatória para planejamento dos riscos sempre está indicada18, uma\nvez que a dificuldade na intubação pode ser fatal48. Idealmente os procedimentos cirúrgicos devem ser\nrealizados em centros de referência com experiência em MPS, sendo fundamental a presença de\nanestesista experiente em intubação difícil para a realização desses procedimentos, pois a necessidade\nde acompanhar a intubação com fibroscopia é frequente. As máscaras laríngeas podem ser usadas para\no tratamento das vias aéreas por períodos curtos ou para facilitar a intubação de fibra óptica 48-50. Os\ntubos endotraqueais podem precisar ser menores do que o previsto para a idade e o tamanho de um\npaciente com MPS VII. Pacientes geralmente apresentam obstrução pós-operatória das vias aéreas, e a\nnecessidade de manter em observação hospitalar durante a noite não são incomuns. A consciência da\npossibilidade de traqueostomia pós-operatória é importante para todas as partes envolvidas. Quando\npossível, os procedimentos que exigem anestesia geral devem ser evitados, para minimizar os riscos\ndescritos.",
+      "char_count": 4801
+    },
+    {
+      "number": "7.2",
+      "title": "Tratamento Específico - Terapia de reposição enzimática (TRE)",
+      "depth": 2,
+      "content": "A alfavestronidase é uma forma recombinante de GUSB e é produzida em células de ovário de\nhamster chinês (Chinese Hamster Ovary Cells - CHO) e trata-se do fármaco disponível para o tratamento\nespecífico da MPS VII2, 25, 51. A alfavestronidase foi considerada segura nos estudos avaliados, com\neventos adversos leves na maioria dos casos52, 53 e eficaz para melhora nos níveis urinários de GAG\n(redução de pelo menos 50% já no primeiro mês de tratamento)2, 54. Existem indícios de melhora da\nhepatoesplenomegalia associada ao tratamento2, 54, 55. Além disso, há evidência de estabilidade, em 24\nsemanas de tratamento, para o escore de fadiga e para os seguintes desfechos do “Índice Multidomínios\nde Respondedor Clínico” (IMRC): distância percorrida no teste da caminhada dos 6 minutos (TC6M) e\nacuidade visual2, 55-58. O efeito da TRE no escore de fadiga foi avaliado por meio do instrumento\nInventário de Qualidade de Vida Pediátrico - Módulo Multidimensional de Fadiga (PedsQL-Fadiga), já\nvalidado no Brasil para a população pediátrica geral59, e composto por 3 dimensões: fadiga geral,\nsono/descanso e cognição. Esse instrumento foi aplicado a 12 pacientes com MPS VII, com idades que\nvariaram entre 8 e 25 anos. A motricidade fina e grossa foi avaliada por meio do instrumento de\nBruininks-Oseretsky (BOT-2), que não se encontra validado no Brasil2.",
+      "char_count": 1353
+    },
+    {
+      "number": "7.2.1",
+      "title": "Fármaco",
+      "depth": 3,
+      "content": "- Alfavestronidase: solução injetável contendo 10 mg em 5mL.",
+      "char_count": 60
+    },
+    {
+      "number": "7.2.2",
+      "title": "Esquema de administração",
+      "depth": 3,
+      "content": "A dose preconizada para a alfavestronidase é de 4 mg/kg de peso corporal, administrada\numa vez a cada duas semanas por infusão intravenosa. O uso de antipiréticos ou anti-histamínicos é\nrecomendado 30 a 60 minutos antes do início da infusão2, 18, 21, 51, que deve ser feita em ambiente\nhospitalar ou ambulatorial. O volume total da infusão é determinado pelo peso corporal do paciente e\ndeve ser infundido ao longo de 4 horas. A taxa de infusão inicial deve ser de 2,5% do volume da dose do\nmedicamento por hora durante a primeira hora. Se a infusão for bem tolerada, a velocidade de infusão\npode ser aumentada para um montante igual ao volume restante de 97,5% dividido por 3 horas e\npermanecer nessa taxa até que a infusão seja concluída em aproximadamente 3 horas. O tempo de\ninfusão pode ser prolongado até 20 horas se ocorrerem reações à infusão2, 21.",
+      "char_count": 856
+    },
+    {
+      "number": "7.2.3",
+      "title": "Riscos e benefícios esperados",
+      "depth": 3,
+      "content": "Um ensaio clínico para avaliação da eficácia e segurança da TRE com alfavestronidase\nincluindo 12 pacientes mostrou uma diminuição rápida e sustentada da excreção de GAG na urina após\nTRE, o que, do ponto de vista farmacodinâmico, demonstra mecanismo de ação compatível com a\nfisiopatologia da doença2. Avaliando a eficácia da TRE por meio do IMRC combinando de forma\nindependente 6 domínios (TC6M; CVF; amplitude de flexão dos ombros; acuidade visual; teste de BOT-2\npara motricidade fina; e teste de BOT-2 para motricidade grossa) considerados importantes no contexto\nda progressão clínica da doença2, observou-se uma variação média de +0,5 (DP ±0,8) no IMRC, após 24\nsemanas de tratamento (p=0,0527). O IMRC é o resultado do somatório de pontuações atribuídas para\ncada um dos domínios de acordo com um escore de diferenças clínicas minimamente relevantes pré-\nespecificadas (-1 para declínio; 0 para nenhuma mudança ou inacessível; e +1 para melhoria) (Tabela\n1/Apêndice 2). Assim, resultados positivos no somatório do IMRC incicam melhora clínica, enquanto\nresultados negativos indicam declínio. Neste mesmo estudo, o escore do PedsQL-Fadiga também foi\navaliado. Em análise pos-hoc, a média de variação no IMRC incluindo escore total de fadiga foi de +0,8\n(DP ±0,94) (p=0,01) após 24 semanas de tratamento com TRE.2\n            Relatos e séries de caso mostraram outros efeitos benéficos da TRE para pacientes com MPS\nVII: diminuição da frequência de uso de suporte respiratório (n=2/4)58, 60, aumento de frequência escolar\ne de normalização de hábitos alimentares (n=1/1)58. Houve melhora da esplenomegalia em 3 pacientes\ne da hepatomegalia em 2 pacientes com MPS VII após 12 semanas de tratamento55. Redução da\n\nhepatomegalia ocorreu em 2/7 pacientes que tiveram este desfecho avaliado em Harmatz et al. (2018) 2 ,\ne resultado similar foi encontrado por Dubot et al. (2019) em seu relato de caso 54.\n            O medicamento mostrou-se seguro e as reações anafilactoides registradas em alguns casos\npodem ser evitadas pelo controle do tempo de infusão e utilização de medicamentos adequados. O uso\nseguro da alfavestronidase foi descrito para pacientes com MPS VII entre 8 e 15 anos de idade, e em\npacientes a partir de 4 meses de idade 2, 54. A alfavestronidase, com os dados observados até agora, não\nparece ultrapassar barreira-hematoencefálica, e desta forma não parece ter benefício nas\nmanifestações neurológicas da doença.2, 51, 61",
+      "char_count": 2446
+    },
+    {
+      "number": "7.2.4",
+      "title": "Eventos adversos",
+      "depth": 3,
+      "content": "As reações adversas mais comuns foram reação anafilactoide (13%), urticária (13%), inchaço\nno local da infusão (13%), extravasamento no local da infusão (8,7%), prurido (8,7%), diarreia (8.7%) e\nerupção cutânea (8,7%)21, 62.\n             Anafilaxia: foi relatada anafilaxia para alfavestronidase em 2 dos 20 pacientes no programa\nclínico. Essas reações ocorreram durante a infusão do medicamento e foram observadas já na primeira\ndose administrada a um paciente. A anafilaxia pode ser letal. O medicamento deve ser administrado sob\na supervisão de um profissional de saúde com capacidade para lidar com anafilaxia. Os pacientes devem\nser observados por 60 minutos após a administração. Se ocorrerem reações sistêmicas graves, incluindo\nanafilaxia, a infusão deve ser interrompida e tratamento médico apropriado providenciado. Antes da\nalta, deve-se informar aos pacientes sobre os sinais e sintomas da anafilaxia e instruí-los a procurar\natendimento médico imediato se apresentarem sintomas. Devem ser considerados os riscos e benefícios\nde se administrar o medicamento após anafilaxia.21, 62\n             Imunogenicidade: tal como acontece com todas as proteínas terapêuticas, existe potencial\npara imunogenicidade.21, 62",
+      "char_count": 1222
+    },
+    {
+      "number": "7.2.5",
+      "title": "Tempo de tratamento – Critérios de interrupção",
+      "depth": 3,
+      "content": "Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, ao\npaciente ou aos pais ou responsáveis quando a TRE estiver sendo considerada e antes de iniciá-la.\nDurante o acompanhamento do paciente com TRE, os parâmetros de resposta terapêutica deverão ser\navaliados periodicamente e discutidos com os pais, paciente ou responsáveis. No caso de interrupção\npor falha de adesão, o paciente e parentes deverão ser inseridos em programa educativo de incentivo à\nadesão, e o paciente poderá retornar ao tratamento, caso haja comprometimento explícito de\nseguimento das recomendações médicas. O tempo de tratamento não pode ser pré-determinado,\ndevendo ser mantido enquanto indicado e dele o doente se beneficie.\n            Para fins deste PCDT, a TRE deve ser interrompida nas seguintes situações 2, 63, 64:\n            a) Pacientes que não apresentarem melhora após 3 meses de tratamento dos níveis basais\nde GAG urinários (melhora definida como a redução dos níveis urinários de GAG em pelo menos 50% em\nrelação aos níveis basais);\n            b) Pacientes que não apresentarem melhora clinicamente relevante após 6 meses de\ntratamento: melhora em pelo menos 1 de 4 domínios da escala IMRC modificada (retirados os domínios\ndo instrumento BOT-2, que não se encontram validados no Brasil), conforme item monitoramento e\napêndices 2 e 3; OU redução da hepatomegalia ou da esplenomegalia (por quaisquer dos métodos\nutilizados para aferição dessa condição: exame físico, ecografia abdominal ou ressonância abdominal);\nOU melhora do escore do PedsQL-Fadiga, conforme o item monitoramento e os apêndices 2 e 3;\n            c) Pacientes que desenvolverem condição irreversível que implique em morte iminente, cujo\nprognóstico não se alterará devido ao uso da TRE, como resultado da MPS VII ou de outra doença\nassociada, em acordo entre mais de um especialista;\n\n             d) Pacientes que não apresentarem pelo menos 50% de adesão ao número de infusões\nprevistas em um ano, ou ao número de consultas previstas em um ano, ou ao número de avaliações\nprevistas em um ano com o médico responsável pelo seguimento do paciente, desde que previamente\ninseridos, sem sucesso, em programa educativo específico para melhora de adesão, elaborado por cada\ncentro de referência, no qual a equipe assistente avalia os fatores envolvidos na adesão, orienta o\npaciente e, em conjunto, buscam soluções para esta questão. Ou seja, pacientes que, mesmo após o\nprograma de adesão, não comparecerem a pelo menos 50% do número de infusões, consultas ou\navaliações previstas em um ano;\n           e) Pacientes que apresentarem hipersensibilidade ou reação adversa grave (choque\nanafilático, risco de óbito) ao uso da alfavestronidase, que não podem ser controladas com segurança\nutilizando medidas terapêuticas e preventivas apropriadas;\n             f) Pacientes maiores de 18 anos que, após serem devidamente informados sobre os riscos e\nbenefícios de sua decisão, optarem por não mais se submeterem ao tratamento com TRE intravenosa\ncom alfavestronidase.",
+      "char_count": 3051
+    },
+    {
+      "number": "8",
+      "title": "MONITORAMENTO",
+      "depth": 1,
+      "content": "A monitorização do tratamento clínico dos pacientes com MPS VII também é estabelecida\ncom base na evidência disponível para outras MPS, uma vez que se trata de doença ultra-rara. Os\npacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve realizar\nanamnese completa em cada consulta e coletar dados de altura (em pé ou em decúbito dorsal, e, no\ncaso de restrições nos membros inferiores, por segmento), peso e perímetro cefálico, de preferência\nusando o mesmo instrumento, devidamente calibrado. O exame físico deve ser completo e incluir sinais\nvitais (temperatura, frequência cardíaca, frequência respiratória e pressão arterial), bem como medidas\npara quantificação do tamanho do fígado (por hepatimetria) e do baço . A avaliação do desenvolvimento\nsexual deve ser realizada em adolescentes, de acordo com os critérios de Tanner 65, 66. Nas consultas,\ndados sobre todas as avaliações realizadas desde o último agendamento devem ser obtidos e os testes\nnecessários devem ser solicitados, incluindo avaliação por especialistas em neurologia,\notorrinolaringologia, ortopedia, oftalmologia, cardiologia e pneumologia, conforme indicação clínica e a\ncritério do médico assistente.\n            As avaliações de rotina devem ser realizadas semestralmente pelo médico assistente com\nvacinas, orientação dietética, exames e conselhos preventivos.18 Os pacientes e seus familiares devem\nter acesso ao aconselhamento genético.\n            O Apêndice 3 apresenta as avaliações consideradas mínimas para o acompanhamento de\npacientes com MPS VII, sendo necessárias para o acesso ao medicamento. São definidos períodos\nmínimos apenas para aquelas avaliações que têm por objetivo detectar a eficácia e segurança da TRE;\npara as demais, a periodicidade de avaliações fica a critério do médico assistente. Alguns componentes\ndas avaliações específicas serão discutidos a seguir.\n            O IMRC foi a escala utilizada para avaliar a resposta terapêutica nesses pacientes e pode ser\nutilizada para monitorização da doença. O IMRC é composto de seis domínios; contudo, uma vez que o\nteste BOT-2 função motora global e fina não está validado na população brasileira, foi excluído para fins\nde avaliação neste PCDT. Assim, os domínios incluídos foram os seguintes: TC6M; CVF; amplitude de\nflexão dos ombros; acuidade visual, além do PedsQL-Fadiga (Tabela 1/Apêndice 2).\n            A quantificação de GAG urinários é utilizada para diagnóstico e, também, monitorização do\ntratamento específico da MPS VII, uma vez que, na vigência de tratamento, ocorre diminuição da\nexcreção dessas moléculas2, 18, 67.\n            Como parte da avaliação do tratamento, deve-se monitorar o uso, a adesão, a indicação e os\nresultados da TRE com alfavestronidase. Por meio desse monitoramento, será possível estabelecer\ngrupos de pacientes que são de fato beneficiados e reavaliar a incorporação do medicamento a médio\n\nprazo.",
+      "char_count": 2928
+    },
+    {
+      "number": "9",
+      "title": "REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste Protocolo, a duração e o\nmonitoramento do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a\nadequação de uso do medicamento.\nO tratamento da MPS II deve ser feito por equipe em serviços especializados, para fins de diagnóstico e\nde acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige experiência e\nfamiliaridade com manifestações clínicas associadas, convém que o médico responsável tenha\nexperiência e seja treinado nessa atividade.\n        Verificar na Relação Nacional de Medicamentos Essenciais (Rename) vigente em qual\ncomponente da Assistência Farmacêutica se encontra o medicamento preconizado neste PCDT.\nPara a administração dos medicamentos é essencial o atendimento centralizado, para maior\nracionalidade do uso e avaliação da efetividade. A infusão deve ser feita em ambiente hospitalar ou\nambulatorial. Infusões domiciliares podem ser consideradas após 6 meses de tratamento sem\nintercorrências.",
+      "char_count": 1047
+    },
+    {
+      "number": "10",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE (TER)",
+      "depth": 1,
+      "content": "Deve-se informar ao paciente, ou seu responsável legal, sobre os potenciais riscos,\nbenefícios e efeitos adversos relacionados ao uso do medicamento preconizado neste PCDT, bem como\ncritérios para interrupção do tratamento, levando-se em consideração as informações contidas no TER.",
+      "char_count": 282
+    },
+    {
+      "number": "11",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Guffon N, Froissart R, Fouilhoux A. A rare late progression form of Sly syndrome",
+      "depth": 1,
+      "content": "mucopolysaccharidosis. JIMD Rep. 2019;49(1):1-6.",
+      "char_count": 48
+    },
+    {
+      "number": "2",
+      "title": "Harmatz P, Whitley CB, Wang RY, Bauer M, Song W, Haller C, et al. A novel Blind Start study",
+      "depth": 1,
+      "content": "design to investigate vestronidase alfa for mucopolysaccharidosis VII, an ultra-rare genetic disease. Mol\nGenet Metab. 2018;123(4):488-94.",
+      "char_count": 138
+    },
+    {
+      "number": "3",
+      "title": "Montaño AM, Lock-Hock N, Steiner RD, Graham BH, Szlago M, Greenstein R, et al. Clinical course",
+      "depth": 1,
+      "content": "of sly syndrome (mucopolysaccharidosis type VII). J Med Genet. 2016;53(6):403-18.",
+      "char_count": 81
+    },
+    {
+      "number": "4",
+      "title": "Giugliani R, Federhen A, Michelin-Tirelli K, Riegel M, Burin M. Relative frequency and estimated",
+      "depth": 1,
+      "content": "minimal frequency of Lysosomal Storage Diseases in Brazil: Report from a Reference Laboratory. Genet\nMol Biol. 2017;40(1):31-9.",
+      "char_count": 127
+    },
+    {
+      "number": "5",
+      "title": "Federhen A, Pasqualim G, de Freitas TF, Gonzalez EA, Trapp F, Matte U, et al. Estimated birth",
+      "depth": 1,
+      "content": "prevalence of mucopolysaccharidoses in Brazil. Am J Med Genet A. 2020;182(3):469-83.",
+      "char_count": 84
+    },
+    {
+      "number": "6",
+      "title": "Josahkian JA, Trapp FB, Burin MG, Michelin-Tirelli K, Magalhães APPS, Sebastião FM, et al.",
+      "depth": 1,
+      "content": "Updated birth prevalence and relative frequency of mucopolysaccharidoses across Brazilian regions.\nGenet Mol Biol. 2021;44(1):e20200138.",
+      "char_count": 136
+    },
+    {
+      "number": "7",
+      "title": "McCafferty EH, Scott LJ. Vestronidase Alfa: A Review in Mucopolysaccharidosis VII. BioDrugs.",
+      "depth": 1,
+      "content": "2019;33(2):233-40.",
+      "char_count": 18
+    },
+    {
+      "number": "8",
+      "title": "Khan FI, Shahbaaz M, Bisetty K, Waheed A, Sly WS, Ahmad F, et al. Large scale analysis of the",
+      "depth": 1,
+      "content": "mutational landscape in β-glucuronidase: A major player of mucopolysaccharidosis type VII. Gene.\n2016;576(1 Pt 1):36-44.",
+      "char_count": 120
+    },
+    {
+      "number": "9",
+      "title": "Tomatsu S, Montaño AM, Dung VC, Grubb JH, Sly WS. Mutations and polymorphisms in GUSB",
+      "depth": 1,
+      "content": "gene in mucopolysaccharidosis VII (Sly Syndrome). Hum Mutat. 2009;30(4):511-9.",
+      "char_count": 78
+    },
+    {
+      "number": "10",
+      "title": "Suarez-Guerrero JL, Gómez Higuera PJ, Arias Flórez JS, Contreras-García GA.",
+      "depth": 1,
+      "content": "[Mucopolysaccharidosis: clinical features, diagnosis and management]. Rev Chil Pediatr. 2016;87(4):295-\n304.",
+      "char_count": 108
+    },
+    {
+      "number": "11",
+      "title": "Zielonka M, Garbade SF, Kölker S, Hoffmann GF, Ries M. Quantitative clinical characteristics of 53",
+      "depth": 1,
+      "content": "patients with MPS VII: a cross-sectional analysis. Genet Med. 2017;19(9):983-8.",
+      "char_count": 79
+    },
+    {
+      "number": "12",
+      "title": "National Organization for Rare Disorders [Internet]. Mucopolysaccharidosis Type VII; 2017.",
+      "depth": 1,
+      "content": "Available from: https://rarediseases.org/rare-diseases/sly-syndrome/.",
+      "char_count": 69
+    },
+    {
+      "number": "13",
+      "title": "Péntek M, Gulácsi L, Brodszky V, Baji P, Boncz I, Pogány G, et al. Social/economic costs and",
+      "depth": 1,
+      "content": "health-related quality of life of mucopolysaccharidosis patients and their caregivers in Europe. Eur J\nHealth Econ. 2016;17 Suppl 1:89-98.",
+      "char_count": 138
+    },
+    {
+      "number": "14",
+      "title": "Albuquerque R, Liberalesso P, Santos M, Klagenberg K, Jurkiewicz A, Zeigelboim B. Aspectos",
+      "depth": 1,
+      "content": "eletrencefalográficos em crianças com mucopolissacaridose. J\nEpilepsy Clin Neurophysiol. 2010;16(4):162-6.",
+      "char_count": 106
+    },
+    {
+      "number": "15",
+      "title": "Vervoort R, Islam MR, Sly W, Chabas A, Wevers R, de Jong J, et al. A pseudodeficiency allele",
+      "depth": 1,
+      "content": "(D152N) of the human beta-glucuronidase gene. Am J Hum Genet. 1995;57(4):798-804.",
+      "char_count": 81
+    },
+    {
+      "number": "16",
+      "title": "Chabás A, Guardiola A. beta-Glucuronidase deficiency: identification of an affected fetus with",
+      "depth": 1,
+      "content": "simultaneous sampling of chorionic villus and amniotic fluid. Prenat Diagn. 1993;13(6):429-33.",
+      "char_count": 94
+    },
+    {
+      "number": "17",
+      "title": "Institute of Medical Genetics in Cardiff [Internet]. Human Gene Mutation Database. 2018.",
+      "depth": 1,
+      "content": "Available from: http://www.hgmd.cf.ac.uk/ac/index.php.",
+      "char_count": 54
+    },
+    {
+      "number": "18",
+      "title": "Giugliani R, Harmatz P, Wraith JE. Management guidelines for mucopolysaccharidosis VI.",
+      "depth": 1,
+      "content": "Pediatrics. 2007;120(2):405-18.",
+      "char_count": 31
+    },
+    {
+      "number": "19",
+      "title": "Dornelles AD, de Oliveira Netto CB, Vairo F, de Mari JF, Tirelli KM, Schwartz IV. Breastfeeding in",
+      "depth": 1,
+      "content": "Gaucher disease: is enzyme replacement therapy safe? Clin Ther. 2014;36(6):990-1.",
+      "char_count": 81
+    },
+    {
+      "number": "20",
+      "title": "Paskulin L, Dornelles AD, Quevedo A, Nalin T, Tirelli KM, Vairo F, et al. Breastfeeding in patients",
+      "depth": 1,
+      "content": "with Gaucher disease: Is taliglucerase alfa safe? Mol Genet Metab Rep. 2019;18:30-1.",
+      "char_count": 84
+    },
+    {
+      "number": "21",
+      "title": "Mepsevii® (alfavestronidase) [bula de remédio]. São Paulo: Ultragenyx Pharmaceutical; 2018.",
+      "depth": 1,
+      "content": "22.     Neufeld EF, Muenzer J. Part 16: Lysosomal Disorders - The Mucopolysaccharidoses. In: Valle DL,\nAntonarakis S, Ballabio A, Beaudet AL, Mitchell GA, editors. The Online Metabolic and Molecular Bases\nof Inherited Disease: McGraw-Hill Education; 2019.",
+      "char_count": 255
+    },
+    {
+      "number": "23",
+      "title": "Pastores GM. Musculoskeletal complications encountered in the lysosomal storage disorders.",
+      "depth": 1,
+      "content": "Best Pract Res Clin Rheumatol. 2008;22(5):937-47.",
+      "char_count": 49
+    },
+    {
+      "number": "24",
+      "title": "Turra GS, Schwartz IV. Evaluation of orofacial motricity in patients with mucopolysaccharidosis: a",
+      "depth": 1,
+      "content": "cross-sectional study. J Pediatr (Rio J). 2009;85(3):254-60.",
+      "char_count": 60
+    },
+    {
+      "number": "25",
+      "title": "Schwartz IV, Souza CF, Giugliani R. Treatment of inborn errors of metabolism. J Pediatr (Rio J).",
+      "depth": 1,
+      "content": "2008;84(4 Suppl):S8-19.",
+      "char_count": 23
+    },
+    {
+      "number": "26",
+      "title": "Yamada Y, Tomatsu S, Sukegawa K, Suzuki Y, Kondo N, Hopwood JJ, et al. Mucopolysaccharidosis",
+      "depth": 1,
+      "content": "type II (Hunter disease): 13 gene mutations in 52 Japanese patients and carrier detection in four\nfamilies. Hum Genet. 1993;92(2):110-4.",
+      "char_count": 136
+    },
+    {
+      "number": "27",
+      "title": "Orii K, Suzuki Y, Tomatsu S, Orii T, Fukao T. Long-Term Follow-up Posthematopoietic Stem Cell",
+      "depth": 1,
+      "content": "Transplantation in a Japanese Patient with Type-VII Mucopolysaccharidosis. Diagnostics (Basel).\n2020;10(2):105.",
+      "char_count": 111
+    },
+    {
+      "number": "28",
+      "title": "Sisinni L, Pineda M, Coll MJ, Gort L, Turon E, Torrent M, et al. Haematopoietic stem cell",
+      "depth": 1,
+      "content": "transplantation for mucopolysaccharidosis type VII: A case report. Pediatr Transplant.\n2018;22(7):e13278.",
+      "char_count": 105
+    },
+    {
+      "number": "29",
+      "title": "White KK. Orthopaedic aspects of mucopolysaccharidoses. Rheumatology (Oxford). 2011;50",
+      "depth": 1,
+      "content": "Suppl 5:v26-33.",
+      "char_count": 15
+    },
+    {
+      "number": "30",
+      "title": "Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Asma. Brasil: Ministério da",
+      "depth": 1,
+      "content": "Saúde; 2013.",
+      "char_count": 12
+    },
+    {
+      "number": "31",
+      "title": "Ashworth JL, Biswas S, Wraith E, Lloyd IC. The ocular features of the mucopolysaccharidoses. Eye",
+      "depth": 1,
+      "content": "(Lond). 2006;20(5):553-63.",
+      "char_count": 26
+    },
+    {
+      "number": "32",
+      "title": "Käsmann-Kellner B, Weindler J, Pfau B, Ruprecht KW. Ocular changes in mucopolysaccharidosis",
+      "depth": 1,
+      "content": "IV A (Morquio A syndrome) and long-term results of perforating keratoplasty. Ophthalmologica.\n1999;213(3):200-5.",
+      "char_count": 112
+    },
+    {
+      "number": "33",
+      "title": "Pierpont MEM, Moller JH. Cardiac manifestations of genetic disease. In: Moss A, editor. Heart",
+      "depth": 1,
+      "content": "disease in infants, children, and adolescents. 5th ed. ed. London: Williams & Wilkins; 1995. p. 1486-520.",
+      "char_count": 105
+    },
+    {
+      "number": "34",
+      "title": "Dangel JH. Cardiovascular changes in children with mucopolysaccharide storage diseases and",
+      "depth": 1,
+      "content": "related disorders--clinical and echocardiographic findings in 64 patients. Eur J Pediatr. 1998;157(7):534-\n8.",
+      "char_count": 109
+    },
+    {
+      "number": "35",
+      "title": "Fischer TA, Lehr HA, Nixdorff U, Meyer J. Combined aortic and mitral stenosis in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I-S (Ullrich-Scheie syndrome). Heart. 1999;81(1):97-9.",
+      "char_count": 81
+    },
+    {
+      "number": "36",
+      "title": "Minakata K, Konishi Y, Matsumoto M, Miwa S. Surgical treatment for Scheie's syndrome",
+      "depth": 1,
+      "content": "(mucopolysaccharidosis type I-S): report of two cases. Jpn Circ J. 1998;62(9):700-3.",
+      "char_count": 84
+    },
+    {
+      "number": "37",
+      "title": "Wilson W, Taubert KA, Gewitz M, Lockhart PB, Baddour LM, Levison M, et al. Prevention of",
+      "depth": 1,
+      "content": "infective endocarditis: guidelines from the American Heart Association: a guideline from the American\nHeart Association Rheumatic Fever, Endocarditis, and Kawasaki Disease Committee, Council on\nCardiovascular Disease in the Young, and the Council on Clinical Cardiology, Council on Cardiovascular\nSurgery and Anesthesia, and the Quality of Care and Outcomes Research Interdisciplinary Working\nGroup. Circulation. 2007;116(15):1736-54.",
+      "char_count": 434
+    },
+    {
+      "number": "38",
+      "title": "Muenzer J, Wraith JE, Clarke LA, I ICPoMaToM. Mucopolysaccharidosis I: management and",
+      "depth": 1,
+      "content": "treatment guidelines. Pediatrics. 2009;123(1):19-29.",
+      "char_count": 52
+    },
+    {
+      "number": "39",
+      "title": "Reichert R, Campos LG, Vairo F, de Souza CF, Pérez JA, Duarte J, et al. Neuroimaging Findings in",
+      "depth": 1,
+      "content": "Patients with Mucopolysaccharidosis: What You Really Need to Know. Radiographics. 2016;36(5):1448-\n62.",
+      "char_count": 102
+    },
+    {
+      "number": "40",
+      "title": "Azevedo AC, Schwartz IV, Kalakun L, Brustolin S, Burin MG, Beheregaray AP, et al. Clinical and",
+      "depth": 1,
+      "content": "biochemical study of 28 patients with mucopolysaccharidosis type VI. Clin Genet. 2004;66(3):208-13.",
+      "char_count": 99
+    },
+    {
+      "number": "41",
+      "title": "Kachur E, Del Maestro R. Mucopolysaccharidoses and spinal cord compression: case report and",
+      "depth": 1,
+      "content": "review of the literature with implications of bone marrow transplantation. Neurosurgery.\n2000;47(1):223-8; discussion 8-9.",
+      "char_count": 122
+    },
+    {
+      "number": "42",
+      "title": "Williams N, Cundy P, Eastwood D. Surgical Management of Thoracolumbar Kyphosis in Patients",
+      "depth": 1,
+      "content": "with Mucopolysaccharidosis: A Systematic Review. Spine (Phila Pa 1976). 2017;42(23):1817-1825.",
+      "char_count": 94
+    },
+    {
+      "number": "43",
+      "title": "Roberts SB, Dryden R, Tsirikos AI. Thoracolumbar kyphosis in patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses: clinical outcomes and predictive radiographic factors for progression of\ndeformity. Bone Joint J. 2016;98-B(2):229-37.",
+      "char_count": 141
+    },
+    {
+      "number": "44",
+      "title": "Dalvie SS, Noordeen MH, Vellodi A. Anterior instrumented fusion for thoracolumbar kyphosis in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis. Spine (Phila Pa 1976). 2001;26(23):E539-41.",
+      "char_count": 66
+    },
+    {
+      "number": "45",
+      "title": "Bekmez S, Demirkiran HG, Dede O, Ismayilov V, Yazici M. Surgical Management of Progressive",
+      "depth": 1,
+      "content": "Thoracolumbar Kyphosis in Mucopolysaccharidosis: Is a Posterior-only Approach Safe and Effective? J\nPediatr Orthop. 2018;38(7):354-9.",
+      "char_count": 133
+    },
+    {
+      "number": "46",
+      "title": "Oghan F, Harputluoglu U, Guclu E, Guvey A, Turan N, Ozturk O. Permanent t-tube insertion in",
+      "depth": 1,
+      "content": "two patients with Hurler's syndrome. Int J Audiol. 2007;46(2):94-6.",
+      "char_count": 67
+    },
+    {
+      "number": "47",
+      "title": "Nayak DR, Balakrishnan R, Murthy KD. An endoscopic approach to the deviated nasal septum--a",
+      "depth": 1,
+      "content": "preliminary study. J Laryngol Otol. 1998;112(10):934-9.",
+      "char_count": 55
+    },
+    {
+      "number": "48",
+      "title": "Shinhar SY, Zablocki H, Madgy DN. Airway management in mucopolysaccharide storage",
+      "depth": 1,
+      "content": "disorders. Arch Otolaryngol Head Neck Surg. 2004;130(2):233-7.",
+      "char_count": 62
+    },
+    {
+      "number": "49",
+      "title": "Brain AI. The laryngeal mask--a new concept in airway management. Br J Anaesth.",
+      "depth": 1,
+      "content": "1983;55(8):801-5.",
+      "char_count": 17
+    },
+    {
+      "number": "50",
+      "title": "Walker RW, Allen DL, Rothera MR. A fibreoptic intubation technique for children with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses using the laryngeal mask airway. Paediatr Anaesth. 1997;7(5):421-6.\n51.     Cadaoas J, Boyle G, Jungles S, Cullen S, Vellard M, Grubb JH, et al. Vestronidase alfa:\nRecombinant human β-glucuronidase as an enzyme replacement therapy for MPS VII. Mol Genet Metab.\n2020;130(1):65-76.",
+      "char_count": 301
+    },
+    {
+      "number": "52",
+      "title": "Gomes DF, Gallo LG, Leite BF, Silva RB, da Silva EN. Clinical effectiveness of enzyme replacement",
+      "depth": 1,
+      "content": "therapy with galsulfase in mucopolysaccharidosis type VI treatment: Systematic review. J Inherit Metab\nDis. 2019;42(1):66-76.",
+      "char_count": 125
+    },
+    {
+      "number": "53",
+      "title": "Harmatz P, Giugliani R, Schwartz I, Guffon N, Teles EL, Miranda MC, et al. Enzyme replacement",
+      "depth": 1,
+      "content": "therapy for mucopolysaccharidosis VI: a phase 3, randomized, double-blind, placebo-controlled,\nmultinational study of recombinant human N-acetylgalactosamine 4-sulfatase (recombinant human\narylsulfatase B or rhASB) and follow-on, open-label extension study. J Pediatr. 2006;148(4):533-9.",
+      "char_count": 287
+    },
+    {
+      "number": "54",
+      "title": "Dubot P, Sabourdy F, Plat G, Jubert C, Cancès C, Broué P, et al. First Report of a Patient with MPS",
+      "depth": 1,
+      "content": "Type VII, Due to Novel Mutations in GUSB, Who Underwent Enzyme Replacement and Then\nHematopoietic Stem Cell Transplantation. Int J Mol Sci. 2019;20(21):5345.",
+      "char_count": 157
+    },
+    {
+      "number": "55",
+      "title": "Jones SA, Breen C, Kakkis ED, Sly WS. Enzyme replacement therapy (ERT) for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis VII (MPS VII; Sly disease) reduces lysosomal storage in a phase 1/2 clinical study.\nJournal of Inherited Metabolic Disease. 2014;37(1):S43.",
+      "char_count": 161
+    },
+    {
+      "number": "56",
+      "title": "Martins EM, Wang RYW, Francisco da Silva Franco J F, Harmatz P",
+      "depth": 1,
+      "content": "H, Lopez-Valdez J LV, Sutton V R S, et al. Sustained efficacy and safety of long-term vestronidase alfa\n(rhGUS) enzyme replacement\ntherapy in patients with MPS VII. Journal of Inherited Metabolic Disease. 2018;41:S188.",
+      "char_count": 218
+    },
+    {
+      "number": "57",
+      "title": "Coker M, Gonzales-Meneses A, Song W, Taylor J, Agarwal S, Haller C, et al. Long-term",
+      "depth": 1,
+      "content": "outcomes with rhGUS in a phase I/II clinical trial in MPS VII. Journal\nof Inherited Metabolic Disease. 2016;39:S48-S9.",
+      "char_count": 118
+    },
+    {
+      "number": "58",
+      "title": "Fox JE, Volpe L, Bullaro J, Kakkis ED, Sly WS. First human treatment with investigational rhGUS",
+      "depth": 1,
+      "content": "enzyme replacement therapy in an advanced stage MPS VII patient. Mol Genet Metab. 2015;114(2):203-\n8.",
+      "char_count": 101
+    },
+    {
+      "number": "59",
+      "title": "Klatchoian DA, Len CA, Terreri MT, Silva M, Itamoto C, Ciconelli RM, et al. Quality of life of",
+      "depth": 1,
+      "content": "children and adolescents from São Paulo: reliability and validity of the Brazilian version of the Pediatric\nQuality of Life Inventory version 4.0 Generic Core Scales. J Pediatr (Rio J). 2008;84(4):308-15.",
+      "char_count": 204
+    },
+    {
+      "number": "60",
+      "title": "Coker M, Gonzales-Meneses A, Song W, Taylor J, Agarwal S, Haller C, et al. Long-term outcomes",
+      "depth": 1,
+      "content": "with rhGUS in a phase I/II clinical trial in MPS VII. Journal of Inherited Metabolic Disease. 2016;39:S48-\nS9.",
+      "char_count": 110
+    },
+    {
+      "number": "61",
+      "title": "Vogler C, Levy B, Grubb JH, Galvin N, Tan Y, Kakkis E, et al. Overcoming the blood-brain barrier",
+      "depth": 1,
+      "content": "with high-dose enzyme replacement therapy in murine mucopolysaccharidosis VII. Proc Natl Acad Sci U\nS A. 2005;102(41):14777-82.",
+      "char_count": 127
+    },
+    {
+      "number": "62",
+      "title": "Ministério da Saúde. Alfavestronidase no tratamento de",
+      "depth": 1,
+      "content": "mucopolissacaridose tipo VII. Brasil: Ministério da Saúde; 2020. Available from:\nhttps://docs.bvsalud.org/biblioref/2020/09/1121184/relatorio_de_recomendacao_alfavestronidase_m\nucopolissacaridose_bfkSKUW.pdf.",
+      "char_count": 208
+    },
+    {
+      "number": "63",
+      "title": "Giugliani R, Federhen A, Muñoz Rojas MV, Vieira TA, Artigalás O, Pinto LL, et al. [Enzyme",
+      "depth": 1,
+      "content": "replacement therapy for mucopolysaccharidoses I, II and VI: recommendations from a group of Brazilian\nF experts]. Rev Assoc Med Bras (1992). 2010;56(3):271-7.",
+      "char_count": 158
+    },
+    {
+      "number": "64",
+      "title": "Brunelli MJ, Atallah Á, da Silva EM. Enzyme replacement therapy with galsulfase for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type VI. Cochrane Database Syst Rev. 2016;3:CD009806.",
+      "char_count": 75
+    },
+    {
+      "number": "65",
+      "title": "Marshall WA, Tanner JM. Variations in pattern of pubertal changes in girls. Arch Dis Child.",
+      "depth": 1,
+      "content": "1969;44(235):291-303.",
+      "char_count": 21
+    },
+    {
+      "number": "66",
+      "title": "Marshall WA, Tanner JM. Variations in the pattern of pubertal changes in boys. Arch Dis Child.",
+      "depth": 1,
+      "content": "1970;45(239):13-23.",
+      "char_count": 19
+    },
+    {
+      "number": "67",
+      "title": "Swiedler SJ, Beck M, Bajbouj M, Giugliani R, Schwartz I, Harmatz P, et al. Threshold effect of",
+      "depth": 1,
+      "content": "urinary glycosaminoglycans and the walk test as indicators of disease progression in a survey of subjects\nwith Mucopolysaccharidosis VI (Maroteaux-Lamy syndrome). Am J Med Genet A. 2005;134A(2):144-50.\n\n           TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n           ALFAVESTRONIDASE\n\n             Eu,____________________________________________________ (nome do(a) paciente),\ndeclaro ter sido informado(a) claramente sobre benefícios, riscos, contraindicações e principais efeitos\nadversos relacionados ao uso de alfavestronidase, indicada para o tratamento da mucopolissacaridose\ntipo VII.\n             Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas pelo\nmédico _______________________________________________(nome do médico que prescreve).\n             Assim, declaro que fui claramente informado(a) de que o medicamento que passo a receber\npodem trazer os seguintes benefícios:\n             - melhora dos sintomas da doença, como melhora no teste de caminhada de 6 minutos e\nredução dos glicosaminoglicanos (GAG) urinários, diminuição da frequência de uso de suporte\nrespiratório, aumento de frequência escolar, normalização de hábitos alimentares e estabilização de\ntamanho de baço e fígado.\n             Fui também claramente informado(a) a respeito das seguintes contraindicações, potenciais\nefeitos adversos e riscos:\n             - medicamento sem experiência de uso na gestação e lactação;\n             - efeitos adversos da alfavestronidase mais comuns: reação anafilactoide (13%), urticária\n(13%), inchaço no local da infusão (13%), extravasamento no local da infusão (8,7%), prurido (8,7%),\ndiarreia (8,7%) e erupção cutânea (8,7%);\n             - contraindicação em casos de hipersensibilidade (alergia) ao fármaco ou aos componentes\nda fórmula.\n             Estou ciente de que este medicamento somente pode ser utilizado por mim,\ncomprometendo-me a devolvê-lo caso não queira ou não possa utilizá-lo ou se o tratamento for\ninterrompido. Sei também que continuarei a ser atendido(a), inclusive se desistir de usar o\nmedicamento.\n             Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações\nrelativas ao meu tratamento, desde que assegurado o anonimato. ( ) Sim           ( ) Não\n\n                 Local:                                                 Data:\n                 Nome do paciente:\n                 Cartão Nacional do SUS:\n                 Nome do responsável legal:\n                 Documento de identificação do responsável legal:\n                 Assinatura do paciente ou do responsável legal\n\n                 Médico:                                                               CRM:\n           RS:\n\n\n                 ______________________________\n                 Assinatura e carimbo do médico\n                 Data:\n\n           NOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual\ncomponente da Assistência Farmacêutica no SUS se encontra o medicamento preconizado neste\nProtocolo.\n\n\n           APÊNDICE 1\n\n           PRINCIPAIS MANIFESTAÇÕES CLÍNICAS DA MPS VII\n           E CONDUTAS DE SUPORTE E SINTOMÁTICOS\n\nÓrgão/sistema   Manifestação clínica                             Avaliação/Tratamento\nSistema nervoso Compressão medular                               Cirurgia, fisioterapia.\nperiférico\nOlhos           Acuidade visual diminuída                         Avaliação oftalmológica\n                Opacificação de córnea                            Transplante de córnea (em casos\n                                                                  específicos)\nVias aéreas           Síndrome da apneia obstrutiva do sono       Amigdalectomia,         adenoidectomia,\n                                                                  oxigenioterapia.\n                                                                  Avaliação funcional pulmonar\n                      Infecções de repetição, hipersecreção       Farmacoterapia\n                      Doença pulmonar restritiva                  Fisioterapia\nTecido conjuntivo     Hérnias                                     Cirurgia\nArticulações          Dor, contraturas                            Fisioterapia, terapia ocupacional.\n                                                                  Farmacoterapia\nOssos                     Geno valgo, luxação de quadril          Correção cirúrgica\nOrelhas               Hipoacusia                                       Próteses (em casos específicos)\n                      Otites de repetição                         Farmacoterapia, cirurgia.\nGastrointestinal      Diarreia                                    Orientação nutricional\n                      Ganho inadequado ou excessivo de peso       Orientação nutricional\n                      Distúrbio da deglutição                     Farmacoterapia, fonoaudiologia.\n                                                                  Cirurgia (gastrostomia)\nBucomaxilofacial      Mal oclusão, dentição anômala               Cirurgia\n                                                                  Aparelho ortodôntico\nCardiovascular        Valvulopatias,              cardiomiopatia, Farmacoterapia, cirurgia.\n                      insuficiência cardíaca\nManifetações pré- Hidropisia Fetal                                -\nnatais\n            Fontes: Elaborado a partir de Giugliani R et al., 20071 e aplicado à MPS VII a partir dos\n            estudos      Harmatz       et    al.,     20182     e     Montaño       et     al.,    20163.\n\n           APÊNDICE 2\n           ÍNDICE MULTIDOMÍNIOS DE RESPONDEDOR CLÍNICO (IMRC)\n           PARA SEGUIMENTO CLÍNICO DOS PACIENTES COM MPS VII SOB TRE2\n\n\n           Tabela 1 - Parâmetros que compõem o IMRC e diferenças clínicas relevantes\n\nDomínio                           Diferença clínica minimamente relevante\nTeste de Caminhada de 6\n                                  23 metros E um aumento de 10% em relação à linha de base\nminutos\nCapacidade vital forçada (%)        Aumento de 10% em relação à linha de base\nAmplitude de flexão do ombro        Aumento de 20° na amplitude de flexão\nAcuidade visual                     Melhora de 3 linhas (com correção, ambos os olhos)\n                                    +1 para aumento ≥10 pontos em fadiga/ -1 para diminuição ≥10 ponto\nPedsQL-Fadiga                       Modificações\n                                    fora desses parâmetros recebem escore 0.\nEssas diferenças clínicas minimamente relevantes foram estabelecidas de acordo com dados de\nliteratura e informações clínicas provenientes dos resultados de tratamentos com TRE em outras MPS 2,\nadaptadas para a realidade brasileira.\n\n\n             O Teste de Caminhada de 6 Minutos tem como objetivo avaliar as respostas globais e\nintegradas de todos os sistemas corporais envolvidos durante o exercício. Ele consiste na mensuração da\ndistância máxima percorrida por um período de seis minutos. Para sua aplicação, é necessária uma\nsuperfície plana, com um percurso de 30 metros, devendo haver uma marcação a cada três metros e ao\ninício e final do trajeto, além de paredes próximas para apoio. Caso sejam utilizadas curvas no percurso,\nestas devem ser sinalizadas. Deve ser orientado ao indivíduo que ele permaneça dez minutos sentado\npróximo ao local do teste, descansando. Ao se levantar, devem ser avaliados sinais de fadiga ou falta de\nar. Imediatamente antes de iniciar o percurso, deve-se dar a orientação de que o uso de aparelho de\nauxílio à deambulação já utilizado pelo indivído pode ser feito durante o teste. Reduções na velocidade\nou pausas podem ser feitas, com retorno à caminhada assim que possível; curvas devem ser feitas\nrapidamente e sem hesitação. O avaliador poderá explicar o teste mostrando ao paciente como deve ser\nfeito, mas treinos não podem ser aplicados. Deverão ser contabilizados o número de voltas e a distância\npercorridas no período de seis minutos com auxílio de um cronômetro 2,4. A interpretação dos resultados\ndeverá ser feita considerando-se os parâmetros citados na Tabela 1 deste Apêndice 2.\n             A avaliação da Capacidade Vital Forçada (CVF) representa o volume máximo de ar exalado\ncom esforço máximo, a partir do ponto de máxima inspiração. Sua avaliação pode ser feita por meio do\nteste de espirometria, que avalia o volume de ar que um indivíduo inala e exala como uma função de\ntempo. Este teste pressupõe compreensão e colaboração do indivíduo avaliado. A CVF é medida\nsolicitando que a pessoa, após a inspiração máxima (até a capacidade pulmonar total), expire do modo\nmais rápido e intenso possível em um espirômetro de fluxo ou de volume. Os resultados do teste são\nentão computados e disponibilizados por programas de computador 5,6. A interpretação dos resultados\ndeverá ser feita considerando-se os parâmetros citados na Tabela 1 deste Apêndice 2.\n             A amplitude de flexão do ombro deve ser avaliada com auxílio de um goniômetro em um\nteste de amplitude de movimento ativo. Deve-se solicitar que o indivíduo flexione cada obro por três\nvezes. A melhor medida de cada lado deve ser utilizada para compor o valor médio 2,7,8. A interpretação\ndos resultados deverá ser feita considerando-se os parâmetros citados na Tabela 1 deste Apêndice 2.\n             A acuidade visual pode ser avaliada por meio de tabelas específicas, que contêm fileiras de\n\nletras, em diferentes tamanhos, resoluções e contrastes9. A uma distância de seis metros, o indivíduo\ntem cada olho avaliado independentemente com auxílio de refratores oftalmológicos. Deve-se solicitar\nque cada linha seja lida, da esquerda para a direita e de cima para baixo. A menor linha lida representa a\nacuidade visual. Para esta avaliação, pode ser mantido o uso de óculos ou lentes de correção 10. A\ninterpretação dos resultados deverá ser feita considerando-se os parâmetros citados na Tabela 1 deste\nApêndice 2.\n\n         APÊNDICE 3\n         AVALIAÇÕES MÍNIMAS PARA O SEGUIMENTO CLÍNICO DOS PACIENTES COM MPS VII\nINDEPENDENTEMENTE DO USO DE TRE\n\n         Avaliações1,2, 3                             Avaliação     A cada 6 A cada 12\n                                                      inicial       meses    meses\n         Atividade enzimática                         X\n\n         GAG urinários#                               X                         X**\n\n         História médica                              X             X\n\n         Aconselhamento Genético                      X\n\n         Revisão do número de infusões realizadas                   X\n         no período**\n         Determinação     da      adesão       ao X                 X\n         acompanhamento/tratamento**\n         Peso/altura                              X                 X\n\n         Pressão arterial                             X             X\n\n         Hepatimetria e medida de tamanho do baço X                 X\n         (exame físico)\n         PedsQL-Fadiga (a partir de 8 anos)       X                             X**\n\n         AVALIAÇÃO NEUROLÓGICA\n\n         - Exame neurológico clínico                  X\n\n         AVALIAÇÃO OFTALMOLÓGICA           (acuidade X              X**\n         visual, retina, córnea)\n         - TC6M** (a partir de 3 anos)                X             X\n\n          - CVF/VEF1 (espirometria; a partir de 6 X                 X**          X\n          anos)\n          AVALIAÇÃO DA MOBILIDADE ARTICULAR X                       X**\n          (incluir flexão do ombro)\n#Avaliação recomendada: ao diagnóstico, após 3 meses de tratamento e, após, anualmente. **Para\n\npacientes que estão em terapia de reposição enzimática, quando capazes de realizar a avaliação. As\ndemais avaliações, incluindo as avaliações indicadas somente no período basal (iniciais), devem ser\nrealizadas em períodos determinados pelo médico assistente. Espirometria deve ser realizada\nanualmente em pacientes que não estiverem em TRE. GAG = glicosaminoglicanos; PedsQL-Fadiga =\nInventário de Qualidade de Vida Pediátrico - Módulo Multidimensional de Fadiga; TC6M = teste de\ncaminhada de 6 minutos; CVF = capacidade vital forçada; VEF1 = volume expiratório forçado no primeiro\nsegundo.\nFontes: Elaborado a partir de Giugliani R et al. (2007)1 e adaptado à MPS VII a partir dos estudos\nHarmatz           et        al.,    20182         e       Montaño         et         al.,      20163.\n\n           APÊNDICE 4\n\n           METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA",
+      "char_count": 12424
+    },
+    {
+      "number": "1",
+      "title": "ESCOPO E FINALIDADE DO PROTOCOLO",
+      "depth": 1,
+      "content": "A elaboração do PCDT de MPS VII foi conduzida sem uma reunião de escopo formal.\nEntretanto, o Grupo Elaborador deste PCDT incluiu duas especialistas geneticistas.\n            Anteriormente à elaboração deste PCDT, a Conitec já havia avaliado as evidências\ndisponíveis e decidido pela incorporação da alfavestronidase para o tratamento da MPS VII. Nesse\nsentido, nenhuma revisão de literatura foi feita com o intuito de subsidiar a recomendação desse\nmedicamento em específico.\n            Asssim, as recomendações quanto a alfavestronidase para o tratamento da MPS VII foram\nextraídas do Relatório de Recomendação no 540 de junho de 2020, da Conitec, aprovado pela Portaria\nno       26/SCTIE/MS,      de      08      de      agosto       de      2020,      disponível     em:\nhttp://conitec.gov.br/images/Relatorios/2020/Relatorio_de_Recomendacao_Alfavestronidase_mucopol\nissacaridose_540_2020.pdf.\n            Dessa forma, esse PCDT considera as melhores evidências advindas de diretrizes clínicas já\npublicadas por outros órgãos ou entidades nacionais e internacionais para o diagnóstico, cuidados e\ntratamento da MPS VII.",
+      "char_count": 1124
+    },
+    {
+      "number": "2",
+      "title": "EQUIPE DE ELABORAÇÃO E PARTES INTERESSADAS",
+      "depth": 1,
+      "content": "Além dos representantes do Departamento de Gestão e Incorporação de Tecnologias em\nSaúde do Ministério da Saúde (DGITIS/SCTIE/MS), participaram do desenvolvimento deste Protocolo\nmetodologistas do Hospital Alemão Oswaldo Cruz (HAOC), colaboradores e especialistas no tema.\n            Todos os membros do Grupo Elaborador preencheram o formulário de Declaração de\nConflitos de Interesse",
+      "char_count": 386
+    },
+    {
+      "number": "2.1",
+      "title": "Avaliação da Subcomissão Técnica de Protocolos Clínicos e Diretrizes Terapêuticas",
+      "depth": 2,
+      "content": "O documento foi apresentado à 85ª Reunião da Subcomissão de PCDT, da Conitec, realizada\nno dia 19 de janeiro de 2021. A versão atual deste PCDT já considera as solicitações desta Subcomissão.",
+      "char_count": 191
+    },
+    {
+      "number": "3",
+      "title": "BUSCA DAS EVIDÊNCIAS",
+      "depth": 1,
+      "content": "Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o sítio\neletrônico da Conitec para a identificação das tecnologias disponíveis no Brasil e tecnologias\ndemandadas ou recentemente incorporadas para o tratamento da MPS VII. Foi também realizada, em\n11/11/2020, busca por diretrizes clínicas nacionais e internacionais a respeito da doença.\n            Não foram encontradas tecnologias disponíveis já incorporadas para o tratamento da MPS\nVII, além da alfavestronidase.\n            As seguintes bases de dados e websites institucionais que abrigam protocolos e diretrizes\nforam consultados, não sendo encontradas diretrizes clínicas específicas para esta doença:\n            - NICE guidelines (http://www.nice.org.uk/guidance/published?type=CG);\n            - National Library of Australia – http://webarchive.nla.gov.au/gov/;\n            - Diretrizes da Associação Médica Brasileira (AMB);\n            - Protocolos Clínicos e Diretrizes terapêuticas do Ministério da Saúde; e\n            - PubMed/MEDLINE.\n\n            Para a elaboração dos critérios diagnósticos e para a avaliação das situações especiais de\ngestação e aleitamento materno foram utilizadas diretrizes clínicas internacionais elaboradas por\ndiferentes grupos de especialistas, que são utilizadas como consenso nos diversos centros de referência\npara outras MPS consideradas semelhantes11.\n            Para avaliação de interrupção de tratamento, foi utilizada a seguinte estratégia de busca:\n“(mucopolysaccharidosis type vii OR Sly syndrome) AND interruption”, sendo apenas dois resultados\nencontrados que não continham dados sobre interrupção de tratamento12,13. Desta forma, para\ninterrupção do tratamento foram utilizadas as diretrizes clínicas internacionais e estudos clínicos para\noutras MPS consideradas semelhantes14-18.\n            Para a elaboração dos demais itens do PCDT, foram utilizadas as buscas, recomendações e\nreferências constantes no relatório de recomendação da alfavestronidase como terapia de reposição\nenzimática         no        tratamento           da       MPS         VII,       disponível        em:\nhttp://conitec.gov.br/images/Relatorios/2020/Relatorio_de_Recomendacao_Alfavestronidase_mucopol\nissacaridose_540_2020.pdf .",
+      "char_count": 2246
+    },
+    {
+      "number": "4",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Giugliani R, Harmatz P, Wraith JE. Management guidelines for mucopolysaccharidosis VI.",
+      "depth": 1,
+      "content": "Pediatrics. 2007;120(2):405-18.",
+      "char_count": 31
+    },
+    {
+      "number": "2",
+      "title": "Harmatz P, Whitley CB, Wang RY, Bauer M, Song W, Haller C, et al. A novel Blind Start",
+      "depth": 1,
+      "content": "study design to investigate vestronidase alfa for mucopolysaccharidosis VII, an ultra-rare genetic\ndisease. Mol Genet Metab. 2018;123(4):488-94.",
+      "char_count": 144
+    },
+    {
+      "number": "3",
+      "title": "Montaño AM, Lock-Hock N, Steiner RD, Graham BH, Szlago M, Greenstein R, et al. Clinical",
+      "depth": 1,
+      "content": "course of sly syndrome (mucopolysaccharidosis type VII). J Med Genet. 2016;53(6):403-18.",
+      "char_count": 88
+    },
+    {
+      "number": "4",
+      "title": "American Thoracic Society. Standardization of Spirometry, 1994 Update. American",
+      "depth": 1,
+      "content": "Thoracic Society. Am J Respir Crit Care Med. 1995;152(3):1107-36.",
+      "char_count": 65
+    },
+    {
+      "number": "5",
+      "title": "Pereira C. Espirometria. J Pneumol. 2002;28(Supl. 3):S1-S82.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "6",
+      "title": "ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories.",
+      "depth": 1,
+      "content": "ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002;166(1):111-7.\n      7.        James E Wraith, Lorne A Clarke, Michael Beck, Edwin H Kolodny, Gregory M Pastores,\nJoseph Muenzer, et al. Enzyme replacement therapy for mucopolysaccharidosis I: a randomized, double-\nblinded, placebo-controlled, multinational study of recombinant human alpha-L-iduronidase\n(laronidase). J Pediatr. 2004;144(5):581-8.",
+      "char_count": 435
+    },
+    {
+      "number": "8",
+      "title": "Torayuki Okuyama, Akemi Tanaka, Yasuyuki Suzuki, Hiroyuki Ida, Toju Tanaka, Gerald F",
+      "depth": 1,
+      "content": "Cox, et al. Japan Elaprase Treatment (JET) study: idursulfase enzyme replacement therapy in adult\npatients with attenuated Hunter syndrome (Mucopolysaccharidosis II, MPS II). Mol Genet Metab.\n2010;99(1):18-25.",
+      "char_count": 209
+    },
+    {
+      "number": "9",
+      "title": "ClinicalTrials.Gov [Internet]. A phase 3 study of UX003 recombinant human",
+      "depth": 1,
+      "content": "betaglucuronidase (rhGUS) enzyme replacement therapy in patients with mucopolysaccharidosis type 7\n(MPS7); 2020. Available from: https://clinicaltrials.gov/ct2/show/NCT02230566.\n      10.       Azzam D, Ronquillo Y. Snellen Chart. In: StatPearls [Internet]. Treasure Island (FL):\nStatPearls Publishing; 2020. Available from: https://www.ncbi.nlm.nih.gov/books/NBK558961/\n      11.       Ministério da Saúde. Galsulfase para o tratamento da mucopolissacaridose tipo VI. Brasil:\nMinistério da Saúde; 2018.",
+      "char_count": 503
+    },
+    {
+      "number": "12",
+      "title": "Qi Y, McKeever K, Taylor J, Haller C, Song W, Jones SA, et al. Pharmacokinetic and",
+      "depth": 1,
+      "content": "Pharmacodynamic Modeling to Optimize the Dose of Vestronidase Alfa, an Enzyme Replacement\n\nTherapy for Treatment of Patients with Mucopolysaccharidosis Type VII: Results from Three Trials. Clin\nPharmacokinet. 2019;58(5):673-83.",
+      "char_count": 227
+    },
+    {
+      "number": "13",
+      "title": "Gimovsky AC, Luzi P, Berghella V. Lysosomal storage disease as an etiology of nonimmune",
+      "depth": 1,
+      "content": "hydrops. Am J Obstet Gynecol. 2015;212(3):281-90.",
+      "char_count": 49
+    },
+    {
+      "number": "14",
+      "title": "Hendriksz CJ, Berger KI, Giugliani R, Harmatz P, Kampmann C, Mackenzie WG, et al.",
+      "depth": 1,
+      "content": "International guidelines for the management and treatment of Morquio A syndrome. Am J Med Genet\nA. 2015;167A(1):11-25.",
+      "char_count": 118
+    },
+    {
+      "number": "15",
+      "title": "Giugliani R, Federhen A, Muñoz Rojas MV, Vieira T, Artigalás O, Lapagesse Pinto L, et al.",
+      "depth": 1,
+      "content": "Mucopolysaccharidosis I, II, and VI: brief review and guidelines for treatment. Genetics and Molecular\nBiology. 2010;33:589-604.",
+      "char_count": 128
+    },
+    {
+      "number": "16",
+      "title": "Brunelli MJ, Atallah Á, da Silva EM. Enzyme replacement therapy with galsulfase for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type VI. Cochrane Database Syst Rev. 2016;3:CD009806.",
+      "char_count": 75
+    },
+    {
+      "number": "17",
+      "title": "Wegrzyn G, Tylki-Szymańska A, Liberek A, Piotrowska E, Jakóbkiewicz-Banecka J, Marucha",
+      "depth": 1,
+      "content": "J, et al. Rapid deterioration of a patient with mucopolysaccharidosis type I during interruption of enzyme\nreplacement therapy. Am J Med Genet A. 2007;143A(16):1925-7.",
+      "char_count": 167
+    },
+    {
+      "number": "18",
+      "title": "Schneider AP, Matte U, Pasqualim G, Tavares AM, Mayer FQ, Martinelli B, et al.",
+      "depth": 1,
+      "content": "Deleterious effects of interruption followed by reintroduction of enzyme replacement therapy on a\nlysosomal storage disorder. Transl Res. 2016;176:29-37.",
+      "char_count": 153
+    }
+  ],
+  "key_sections": {
+    "monitoring": {
+      "number": "8",
+      "content": "A monitorização do tratamento clínico dos pacientes com MPS VII também é estabelecida\ncom base na evidência disponível para outras MPS, uma vez que se trata de doença ultra-rara. Os\npacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve realizar\nanamnese completa em cada consulta e coletar dados de altura (em pé ou em decúbito dorsal, e, no\ncaso de restrições nos membros inferiores, por segmento), peso e perímetro cefálico, de preferência\nusando o mesmo instrumento, devidamente calibrado. O exame físico deve ser completo e incluir sinais\nvitais (temperatura, frequência cardíaca, frequência respiratória e pressão arterial), bem como medidas\npara quantificação do tamanho do fígado (por hepatimetria) e do baço . A avaliação do desenvolvimento\nsexual deve ser realizada em adolescentes, de acordo com os critérios de Tanner 65, 66. Nas consultas,\ndados sobre todas as avaliações realizadas desde o último agendamento devem ser obtidos e os testes\nnecessários devem ser solicitados, incluindo avaliação por especialistas em neurologia,\notorrinolaringologia, ortopedia, oftalmologia, cardiologia e pneumologia, conforme indicação clínica e a\ncritério do médico assistente.\n            As avaliações de rotina devem ser realizadas semestralmente pelo médico assistente com\nvacinas, orientação dietética, exames e conselhos preventivos.18 Os pacientes e seus familiares devem\nter acesso ao aconselhamento genético.\n            O Apêndice 3 apresenta as avaliações consideradas mínimas para o acompanhamento de\npacientes com MPS VII, sendo necessárias para o acesso ao medicamento. São definidos períodos\nmínimos apenas para aquelas avaliações que têm por objetivo detectar a eficácia e segurança da TRE;\npara as demais, a periodicidade de avaliações fica a critério do médico assistente. Alguns componentes\ndas avaliações específicas serão discutidos a seguir.\n            O IMRC foi a escala utilizada para avaliar a resposta terapêutica nesses pacientes e pode ser\nutilizada para monitorização da doença. O IMRC é composto de seis domínios; contudo, uma vez que o\nteste BOT-2 função motora global e fina não está validado na população brasileira, foi excluído para fins\nde avaliação neste PCDT. Assim, os domínios incluídos foram os seguintes: TC6M; CVF; amplitude de\nflexão dos ombros; acuidade visual, além do PedsQL-Fadiga (Tabela 1/Apêndice 2).\n            A quantificação de GAG urinários é utilizada para diagnóstico e, também, monitorização do\ntratamento específico da MPS VII, uma vez que, na vigência de tratamento, ocorre diminuição da\nexcreção dessas moléculas2, 18, 67.\n            Como parte da avaliação do tratamento, deve-se monitorar o uso, a adesão, a indicação e os\nresultados da TRE com alfavestronidase. Por meio desse monitoramento, será possível estabelecer\ngrupos de pacientes que são de fato beneficiados e reavaliar a incorporação do medicamento a médio\n\nprazo."
+    },
+    "regulation": {
+      "number": "9",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste Protocolo, a duração e o\nmonitoramento do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a\nadequação de uso do medicamento.\nO tratamento da MPS II deve ser feito por equipe em serviços especializados, para fins de diagnóstico e\nde acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige experiência e\nfamiliaridade com manifestações clínicas associadas, convém que o médico responsável tenha\nexperiência e seja treinado nessa atividade.\n        Verificar na Relação Nacional de Medicamentos Essenciais (Rename) vigente em qual\ncomponente da Assistência Farmacêutica se encontra o medicamento preconizado neste PCDT.\nPara a administração dos medicamentos é essencial o atendimento centralizado, para maior\nracionalidade do uso e avaliação da efetividade. A infusão deve ser feita em ambiente hospitalar ou\nambulatorial. Infusões domiciliares podem ser consideradas após 6 meses de tratamento sem\nintercorrências."
+    },
+    "treatment": {
+      "number": "62",
+      "content": "mucopolissacaridose tipo VII. Brasil: Ministério da Saúde; 2020. Available from:\nhttps://docs.bvsalud.org/biblioref/2020/09/1121184/relatorio_de_recomendacao_alfavestronidase_m\nucopolissacaridose_bfkSKUW.pdf."
+    }
+  },
+  "stats": {
+    "section_count": 106,
+    "char_count": 76202,
+    "depth1_count": 89
+  }
+}

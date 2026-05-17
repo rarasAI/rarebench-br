@@ -1,0 +1,573 @@
+{
+  "slug": "mucopolissacaridose-tipo-iva",
+  "name_pt": "Mucopolissacaridose tipo IV A",
+  "icd10": "E76.2",
+  "orphanet": "ORPHA:582",
+  "omim": "253000",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt_mucopolissacaridosetipoiva.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A Mucopolissacaridose (MPS) tipo IV A (MPS IV A), ou Síndrome de Morquio A, é uma doença genética\nrara, de herança autossômica recessiva, causada pela atividade deficiente da enzima N-acetilgalactosamina-6-\nsulfatase (GALNS), responsável pela degradação dos glicosaminoglicanos (GAG) queratan sulfato (QS) e\ncondroitina 6-sulfato (C6S), resultando no acúmulo desses componentes nos lisossomos de múltiplos tecidos do\ncorpo (1). A MPS IV A não deve ser confundida com a síndrome de Morquio B (ou MPS IV B), pois a última,\nembora tenha denominação semelhante e possa se associar a quadro clínico similar, é causada pela atividade\ndeficiente de outra enzima, a beta-galactosidase; portanto, a MPS IVB não será abordada neste PCDT.\n       A MPS IV A é uma doença multissistêmica, heterogênea e progressiva, com velocidade de progressão dos\nsintomas e gravidade muito variáveis (2). Alterações esqueléticas e articulares, incluindo geno valgo,\nhipermobilidade articular, subluxação e displasia de quadril, compressão de canal medular, instabilidade\natlantoaxial e cifoescoliose toracolombar, são as manifestações clínicas mais prevalentes (2-6).\n       A doença valvular cardíaca e as complicações respiratórias diminuem a resistência às diversas atividades\ndiárias e são comuns nesses pacientes (7). O acúmulo de GAGs nas vias aéreas superiores e amígdalas pode causar\nobstrução e predispõe ao desenvolvimento da apneia obstrutiva do sono. A função respiratória é ainda\ncomprometida por deformidades da parede torácica e deslocamento do diafragma devido à baixa estatura e por\nhepatoesplenomegalia. A instabilidade atlantoaxial e a compressão da medula espinhal também podem resultar\nem fraqueza muscular respiratória (1). Essas alterações pulmonares e a instabilidade da medula espinhal são as\nprincipais causas de morbidade e mortalidade (2,8,9). Outras manifestações, como acometimento visual\n(opacificação de córnea) e auditivo, além de dor, sobrepostas aos componentes acima, impactam diretamente na\nredução da qualidade de vida dos pacientes (2).\n       A prevalência da doença é variável, descrita como 1 para 926 mil habitantes na Austrália, 1 para 1.872.000\nna Malásia e 1 para 599 mil no Reino Unido (10). Dados brasileiros de prevalência e incidência não estão\ndisponíveis, porém entre 1982 e 2015 houve 153 pacientes diagnosticados com MPS IV A no Brasil (11).\n       Inexiste tratamento curativo da MPS IV A. Este PCDT visa a definir critérios de diagnóstico,\nacompanhamento e tratamento de pacientes com essa doença, incluindo terapia de reposição enzimática (TRE)\nintravenosa com alfaelosulfase e transplante de células-tronco hematopoéticas (TCTH).\n       A identificação da doença em seu estágio inicial, assim como o encaminhamento ágil e adequado para o\natendimento especializado, dão à Atenção Básica um caráter essencial para um melhor resultado terapêutico e\nprognóstico dos casos.\n\n         Este PCDT visa a definir critérios de diagnóstico, acompanhamento e tratamento, incluindo terapia de\nreposição enzimática intravenosa com alfaelosulfase e o TCTH, de pacientes com MPS IV A. A metodologia de\nbusca e avaliação das evidências estão detalhadas no Apêndice 3.",
+      "char_count": 3181
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À SAÚDE",
+      "depth": 1,
+      "content": "(CID-10)\n         - E76.2 Outras Mucopolissacaridoses",
+      "char_count": 53
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "A confirmação do diagnóstico de MPS IV A envolve exames bioquímicos ou genéticos que deverão ser\nrealizados sempre que houver suspeita dessa doença.",
+      "char_count": 148
+    },
+    {
+      "number": "3.1",
+      "title": "SUSPEITA DIAGNÓSTICA",
+      "depth": 2,
+      "content": "O diagnóstico de MPS IV A deve ser suspeitado em indivíduos que apresentarem pelo menos um dos\nsintomas e sinais abaixo relacionados, especialmente naqueles que tiverem a combinação de pelo menos dois deles\n(6):\n         - Baixa estatura desproporcionada (tronco curto);\n         - Estudo radiológico sugestivo de displasia espondiloepifisária, pseudoacondroplasia, displasia epifisária\nmúltipla, doença de Legg Calvé-Perthers bilateral;\n         - Alterações articulares bilaterais (frouxidão, rigidez, dor, contraturas, subluxação);\n         - Opacificação bilateral de córnea;\n         - Aumento de QS na urina; ou\n         - Irmão de qualquer sexo com MPS IV A.\n\n\n         Como os achados clínicos variam de acordo com a gravidade da doença, os sintomas e sinais, por si só, não\nsão diagnósticos.",
+      "char_count": 800
+    },
+    {
+      "number": "3.2",
+      "title": "DIAGNÓSTICO LABORATORIAL",
+      "depth": 2,
+      "content": "A redução ou ausência de atividade da enzima GALNS em fibroblastos, leucócitos ou sangue impregnado\nem papel-filtro sugere fortemente o diagnóstico de MPS IV A, mas não é suficiente para confirmá-lo como único\nteste, devido à possibilidade de ocorrência de Deficiência Múltipla de Sulfatases (outro erro inato do metabolismo).\nPor isto, a atividade de pelo menos outra sulfatase (arilsulfatase A, arilsulfatase B, heparan N-sulfatase ou\niduronato-sulfatase) deve estar normal.\n         A medida da atividade enzimática em gotas de sangue impregnadas em papel-filtro tem a vantagem da\nfacilidade de transporte e manipulação, mas deve ser considerada como método de triagem, devido aos casos de\nfalsos-positivos e negativos associados.",
+      "char_count": 733
+    },
+    {
+      "number": "3.3",
+      "title": "TESTE GENÉTICO",
+      "depth": 2,
+      "content": "A presença de duas mutações patogênicas em trans no gene GALNS também confirma o diagnóstico de\nMPS IV A. Mais de 340 diferentes mutações causadoras de doença já foram descritas nesse gene (12), o qual\n\npossui 14 éxons (6, 13, 14). A análise do gene GALNS permite, também, a detecção de heterozigotos, facilitando\no aconselhamento genético individual e familiar.",
+      "char_count": 362
+    },
+    {
+      "number": "4",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "depth": 1,
+      "content": "Serão incluídos neste PCDT todos os pacientes que apresentarem pelo menos um dos sintomas ou sinais\ndescritos no item 3.1 Suspeita Diagnóstica e tiverem o diagnóstico de MPS IV A confirmado de acordo com um\ndos critérios abaixo relacionados:\n       - atividade da GALNS < 10% do limite inferior dos valores de referência em fibroblastos ou leucócitos E\natividade de pelo menos uma outra sulfatase (arilsulfatase A, arilsulfatase B, heparan N-sulfatase ou iduronato-\nsulfatase) avaliada na mesma amostra e pelo mesmo método, apresentando valores normais; OU\n       - atividade da GALNS < 10% do limite inferior dos valores de referência em papel-filtro, fibroblastos ou\nleucócitos E presença de mutações patogênicas em homozigose ou heterozigose composta no gene GALNS.",
+      "char_count": 768
+    },
+    {
+      "number": "4.1",
+      "title": "CRITÉRIOS DE INCLUSÃO PARA TRE",
+      "depth": 2,
+      "content": "Poderão fazer uso de alfaelosulfase todos os indivíduos com diagnóstico de MPS IV A realizado de acordo\ncom o item 3. Diagnóstico deste PCDT.",
+      "char_count": 141
+    },
+    {
+      "number": "4.2",
+      "title": "CRITÉRIOS DE INCLUSÃO PARA TRANSPLANTE DE CÉLULAS-TRONCO HEMATOPOÉTICAS (TCTH)",
+      "depth": 2,
+      "content": "Serão elegíveis para o transplante de células-tronco hematopoéticas (TCTH) alogênico (TCTH-AL)\naparentado (TCTH-AL-AP) ou não aparentado (TCTH-AL-NAP):\n         - Os pacientes com diagnóstico de MPS IV A e com fatores de risco para pior evolução da doença;\n         - com doador de células-tronco hematopoéticas (CTH) identificado;\n         - em condições clínicas para o transplante; e\n         - em idade compatível com o TCTH-AL, conforme o vigente Regulamento Técnico do Sistema Nacional\nde Transplantes e as idades mínima e máxima atribuídas as respectivos procedimentos na Tabela de\nProcedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS.\n\n\n         O tipo (aparentado ou não aparentado) e subtipo (mieloablativo ou não mieloablativo) do TCTH\ndependerão da idade e das condições clínicas do paciente, cabendo à equipe transplantadora defini-los.",
+      "char_count": 872
+    },
+    {
+      "number": "5",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Critérios de Exclusão de TRE",
+      "depth": 2,
+      "content": "Serão excluídos do tratamento com alfaelosulfase os pacientes que se enquadrarem em pelo menos uma das\nseguintes situações:\n       - Condição médica irreversível e que implique em sobrevida provavelmente < 6 meses como resultado da\nMPS IV A ou de outra doença associada, em acordo entre mais de um especialista;\n       - pacientes com idade > 18 anos que, após serem informados sobre os potenciais riscos e benefícios\nassociados ao tratamento com alfaelosulfase, recusarem-se a serem tratados; ou\n\n       - pacientes com histórico de falha de adesão, desde que previamente inseridos, sem sucesso, em programa\nespecífico para melhora de adesão, ou seja, pacientes que, mesmo após o programa, não comparecerem a pelo\nmenos 50% do número de consultas ou de avaliações previstas em um ano.",
+      "char_count": 785
+    },
+    {
+      "number": "5.2",
+      "title": "CRITÉRIOS DE EXCLUSÃO PARA TRANSPLANTE DE CÉLULAS-TRONCO HEMATOPOÉTICAS (TCTH)",
+      "depth": 2,
+      "content": "- Pacientes com diagnóstico de MPS IV A sem condições clínicas para o TCTH-AL;\n       - Pacientes em idade incompatível para o TCTH-AL, conforme o vigente Regulamento Técnico do Sistema\nNacional de Transplantes e as idades mínima e máxima atribuídas as respectivos procedimentos na Tabela de\nProcedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS; ou\n       - Pacientes sem doador de células-tronco hematopéticas (CTH) identificado.",
+      "char_count": 453
+    },
+    {
+      "number": "6",
+      "title": "TRATAMENTO",
+      "depth": 1,
+      "content": "O tratamento dos pacientes com MPS IV A envolve equipe multidisciplinar (1,15) e inclui intervenções\ngerais (como cirurgias para correção das alterações esqueléticas) e outras específicas sobre a proteína mutante\n(como a TRE intravenosa e o TCTH) (16,17). Outras medidas terapêuticas, como uso de TRE intratecal,\nchaperonas, inibidores de síntese de substrato e terapia gênica, estão ainda em fase de desenvolvimento para outras\nMPS e ainda não foram avaliadas para a MPS IV A (16,17).",
+      "char_count": 485
+    },
+    {
+      "number": "6.1",
+      "title": "TRATAMENTO GERAL",
+      "depth": 2,
+      "content": "A MPS IV A é uma doença crônica, progressiva e multissistêmica que requer cuidados de equipe\nmultiprofissional com fonoaudiólogos, fisioterapeutas, terapeutas ocupacionais, enfermeiros e diferentes\nespecialidades médicas (6). É crucial que um médico assistente cuide continuamente do paciente, monitorando a\nevolução da doença, fornecendo orientação à família, encaminhando o paciente para outros médicos especialistas\ne coordenando o atendimento como um todo. Idealmente, o acompanhamento deve ser feito em um centro de\nreferência que disponha de uma equipe multidisciplinar integrada de especialistas, assegurando dessa forma a\ncoordenação assistencial abrangente dos pacientes, desde o diagnóstico até o tratamento e seguimento (6).\n       Os pacientes com MPS IV A podem desenvolver sintomas e sinais neurológicos secundários à compressão\nmedular (5,18) e, nesses casos, um neurocirurgião deve fazer parte da equipe. (6) Além disso, é importante que os\npacientes e as famílias sejam educados sobre a doença e possíveis complicações e riscos, também por meio de um\nrelatório escrito (6).\n       As principais manifestações clínicas da MPS IV A e suas opções de tratamentos de suporte e sintomáticos\npodem ser encontradas na Tabela 1. É importante frisar que nem todos os pacientes apresentarão todas as\nmanifestações citadas, as quais costumam ser mais frequentes e mais intensas nos pacientes com a forma grave da\ndoença. Da mesma forma, nem todos os pacientes necessitarão ser submetidos a todas as formas de tratamento.",
+      "char_count": 1525
+    },
+    {
+      "number": "6.1.1",
+      "title": "Tratamento ortopédico",
+      "depth": 3,
+      "content": "Pacientes com MPS IV A têm acometimento ósseo significativo (1) e requerem fisioterapia motora\ndinâmica, cujo objetivo principal é a prevenção ou estabilização de deformidades osteoarticulares, mantendo a\namplitude de movimento (6). Além disso, equipamentos de auxílio da marcha ou cadeira de rodas podem aumentar\na mobilidade e aliviar a dor; contudo, esforços com o intuito de postergar ao máximo a utilização desses\n\ninstrumentos devem ser feitos para manter os pacientes móveis por maior tempo possível, uma vez que a sua\nqualidade de vida se reduz drasticamente ao se tornarem dependentes de cadeira de rodas (6,19).",
+      "char_count": 621
+    },
+    {
+      "number": "6.1.2",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "As manifestações respiratórias são as principais causas de morbimortalidade e podem ocorrer por causas\nobstrutivas ou restritivas (2,8). Assim, entre os objetivos do tratamento está o melhor controle das infecções\nrecorrentes de vias aéreas. Frequentemente, solução salina fisiológica é usada para eliminar crostas e secreções.\nAntibióticos são utilizados para o tratamento de exacerbações respiratórias agudas de origem bacteriana e suas\ncomplicações, como otite média aguda ou tonsilite, conforme indicação e a critério médico. Corticoterapia\nsistêmica por breves períodos pode ajudar a reduzir o edema e facilitar a drenagem de secreções, conforme\nindicação e a critério médico. Os medicamentos para asma devem ser administrados conforme o PCDT da Asma,\ndo Ministério da Saúde (20). Pacientes podem, ainda, se beneficiar de terapias de suporte, como imunizações\nregulares contra influenza e pneumococo (8), seguindo o calendário obrigatório de vacinação para população que\nsofre de doenças crônicas.\n       A fisioterapia respiratória visa a melhorar a função pulmonar, ventilação e biomecânica respiratória, e estão\nindicadas as manobras de higiene brônquica descritas na literatura, como vibrocompressão, drenagem postural,\ntosse estimulada por manobra de aceleração do fluxo expiratório, nebulização e aspiração nasotraqueal com\nmaterial estéril e descartável. Orientação para cuidadores e família é de vital relevância, porque a fisioterapia\nrespiratória deve ser realizada diariamente (6).",
+      "char_count": 1497
+    },
+    {
+      "number": "6.1.3",
+      "title": "Tratamento oftalmológico",
+      "depth": 3,
+      "content": "Opacificação de córnea e alterações de refração (astigmatismo, miopia e hipermetropia) são comuns na\nMPS IV A, podendo levar à diminuição da acuidade visual e fotossensibilidade (5,21-23). Nesse sentido, lentes\ncorretivas devem ser prescritas para corrigir erros de refração (6,14). O transplante de córnea pode melhorar\nnotavelmente a visão (14,24), embora possa ocorrer opacificação na córnea transplantada (25).",
+      "char_count": 414
+    },
+    {
+      "number": "6.1.4",
+      "title": "Tratamento auditivo",
+      "depth": 3,
+      "content": "Uma vez que a perda auditiva sensorioneural ou mista (condutiva e sensorioneural) é comum em pacientes\ncom MPS IV A ainda na primeira década de vida (26,27), devido a deformidades dos ossículos, anormalidades em\nouvido interno ou, ainda, por infecções respiratórias de repetição (14,23,26,27), o tratamento destas comorbidades\né imprescindível. Assim, audiometria pode ser realizada utilizando técnicas indicadas para crianças e aparelhos\nauditivos podem estar indicados quando houver perda neurossensorial progressiva (6).",
+      "char_count": 523
+    },
+    {
+      "number": "6.1.5",
+      "title": "Tratamento odontológico",
+      "depth": 3,
+      "content": "Avaliações regulares com dentista para acompanhar o desenvolvimento dentário são importantes para\nprevenir cáries e reduzir o desgaste por atrito (14,23), visto que são diversas as alterações dentárias na MPS IV A,\nincluindo dentes pequenos e espaçados (28-30).",
+      "char_count": 261
+    },
+    {
+      "number": "6.1.6",
+      "title": "Tratamento cirúrgico",
+      "depth": 3,
+      "content": "A MPS IV A pode evoluir com complicações neurológicas, como hidrocefalia comunicante e compressão\nmedular (6,31); porém, os sinais clássicos de hipertensão intracraniana geralmente estão ausentes, evoluindo de\nforma insidiosa, e os sintomas são difíceis de distinguir de danos primários ao cérebro. A maioria dos casos de\n\ncompressão medular apresenta tetraparesia espástica, mas paraparesia espástica ou hemiparesia também podem\nocorrer (32). Intervenções para compressão medular incluem descompressão, fusão medular ou a combinação de\nambas (18,33).\n         Eventualmente, esses pacientes necessitam de cirurgias corretivas em consequência de deformidades ósseas\ndiversas, incluindo a região do quadril e joelhos. Intervenção cirúrgica de coluna tóraco-lombar para correção da\ncifose também pode ser necessária quando a deformidade progride (34).\n         Com relação ao tratamento cirúrgico das manifestações de vias aéreas, os procedimentos mais frequentes\nincluem adenotonsilectomia, cirurgia de cornetos nasais e traqueostomia (6). Com relação ao tratamento da perda\nauditiva, quando decorrente de causas condutivas e por infecções respiratórias frequentes, este requer inserção de\ntubos de ventilação de longa duração, porém o procedimento nem sempre é resolutivo (23).\n         A cirurgia das vias aéreas pode ser complicada pela macroglossia, abertura limitada da boca, margem\ncirúrgica restrita e instabilidade da coluna cervical, dificultando a visualização do campo cirúrgico. A\nhiperextensão no pescoço nesses pacientes pode causar compressão medular aguda. A traqueostomia deve ser\nevitada sempre que possível, devido a dificuldades na técnica cirúrgica, endurecimento da traqueia, alterações\nanatômicas significativas como pescoço curto e possibilidade de complicações pós-operatórias, como traqueíte,\npneumonia recorrente e bloqueio da traqueostomia por secreções espessas (6,8).\n         As hérnias inguinais, umbilicais e diafragmáticas são comuns entre os pacientes com MPS IV A (5,23),\nmuitas vezes levando à necessidade de correções cirúrgicas. As hérnias umbilicais frequentemente se repetem após\no reparo inicial, talvez como resultado de elastogênese comprometida.\n         Muitos pacientes com MPS apresentam risco anestésico elevado devido à obstrução das vias aéreas\nsuperiores. Portanto, a avaliação pré-operatória para mensuração dos riscos sempre está indicada (6), uma vez que\na dificuldade na intubação pode ser fatal (35). Idealmente, os procedimentos cirúrgicos devem ser realizados em\ncentros de referência com experiência em MPS, sendo fundamental a presença de anestesista experiente em\nintubação difícil para a sua realização, pois a necessidade de acompanhar a intubação com fibroscopia é frequente.\nAs máscaras laríngeas podem ser usadas para o controle das vias aéreas por períodos curtos ou para facilitar a\nintubação de fibra óptica (35,36). Os tubos endotraqueais podem precisar ser menores do que o previsto para a\nidade e o tamanho de um paciente com MPS IV A. Esses pacientes geralmente apresentam obstrução pós-\noperatória das vias aéreas, e as urgências hospitalares durante a noite não são incomuns. Assim sendo, a\nnecessidade de traqueostomia pós-operatória é uma possibilidade que deve ser considerada por todas as partes\nenvolvidas. Quando possível, os procedimentos que exigem anestesia geral devem ser evitados para minimizar o\nrisco.",
+      "char_count": 3390
+    },
+    {
+      "number": "6.2",
+      "title": "TRATAMENTO ESPECÍFICO",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "6.2.1",
+      "title": "TRANSPLANTE DE CÉLULAS-TRONCO HEMATOPOÉTICAS (TCTH)",
+      "depth": 3,
+      "content": "As evidências atualmente disponíveis sugerem que existem benefícios da realização de TCTH alogênico\n(TCTH-AL) aparentado (TCTH-AL-AP) ou não aparentado (TCTH-AL-NAP) em indivíduos com MPS IV A,\nespecialmente quando em idade precoce (37,38). Como a MPS IV A envolve principalmente complicações\nesqueléticas e o osso é uma estrutura de difícil acesso à TRE intravenosa, haveria maiores possibilidades de\nmelhora deste desfecho com o TCTH heterólogo aparentado (desde que doador não-heterozigoto) ou não\naparentado. Desta forma, indivíduos com MPS IV A até 6 anos de idade deverão ser encaminhados a centros\ntransplantadores a fim de verificar a possibilidade de realização de TCTH, conforme o vigente Regulamento\n\nTécnico do Sistema Nacional de Transplantes e as idades mínima e máxima atribuídas aos respectivos\nprocedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS.",
+      "char_count": 914
+    },
+    {
+      "number": "6.2.2",
+      "title": "TERAPIA DE REPOSIÇÃO ENZIMÁTICA (TRE)",
+      "depth": 3,
+      "content": "A alfaelosulfase, GALNS recombinante, é uma enzima produzida em células de ovário de hamster chinês\n(células Chinese hamster ovary, CHO) e trata-se do fármaco disponível para o tratamento específico da MPS IV\nA (6,16). Os pacientes que já estiverem em uso de alfaelosulfase quando da publicação deste PCDT deverão ser\nreavaliados para verificação dos critérios de inclusão. Caso não preencham os critérios, a reposição da enzima\ndeve ser imediatamente suspensa.",
+      "char_count": 461
+    },
+    {
+      "number": "6.2.2.1",
+      "title": "Casos especiais",
+      "depth": 4,
+      "content": "A alfaelosulfase é considerada classe B para uso na gestação e aleitamento. Há relato na literatura de\nmanutenção de uso da alfaelosulfase durante a gestação com desfechos positivos para mãe e recém-nascido (40).\nSendo assim, o uso da TRE com alfaelosulfase em mulheres grávidas ou que estejam amamentando é de decisão\nconjunta da equipe médica e paciente. De forma geral, recomenda-se que o tratamento com TRE não seja iniciado\ndurante a gestação, especialmente durante o primeiro trimestre, e que, se já iniciado, seja mantido durante a\ngravidez.\n         Caso seja feito uso de glicocorticoide ou anti-histamínico, deve ser considerada a interrupção da TRE no\nprimeiro trimestre.\n         Quando houver reação à infusão mediada por IgE, deve ser discutida a possibilidade do uso de protocolos\nque promovam a tolerância à infusão do medicamento.",
+      "char_count": 847
+    },
+    {
+      "number": "6.2.2.2",
+      "title": "Fármaco",
+      "depth": 4,
+      "content": "- Alfaelosulfase: 1 mg/ml solução injetável.",
+      "char_count": 44
+    },
+    {
+      "number": "6.2.2.3",
+      "title": "Esquema de administração",
+      "depth": 4,
+      "content": "A dose recomendada para a alfaelosulfase é de 2 mg/kg de peso corporal, administrada uma vez por\nsemana por infusão intravenosa. O uso de anti-histamínico, associado ou não a antipirético, é recomendado de 30\na 60 minutos antes do início da infusão (6). A infusão deve ser feita em ambiente hospitalar.\n       O volume total da infusão é determinado pelo peso corporal do paciente e deve ser infundido ao longo de\n4 horas. Pacientes com 20 kg ou menos devem receber um volume total de 100 ml. Pacientes com mais de 20 kg\ndevem receber um volume total de 250 mL. Quando diluído em 100 ml de solução fisiológica, a velocidade de\ninfusão inicial deve ser de 3 mL/h e pode ser aumentada, conforme a tolerância, a cada 15 minutos: primeiro,\naumentar a velocidade para 6 mL/h, depois, a cada 15 minutos, em incrementos de 6 mL/h até a velocidade máxima\nde 36 mL/h ser atingida. Quando diluído em 250 mL, a velocidade de infusão inicial deve ser de 6 mL/h e pode\nser aumentada, conforme tolerância, a cada 15 minutos: primeiro, aumentar a velocidade para 12 mL/h, depois, a\ncada 15 minutos, em incrementos de 12 mL/h até a velocidade máxima de 72 mL/h ser atingida (40).",
+      "char_count": 1163
+    },
+    {
+      "number": "6.2.2.4",
+      "title": "Riscos e benefícios esperados",
+      "depth": 4,
+      "content": "A alfaelosulfase é considerada um medicamento seguro. Seus principais benefícios são a melhora no teste\nda caminhada de 6 minutos (TC6M) e redução da excreção de GAGs urinários.\n\n       Os pacientes incluídos no único ensaio clínico randomizado (ECR) disponível (41) tinham todos idade igual\nou superior a 5 anos e deambulavam; no período basal, percorriam em média 216,5 m (amplitude: 42,4-321,5 m)\nno TC6M (grupo com administração semanal). O efeito médio estimado no TC6M da intervenção versus placebo\nfoi de 22,5 metros (IC 95% 4,0 a 40,9; p = 0,017) para o grupo semanal. A taxa de normalização do QS no teste\nde urina foi significativamente superior nos braços de intervenção (p < 0,001), resultando em uma média de\ndiminuição de 41% (amplitude: 32,4%-49%) (41).\n       A alfaelosulfase foi considerada segura, com eventos adversos leves e facilmente tratáveis na maioria dos\ncasos. Os eventos adversos relatados foram dois casos de pneumonia, um episódio de hipersensibilidade, dor no\nlocal da infusão, infecção respiratória baixa, otite média, urticária, infecção viral do trato respiratório superior e\nvômitos, além de reação anafilática. O único estudo controlado por placebo (41) não encontrou diferença\nsignificativa na ocorrência de eventos adversos entre os grupos.",
+      "char_count": 1279
+    },
+    {
+      "number": "7",
+      "title": "TEMPO DE TRATAMENTO – CRITÉRIOS DE INTERRUPÇÃO",
+      "depth": 1,
+      "content": "Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, ao paciente ou aos pais\nou responsáveis quando a TRE estiver sendo considerada e antes de iniciá-la. Durante o acompanhamento do\npaciente com TRE, os parâmetros de resposta terapêutica deverão ser avaliados periodicamente e discutidos com\nos pais, paciente ou responsáveis. No caso de interrupção por falha de adesão, o paciente e parentes deverão ser\ninseridos em programa de incentivo à adesão, e o paciente poderá retornar ao tratamento, caso haja\ncomprometimento explícito de seguimento das recomendações médicas. O tempo de tratamento não pode ser pré-\ndeterminado, devendo ser mantido enquanto indicado e dele o doente se beneficie.\n       A TRE deve ser interrompida nas seguintes situações:\n       - Pacientes que desenvolverem condição irreversível que implique em morte iminente, cujo prognóstico\nnão se alterará devido ao uso da TRE, como resultado da MPS IV A ou de outra doença associada, em acordo entre\nmais de um especialista;\n       - pacientes que não apresentarem pelo menos 50% de adesão ao número de infusões previstas em um ano,\nao número de consultas previstas em um ano ou ao número de avaliações previstas em um ano com o médico\nresponsável pelo seguimento do paciente, desde que previamente inseridos, sem sucesso, em programa específico\npara melhora de adesão, ou seja, pacientes que, mesmo após o programa, não comparecerem a pelo menos 50%\ndo número de infusões, consultas ou avaliações previstas em um ano;\n       - pacientes que apresentarem hipersensibilidade ou reação adversa grave (choque anafilático, risco de óbito)\nao uso da alfaelosulfase, que não podem ser controladas com segurança utilizando medidas terapêuticas e\npreventivas apropriadas;\n       - pacientes com idade > 18 anos que, após serem devidamente informados sobre os riscos e benefícios de\nsua decisão, optarem por não mais se submeterem ao tratamento com TRE intravenosa com alfaelosulfase; ou\n       - pacientes que não atingirem pelo menos três dos cinco critérios de melhora abaixo descritos após seis\nmeses de tratamento:\n                a.   Pacientes que nunca receberam o tratamento:\n                           i. melhora no teste de caminhada de 6 minutos (TC6M) em pelo menos 20 metros em\n                              relação ao valor no início do tratamento;\n                           ii. melhora na CVF ou VEF1, medida por espirometria, em pelo menos 5% com relação\n                              ao valor no início do tratamento;\n\n                        iii. redução de GAGs urinários em pelo menos 30% em relação ao valor no início do\n                             tratamento;\n                         iv. declínio da fração de ejeção em menos de 10% em relação ao valor no início do\n                             tratamento, medido por meio de ecocardiograma;\n                         v. estabilização na avaliação da qualidade de vida medida por meio da aplicação de\n                             pelo menos um de três instrumentos validados (pelo menos um deve estar melhor ou\n                             estável): questionário de qualidade de vida (para o paciente ou para o cuidador);\n                             instrumento para avaliação da dor (para o paciente); inventário de depressão de Beck\n                             (para o paciente).\n                b.   Pacientes em tratamento por pelo menos seis meses:\n       - Pacientes em tratamento devem ser reavaliados quando da publicação deste PCDT e seis meses depois,\npor meio de TC6M, espirometria (CVF/VEF1), níveis urinários de GAGs, ecocardiograma e aplicação de\nquestionário de qualidade de vida validado. Pelo menos três dos cinco parâmetros devem mostrar melhora ou\nmanterem-se estáveis no período (a variação aceita para estabilidade é de 5%). Caso haja piora, o tratamento deve\nser interrompido.",
+      "char_count": 3866
+    },
+    {
+      "number": "8",
+      "title": "MONITORIZAÇÃO",
+      "depth": 1,
+      "content": "Os pacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve realizar\nanamnese completa em cada visita e coletar dados de altura (em pé ou em decúbito dorsal, e, no caso de restrições\nnos membros inferiores, por segmento), peso e perímetro cefálico, de preferência usando o mesmo instrumento,\ndevidamente calibrado. O exame físico deve ser completo e incluir sinais vitais (temperatura, frequência cardíaca,\nfrequência respiratória e pressão arterial), bem como medidas para quantificação do tamanho do fígado (por\nhepatimetria). A avaliação do desenvolvimento sexual deve ser realizada em adolescentes, de acordo com os\ncritérios de Tanner (42,43). Nas visitas, dados sobre todas as avaliações realizadas desde o último agendamento\ndevem ser obtidos, e os testes necessários devem ser solicitados, incluindo avaliação por especialistas em\nneurologia, otorrinolaringologia, oftalmologia, cardiologia e pneumologia, conforme indicação e a critério do\nmédico assistente.\n       A maioria dos pacientes adultos com MPS IV A tem altura abaixo do percentil 3, inferior a 120 cm (5),\ncom tendência de maior IMC (percentil >85) (2). Além disso, a altura pode reduzir com o passar do tempo, por\ndeformidades esqueléticas, como cifoscoliose e geno valgo. A velocidade de crescimento começa a reduzir a partir\nde um ano de idade, e curvas específicas para MPS IV A estão disponíveis (2).\n       Como a obesidade pode exacerbar as alterações em membros inferiores, deve ser feito monitoramento\nadequado desta comorbidade.\n       As avaliações de rotina devem ser realizadas semestralmente pelo médico assistente, com avaliação da\nnecessidade de vacinação, orientação dietética, exames e orientações preventivas (2). Salienta-se que a realização\nde aconselhamento genético é fundamental.\n       O Apêndice 1 apresenta as avaliações consideradas mínimas para o acompanhamento de pacientes com\nMPS IV A. São definidos períodos mínimos apenas para as avaliações que têm por objetivo detectar a eficácia e\nsegurança da TRE e do TCTH; para as demais, a periodicidade de avaliações fica a critério do médico assistente.\nAssim, é recomendada a realização semestral (mês 0, 6 e 12), no primeiro ano de tratamento, de TC6M, dosagem\n\nurinária de GAGs, ecocardiograma, espirometria e questionários de qualidade de vida como parte da avaliação da\nresposta ao tratamento. Após o primeiro ano, tais avaliações devem ser anuais, conforme o Apêndice 2.\n       A análise de GAGs urinários pode ser quantitativa, feita pelo método espectrofotométrico descrito por De\nJong et al. (44), ou permitir a identificação, por cromatografia ou eletroforese, do tipo de GAG que está sendo\nexcretado em quantidade aumentada na urina (método qualitativo) (44,45). Na MPS IV A, ocorre aumento da\nexcreção de QS e C6S, mas não de forma tão acentuada como ocorre nas outras MPS, sendo possível, inclusive,\nnão serem encontradas alterações nesses biomarcadores (46). A quantificação de GAGs urinários é utilizada\nprincipalmente para monitorização do tratamento específico da MPS IV A, uma vez que ocorre diminuição da\nexcreção dessas moléculas na vigência do tratamento (51).\n\n\n       Como parte da avaliação do tratamento, os seguintes itens devem ser respeitados:\n         − Monitorar os resultados dos transplantes por meio de estudo observacional original.\n         − Monitorar o uso, a adesão, a indicação e os resultados da TRE com alfaelosulfase. Por meio desse\nmonitoramento, será possível estabelecer grupos de pacientes que são de fato beneficiados e reavaliar a\nincorporação do medicamento a médio prazo.",
+      "char_count": 3603
+    },
+    {
+      "number": "9",
+      "title": "REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e a\nmonitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação\nde uso do medicamento.\n       O tratamento da MPS IV A deve ser feito por equipe em serviços especializados, para fins de diagnóstico\ne de acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige experiência e\nfamiliaridade com manifestações clínicas associadas, é recomendado, se possível, que o médico responsável tenha\nexperiência e seja treinado nessa atividade.\n       Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica no SUS se encontra o medicamento preconizado neste Protocolo.\n       Para a administração de medicamentos biológico intravenoso e para maior racionalidade do uso e avaliação\nda efetividade do medicamento, a infusão deve ser feita em ambiente hospitalar ou serviço especializado.\n       Para a autorização do TCTH alogênico não aparentado de medula óssea, de sangue periférico ou de sangue\nde cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no Registro\nNacional de Receptores de Medula Óssea ou outros precursores hematopoéticos (REREME/INCA/MS), e devem\nser observadas as normas técnicas e operacionais do Sistema Nacional de Transplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem continuar\nsendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta do hospital\ntransplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência\ne acompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte,\nsempre que necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre\na evolução dos transplantados.\n       Os resultados de todos os casos MPS IV A submetidos a TCTH mieloablativo alogênico aparentado ou não\naparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical deverão ter sua evolução\nregistrada no REREME a cada três meses até completar pelo menos um ano da realização do transplante.",
+      "char_count": 2311
+    },
+    {
+      "number": "10",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE (TER)",
+      "depth": 1,
+      "content": "Deve-se informar o paciente ou seu responsável legal sobre os potenciais riscos, benefícios e efeitos\nadversos relacionados ao uso do medicamento preconizado neste PCDT, bem como critérios para interrupção do\ntratamento, levando-se em consideração as informações contidas no TER.\n      Para o esclarecimento sobre os riscos e benefícios do transplante de células-tronco hematopoéticas\nalogênico, adotam-se as normas preconizadas no âmbito do Sistema Nacional de Transplantes.",
+      "char_count": 475
+    },
+    {
+      "number": "11",
+      "title": "REFERÊNCIAS BIBLIOGRÁFICAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "MJ NE. The Mucopolysaccharidoses. The Online Metabolic and Molecular Bases of Inherited Disease.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "2",
+      "title": "Montaño AM, Tomatsu S, Gottesman GS, Smith M, Orii T. International Morquio A Registry: clinical",
+      "depth": 1,
+      "content": "manifestation and natural course of Morquio A disease. J Inherit Metab Dis. 2007; 30(2):165-74.",
+      "char_count": 95
+    },
+    {
+      "number": "3",
+      "title": "Aslam R, van Bommel ACM, Hendriksz CJ, Jester A. Subjective and Objective Assessment of Hand Function",
+      "depth": 1,
+      "content": "in Mucopolysaccharidosis IVa Patients. JIMD Rep. 2013; 9:59-65",
+      "char_count": 62
+    },
+    {
+      "number": "4",
+      "title": "Dhawale AA, Church C, Henley J, Holmes L, Thacker MM, Mackenzie WG, et al. Gait pattern and lower",
+      "depth": 1,
+      "content": "extremity alignment in children with Morquio syndrome. J Pediatr Orthop B. 2013; 22(1):59-62.",
+      "char_count": 93
+    },
+    {
+      "number": "5",
+      "title": "Harmatz P, Mengel KE, Giugliani R, Valayannopoulos V, Lin SP, Parini R, et al. The Morquio A Clinical",
+      "depth": 1,
+      "content": "Assessment Program: baseline results illustrating progressive, multisystemic clinical impairments in Morquio A\nsubjects. Mol Genet Metab. 2013; 109(1):54-61",
+      "char_count": 156
+    },
+    {
+      "number": "6",
+      "title": "Hendriksz CJ, Berger KI, Giugliani R, Harmatz P, Kampmann C, Mackenzie WG, et al. International guidelines",
+      "depth": 1,
+      "content": "for the management and treatment of Morquio A syndrome. Am J Med Genet A. 2015 Jan; 167A(1):11-25.",
+      "char_count": 98
+    },
+    {
+      "number": "7",
+      "title": "Kampmann C, Abu-Tair T, Gökce S, Lampe C, Reinke J, Mengel E, et al. Heart and Cardiovascular Involvement",
+      "depth": 1,
+      "content": "in Patients with Mucopolysaccharidosis Type IVA (Morquio-A Syndrome). PLoS One. 2016 Sep 9;\n11(9):e0162612.",
+      "char_count": 107
+    },
+    {
+      "number": "8",
+      "title": "Berger KI, Fagondes SC, Giugliani R, Hardy KA, Lee KS, McArdle C, et al. Respiratory and sleep disorders",
+      "depth": 1,
+      "content": "in mucopolysaccharidosis. J Inherit Metab Dis. 2013 Mar; 36(2):201-10.",
+      "char_count": 70
+    },
+    {
+      "number": "9",
+      "title": "Lavery C, Hendriksz C. Mortality in patients with morquio syndrome a. JIMD Rep. 2015; 15:59-66.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "10",
+      "title": "Leadley RM, Lang S, Misso K, Bekkering T, Ross J, Akiyama T, et al. A systematic review of the prevalence",
+      "depth": 1,
+      "content": "of Morquio A syndrome: challenges for study reporting in rare diseases. Orphanet J Rare Dis. 2014 Nov 18; 9:173.",
+      "char_count": 112
+    },
+    {
+      "number": "11",
+      "title": "Giugliani R, Federhen A, Michelin-Tirelli K, Riegel M, Burin M. Relative frequency and estimated minimal",
+      "depth": 1,
+      "content": "frequency of Lysosomal Storage Diseases in Brazil: Report from a Reference Laboratory. Genet Mol Biol. 2017\nJan-Mar; 40(1):31-9.\n12. The Human Gene Mutation Database [Internet]. 2007-2017 [access 18 oct 2019]. Available from:\nhttp://www.hgmd.cf.ac.uk/ac/index.php.",
+      "char_count": 264
+    },
+    {
+      "number": "13",
+      "title": "Morrone A, Tylee KL, Al-Sayed M, Brusius-Facchin AC, Caciotti A, Church HJ, et al. Molecular testing of",
+      "depth": 1,
+      "content": "163 patients with Morquio A (Mucopolysaccharidosis IVA) identifies 39 novel GALNS mutations. Mol Genet\nMetab. 2014 Jun; 112(2):160-70.",
+      "char_count": 134
+    },
+    {
+      "number": "14",
+      "title": "Tomatsu S, Montaño AM, Oikawa H, Smith M, Barrera L, Chinen Y, et al. Mucopolysaccharidosis type IVA",
+      "depth": 1,
+      "content": "(Morquio A disease): clinical review and current treatment. Curr Pharm Biotechnol. 2011 Jun; 12(6):931-45.",
+      "char_count": 106
+    },
+    {
+      "number": "15",
+      "title": "Turra GS, Schwartz IV. Evaluation of orofacial motricity in patients with mucopolysaccharidosis: a cross-",
+      "depth": 1,
+      "content": "sectional study. J Pediatr (Rio J). 2009 May-Jun; 85(3):254-60.\n16. Schwartz IV, Souza CF, Giugliani R. Treatment of inborn errors of metabolism. J Pediatr (Rio J). 2008 Aug;\n84(4 Suppl):S8-19.",
+      "char_count": 193
+    },
+    {
+      "number": "17",
+      "title": "Giugliani R, Federhen A, Vairo F, Vanzella C, Pasqualim G, da Silva LM, et al. Emerging drugs for the",
+      "depth": 1,
+      "content": "treatment of mucopolysaccharidoses. Expert Opin Emerg Drugs. 2016; 21(1):9-26.",
+      "char_count": 78
+    },
+    {
+      "number": "18",
+      "title": "Solanki GA, Martin KW, Theroux MC, Lampe C, White KK, Shediac R, et al. Spinal involvement in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis IVA (Morquio-Brailsford or Morquio A syndrome): presentation, diagnosis and\nmanagement. J Inherit Metab Dis. 2013 Mar; 36(2):339-55.",
+      "char_count": 154
+    },
+    {
+      "number": "19",
+      "title": "Hendriksz CJ, Lavery C, Coker M, Ucar SK, Jain M, Bell L, et al. Burden of disease in patients with Morquio",
+      "depth": 1,
+      "content": "A syndrome: results from an international patient-reported outcomes survey. Orphanet J Rare Dis. 2014 Mar 7;\n9:32.",
+      "char_count": 114
+    },
+    {
+      "number": "20",
+      "title": "Saúde Md. Asma. In: Conitec, editor. http://portalarquivos2.saude.gov.br/images/pdf/2014/julho/22/PT-SAS-",
+      "depth": 1,
+      "content": "N---1317-alterado-pela-603-de-21-de-julho-de-2014.pdf2013.",
+      "char_count": 58
+    },
+    {
+      "number": "21",
+      "title": "Couprie J, Denis P, Guffon N, Reynes N, Masset H, Beby F. [Ocular manifestations in patients affected by",
+      "depth": 1,
+      "content": "Morquio syndrome (MPS IV)]. J Fr Ophtalmol. 2010 Nov; 33(9):617-22.",
+      "char_count": 67
+    },
+    {
+      "number": "22",
+      "title": "Summers CG, Ashworth JL. Ocular manifestations as key features for diagnosing mucopolysaccharidoses.",
+      "depth": 1,
+      "content": "Rheumatology (Oxford). 2011 Dec; 50 Suppl 5:v34-40.",
+      "char_count": 51
+    },
+    {
+      "number": "23",
+      "title": "Hendriksz CJ, Al-Jawad M, Berger KI, Hawley SM, Lawrence R, Mc Ardle C, et al. Clinical overview and",
+      "depth": 1,
+      "content": "treatment options for non-skeletal manifestations of mucopolysaccharidosis type IVA. J Inherit Metab Dis. 2013\nMar; 36(2):309-22.",
+      "char_count": 129
+    },
+    {
+      "number": "24",
+      "title": "Leslie T, Siddiqui MA, Aitken DA, Kirkness CM, Lee WR, Fern AI. Morquio syndrome: electron microscopic",
+      "depth": 1,
+      "content": "findings. Br J Ophthalmol. 2005 Jul; 89(7):925-6.",
+      "char_count": 49
+    },
+    {
+      "number": "25",
+      "title": "Käsmann-Kellner B, Weindler J, Pfau B, Ruprecht KW. Ocular changes in mucopolysaccharidosis IV A",
+      "depth": 1,
+      "content": "(Morquio A syndrome) and long-term results of perforating keratoplasty. Ophthalmologica. 1999; 213(3):200-5.",
+      "char_count": 108
+    },
+    {
+      "number": "26",
+      "title": "Bredenkamp JK, Smith ME, Dudley JP, Williams JC, Crumley RL, Crockett DM. Otolaryngologic",
+      "depth": 1,
+      "content": "manifestations of the mucopolysaccharidoses. Ann Otol Rhinol Laryngol. 1992 Jun; 101(6):472-8.",
+      "char_count": 94
+    },
+    {
+      "number": "27",
+      "title": "Riedner ED, Levin LS. Hearing patterns in Morquio's syndrome (mucopolysaccharidosis IV). Arch",
+      "depth": 1,
+      "content": "Otolaryngol. 1977 Sep; 103(9):518-20.",
+      "char_count": 37
+    },
+    {
+      "number": "28",
+      "title": "Kinirons MJ, Nelson J. Dental findings in mucopolysaccharidosis type IV A (Morquio's disease type A). Oral",
+      "depth": 1,
+      "content": "Surg Oral Med Oral Pathol. 1990 Aug; 70(2):176-9.",
+      "char_count": 49
+    },
+    {
+      "number": "29",
+      "title": "Rølling I, Clausen N, Nyvad B, Sindet-Pedersen S. Dental findings in three siblings with Morquio's syndrome.",
+      "depth": 1,
+      "content": "Int J Paediatr Dent. 1999 Sep; 9(3):219-24.",
+      "char_count": 43
+    },
+    {
+      "number": "30",
+      "title": "James A, Hendriksz CJ, Addison O. The oral health needs of children, adolescents and young adults affected",
+      "depth": 1,
+      "content": "by a mucopolysaccharide disorder. JIMD Rep. 2012; 2:51-8.",
+      "char_count": 57
+    },
+    {
+      "number": "31",
+      "title": "Reichert R, Campos LG, Vairo F, de Souza CF, Pérez JA, Duarte J, et al. Neuroimaging Findings in Patients",
+      "depth": 1,
+      "content": "with Mucopolysaccharidosis: What You Really Need to Know. Radiographics. 2016 Sep-Oct; 36(5):1448-62.",
+      "char_count": 101
+    },
+    {
+      "number": "32",
+      "title": "Kachur E, Del Maestro R. Mucopolysaccharidoses and spinal cord compression: case report and review of the",
+      "depth": 1,
+      "content": "literature with implications of bone marrow transplantation. Neurosurgery. 2000 Jul; 47(1):223-8; discussion 228-\n9",
+      "char_count": 115
+    },
+    {
+      "number": "33",
+      "title": "Ransford AO, Crockard HA, Stevens JM, Modaghegh S. Occipito-atlanto-axial fusion in Morquio-Brailsford",
+      "depth": 1,
+      "content": "syndrome. A ten-year experience. J Bone Joint Surg Br. 1996 Mar; 78(2):307-13.",
+      "char_count": 78
+    },
+    {
+      "number": "34",
+      "title": "Williams N, Cundy P, Eastwood D. Surgical Management of Thoracolumbar Kyphosis in Patients with",
+      "depth": 1,
+      "content": "Mucopolysaccharidosis: A Systematic Review. Spine (Phila Pa 1976). 2017 Dec 1; 42(23):1817-25.",
+      "char_count": 94
+    },
+    {
+      "number": "35",
+      "title": "Shinhar SY, Zablocki H, Madgy DN. Airway management in mucopolysaccharide storage disorders. Arch",
+      "depth": 1,
+      "content": "Otolaryngol Head Neck Surg. 2004; 130(2):233-7.",
+      "char_count": 47
+    },
+    {
+      "number": "36",
+      "title": "Brain AI. The laryngeal mask--a new concept in airway management. Br J Anaesth. 1983; 55(8):801-5.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "37",
+      "title": "Hoogerbrugge PM, Brouwer OF, Bordigoni P, Ringden O, Kapaun P, Ortega JJ, et al. Allogeneic bone marrow",
+      "depth": 1,
+      "content": "transplantation for lysosomal storage diseases. The European Group for Bone Marrow Transplantation. Lancet.\n1995; 345(8962):1398-402.",
+      "char_count": 133
+    },
+    {
+      "number": "38",
+      "title": "Tomatsu S, Sawamoto K, Alméciga-Díaz CJ, Shimada T, Bober MB, Chinen Y, et al. Impact of enzyme",
+      "depth": 1,
+      "content": "replacement therapy and hematopoietic stem cell transplantation in patients with Morquio A syndrome. Drug Des\nDevel Ther. 2015; 9:1937-53.",
+      "char_count": 138
+    },
+    {
+      "number": "39",
+      "title": "Yabe H, Tanaka A, Chinen Y, Kato S, Sawamoto K, Yasuda E, et al. Hematopoietic stem cell transplantation",
+      "depth": 1,
+      "content": "for Morquio A syndrome. Mol Genet Metab. 2016; 117(2):84-94.",
+      "char_count": 60
+    },
+    {
+      "number": "40",
+      "title": "Vimizim [Bula de remédio]. São Paulo: Biomarin Brasil Farmacêutica Ltda; 2016",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "41",
+      "title": "Hendriksz CJ, Burton B, Fleming TR, Harmatz P, Hughes D, Jones SA, et al. Efficacy and safety of enzyme",
+      "depth": 1,
+      "content": "replacement therapy with BMN 110 (elosulfase alfa) for Morquio A syndrome (mucopolysaccharidosis IVA): a\nphase 3 randomised placebo-controlled study. J Inherit Metab Dis. 2014 Nov; 37(6):979-90.\n42. Marshall WA, Tanner JM. Variations in pattern of pubertal changes in girls. Arch Dis Child. 1969 Jun;\n44(235):291-303.\n43. Marshall WA, Tanner JM. Variations in the pattern of pubertal changes in boys. Arch Dis Child. 1970 Feb;\n45(239):13-23.\n44. de Jong JG, Hasselman JJ, van Landeghem AA, Vader HL, Wevers RA. The spot test is not a reliable screening\nprocedure for mucopolysaccharidoses. Clin Chem. 1991;37(4):572-5.",
+      "char_count": 618
+    },
+    {
+      "number": "45",
+      "title": "Auray-Blais C, Lavoie P, Tomatsu S, Valayannopoulos V, Mitchell JJ, Raiman J, et al. UPLC-MS/MS",
+      "depth": 1,
+      "content": "detection of disaccharides derived from glycosaminoglycans as biomarkers of mucopolysaccharidoses. Anal Chim\nActa. 2016 Sep 14; 936:139-48.",
+      "char_count": 139
+    },
+    {
+      "number": "46",
+      "title": "Peracha H, Sawamoto K, Averill L, Kecskemethy H, Theroux M, Thacker M, et al. Molecular genetics and",
+      "depth": 1,
+      "content": "metabolism, special edition: Diagnosis, diagnosis and prognosis of Mucopolysaccharidosis IVA. Mol Genet\nMetab. 2018 Sep; 125(1-2):18-37.\n\n                          TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n                                                ALFAELOSULFASE\n            Eu,____________________________________________________ (nome do paciente), declaro ter sido\ninformado(a) claramente sobre benefícios, riscos, contraindicações e principais efeitos adversos relacionados ao\nuso de alfaelosulfase, indicada para o tratamento da mucopolissacaridose tipo IVA.\n            Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas pelo médico\n_______________________________________________________(nome do médico que prescreve).\n            Assim, declaro que fui claramente informado(a) de que o medicamento que passo a receber pode trazer\nos seguintes benefícios:\n            - melhora dos sintomas da doença, como melhora do teste da caminhada de 6 minutos e redução dos\nglicosaminoglicanos (GAG) urinários.\n            Fui também claramente informado(a) a respeito das seguintes contraindicações, potenciais efeitos\nadversos e riscos:\n            - medicamento classificado na gestação como fator de risco B (estudos em animais não mostraram\nanormalidades, embora estudos em mulheres não tenham sido feitos; o medicamento deve ser prescrito com\ncautela);\n            - efeitos adversos muito frequentes da alfaelosulfase incluem reações à infusão, como dor no local da\naplicação, dor de cabeça, tontura, falta de ar, náusea, febre, dor de barriga e dor na boca e na garganta;\n            - efeitos adversos frequentes incluem dores nos músculos;\n            - contraindicação em casos de hipersensibilidade (alergia) ao fármaco ou aos componentes da fórmula.\n            Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a\ndevolvê-lo caso não queira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que continuarei\na ser atendido(a), inclusive se desistir de usar o medicamento.\n            Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas ao meu\ntratamento, desde que assegurado o anonimato.        (   ) Sim (    ) Não\n       Local:                                                             Data:\n       Nome do paciente:\n       Cartão Nacional do SUS:\n       Nome do responsável legal:\n       Documento de identificação do responsável legal:\n       Assinatura do paciente ou do responsável legal\n\n\n       Médico:                                                     CRM:                     RS:\n\n\n\n\n                                        ______________________________\n                                           Assinatura e carimbo do médico\n                                                         Data:\n\n\n\n   NOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente\nda Assistência Farmacêutica no SUS se encontram os medicamentos preconizados neste Protocolo.\n\n                                                       APÊNDICE 1\n\n           PRINCIPAIS MANIFESTAÇÕES CLÍNICAS DA MPS IV A E OPÇÕES DE TRATAMENTOS DE\n                                             SUPORTE E SINTOMÁTICOS\n\n\nÓrgão/sistema                         Manifestação clínica                             Avaliação/tratamento\n    Sistema nervoso          Hidrocefalia/hipertensão intracraniana                Derivação ventrículo-peritoneal\n    central\n  Sistema nervoso                     Compressão medular                                Cirurgia, fisioterapia\n     periférico                    Síndrome do túnel do carpo                                  Cirurgia\n\n       Olhos                       Acuidade visual diminuída                           Avaliação oftalmológica\n\n                                     Opacificação de córnea                  Transplante de córnea (em casos específicos)\n\n    Vias aéreas              Síndrome da apneia obstrutiva do sono                Amigdalectomia, adenoidectomia,\n                                                                                           oxigenioterapia\n\n                                                                                    Avaliação da função pulmonar\n\n                              Infecções de repetição, hipersecreção                        Farmacoterapia\n\n                                   Doença pulmonar restritiva                                Fisioterapia\n\n Tecido conjuntivo                           Hérnias                                           Cirurgia\n\n    Articulações                        Dor, contraturas                           Fisioterapia, terapia ocupacional\n\n                                                                                           Farmacoterapia\n\n       Ossos                   Geno valgo, luxação de quadril                                  Cirurgia\n\n      Orelhas                              Hipoacusia                            Próteses (em casos específicos)\n\n                                       Otites de repetição                             Farmacoterapia, cirurgia\n\n  Gastrointestinal                          Diarreia                                    Orientação nutricional\n\n                            Ganho inadequado ou excessivo de peso                       Orientação nutricional\n\n                                     Distúrbio de deglutição                       Farmacoterapia, fonoaudiologia\n\n                                                                                       Cirurgia (gastrostomia)\n\n  Bucomaxilofacial               Má oclusão, dentição anômala                                  Cirurgia\n\n                                                                                        Aparelho ortodôntico\n\n   Cardiovascular          Valvulopatias, cardiomiopatia, insuficiência                Farmacoterapia, cirurgia\n                                            cardíaca\n\n      Fonte: Elaborado a partir de dados de Hendriksz, Berger, Giugliani, Harmatz, Kampmann, Mackenzie, et al(6)\n\n                                           APÊNDICE 2\n                    PROGRAMA MÍNIMO DE AVALIAÇÕES PARA SEGUIMENTO DOS\n        PACIENTES COM MPS IVA SOB TERAPIA DE REPOSIÇÃO ENZIMÁTICA OU NÃO\n\n\n\n\nAvaliações                                               Avaliação   A cada 6   Anualmente\n                                                          inicial     meses\nAtividade enzimática                                        X          X*\n\nGAGs urinários                                              X          X**\n\nAconselhamento genético                                     X\nHistória médica                                             X           X\nRevisão do número de infusões realizadas no período***                  X\n\nDeterminação da adesão ao                                   X           X\nacompanhamento/tratamento**\nPeso/altura                                                 X           X\n\nPressão arterial                                            X           X\n\nHepatimetria (exame físico)                                 X           X\n\nQuestionário de qualidade de vida validado**                X          X$           X\n\nAVALIAÇÃO NEUROLÓGICA\n\n- Exame neurológico                                         X           X\n\n- RNM da coluna                                             X\n\n- RX de coluna                                              X\n\nAVALIAÇÃO OFTALMOLÓGICA (acuidade visual,                   X\nretina, córnea)\nAUDIOMETRIA                                                 X\n\nAVALIAÇÃO FUNCIONAL\n\n- Ecocardiograma                                            X          X$\n\n- Eletrocardiograma                                         X\n\n- CVF/VEF1 (espirometria)                                   X          X$           X\n\n- Polissonografia                                           X\n\n- TC6M**                                                    X           X\n\nAVALIAÇÃO ORTOPÉDICA                                        X\n\n- Raio X de quadril e membros inferiores                    X\n\n*Para pacientes que fizeram transplante de células-tronco hematopoéticas. **Para pacientes em tratamento\nespecífico (transplante de células-tronco hematopoéticas ou terapia de reposição enzimática). ***Para pacientes\nem terapia de reposição enzimática. $Para pacientes em terapia de reposição enzimática, nos primeiros seis meses\nde monitorização.\nAs demais avaliações, incluindo as avaliações indicadas somente no período basal (iniciais), devem ser realizadas\nem períodos determinados pelo médico assistente.\nGAGs = glicosaminoglicanos; RNM = ressonância magnética; CVF = capacidade vital forçada; VEF1 = volume\nexpiratório forçado no primeiro segundo; TC6M = teste da caminhada de 6 minutos.\nFonte: Elaborado a partir de dados de Hendriksz, Berger, Giugliani, Harmatz, Kampmann, Mackenzie, et al(6)\n\n                                                           APÊNDICE 3\n\n\n                           METODOLOGIA DE BUSCA E AVALIAÇÃO DE LITERATURA",
+      "char_count": 9088
+    },
+    {
+      "number": "1",
+      "title": "POLÍTICA NACIONAL DE ATENÇÃO INTEGRAL ÀS PESSOAS COM DOENÇAS RARAS",
+      "depth": 1,
+      "content": "A Política Nacional de Atenção Integral às Pessoas com Doenças Raras foi publicada em 12 de fevereiro\nde 2014 por meio da Portaria GM/MS nº 199, de 30 de janeiro de 2014 1, que, além de instituir a referida política,\naprovou as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de Saúde (SUS) e\ninstituiu incentivos financeiros de custeio.\n          Essa Política tem como objetivo reduzir a mortalidade e a incapacidade causadas por essas doenças, bem\ncomo contribuir para a melhoria da qualidade de vida das pessoas com doenças raras. Está organizada no conceito\ndas Redes de Atenção à Saúde (RAS), considerando-se todos os pontos de atenção, assim como os sistemas\nlogísticos e de apoio necessários para garantir a oferta de ações de promoção, detecção precoce, diagnóstico,\ntratamento e cuidados paliativos, de forma oportuna, para as pessoas com doenças raras.\n          A política utiliza como definição de doença rara a estabelecida pela Organização Mundial de Saúde:\n“aquela doença que afeta até 65 pessoas em cada 100.000 indivíduos, ou seja, 1,3 pessoas para cada 2.000\nindivíduos”, conforme estabelecido nas diretrizes citadas acima.\n          Como não seria possível organizar as diretrizes abordando as doenças raras de forma individual, devido\nao grande número de destas, essas diretivas foram organizadas na forma de eixos estruturantes, que permitem\nclassificar as doenças raras de acordo com suas características comuns, com a finalidade de maximizar os\nbenefícios aos usuários.\n          Dessa forma, as doenças raras foram classificadas em dois eixos: a) Doenças raras de origem genética,\ncom três grupos: 1 - Anomalias congênitas ou de manifestação tardia, 2 - Deficiência intelectual, 3 - Erros inatos\ndo metabolismo; b) Doenças Raras de origem não genética, com os seguintes grupos de causas: 1 - Infecciosas, 2\n- Inflamatórias, 3 - Autoimunes, 4 - Outras doenças raras não genéticas.\n          Para a implantação e implementação dessa política foram incorporados, inicialmente, 15 exames na\nTabela de Procedimentos, Medicamentos, Órteses, Próteses e Materias Especiais do SUS, abrangendo biologia\nmolecular, citogenética e imunoensaios, além do aconselhamento genético.\n        Os princípios e diretrizes dessa Portaria, expressos no artigo 6º, inciso VI, visam garantir a incorporação e\no uso de tecnologias voltadas para a promoção, a prevenção e o cuidado integral na RAS, incluindo tratamento\nmedicamentoso e fórmulas nutricionais, quando indicados no âmbito do SUS, que devem ser resultado das\nrecomendações formuladas por órgãos governamentais a partir do processo de avaliação e aprovação pela\nComissão Nacional de Incorporação de Tecnologias no SUS (CONITEC) e elaboração dos Protocolos Clínicos e\nDiretrizes Terapêuticas (PCDT).\n          Para viabilizar as definições e a implementação da Política, a Coordenação de Média e Alta Complexidade\n(CGMAC), juntamente com a CONITEC, organizou um encontro com especialistas que atuam em doenças raras\nem todo o país, abarcando os dois eixos da Política e seus respectivos grupos supracitados. O “Painel de\nEspecialistas”, realizado nos dias 19 e 20 de maio de 2014, objetivou estabelecer critérios e prioridades para a\n\n\n\n1\n Republicada para consolidar as alterações introduzidas pela Portaria nº 981/GM/MS, de 20 de maio de 2014, publicada no Diário Oficial da\nUnião nº 95, de 21 de maio de 2014, Seção 1, página 44.\n\nelaboração de PCDTs para a implementação da Política Nacional de Atenção Integral às Pessoas com Doenças\nRaras no SUS. Entre as doenças elencadas para elaboração de PCDT priorizados, está a MPS IV A.",
+      "char_count": 3623
+    },
+    {
+      "number": "2",
+      "title": "REUNIÃO DE ESCOPO",
+      "depth": 1,
+      "content": "A fim de dar continuidade ao processo de elaboração do PCDT, foi realizada uma reunião de escopo com\no comitê gestor e elaborador deste PCDT, realizada dia 25 de fevereiro de 2019, em Brasília, quando foram\nestabelecidas as seguintes perguntas de pesquisa para elaboração deste PCDT:\n       - A alfaelosulfase é eficaz para o tratamento da MPS IVA?\n       - A alfaelosulfase é segura em gestantes e pacientes em aleitamento materno?\n       - Quais são os critérios para interrupção de tratamento?",
+      "char_count": 496
+    },
+    {
+      "number": "3",
+      "title": "BUSCAS NA LITERATURA",
+      "depth": 1,
+      "content": "Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o sítio da CONITEC\npara a identificação das tecnologias disponíveis no Brasil e tecnologias demandadas ou recentemente incorporadas\npara o tratamento da MPS IVA. Foi também realizada busca por diretrizes nacionais e internacionais a respeito da\ndoença. Não foram encontradas tecnologias disponíveis, já incorporadas ou em avaliação. As seguintes bases de\ndiretrizes foram consultadas:\n         -   NICE guidelines – http://www.nice.org.uk/guidance/published?type=CG;\n         -   National Library of Australia – http://webarchive.nla.gov.au/gov/;\n         -   PubMed/MEDLINE\n             As diretrizes localizadas foram as seguintes:\n         - International guidelines for the management and treatment of Morquio A syndrome. Hendriksz CJ,\nBerger KI, Giugliani R, Harmatz P, Kampmann C, Mackenzie WG, Raiman J, Villarreal MS, Savarirayan R, et\nal. Am J Med Genet Part A. 2015; 167A:11-25.\n         - Mucopolysaccharidosis I, II, and VI: Brief review and guidelines for treatment. Giugliani R, et al. Genet\nMol Biol. 2010; 33(4): 589-604.\n\n\n         Após a reunião de escopo, ficou estabelecido que o PCDT se destina a crianças e adultos com MPS IVA,\nde ambos os sexos, e tem por objetivo revisar práticas diagnósticas e terapêuticas e incorporar as recomendações\nreferentes ao tratamento, medicamentoso com a TRE com alfaelosulfase e o TCTH.\n         Para a elaboração dos critérios diagnósticos e das situações especiais de gestação e aleitamento, foram\nutilizadas diretrizes internacionais elaboradas por diferentes grupos de especialistas, as quais são utilizadas como\nconsenso nos diversos centros de referência.\n         Para avaliação de interrupção de tratamento, foi utilizada a seguinte estratégia de busca:\n“(mucopolysaccharidosis type iva OR morquio syndrome) AND interruption”, sendo apenas três resultados\nencontrados, listados abaixo. A base de dados buscada foi MEDLINE/PubMed, e as referências encontradas não\nrespondiam à pergunta definida na reunião de escopo, sendo utilizadas as diretrizes internacionais acima citadas\npara responder à questão.\n         - Safety and clinical activity of elosulfase alfa in pediatric patients with Morquio A syndrome\n(mucopolysaccharidosis IVA) less than 5 y. Jones SA, et al. Pediatr Res. 2015 Dec;78(6):717-22.\n\n        - Efficacy and safety of enzyme replacement therapy with BMN 110 (elosulfase alfa) for Morquio A\nsyndrome (mucopolysaccharidosis IVA): a phase 3 randomised placebo-controlled study. Hendriksz CJ, et al. J\nInherit Metab Dis. 2014 Nov; 37(6):979-90.\n        - Fetal akinesia in metatropic dysplasia: The combined phenotype of chondrodysplasia and neuropathy?\nUnger S, et al. Lausch E, et al. Am J Med Genet A. 2011 Nov; 155A(11):2860-4.\n        Para a elaboração dos demais itens do PCDT, foram utilizadas as buscas, os resultados, as recomendações\ne as referências constantes no Relatório de Recomendação da alfaelosulfase como terapia de reposição enzimática\nno            tratamento             da            MPS              IVA,             disponível             em\nhttp://conitec.gov.br/images/Relatorios/2018/Relatorio_Alfaelosulfase_MPS_IVa.pdf",
+      "char_count": 3201
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": "A confirmação do diagnóstico de MPS IV A envolve exames bioquímicos ou genéticos que deverão ser\nrealizados sempre que houver suspeita dessa doença."
+    },
+    "inclusion_criteria": {
+      "number": "4",
+      "content": "Serão incluídos neste PCDT todos os pacientes que apresentarem pelo menos um dos sintomas ou sinais\ndescritos no item 3.1 Suspeita Diagnóstica e tiverem o diagnóstico de MPS IV A confirmado de acordo com um\ndos critérios abaixo relacionados:\n       - atividade da GALNS < 10% do limite inferior dos valores de referência em fibroblastos ou leucócitos E\natividade de pelo menos uma outra sulfatase (arilsulfatase A, arilsulfatase B, heparan N-sulfatase ou iduronato-\nsulfatase) avaliada na mesma amostra e pelo mesmo método, apresentando valores normais; OU\n       - atividade da GALNS < 10% do limite inferior dos valores de referência em papel-filtro, fibroblastos ou\nleucócitos E presença de mutações patogênicas em homozigose ou heterozigose composta no gene GALNS."
+    },
+    "exclusion_criteria": {
+      "number": "5",
+      "content": ""
+    },
+    "treatment": {
+      "number": "6",
+      "content": "O tratamento dos pacientes com MPS IV A envolve equipe multidisciplinar (1,15) e inclui intervenções\ngerais (como cirurgias para correção das alterações esqueléticas) e outras específicas sobre a proteína mutante\n(como a TRE intravenosa e o TCTH) (16,17). Outras medidas terapêuticas, como uso de TRE intratecal,\nchaperonas, inibidores de síntese de substrato e terapia gênica, estão ainda em fase de desenvolvimento para outras\nMPS e ainda não foram avaliadas para a MPS IV A (16,17)."
+    },
+    "monitoring": {
+      "number": "8",
+      "content": "Os pacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve realizar\nanamnese completa em cada visita e coletar dados de altura (em pé ou em decúbito dorsal, e, no caso de restrições\nnos membros inferiores, por segmento), peso e perímetro cefálico, de preferência usando o mesmo instrumento,\ndevidamente calibrado. O exame físico deve ser completo e incluir sinais vitais (temperatura, frequência cardíaca,\nfrequência respiratória e pressão arterial), bem como medidas para quantificação do tamanho do fígado (por\nhepatimetria). A avaliação do desenvolvimento sexual deve ser realizada em adolescentes, de acordo com os\ncritérios de Tanner (42,43). Nas visitas, dados sobre todas as avaliações realizadas desde o último agendamento\ndevem ser obtidos, e os testes necessários devem ser solicitados, incluindo avaliação por especialistas em\nneurologia, otorrinolaringologia, oftalmologia, cardiologia e pneumologia, conforme indicação e a critério do\nmédico assistente.\n       A maioria dos pacientes adultos com MPS IV A tem altura abaixo do percentil 3, inferior a 120 cm (5),\ncom tendência de maior IMC (percentil >85) (2). Além disso, a altura pode reduzir com o passar do tempo, por\ndeformidades esqueléticas, como cifoscoliose e geno valgo. A velocidade de crescimento começa a reduzir a partir\nde um ano de idade, e curvas específicas para MPS IV A estão disponíveis (2).\n       Como a obesidade pode exacerbar as alterações em membros inferiores, deve ser feito monitoramento\nadequado desta comorbidade.\n       As avaliações de rotina devem ser realizadas semestralmente pelo médico assistente, com avaliação da\nnecessidade de vacinação, orientação dietética, exames e orientações preventivas (2). Salienta-se que a realização\nde aconselhamento genético é fundamental.\n       O Apêndice 1 apresenta as avaliações consideradas mínimas para o acompanhamento de pacientes com\nMPS IV A. São definidos períodos mínimos apenas para as avaliações que têm por objetivo detectar a eficácia e\nsegurança da TRE e do TCTH; para as demais, a periodicidade de avaliações fica a critério do médico assistente.\nAssim, é recomendada a realização semestral (mês 0, 6 e 12), no primeiro ano de tratamento, de TC6M, dosagem\n\nurinária de GAGs, ecocardiograma, espirometria e questionários de qualidade de vida como parte da avaliação da\nresposta ao tratamento. Após o primeiro ano, tais avaliações devem ser anuais, conforme o Apêndice 2.\n       A análise de GAGs urinários pode ser quantitativa, feita pelo método espectrofotométrico descrito por De\nJong et al. (44), ou permitir a identificação, por cromatografia ou eletroforese, do tipo de GAG que está sendo\nexcretado em quantidade aumentada na urina (método qualitativo) (44,45). Na MPS IV A, ocorre aumento da\nexcreção de QS e C6S, mas não de forma tão acentuada como ocorre nas outras MPS, sendo possível, inclusive,\nnão serem encontradas alterações nesses biomarcadores (46). A quantificação de GAGs urinários é utilizada\nprincipalmente para monitorização do tratamento específico da MPS IV A, uma vez que ocorre diminuição da\nexcreção dessas moléculas na vigência do tratamento (51).\n\n\n       Como parte da avaliação do tratamento, os seguintes itens devem ser respeitados:\n         − Monitorar os resultados dos transplantes por meio de estudo observacional original.\n         − Monitorar o uso, a adesão, a indicação e os resultados da TRE com alfaelosulfase. Por meio desse\nmonitoramento, será possível estabelecer grupos de pacientes que são de fato beneficiados e reavaliar a\nincorporação do medicamento a médio prazo."
+    },
+    "regulation": {
+      "number": "9",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e a\nmonitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação\nde uso do medicamento.\n       O tratamento da MPS IV A deve ser feito por equipe em serviços especializados, para fins de diagnóstico\ne de acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige experiência e\nfamiliaridade com manifestações clínicas associadas, é recomendado, se possível, que o médico responsável tenha\nexperiência e seja treinado nessa atividade.\n       Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica no SUS se encontra o medicamento preconizado neste Protocolo.\n       Para a administração de medicamentos biológico intravenoso e para maior racionalidade do uso e avaliação\nda efetividade do medicamento, a infusão deve ser feita em ambiente hospitalar ou serviço especializado.\n       Para a autorização do TCTH alogênico não aparentado de medula óssea, de sangue periférico ou de sangue\nde cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no Registro\nNacional de Receptores de Medula Óssea ou outros precursores hematopoéticos (REREME/INCA/MS), e devem\nser observadas as normas técnicas e operacionais do Sistema Nacional de Transplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem continuar\nsendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta do hospital\ntransplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência\ne acompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte,\nsempre que necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre\na evolução dos transplantados.\n       Os resultados de todos os casos MPS IV A submetidos a TCTH mieloablativo alogênico aparentado ou não\naparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical deverão ter sua evolução\nregistrada no REREME a cada três meses até completar pelo menos um ano da realização do transplante."
+    }
+  },
+  "stats": {
+    "section_count": 76,
+    "char_count": 62008,
+    "depth1_count": 55
+  }
+}

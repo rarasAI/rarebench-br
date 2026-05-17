@@ -1,0 +1,530 @@
+{
+  "slug": "lipofuscinose-ceroide-neuronal-2",
+  "name_pt": "Lipofuscinose Ceroide Neuronal tipo 2",
+  "icd10": "E75.4",
+  "orphanet": "ORPHA:228337",
+  "omim": "204500",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/portariaconjuntano8pcdtlipofuscinoseceroideneuronaltipo2.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A Lipofuscinose Ceroide Neuronal tipo 2 (CLN2, do inglês neuronal ceroid lipofuscinosis type 2), conhecida também\ncomo deficiência de tripeptidil-peptidase 1 (TPP1), é uma doença genética rara, autossômica recessiva, de depósito\nlisossômico, causada pela presença de variantes patogênicas no gene CLN2/TPP1, localizado no braço curto do cromossomo\n11 (11p15.4)1,2. Mutações associadas à CLN2 incluem mutações de splicing, missense, nonsense, pequenas deleções e\ninserções de nucleotídeo único, todas levando à deficiência da enzima TPP1 3.\n       A atividade deficiente da enzima TPP1 causa o acúmulo intracelular de lipopigmentos autofluorescentes com diversos\npadrões ultraestruturais em diferentes tecidos, o que leva à perda neuronal, produzindo sintomas que incluem especialmente\nperda neuronal, crises convulsivas e perda visual progressivas2. As crianças afetadas pela forma clássica (infantil tardia)\ndesenvolvem-se normalmente até a idade de dois a quatro anos, com exceção do atraso da linguagem que pode ser frequente,\nseguido por um início súbito de convulsões e um rápido declínio na função psicomotora, podendo levar ao óbito no início da\nadolescência 4.\n       As formas atípicas da doença incluem um espectro de variação na idade de início dos sintomas, forma de evolução da\ndoença e multiplicidade de fenótipo, especialmente incluindo outros sinais/sintomas neurológicos4. Uma das formas atípicas\ninclui manifestações parkinsonianas de início mais tardio, com progressão lenta e ausência de crises convulsivas e perda\nvisual1,4. Outra forma atípica descrita inclui ataxia proeminente com ausência de crises convulsivas, regressão cognitiva ou\nperda visual, exibindo deficiência parcial da enzima TPP1, forma conhecida também com ataxia espinocerebelar autossômica\nrecessiva tipo 7 (SCAR7)1,4.\n       Dados epidemiológicos de prevalência e incidência para CLN2 são pouco descritos na literatura. As estimativas de\nincidência mundiais variam de 6 a 8 casos por 100.000 nascidos vivos5, com diferenças geográficas contabilizando de 0,15 a\n9,0 por 100.000 nascidos vivos6.\n       O acesso limitado aos serviços especializados e ferramentas diagnósticas em certas regiões pode levar a uma complexa\njornada e consequente atraso no diagnóstico correto7,8. Não existem estudos epidemiológicos nacionais sobre CLN2. Contudo,\no Serviço de Genética Médica do Hospital de Clínicas de Porto Alegre (SGM/HCPA), o qual realiza cerca de 90% a 95% dos\ndiagnósticos de CLN2 no Brasil, identificou 25 casos no país, desde 2006. Nesse período, têm sido diagnosticados em média 5\nnovos casos por ano. Especialistas estimam que em 2022 haja um total de 80 pacientes no Brasil.\n       A identificação da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado\ndão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos. Este Protocolo visa\na estabelecer os critérios diagnósticos e terapêuticos da CLN2. A metodologia de busca e avaliação das evidências estão\ndetalhadas no Apêndice 3.",
+      "char_count": 3067
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À",
+      "depth": 1,
+      "content": "SAÚDE (CID-10)\n\n\n       - E75.4 Lipofuscinose neuronal ceroide.",
+      "char_count": 63
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "O diagnóstico de CLN2 é realizado com base na suspeita clínica, e confirmado por marcadores bioquímicos e teste\ngenético. A suspeita deve ocorrer em indivíduos que apresentem pelo menos um dos seguintes sinais e sintomas relacionados à\ndoença, com início tipicamente entre os dois e quatro anos de idade1,9:\n        atraso na linguagem;\n        crises convulsivas (epilepsia);\n        ataxia de marcha;\n        declínio cognitivo progressivo;\n        perda de função motora;\n        perda visual progressiva;\n        alterações motoras, como mioclonia, espasticidade e distonia.\n       A atrofia cerebelar grave é o principal achado presente na ressonância magnética de crânio10 e a fotossensibilidade\ndetectada pelo eletroencefalograma (EEG) é um marcador precoce de CLN211.\n       Fenótipos atípicos podem ter apresentação tardia, com descrição de formas juvenil e adulta com curso mais prolongado\nda doença9. Como os achados clínicos variam de acordo com a gravidade da doença, os sinais e sintomas, por si só, não são\ndiagnósticos.\n       A confirmação do diagnóstico de CLN2 envolve exames bioquímicos e genéticos que deverão ser realizados sempre\nque houver suspeita clínica dessa doença.",
+      "char_count": 1201
+    },
+    {
+      "number": "3.1",
+      "title": "Diagnóstico laboratorial",
+      "depth": 2,
+      "content": "A confirmação do diagnóstico de CLN2 envolve métodos bioquímicos e genéticos.",
+      "char_count": 77
+    },
+    {
+      "number": "3.1.1",
+      "title": "Análise bioquímica (atividade da enzima TPP1)",
+      "depth": 3,
+      "content": "A redução ou ausência de atividade da enzima TPP1 em fibroblastos, leucócitos ou sangue impregnado em papel-filtro\nsugere fortemente o diagnóstico de CLN2, mas não é suficiente para confirmá-lo, sendo necessária análise genética\ncompatível.",
+      "char_count": 240
+    },
+    {
+      "number": "3.1.2",
+      "title": "Teste genético",
+      "depth": 3,
+      "content": "A presença de duas variantes patogênicas, provavelmente patogênicas ou variantes de significado incerto (VUS)\nbialélicas no gene TPP1/CLN2 associada à atividade deficiente da enzima TPP1 confirma o diagnóstico. A análise do gene\nTPP1/CLN2 permite a detecção das variantes que provocam a doença e, consequentemente, o diagnóstico genético e a\ndetecção de heterozigotos, facilitando o aconselhamento genético individual e familiar 1,9.",
+      "char_count": 433
+    },
+    {
+      "number": "3.1.3",
+      "title": "Associação genótipo-fenótipo clínico",
+      "depth": 3,
+      "content": "A maior importância dos estudos de genótipo-fenótipo é a possibilidade de predição aproximada, em idade precoce, da\nforma da doença que os indivíduos apresentarão. Há dezenas de variantes patogênicas descritas no gene TPP1/CLN2, a maioria\nsendo considerada privada ou presente em regiões geográficas bem delimitadas, não permitindo ainda uma adequada relação\ngenótipo-fenótipo universal12.\n       Mutações em TPP1 já foram identificadas em pacientes com ataxia, incluindo ataxia espinocerebelar 7 (SCAR7) que\ntem um início tardio e fenótipo mais restrito sem epilepsia, regressão cognitiva ou anormalidades oftalmológicas13. Esses\n\nfenótipos variam em gravidade, desde CLN2 infantil tardia grave, passando pela forma juvenil, até SCAR7 leve. No entanto, o\nmecanismo subjacente à variação do fenótipo é desconhecido, havendo evidências de que o nível residual de atividade da\nenzima TPP1 está associado à gravidade fenotípica14.\n           Algumas variantes genéticas como c.509-1G>C e p.Arg208* são consideradas mais prevalentes e associadas com\nfenótipo clássico de CLN215. Já a variante p.Arg447His tem sido identificada em casos com fenótipo mais leve e\nprolongado16,17. Ainda não está claro se a variação do fenótipo está correlacionada com os genótipos das mutações em TPP118.\n\n\n4.         CRITÉRIOS DE INCLUSÃO\n\n\n           Serão incluídos neste PCDT todos os pacientes com diagnóstico de CLN2 confirmado, de acordo com os critérios\nabaixo, os quais devem ser comprovados por laudo/relatório médico e pela cópia dos exames realizados:\n           a) Atividade deficiente da enzima TPP1 (no plasma/leucócitos); e\n           b) Variantes patogênicas, provavelmente patogênicas ou variantes de significado incerto (VUS) bialélicas identificadas\nno gene CLN2.\n           Adicionalmente, para início da terapia de reposição enzimática (TRE) com alfacerliponase, em qualquer idade, os\npacientes devem apresentar escore mínimo ≥ 1 no domínio motor e no domínio linguagem, e soma das pontuações dos\ndomínios motor e linguagem na escala CLN2 ≥ 2 (Quadro 1)19. Os pacientes que já estiverem em uso de alfacerliponase\nquando da publicação deste Protocolo deverão ser reavaliados para sua manutenção em terapia mediante cumprimento dos\ncritérios de inclusão do PCDT e avaliação médica.\n           A escala CLN2 foi desenvolvida com base na escala de Hamburgo (que avalia adicionalmente os domínios epilepsia e\nvisual) com o objetivo de ser utilizada em ensaios clínicos, podendo ser comparada com coortes históricas de pacientes sem\ntratamento. Esta escala é composta por dois domínios, que avaliam a função motora e a linguagem (ML). A pontuação em cada\ndomínio varia de 0 a 3, sendo que, quando os domínios são combinados, a pontuação pode variar de 0 a 6. Pontuações mais\naltas significam uma melhor condição de saúde. De acordo com Schulz et al. 19, os domínios motor e linguístico seriam os\nprincipais para se avaliar a eficácia terapêutica, uma vez que os episódios epilépticos dependem também do tratamento\nanticonvulsivante simultâneo e porque os efeitos visuais aparecem mais tardiamente na história natural da doença, com um\ndeclínio mais inconsistente em comparação com outras funções.\n\n\n           Quadro 1 - Escala CLN2 motor-linguagem (ML).\n\n     Escore                           Domínio motor                                            Domínio linguagem\n       3          Marcha amplamente normal.                                 Linguagem aparentemente normal.\n                  Sem     ataxia   proeminente      e     nenhuma   queda   Inteligível e amplamente apropriada à idade.\n                  patológica.                                               Sem declínio observado na linguagem.\n       2          Marcha independente, conforme definido pela               Linguagem       torna-se     reconhecidamente    anormal:\n                  habilidade de andar sem suporte por 10 passos.            algumas palavras inteligíveis, podem formar frases\n                  Tem instabilidade na caminhada e pode ter quedas          curtas para     transmitir    conceitos,   solicitações ou\n                  intermitentes.                                            necessidades.\n                                                                            Este resultado significa um declínio de um nível anterior\n                                                                            de capacidade (do individual máximo alcançado pela\n                                                                            criança anteriormente).\n       1          Necessita de ajuda externa para caminhar ou possui        Dificilmente compreensível.\n\n     Escore                            Domínio motor                                      Domínio linguagem\n                 capacidade apenas para engatinhar.                     Poucas palavras inteligíveis.\n       0         Já não pode caminhar ou engatinhar.                    Sem palavras inteligíveis ou vocalizações.\n                                      19\nFonte: Traduzido de Schulz et al., 2018 .\n\n\n\n5.         CRITÉRIOS DE EXCLUSÃO\n\n\n           Serão excluídos do tratamento com alfacerliponase os pacientes que atenderem aos seguintes critérios:\n           - Apresentarem condição médica irreversível adicional que comprometa o benefício em longo prazo da TRE, conforme\navaliação médica20;\n           - Apresentarem intolerância, hipersensibilidade, contraindicação ou eventos adversos graves relacionados ao\nmedicamento, impossibilitando o tratamento20;\n           - Pacientes com derivações ventrículo-peritoneais.\n\n\n6.         CASOS ESPECIAIS\n\n\n           Não há dados disponíveis sobre segurança para a gestante e o feto/bebê quanto ao uso da alfacerliponase durante a\ngestação e lactação, embora não se espere que enzimas recombinantes cruzem a barreira placentária ou sejam excretadas em\nquantidade aumentada no leite materno. Preconiza-se que o tratamento com alfacerliponase não seja iniciado durante a\ngestação21. Não foram realizados estudos com alfacerliponase em animais ou seres humanos quanto aos efeitos na fertilidade 21.\n\n\n7.         TRATAMENTO\n\n\n           O paciente com CLN2 tem uma doença crônica, progressiva e multissistêmica que, rotineiramente, requer cuidados por\nequipe multiprofissional, incluindo fonoaudiólogos, fisioterapeutas, terapeutas ocupacionais, equipe de enfermagem, equipe de\nassistência psicológica e social e diferentes especialidades na área da saúde8. O tratamento é estabelecido com base na melhor\nevidência disponível, uma vez que se trata de doença rara, e inclui intervenções não específicas, realizadas no nível do fenótipo\nclínico, e específicas, realizadas no nível da proteína mutante, como a TRE 6,8.\n           É crucial que um médico cuide continuamente do paciente, monitorando a evolução da doença, fornecendo orientação à\nfamília, encaminhando o paciente para especialistas, conforme necessário, e coordenando o atendimento ao paciente como um\ntodo, idealmente em um centro de referência.\n           Como é uma doença genética de padrão autossômico recessivo1, com risco de recorrência em 25% dos irmãos do\npaciente afetado, é fundamental a realização de aconselhamento genético por profissional habilitado. Além disso, é importante\nque os pacientes e as famílias sejam orientadas sobre sua doença e possíveis complicações e riscos, também por meio de um\nrelatório escrito. Os pacientes podem desenvolver, particularmente, sinais e sintomas neurológicos e oftalmológicos na forma\nclássica da doença, de modo que neurologistas e oftalmologistas devem fazer parte das equipes de acompanhamento\nespecializado6,8,22 na maior parte das vezes.",
+      "char_count": 7664
+    },
+    {
+      "number": "7.1",
+      "title": "Tratamento das manifestações clínicas",
+      "depth": 2,
+      "content": "As principais manifestações clínicas da CLN2 e suas opções de tratamento de suporte e sintomático podem ser\nencontradas no Apêndice 1. É importante frisar que nem todos os pacientes apresentarão todas as manifestações citadas, as\nquais costumam ser mais frequentes e mais graves nos pacientes com a forma grave (infantil tardia) da doença. Da mesma\n\nmaneira, nem todos os pacientes necessitarão ser submetidos a todos os tipos de tratamento.",
+      "char_count": 441
+    },
+    {
+      "number": "7.1.1",
+      "title": "Tratamento das manifestações neurológicas",
+      "depth": 3,
+      "content": "As crises convulsivas são as manifestações mais frequentes nos pacientes com CLN2. Costumam ocorrer a partir dos\ndois anos de idade e podem ser de difícil controle, por vezes, necessitando o uso de múltiplos medicamentos\nanticonvulsivantes6. Preconiza-se que a cada consulta clínica seja feita a revisão do padrão das crises convulsivas e dos\nmedicamentos utilizados, com ajustes conforme necessário e, preferencialmente, com avaliação neurológica especializada, de\nacordo com o PCDT de Epilepsia publicado pelo Ministério da Saúde6,9.\n       A realização de EEG é preconizada no diagnóstico da condição e, após, a cada 6 meses ou conforme o curso da doença\nindividual9,23. A ressonância magnética de crânio deve ser realizada no diagnóstico e anualmente, exceto em casos muito\navançados da doença9,10. Atrofia cerebelar grave é o principal sinal presente na ressonância magnética de crânio10,24.\n       Desordens do movimento também podem estar presentes na clínica dos pacientes com CLN2. Ataxia é o sinal mais\ncomum, presente nas formas clássica e tardia, embora distonia, coreia e parkinsonismo também sejam descritos2,25,26. A\nreavaliação clínica é preconizada a cada consulta9.\n       Alterações no padrão do sono são muito frequentes na CLN2, primariamente pela condição ou como consequência do\nuso dos anticonvulsivantes27. Alterações de humor, fadiga, dificuldades de aprendizado e de memória são repercussões comuns\nassociadas ao distúrbio do sono28. Avaliação clínica apropriada ou com polissonografia, quando aplicável, deve ser realizada e,\nse necessário, tratamento medicamentoso poderá ser instituído9,27.",
+      "char_count": 1620
+    },
+    {
+      "number": "7.1.2",
+      "title": "Tratamento das manifestações cognitivas",
+      "depth": 3,
+      "content": "Crianças com CLN2 apresentam atraso do neurodesenvolvimento ou regressão neurológica, especialmente associadas\ncom as crises convulsivas2. Atraso ou regressão na fala pode ser uma das primeiras manifestações cognitivas reconhecidas4.\nCrianças com CLN2 que tenham alterações cognitivas ou comportamentais beneficiam-se de intervenções padrão, como\nterapia ocupacional e reabilitação cognitiva quando apropriadas9.",
+      "char_count": 412
+    },
+    {
+      "number": "7.1.3",
+      "title": "Tratamento da dor",
+      "depth": 3,
+      "content": "Pacientes com CLN2 frequentemente apresentam dor por diversas causas possíveis (contraturas musculares, origem\ngastrointestinal, origem urinária por retenção, entre outras)29. Aplicação de escalas de dor podem auxiliar na avaliação e na\ninstituição de tratamento apropriado9,29. Intervenções medicamentosas podem ser utilizadas, de acordo com o tipo e intensidade\nda dor, além de medidas não medicamentosas, como calor e acompanhamento fisioterápico 8,30, e o tratamento é preconizado\nconforme PCDT da Dor Crônica publicado pelo Ministério da Saúde31.",
+      "char_count": 551
+    },
+    {
+      "number": "7.1.4",
+      "title": "Tratamento das manifestações oftalmológicas",
+      "depth": 3,
+      "content": "As manifestações oftalmológicas da CLN2 costumam aparecer a partir dos quatro anos de idade, com declínio visual\nprogressivo podendo levar à perda visual completa secundária à degeneração retiniana32. Avaliação com oftalmologista para\nanálise de acuidade visual, câmara anterior e fundo de olho deve ser realizada, assim como exames oftálmicos específicos,\nconforme necessidade32,33. Lentes corretivas para corrigir erros de refração e demais tratamentos podem ser prescritos,\nconforme análise e indicação especializada9,32.",
+      "char_count": 524
+    },
+    {
+      "number": "7.1.5",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "As manifestações respiratórias na CLN2 podem surgir tardiamente, em estágios avançados da doença2,4. Medidas de\nsuporte básicas, como mobilização do paciente e higiene pulmonar auxiliam no controle dos sintomas. Alguns medicamentos,\n\nassim como fisoterapia respiratória, poderão ser necessários, conforme avaliação clínica6,8. Imunizações regulares para doenças\nrespiratórias preveníveis são preconizadas para o paciente e seus contatos domiciliares8,34.",
+      "char_count": 454
+    },
+    {
+      "number": "7.1.6",
+      "title": "Tratamento das manifestações cardíacas",
+      "depth": 3,
+      "content": "Achados cardíacos são pouco frequentes na CLN2, mas pode haver depósito de lipopigmentos no tecido muscular\ncardíaco, o que explica determinadas manifestações presentes no eletrocardiograma e no ecocardiograma de alguns\npacientes35,36. Esses exames são preconizados no diagnóstico e, posteriormente, a cada 2 anos, se não houver complicações\ndetectadas. Avaliação e acompanhamento com cardiologista são preconizados se houver achados anormais nos exames\nespecíficos9.",
+      "char_count": 467
+    },
+    {
+      "number": "7.2",
+      "title": "Tratamento nutricional",
+      "depth": 2,
+      "content": "Dificuldades de deglutição são comuns na CLN2 e os profissionais envolvidos nos cuidados desses pacientes devem\nestar atentos a elas. Assim, devem ser garantidas a consistência apropriada da alimentação e a orientação aos cuidadores sobre\nsinais de disfunção orofaríngea6,8.\n       Intervenções medicamentosas e não medicamentosas podem ser recomendadas para o tratamento das secreções orais, se\nnecessário6,7. Quando o risco de aspiração for alto, pneumonias de aspiração forem recorrentes ou aspiração silente já for\ndetectada em videodeglutograma, a realização de gastrostomia deve ser considerada6.",
+      "char_count": 602
+    },
+    {
+      "number": "7.3",
+      "title": "Tratamento medicamentoso com terapia de reposição enzimática (TRE)",
+      "depth": 2,
+      "content": "A alfacerliponase é uma forma recombinante da enzima TPP1 produzida em células de ovário de hamster chinês e o\núnico medicamento disponível no mundo para o tratamento específico da CLN220.\n       As principais evidências clínicas para seu uso são oriundas de três estudos (190-201, 190-202 e 190-901)20. O estudo\n190-201 foi um estudo aberto de braço único, incluindo 23 crianças de 3 a 16 anos com CLN2 infantil tardia tratadas com\nalfacerliponase. Os pacientes deveriam ter escore entre 3 e 6 na escala CLN2-ML e escore de pelo menos 1 em cada um dos\ndois domínios desta escala no momento do screening para participação no estudo. Os pacientes foram incluídos nos EUA,\nAlemanha, Itália e Reino Unido e o seguimento foi de 48 semanas. Após a sua conclusão, os pacientes foram incluídos em um\nestudo de extensão (190-202) para acompanhamento de longo prazo. Todos os pacientes que completaram o primeiro estudo\nfizeram a transição para o segundo, com coleta de dados por até 240 semanas. Houve diferença estatística entre o grupo que\nrecebeu alfacerliponase e o grupo controle histórico em relação ao tempo até declínio irreversível de dois pontos na escala\nCLN2-ML quando os domínios motor e linguagem foram avaliados de forma combinada (HR 0,08; IC95% 0,02 a 0,23,\np<0,001). Diferença estatística também foi observada quando os domínios foram avaliados separadamente (HR 0,04; IC95%\n0,00 a 0,29, p=0,002 para o domínio motor e HR 0,15; IC95% 0,04 a 0,52, p=0,003 para o domínio linguagem). Já o estudo\n190-901, de história natural da doença, avaliou, retrospectivamente, a progressão da doença em pacientes com CLN2 não\ntratada20,37. Neste estudo, o tratamento com alfacerliponase intracerebroventricular resultou em declínio mais lento das funções\nmotoras e de linguagem, em comparação com controles de história natural da doença 21.\n       Por ser a população incluída nos ensaios clínicos que forneceram a evidência de eficácia e segurança do medicamento,\neste Protocolo preconiza que a TRE com alfacerliponase deve ser iniciada, em qualquer idade, por aqueles pacientes com\nescore mínimo ≥ 1 no domínio motor e no domínio linguagem, e soma das pontuações dos domínios motor e linguagem na\nescala CLN2 ≥ 2 (Quadro 1)19. A Figura 1 apresenta o fluxograma de diagnóstico e tratamento medicamentoso da CLN2.\n\n       Figura 1 – Fluxograma para o diagnóstico e tratamento da CLN2. TRE= terapia de reposição enzimática.\n\n\n                                        Suspeita diagnóstica a partir de sinais e sintomas de CLN2\n\n\n\n\n        Diagnóstico\n                                 Atividade deficiente da enzima tripeptidil peptidase 1 (TPP1)\n                                                  (no plasma/leucócitos/fibroblastos)\n\n                                         Variantes patogênicas, provavelmente patogênicas ou de\n                                         significado incerto (VUS) bialélicas identificadas no gene\n                                                                   CLN2\n\n\n\n\n        Tratamento\n                                         Sim                     Algum critério                          Não\n                                                                  de exclusão\n                                                                   para TRE?\n\n\n                        Tratamento de Suporte                                                      Iniciar TRE com alfacerliponase",
+      "char_count": 3413
+    },
+    {
+      "number": "7.4",
+      "title": "Fármaco",
+      "depth": 2,
+      "content": "- Alfacerliponase: solução para perfusão contendo 30 mg/mL.",
+      "char_count": 59
+    },
+    {
+      "number": "7.5",
+      "title": "Esquema de administração",
+      "depth": 2,
+      "content": "A dose preconizada é de 300 mg de alfacerliponase administrada a cada duas semanas, por via intracerebroventricular.\nNo entanto, crianças menores de 2 anos devem utilizar as doses descritas no Quadro 2.\n\n\n       Quadro 2 - Doses preconizadas em crianças até 2 anos de idade.\n\n                                               Dose total administrada a cada 2              Volume da solução de Alfacerliponase\n Faixas etárias\n                                               semanas (mg)                                  (mL)\n Nascimento até < 6 meses                      100                                           3,3\n 6 meses até < 1 ano                           150                                           5\n                                               200 (primeiras 4 doses)                       6,7 (primeiras 4 doses)\n 1 ano até < 2 anos\n                                               300 (doses subsequentes)                      10 (doses subsequentes)\n 2 anos ou mais                                300                                           10\nFonte: BIOMARIM, 202221.\n\n\n\n       A velocidade da infusão e da solução de lavagem é de 2,5 mL/hora e a duração completa da infusão é de\naproximadamente 2 a 4,5 horas, dependendo da dose e do volume administrados, devendo ser feita em ambiente hospitalar ou\nambulatorial. É preconizado pré-tratamento dos pacientes com anti-histamínicos, com ou sem antipiréticos, 30 a 60 minutos\nantes da infusão. Os sinais vitais devem ser monitorados antes do início da infusão e, periodicamente, durante e após a infusão\npor pelo menos uma hora21.\n       O medicamento alfacerliponase é administrado no líquido cefalorraquidiano (LCR) por perfusão por meio de um\nreservatório e um cateter implantados cirurgicamente (dispositivo de acesso intracerebroventricular). Esse dispositivo deve ser\n\nimplantado antes da primeira perfusão e deve ser adequado para aceder aos ventrículos cerebrais, com vista à administração\nterapêutica21.",
+      "char_count": 1978
+    },
+    {
+      "number": "7.6",
+      "title": "Eventos adversos",
+      "depth": 2,
+      "content": "Além dos cuidados e precauções com relação à administração do medicamento, os seguintes eventos adversos da\nalfacerliponase21,37 devem ser monitorados e prevenidos:\n       - Infecções por meio do dispositivo intracerebroventricular: observar técnica asséptica de manipulação e administração\nda enzima;\n       - Extravasamento e falha do dispositivo: inspeção do local e revisão do dispositivo a cada aplicação;\n       - As amostras do líquido cefalorraquidiano (LCR) devem ser rotineiramente enviadas para análise para detectar\ninfecções subclínicas por meio do dispositivo;\n       - Observação clínica para sinais de reações anafiláticas durante a infusão.\n       Imunogenicidade: tal como acontece com todas as proteínas terapêuticas, existe potencial para imunogenicidade. No\nentanto, não foram detectados no LCR anticorpos neutralizantes (NAb) com especificidade para o medicamento capazes de\ninibir a captação celular de alfacerliponase mediada por receptores21.",
+      "char_count": 967
+    },
+    {
+      "number": "7.7",
+      "title": "Critérios de interrupção",
+      "depth": 2,
+      "content": "Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, ao paciente ou aos pais/responsáveis\nquando o tratamento com alfacerliponase estiver sendo considerado e antes de iniciá-lo. Durante o acompanhamento do\npaciente, os parâmetros de resposta terapêutica deverão ser avaliados periodicamente e discutidos com a família. No caso de\ninterrupção por falta de adesão, o paciente e parentes deverão ser inseridos em programa de incentivo à adesão. O paciente\npoderá retornar ao tratamento, caso haja comprometimento explícito de seguimento das recomendações médicas. O tempo de\ntratamento não pode ser pré-determinado, devendo ser mantido pelo tempo indicado e enquanto o paciente se beneficie de seu\nuso.\n       O tratamento deve ser interrompido nas seguintes situações20,38:\n        presença de condição médica irreversível adicional que comprometa o benefício a longo prazo da terapia;\n        pacientes não tolerantes à infusão ou que apresentem eventos adversos graves relacionados ao medicamento,\nimpossibilitando a retomada do tratamento;\n        reação anafilática com ameaça à vida causada pelo princípio ativo ou por qualquer um dos excipientes, se a nova\nadministração não for bem-sucedida;\n        presença de sinais de extravasamento agudo do dispositivo de acesso intracerebroventricular, falha do dispositivo ou\ninfecção relacionada ao dispositivo;\n        redução de ≥ 2 pontos na soma dos escores dos domínios motor e linguagem da escala CLN2 (Quadro 1) persistente\npor duas avaliações consecutivas (realizadas a cada 24 semanas) 38;\n        soma dos escores dos domínios motor e linguagem da escala CLN2 atinge o valor de zero (Quadro 1) em duas\navaliações consecutivas (realizadas a cada 24 semanas) 8.",
+      "char_count": 1751
+    },
+    {
+      "number": "8",
+      "title": "MONITORAMENTO",
+      "depth": 1,
+      "content": "Os pacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve realizar anamnese e\nexame físico completos em cada consulta. Nas consultas, dados sobre todas as avaliações realizadas desde o atendimento\nanterior devem ser obtidos e os testes necessários devem ser solicitados, incluindo avaliação por especialistas em neurologia,\n\noftalmologia, cardiologia e pneumologia, conforme indicação clínica e a critério do médico assistente. As avaliações de rotina\ndevem ser realizadas a cada 24 semanas pelo médico assistente com vacinas, orientação nutricional, exames e aconselhamento\npreventivo. Os pacientes e seus familiares devem ter acesso ao aconselhamento genético9,20,38.\n       Como parte da avaliação do tratamento, deve-se monitorar o uso, a adesão, a indicação e os resultados do tratamento\ncom alfacerliponase. Por meio desse monitoramento, será possível estabelecer grupos de pacientes que são de fato beneficiados\ne reavaliar a incorporação do medicamento a médio prazo.\n       Não há interações conhecidas com alfacerliponase e outros medicamentos. O paciente deve informar a equipe de saúde\nse estiver fazendo uso, tiver usado recentemente, ou se puder vir a usar outros medicamentos.\n       O Apêndice 2 apresenta as avaliações consideradas mínimas para o acompanhamento de pacientes com CLN2, sendo\nnecessárias para o acesso ao medicamento. São definidos períodos mínimos apenas para aquelas avaliações que têm por\nobjetivo detectar a eficácia e segurança da TRE. Para as demais, a periodicidade de avaliações fica a critério do médico\nassistente.",
+      "char_count": 1593
+    },
+    {
+      "number": "9",
+      "title": "REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes deste PCDT, a duração e a monitorização do\ntratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso de medicamentos.\n       Observando os cuidados de armazenamento do medicamento, conforme consta em bula, a alfacerliponase deve ser\ndistribuída diretamente aos centros de referência definidos para administração do medicamento. Os frascos do medicamento e\na solução de lavagem devem ser armazenados em posição vertical em um congelador na temperatura entre -25°C e -15°C.\n       Pacientes com suspeita de CLN2 devem ser encaminhados, preferencialmente, a um serviço especializado ou de\nreferência em doenças raras para seu adequado diagnóstico, inclusão no protocolo de tratamento e acompanhamento. Pacientes\ncom CLN2 devem ser avaliados periodicamente em relação à eficácia do tratamento e desenvolvimento de toxicidade aguda ou\ncrônica. A existência de centro de referência facilita o tratamento em si, bem como o ajuste de doses conforme necessário e o\ncontrole de eventos adversos. A alfacerliponase é uma enzima indicada para uso intracerebroventricular e deve ser\nadministrada por médico experiente (pediatra, neurologista ou geneticista), utilizando técnicas seguras e assépticas durante a\nsua preparação e administração.\n       Cabe destacar que, sempre que possível, o atendimento da pessoa com CLN2 deve ocorrer por equipe multiprofissional,\npossibilitando o desenvolvimento de Projeto Terapêutico Singular (PTS) e a adoção de terapias de apoio conforme sua\nnecessidade funcional e as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de Saúde (SUS).\n       Deve-se verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica se encontram os medicamentos preconizados neste Protocolo. Estados e municípios deverão manter\natualizadas as informações referentes aos registros de estoque, distribuição e dispensação dos medicamentos e encaminhar\nestas informações ao Ministério da Saúde via Base Nacional de Dados de Ações e Serviços da Assistência Farmacêutica no\nâmbito do Sistema Único de Saúde (BNAFAR), conforme as normativas vigentes.\n       Em 2014, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças Raras e\naprovou as Diretrizes para Atenção Integral às Pessoas com doenças raras no âmbito do Sistema Único de Saúde (SUS) por\nmeio da Portaria GM/MS nº 199, de 30 de janeiro de 2014 (consolidada no Anexo XXXVIII da Portaria de Consolidação\nGM/MS nº 2/2017 e na Seção XIV do Capítulo II do Título III da Portaria de Consolidação GM/MS nº 6/2017), relativas à\nPolítica Nacional de Atenção Integral às Pessoas com Doenças Raras.\n       A política tem abrangência transversal na Rede de Atenção à Saúde (RAS) e como objetivo reduzir a mortalidade,\ncontribuir para a redução da morbimortalidade e das manifestações secundárias e a melhoria da qualidade de vida das pessoas,\npor meio de ações de promoção, prevenção, detecção precoce, tratamento oportuno redução de incapacidade e cuidados\n\npaliativos. A linha de cuidado da atenção aos usuários com demanda para a realização das ações na Política Nacional de\nAtenção Integral às Pessoas com Doenças Raras é estruturada pela Atenção Primária e Atenção Especializada, em\nconformidade com a Rede de Atenção à Saúde (RAS) e seguindo as Diretrizes para Atenção Integral às Pessoas com Doenças\nRaras no SUS. A Atenção Primária é responsável pela coordenação do cuidado e por realizar a atenção contínua da população\nque está sob sua responsabilidade adstrita, além de ser a porta de entrada prioritária do usuário na RAS. Já a Atenção\nEspecializada é responsável pelo conjunto de pontos de atenção com diferentes densidades tecnológicas para a realização de\nações e serviços de urgência, ambulatorial especializado e hospitalar, apoiando e complementando os serviços da atenção\nbásica.\n          Os hospitais universitários, federais e estaduais, em torno de 50 em todo o Brasil, e as associações beneficentes e\nvoluntárias são o locus da atenção à saúde dos pacientes com doenças raras.\n          Porém, para reforçar o atendimento clínico e laboratorial, o Ministério da Saúde incentiva a criação de serviços da\nAtenção Especializada, assim classificados:\n          • Serviço de atenção especializada em doenças raras: presta serviço de saúde para uma ou mais doenças raras; e\n          • Serviço de referência em doenças raras: presta serviço de saúde para pacientes com doenças raras pertencentes a, no\nmínimo, dois eixos assistenciais (doenças raras de origem genética e de origem não genética).\n          No que diz respeito ao financiamento desses serviços, para além do ressarcimento pelos diversos atendimentos\ndiagnósticos e terapêuticos clínicos e cirúrgicos e a assistência farmacêutica, o Ministério da Saúde instituiu incentivo\nfinanceiro de custeio mensal para os serviços de atenção especializada em doenças raras.\n          Assim, o atendimento de pacientes com doenças raras é feito prioritariamente na Atenção Primária, principal porta de\nentrada para o SUS, e se houver necessidade o paciente será encaminhado para atendimento especializado em unidade de\nmédia ou alta complexidade, e a linha de cuidados de pacientes com doenças raras é estruturada pela Atenção Primária e\nAtenção Especializada, em conformidade com a Rede de Atenção à Saúde e seguindo as Diretrizes para Atenção Integral às\nPessoas com Doenças Raras no Sistema Único de Saúde.\n          Considerando que cerca de 80% das doenças raras são de origem genética, o aconselhamento genético (AG) é\nfundamental na atenção às famílias e pacientes com essas doenças. O aconselhamento genético é um processo de comunicação\nque lida com os problemas humanos associados à ocorrência ou ao risco de ocorrência de uma doença genética em uma\nfamília. Este processo envolve a participação de pessoas adequadamente capacitadas, com o objetivo de ajudar o indivíduo e a\nfamília a compreender os aspectos envolvidos, incluindo o diagnóstico, o curso provável da doença e os cuidados disponíveis.\n          Os procedimentos diagnósticos (Grupo 02), terapêuticos clínicos (Grupo 03) e terapêuticos cirúrgicos (Grupo 04 e os\nvários subgrupos cirúrgicos por especialidades e complexidade) da Tabela de Procedimentos, Medicamentos e Órteses,\nPróteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10 no\nSIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com\nversão mensalmente atualizada e disponibilizada.\n\n\n          Quadro 3: Códigos e procedimentos da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS.\n\n Código                              Procedimento\n 02.02.10.011-1                      Identificação de mutação por sequenciamento por amplicon até 500 pares de bases\n 02.02.10.019-7                      Ensaios enzimáticos em tecido cultivado para diagnóstico de erros inatos do metabolismo\n 03.01.01.021-8                      Avaliação clínica de diagnóstico de doenças raras – eixo I: 3 – erros inato de metabolismo\n 04.03.08.003-7                      Implante intraventricular de bomba de infusão de fármacos",
+      "char_count": 7347
+    },
+    {
+      "number": "10",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE (TER)",
+      "depth": 1,
+      "content": "Deve-se informar ao paciente, ou seu responsável legal, sobre os potenciais riscos, benefícios e eventos adversos\nrelacionados ao uso dos medicamentos preconizados neste Protocolo, levando-se em consideração as informações contidas no\nTER.",
+      "char_count": 239
+    },
+    {
+      "number": "11",
+      "title": "REFERÊNCIAS BIBLIOGRÁFICAS",
+      "depth": 1,
+      "content": "1. Online Mendelian Inheritance in Man, OMIM®. Johns Hopkins University, Baltimore, MD. MIM Number:\n{204500}: {05/30/2018}: World Wide Web URL: https://omim.org/entry/204500\n       2. Mole, S. E., Williams, R. E., Goebel, H. H. Correlations between genotype, ultrastructural morphology and clinical\nphenotype in the neuronal ceroid lipofuscinoses. Neurogenetics 6: 107-126, 2005.",
+      "char_count": 379
+    },
+    {
+      "number": "3",
+      "title": "Kohlschutter A, Schulz A. CLN2 disease (classic late infantile neuronal ceroid lipofuscinosis). Pediatr Endocrinol",
+      "depth": 1,
+      "content": "Rev. 2016;13(Suppl 1):682–8.",
+      "char_count": 28
+    },
+    {
+      "number": "4",
+      "title": "Nickel M, Simonati A, Jacoby D, et al. Disease characteristics and progression in patients with late-infantile",
+      "depth": 1,
+      "content": "neuronal ceroid lipofuscinosis type 2 (CLN2) disease: an observational cohort study. Lancet Child Adolesc Health.\n2018;2:582-590.",
+      "char_count": 129
+    },
+    {
+      "number": "5",
+      "title": "Sleat DE, Gedvilaite E, Zhang Y, Lobel P, Xing J. Analysis of large-scale whole exome sequencing data to",
+      "depth": 1,
+      "content": "determine the prevalence of genetically-distinct forms of neuronal ceroid lipofuscinosis. Gene. 2016;593(2):284–91.",
+      "char_count": 115
+    },
+    {
+      "number": "6",
+      "title": "Williams RE, Adams HR, Blohm M, et al. Management strategies for CLN2 disease. Pediatr Neurol.",
+      "depth": 1,
+      "content": "2017;69:102e112.",
+      "char_count": 16
+    },
+    {
+      "number": "7",
+      "title": "Fietz M, AlSayed M, Burke D, Cohen-Pfefer J, Cooper JD, Dvorakova L, et al. Diagnosis of neuronal ceroid",
+      "depth": 1,
+      "content": "lipofuscinosis type 2 (CLN2 disease): expert recommendations for early detection and laboratory diagnosis. Mol Genet Metab.\n2016;119(1–2):160–7.",
+      "char_count": 144
+    },
+    {
+      "number": "8",
+      "title": "Mole SE, Schulz A, Badoe E, Berkovic SF, de Los Reyes EC, Dulz S, et al. Guidelines on the diagnosis, clinical",
+      "depth": 1,
+      "content": "assessments, treatment and management for CLN2 disease patients. Orphanet J Rare Dis. 2021 Apr 21;16(1):185.",
+      "char_count": 108
+    },
+    {
+      "number": "9",
+      "title": "Guelbert N, Atanacio N, Denzler I, Embiruçu KE, Mancilla N, Naranjo R, et al. Position of Experts Regarding",
+      "depth": 1,
+      "content": "Follow-Up of Patients with Neuronal Ceroid Lipofuscinosis-2 Disease in Latin America. Journal of Inborn Errors of\nMetabolism & Screening 2020, Volume 8: e20200012.",
+      "char_count": 163
+    },
+    {
+      "number": "10",
+      "title": "Williams RE, Aberg L, Autti T, Goebel HH, Kohlschütter A, Lönnqvist T. Diagnosis of the neuronal ceroid",
+      "depth": 1,
+      "content": "lipofuscinoses: An update. Biochimica et Biophysica Acta, 2006; 1762(10), 865–872.",
+      "char_count": 82
+    },
+    {
+      "number": "11",
+      "title": "Specchio N, Bellusci M, Pietrafusa N, Trivisano M, de Palma L, Vigevano F. Photosensitivity is an early marker of",
+      "depth": 1,
+      "content": "neuronal ceroid lipofuscinosis type 2 disease. Epilepsia, 2017; 58(8), 1380–1388.",
+      "char_count": 81
+    },
+    {
+      "number": "12",
+      "title": "Gardner E, Bailey M, Schulz A, Aristorena M, Miller N, Mole SE. Mutation update: Review of TPP1 gene variants",
+      "depth": 1,
+      "content": "associated with neuronal ceroid lipofuscinosis CLN2 disease. Hum Mutat. 2019 Nov;40(11):1924-1938.",
+      "char_count": 98
+    },
+    {
+      "number": "13",
+      "title": "Sun Y, Almomani R, Breedveld G.J, Santen GW, Aten E, Lefeber DJ, et al. Autosomal recessive spinocerebellar",
+      "depth": 1,
+      "content": "ataxia 7 (SCAR7) is caused by variants in TPP1, the gene involved in classic late-infantile neuronal ceroid lipofuscinosis 2\ndisease (CLN2 disease). Hum Mutat. 2013; 34: 706-713.",
+      "char_count": 178
+    },
+    {
+      "number": "14",
+      "title": "Sleat DE, El-Banna M, Sohar I, Kim K, Dobrenis K, et al. Residual levels of tripeptidyl-peptidase I activity",
+      "depth": 1,
+      "content": "dramatically ameliorate disease in late-infantile neuronal ceroid lipofuscinosis. Mol Genet Metab. 2008; 94: 222-233.",
+      "char_count": 117
+    },
+    {
+      "number": "15",
+      "title": "Hou J, van Leeuwen J, Andrews BJ, Boone C. Genetic network complexity shapes background-dependent",
+      "depth": 1,
+      "content": "phenotypic expression.Trends Genet. 2018; 34: 578-586.",
+      "char_count": 54
+    },
+    {
+      "number": "16",
+      "title": "Di Giacopo R, Cianetti L, Caputo V, La Torraca I, et al. Protracted late infantile ceroid lipofuscinosis due to TPP1",
+      "depth": 1,
+      "content": "mutations: Clinical, molecular and biochemical characterization in three sibs.J Neurol Sci. 2015; 356: 65-71.",
+      "char_count": 109
+    },
+    {
+      "number": "17",
+      "title": "Kohan R, Carabelos MN, Xin W, Sims K, Guelbert N, Cismondi I.A. et al. Neuronal ceroid lipofuscinosis type",
+      "depth": 1,
+      "content": "CLN2: a new rationale for the construction of phenotypic subgroups based on a survey of 25 cases in South\nAmerica.Gene. 2013; 516: 114-121.",
+      "char_count": 139
+    },
+    {
+      "number": "18",
+      "title": "Chen ZR, Liu DT, Meng H, Liu L, Bian WJ, Liu XR, Zhu WW, He Y, Wang J, Tang B, Su T, Yi YH. Homozygous",
+      "depth": 1,
+      "content": "missense TPP1 mutation associated with mild late infantile neuronal ceroid lipofuscinosis and the genotype-phenotype\ncorrelation. Seizure. 2019 Jul;69:180-185.",
+      "char_count": 159
+    },
+    {
+      "number": "19",
+      "title": "Schulz A, Ajayi T, Specchio N, Reyes E de L, Gissen P, Ballon D, et al. Study of Intraventricular Cerliponase Alfa",
+      "depth": 1,
+      "content": "for CLN2 Disease. N Engl J Med. 2018;378(20):1898–907.",
+      "char_count": 54
+    },
+    {
+      "number": "20",
+      "title": "NICE.     Cerliponase     alfa    for    treating    neuronal     ceroid      lipofuscinosis   type      2.   2019.",
+      "depth": 1,
+      "content": "https://www.nice.org.uk/guidance/hst12.",
+      "char_count": 39
+    },
+    {
+      "number": "21",
+      "title": "ANVISA. Bula do medicamento BRINEURA® alfacerliponase - solução para infusão 30 mg/mL. BioMarin Brasil",
+      "depth": 1,
+      "content": "Farmacêutica Ltda.",
+      "char_count": 18
+    },
+    {
+      "number": "22",
+      "title": "Boustany RM. Neurology of the neuronal ceroid-lipofuscinoses: late infantile and juvenile types. Am J Med Genet.",
+      "depth": 1,
+      "content": "1992;42(4):533–5.",
+      "char_count": 17
+    },
+    {
+      "number": "23",
+      "title": "Beltrán L, reyes valenzuela G, Loos M, Vargas R, Spinzanti P, Lizama R, Caraballo R. Late-onset childhood",
+      "depth": 1,
+      "content": "neuronal ceroid lipofuscinosis: Early clinical and electroencephalographic markers. Epilepsy Res. 2018;144:49-52.",
+      "char_count": 113
+    },
+    {
+      "number": "24",
+      "title": "Dyke JP, Sondhi D, Voss HU, Yohay K, Hollmann C, Mancenido D, et al. Brain region-specific degeneration with",
+      "depth": 1,
+      "content": "disease progression in late infantile neuronal ceroid lipofuscinosis (CLN2 Disease). Am J Neuroradiol. 2016;37(6):1160–1169.\n       25. Chang M, Cooper JD, Davidson BL, van Diggelen OP, Elleder M, Goebel HH, et al. CLN2. In: Mole S, Williams R,\nand Goebel H eds. 2nd ed. The Neuronal Ceroid Lipofuscinoses (Batten Disease). Oxford University Press; 2011: 80–109.",
+      "char_count": 362
+    },
+    {
+      "number": "26",
+      "title": "Schulz A, Kohlschütter A, Mink J, Simonati A, Williams R. NCL diseases - clinical perspectives. Biochim Biophys",
+      "depth": 1,
+      "content": "Acta. 2013;1832(11):1801–1806.",
+      "char_count": 30
+    },
+    {
+      "number": "27",
+      "title": "Lehwald LM, Pappa R, Steward S, De Los Reyes E. Neuronal Ceroid Lipofuscinosis and Associated Sleep",
+      "depth": 1,
+      "content": "Abnormalities. Pediatr Neurol. 2016;59:30–35.",
+      "char_count": 45
+    },
+    {
+      "number": "28",
+      "title": "Owens J, Au R, Carskadon M, Millman R, Wolfson A, Braverman PK, et al. Insufficient sleep in adolescents and",
+      "depth": 1,
+      "content": "young adults: An update on causes and consequences. Pediatrics. 2014;134(3):e921–e932.",
+      "char_count": 86
+    },
+    {
+      "number": "29",
+      "title": "Barney CC, Hoch J, Byiers B, Dimian A, Symons FJ. A case- controlled investigation of pain experience and",
+      "depth": 1,
+      "content": "sensory function in neuronal ceroid lipofuscinosis. Clin J Pain. 2015;31(11):998–1003.",
+      "char_count": 86
+    },
+    {
+      "number": "30",
+      "title": "Breau LM, Burkitt C. Assessing pain in children with intellectual disabilities. Pain Res Manag. 2009 Mar-",
+      "depth": 1,
+      "content": "Apr;14(2):116-20.",
+      "char_count": 17
+    },
+    {
+      "number": "31",
+      "title": "Ministério da Saúde. Portaria no 1083, de 02 de outubro de 2012. Protocolo Clínico e Diretrizes Terapêuticas da Dor",
+      "depth": 1,
+      "content": "Crônica. Diário Oficial da União 2012; 02 out.",
+      "char_count": 46
+    },
+    {
+      "number": "32",
+      "title": "Orlin A, Sondhi D, Witmer MT, Wessel MM, Mezey JG, Kaminsky SM, et al. Spectrum of Ocular Manifestations",
+      "depth": 1,
+      "content": "in CLN2-Associated Batten (Jansky-Bielschowsky) Disease Correlate with Advancing Age and Deteriorating Neurological\nFunction. PLoS One. 2013;8(8): e73128.",
+      "char_count": 154
+    },
+    {
+      "number": "33",
+      "title": "Quagliato EMAB, Rocha DM, Sacai PY, Watanabe SS, Salomão SR, Berezovsky A. Retinal function in patients",
+      "depth": 1,
+      "content": "with the neuronal ceroid lipofuscinosis phenotype. Arq Bras Oftalmol. 2017;80(4):215–219.",
+      "char_count": 89
+    },
+    {
+      "number": "34",
+      "title": "Mortensen A, Raebel EM, Wiseman S. Impact of the COVID-19 pandemic on access to the cerliponase alfa",
+      "depth": 1,
+      "content": "managed access agreement in England for CLN2 treatment. Orphanet J Rare Dis. 2022 Jan 19;17(1):19.\n       35. Østergaard JR, Rasmussen TB, Mølgaard H. Cardiac involvement in juvenile neuronal ceroid lipofuscinosis (Batten\ndisease). Neurology. 2011;76(14):1245–51.",
+      "char_count": 263
+    },
+    {
+      "number": "36",
+      "title": "Hofman IL, van der Wal AC, Dingemans KP, Becker AE. Cardiac pathology in neuronal ceroid lipofuscinosesa",
+      "depth": 1,
+      "content": "clinicopathologic correlation in three patients. Eur J Paediatr Neurol. 2001;5(Suppl A):213–217.",
+      "char_count": 96
+    },
+    {
+      "number": "37",
+      "title": "Lewis G, Morrill AM, Conway-Allen SL, Kim B. Review of Cerliponase Alfa: Recombinant Human Enzyme",
+      "depth": 1,
+      "content": "Replacement Therapy for Late-Infantile Neuronal Ceroid Lipofuscinosis Type 2. J Child Neurol. 2020 Apr;35(5):348-353.",
+      "char_count": 117
+    },
+    {
+      "number": "38",
+      "title": "Canadian Drug Expert Committee Recommendation: Cerliponase Alfa (Brineura — Biomarin Pharmaceutical",
+      "depth": 1,
+      "content": "[Canada] Inc.): Indication: For the treatment of neuronal ceroid lipofuscinosis type 2 (CLN2) disease, also known as tripeptidyl\npeptidase 1 (TPP1) deficiency [Internet]. Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2019\nMay. Available from: https://www.ncbi.nlm.nih.gov/books/NBK543392/\n\n                               TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n                                                    ALFACERLIPONASE\n\n\n       Eu,________________________________________________________________________________________ (nome\ndo(a) paciente), declaro ter sido informado(a) claramente sobre benefícios, riscos, contraindicações e principais eventos\nadversos relacionados ao uso de alfacerliponase, indicada para o tratamento da lipofuscinose ceroide neuronal tipo 2 (CLN2).\n       Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas pelo(a) médico(a)\n_____________________________________________________________________________________________________\n(nome do(a) médico(a) que prescreve).\n       Assim, declaro que fui claramente informado(a) de que o medicamento que passo a receber pode trazer os seguintes\nbenefícios:\n       - melhora dos sintomas da doença;\n       - melhora na escala motor e de linguagem.\n       Fui também claramente informado(a) a respeito das seguintes contraindicações, potenciais eventos adversos e riscos:\n        medicamento alfacerliponase: medicamento classificado na gestação como categoria C. Não há dados sobre o seu uso\n\nem gestantes, não sendo preconizado seu uso;\n        os   eventos adversos mais comuns do medicamento alfacerliponase são: convulsões, dores de cabeça,\nhipersensibilidade, queda de pressão, hematoma, infecções respiratórias, irritabilidade, febre, vômito, aftas na língua e boca,\ndiminuição dos batimentos cardíacos, conjuntivite, dor, dor abdominal, erupção cutânea, reação anafilática, sentir-se nervoso,\nsíndrome da cabeça caída, urticária;\n        a administração desse medicamento necessita a implantação de um dispositivo intracerebroventricular permanente que\n\npode causar infecções e extravasamento do medicamento; deve ser administrada por médico, experiente (pediatra, neurologista\nou geneticista), utilizando técnicas seguras e assépticas durante a sua preparação e administração.\n        as amostras do líquido cefalorraquidiano (LCR) devem ser rotineiramente enviadas para análise para detectar\n\ninfecções do dispositivo;\n        consultas e exames durante o tratamento são necessários;\n\n        todos   esses medicamentos são contraindicados em casos de hipersensibilidade (alergia) aos fármacos ou aos\ncomponentes da fórmula.\n       Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a devolvê-lo caso não\nqueira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que continuarei a ser atendido(a), inclusive se\ndesistir de usar o medicamento.\n       Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas ao meu tratamento,\ndesde que assegurado o anonimato.\n       (   ) Sim (   ) Não\n       Meu tratamento constará do seguinte medicamento:\n       (   ) Alfacerliponase\n\nLocal:                                                Data:\nNome do paciente:\nCartão Nacional de Saúde:\nNome do responsável legal:\nDocumento de identificação do responsável legal:\n\n\n_____________________________________\nAssinatura do paciente ou do responsável legal\nMédico responsável:                                                                                 CRM:                      UF:\n\n\n___________________________\nAssinatura e carimbo do médico\nData:____________________\nNOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência Farmacêutica no SUS se\nencontra o medicamento preconizado neste Protocolo.\n\n                                                                             APÊNDICE 1\n          PRINCIPAIS MANIFESTAÇÕES CLÍNICAS DA CLN2 E OPÇÕES DE TRATAMENTOS DE SUPORTE E\n                                                                     SINTOMÁTICOS\n\n\n Órgão/sistema                             Manifestação clínica                                        Avaliação/tratamento\n                                           Crises convulsivas                                          Neurologista / anticonvulsivantes\n\n\n                                           Manifestações         motoras        (ataxia,   distonia,   Neurologista, fisioterapia\n                                           coreia, parkinsonismo)\n\n\n Sistema nervoso central                   Distúrbios do sono                                          Neurologista, pneumologista\n\n\n                                           Déficit cognitivo                                           Neurologista, educador especializado\n\n\n                                           Dor                                                         Anticonvulsivantes,      benzodiazepínicos,\n                                                                                                       fisioterapia, medidas não medicamentosas\n                                           Acuidade visual diminuída                                   Avaliação oftalmológica\n Olhos\n                                           Perda visual completa\n                                           Infecções de repetição, hipersecreção                       Avaliação funcional pulmonar\n                                                                                                       Tratamento medicamentoso\n Vias aéreas\n                                                                                                       Fisioterapia\n                                                                                                       Imunizações\n Cardiovascular                            Depósito muscular cardíaco                                  Avaliação cardiológica\n Gastrointestinal                          Distúrbio da deglutição                                     Orientação nutricional\n                                              1                          2\nFonte: Elaborado a partir de Mole et al., 2021 ; Guelbert et al., 2020\n\n\n\n         Referências:\n         1.Mole SE, Schulz A, Badoe E, Berkovic SF, de Los Reyes EC, Dulz S, et al. Guidelines on the diagnosis, clinical\nassessments, treatment and management for CLN2 disease patients. Orphanet J Rare Dis. 2021 Apr 21;16(1):185.\n         2.Guelbert N, Atanacio N, Denzler I, Embiruçu KE, Mancilla N, Naranjo R, et al. Position of Experts Regarding\nFollow-Up of Patients with Neuronal Ceroid Lipofuscinosis-2 Disease in Latin America. Journal of Inborn Errors of\nMetabolism & Screening 2020, Volume 8: e20200012.\n\n                                                                           APÊNDICE 2\nPROGRAMA MÍNIMO DE AVALIAÇÕES PARA SEGUIMENTO CLÍNICO DOS PACIENTES COM CLN2 TRATADOS\n                                          OU NÃO COM TERAPIA DE REPOSIÇÃO ENZIMÁTICA\n\n\n Avaliações                                                                     Avaliação   A cada 6   A cada 12   A cada\n                                                                                inicial     meses      meses       24 meses\n Atividade enzimática                                                           X\n\n Análise genética específica                                                    X\n\n História médica                                                                X           X\n\n Aconselhamento genético                                                        X\n\n Revisão do número de infusões realizadas no período                                        X\n\n Determinação da adesão ao acompanhamento/tratamento                                        X\n\n Avaliação nutricional                                                          X           X\n\n AVALIAÇÃO NEUROLÓGICA\n\n - Exame neurológico                                                            X\n\n - Eletroencefalograma                                                          X           X\n\n - Ressonância magnética de crânio                                              X                       X\n\n AVALIAÇÃO OFTALMOLÓGICA                                                        X           X\n\n AVALIAÇÃO CARDIOLÓGICA                                                         X           X\n\n - Eletrocardiograma                                                            X                                    X\n\n - Ecocardiograma                                                               X                                    X\n\nFonte: Elaborado a partir de Mole et al., 20211; Guelbert et al., 2020 2\n\n\n\n         Referências:\n         1.Mole SE, Schulz A, Badoe E, Berkovic SF, de Los Reyes EC, Dulz S, et al. Guidelines on the diagnosis, clinical\nassessments, treatment and management for CLN2 disease patients. Orphanet J Rare Dis. 2021 Apr 21;16(1):185.\n         2.Guelbert N, Atanacio N, Denzler I, Embiruçu KE, Mancilla N, Naranjo R, et al. Position of Experts Regarding\nFollow-Up of Patients with Neuronal Ceroid Lipofuscinosis-2 Disease in Latin America. Journal of Inborn Errors of\nMetabolism & Screening 2020, Volume 8: e20200012.\n\n                                                                     APÊNDICE 3\n                                  METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA",
+      "char_count": 9460
+    },
+    {
+      "number": "1",
+      "title": "Escopo e finalidade do Protocolo",
+      "depth": 1,
+      "content": "O presente apêndice consiste no documento de trabalho do grupo elaborador do PCDT de CLN2 contendo a descrição\nda metodologia de busca de evidências científicas, as recomendações e seus julgamentos (fundamentos para a tomada de\ndecisão), tendo como objetivo embasar o texto do Protocolo, aumentar a sua transparência e prover considerações adicionais\npara profissionais da saúde, gestores e demais potenciais interessados.\n       O grupo desenvolvedor desta diretriz foi composto por um painel de especialistas sob coordenação do Departamento de\nGestão e Incorporação de Tecnologias em Saúde da Secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministério da\nSaúde (DGITS/SCTIE/MS). O painel de especialistas incluiu médicos da especialidade de genética, neurologia, medicina\ninterna e pneumologia.\n       Todos os participantes do processo de elaboração do PCDT preencheram o formulário de Declaração de Conflitos de\nInteresse, que foram enviados ao Ministério da Saúde para análise prévia às reuniões de escopo e formulação de\nrecomendações.\n       A elaboração deste Protocolo foi conduzida em caráter emergencial em virtude da incorporação da alfacerliponase para\no tratamento dos pacientes com CLN2. Foi realizada uma reunião de escopo, em junho/2022, com representantes do Ministério\nda Saúde, associação de pacientes e com o Grupo Elaborador deste PCDT que incluiu, além de farmacêuticos, dois\nespecialistas geneticistas.\n       Esse Protocolo considera as melhores evidências advindas de diretrizes clínicas já publicadas por outros órgãos ou\nentidades nacionais e internacionais para o diagnóstico, tratamento e monitorização desses pacientes.",
+      "char_count": 1662
+    },
+    {
+      "number": "2",
+      "title": "Equipe de elaboração e partes interessadas",
+      "depth": 1,
+      "content": "Colaboração externa\n       O Protocolo foi elaborado pelo NATS Nuclimed/HCPA.\n       Declaração e Manejo de Conflitos de Interesse\n       Todos os membros votantes e metodologistas do Grupo Elaborador declararam seus conflitos de interesse, utilizando a\nDeclaração de Potenciais Conflitos de Interesse (Quadro A).\n\n\n       Quadro A - Questionário de conflitos de interesse diretrizes clínico-assistenciais.",
+      "char_count": 406
+    },
+    {
+      "number": "1",
+      "title": "Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos benefícios abaixo?",
+      "depth": 1,
+      "content": "a) Reembolso por comparecimento a eventos na área de interesse da diretriz                               ( ) Sim\n                                                                                                          ( ) Não\n b) Honorários por apresentação, consultoria, palestra ou atividades de ensino                            ( ) Sim\n                                                                                                          ( ) Não\n c) Financiamento para redação de artigos ou editorias                                                    ( ) Sim\n                                                                                                          ( ) Não\n d) Suporte para realização ou desenvolvimento de pesquisa na área                                        ( ) Sim\n                                                                                                          ( ) Não\n e) Recursos ou apoio financeiro para membro da equipe                                                    ( ) Sim\n                                                                                                          ( ) Não\n\n f) Algum outro benefício financeiro                                                                         ( ) Sim\n                                                                                                             ( ) Não",
+      "char_count": 1373
+    },
+    {
+      "number": "2",
+      "title": "Você possui apólices ou ações de alguma empresa que possa de alguma forma ser beneficiada ou             ( ) Sim",
+      "depth": 1,
+      "content": "prejudicada com as recomendações da diretriz?                                                               ( ) Não",
+      "char_count": 115
+    },
+    {
+      "number": "3",
+      "title": "Você possui algum direito de propriedade intelectual (patentes, registros de marca, royalties) de        ( ) Sim",
+      "depth": 1,
+      "content": "alguma tecnologia ligada ao tema da diretriz?                                                               ( ) Não",
+      "char_count": 115
+    },
+    {
+      "number": "4",
+      "title": "Você já atuou como perito judicial na área tema da diretriz?                                             ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "5",
+      "title": "Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados pela sua",
+      "depth": 1,
+      "content": "atividade na elaboração ou revisão da diretriz?\n a) Instituição privada com ou sem fins lucrativos                                                           ( ) Sim\n                                                                                                             ( ) Não\n b) Organização governamental ou não-governamental                                                           ( ) Sim\n                                                                                                             ( ) Não\n c) Produtor, distribuidor ou detentor de registro                                                           ( ) Sim\n                                                                                                             ( ) Não\n d) Partido político                                                                                         ( ) Sim\n                                                                                                             ( ) Não\n e) Comitê, sociedade ou grupo de trabalho                                                                   ( ) Sim\n                                                                                                             ( ) Não\n f) Outro grupo de interesse                                                                                 ( ) Sim\n                                                                                                             ( ) Não",
+      "char_count": 1451
+    },
+    {
+      "number": "6",
+      "title": "Você poderia ter algum tipo de benefício clínico?                                                        ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "7",
+      "title": "Você possui uma ligação ou rivalidade acadêmica com alguém cujos interesses possam ser afetados?         ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "8",
+      "title": "Você possui profunda convicção pessoal ou religiosa que pode comprometer o que você irá escrever         ( ) Sim",
+      "depth": 1,
+      "content": "e que deveria ser do conhecimento público?                                                                  ( ) Não",
+      "char_count": 115
+    },
+    {
+      "number": "9",
+      "title": "Existe algum aspecto do seu histórico profissional, que não esteja relacionado acima, que possa afetar   ( ) Sim",
+      "depth": 1,
+      "content": "sua objetividade ou imparcialidade?                                                                         ( ) Não",
+      "char_count": 115
+    },
+    {
+      "number": "10",
+      "title": "Sua família ou pessoas que mantenha relações próximas possui alguns dos conflitos listados acima?       ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não\n\n\n      Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas\n      A proposta de elaboração do PCDT de Lipofuscinose Ceroide Neuronal tipo 2, foi apresentada na 103ª Reunião da\nSubcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em 23 de setembro de 2022. A\nreunião teve a presença de representantes da Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde\n(SCTIE); Secretaria de Atenção Especializada à Saúde (SAES), Secretaria de Atenção Primária à Saúde (SAPS) e Secretaria de\nVigilância em Saúde (SVS). O PCDT foi aprovado para avaliação da Conitec e a proposta foi apresentada aos membros do\nPlenário da Conitec em sua 113ª Reunião Ordinária, os quais recomendaram favoravelmente ao texto.\n\n       Consulta pública\n       A Consulta Pública nº 72/2022, referente à elaboração do Protocolo Clínico e Diretrizes Terapêuticas de Lipofuscinose\nCeroide Neuronal tipo 2, foi realizada entre os dias 01/11/2022 e 21/11/2022. Foram recebidas 697 contribuições, que podem\nser verificadas em:\nhttps://www.gov.br/conitec/pt-br/midias/consultas/contribuicoes/2022/20221122_cp_conitec_072_2022_pcdt-lipofuscinose-\nceroide-neuronal-tipo-2.pdf",
+      "char_count": 1246
+    },
+    {
+      "number": "3",
+      "title": "Busca da evidência e recomendações",
+      "depth": 1,
+      "content": "Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o sítio eletrônico da Conitec para a\nidentificação das tecnologias disponíveis no Brasil e tecnologias demandadas ou recentemente incorporadas para o tratamento\nda CLN2. Não foram encontradas tecnologias disponíveis já incorporadas para o tratamento da CLN2, além da alfacerliponase.\n       Foi também realizada, em 01 de junho de 2022, busca por diretrizes clínicas nacionais e internacionais e recomendações\nde especialistas a respeito da doença. Foram utilizados os termos “neuronal ceroid lipofuscinosis type 2” OR “NCL2” AND\n“alfacerliponase” OR “treatment” e restringindo-se para estudos em humanos, nos idiomas português, espanhol e inglês, sem\nlimite de data. As seguintes bases de dados e websites institucionais que abrigam protocolos e diretrizes foram consultados:\n       - NICE guidelines (http://www.nice.org.uk/guidance/published?type=CG);\n       - Diretrizes da Associação Médica Brasileira (AMB);\n       - Protocolos Clínicos e Diretrizes terapêuticas do Ministério da Saúde; e\n       - PubMed/MEDLINE.\n       Para as recomendações sobre o tratamento, diagnóstico e monitoramento, foram utilizadas as evidências do Relatório de\nRecomendação nº 706, de abril de 2022, aprovado pela Conitec, o qual motivou a incorporação do medicamento, conforme a\nPortaria SCTIE/MS n° 39 de 20 de abril de 2022. Adicionalmente, foram consultadas a bula do medicamento aprovada pela\nANVISA, diretrizes internacionais, recomendações e consensos de especialistas e avaliações de outras agências de Avaliação\nde Tecnologias em Saúde, como agência Canadense (CADTH) e NICE.",
+      "char_count": 1643
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": "O diagnóstico de CLN2 é realizado com base na suspeita clínica, e confirmado por marcadores bioquímicos e teste\ngenético. A suspeita deve ocorrer em indivíduos que apresentem pelo menos um dos seguintes sinais e sintomas relacionados à\ndoença, com início tipicamente entre os dois e quatro anos de idade1,9:\n        atraso na linguagem;\n        crises convulsivas (epilepsia);\n        ataxia de marcha;\n        declínio cognitivo progressivo;\n        perda de função motora;\n        perda visual progressiva;\n        alterações motoras, como mioclonia, espasticidade e distonia.\n       A atrofia cerebelar grave é o principal achado presente na ressonância magnética de crânio10 e a fotossensibilidade\ndetectada pelo eletroencefalograma (EEG) é um marcador precoce de CLN211.\n       Fenótipos atípicos podem ter apresentação tardia, com descrição de formas juvenil e adulta com curso mais prolongado\nda doença9. Como os achados clínicos variam de acordo com a gravidade da doença, os sinais e sintomas, por si só, não são\ndiagnósticos.\n       A confirmação do diagnóstico de CLN2 envolve exames bioquímicos e genéticos que deverão ser realizados sempre\nque houver suspeita clínica dessa doença."
+    },
+    "monitoring": {
+      "number": "8",
+      "content": "Os pacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve realizar anamnese e\nexame físico completos em cada consulta. Nas consultas, dados sobre todas as avaliações realizadas desde o atendimento\nanterior devem ser obtidos e os testes necessários devem ser solicitados, incluindo avaliação por especialistas em neurologia,\n\noftalmologia, cardiologia e pneumologia, conforme indicação clínica e a critério do médico assistente. As avaliações de rotina\ndevem ser realizadas a cada 24 semanas pelo médico assistente com vacinas, orientação nutricional, exames e aconselhamento\npreventivo. Os pacientes e seus familiares devem ter acesso ao aconselhamento genético9,20,38.\n       Como parte da avaliação do tratamento, deve-se monitorar o uso, a adesão, a indicação e os resultados do tratamento\ncom alfacerliponase. Por meio desse monitoramento, será possível estabelecer grupos de pacientes que são de fato beneficiados\ne reavaliar a incorporação do medicamento a médio prazo.\n       Não há interações conhecidas com alfacerliponase e outros medicamentos. O paciente deve informar a equipe de saúde\nse estiver fazendo uso, tiver usado recentemente, ou se puder vir a usar outros medicamentos.\n       O Apêndice 2 apresenta as avaliações consideradas mínimas para o acompanhamento de pacientes com CLN2, sendo\nnecessárias para o acesso ao medicamento. São definidos períodos mínimos apenas para aquelas avaliações que têm por\nobjetivo detectar a eficácia e segurança da TRE. Para as demais, a periodicidade de avaliações fica a critério do médico\nassistente."
+    },
+    "regulation": {
+      "number": "9",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes deste PCDT, a duração e a monitorização do\ntratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso de medicamentos.\n       Observando os cuidados de armazenamento do medicamento, conforme consta em bula, a alfacerliponase deve ser\ndistribuída diretamente aos centros de referência definidos para administração do medicamento. Os frascos do medicamento e\na solução de lavagem devem ser armazenados em posição vertical em um congelador na temperatura entre -25°C e -15°C.\n       Pacientes com suspeita de CLN2 devem ser encaminhados, preferencialmente, a um serviço especializado ou de\nreferência em doenças raras para seu adequado diagnóstico, inclusão no protocolo de tratamento e acompanhamento. Pacientes\ncom CLN2 devem ser avaliados periodicamente em relação à eficácia do tratamento e desenvolvimento de toxicidade aguda ou\ncrônica. A existência de centro de referência facilita o tratamento em si, bem como o ajuste de doses conforme necessário e o\ncontrole de eventos adversos. A alfacerliponase é uma enzima indicada para uso intracerebroventricular e deve ser\nadministrada por médico experiente (pediatra, neurologista ou geneticista), utilizando técnicas seguras e assépticas durante a\nsua preparação e administração.\n       Cabe destacar que, sempre que possível, o atendimento da pessoa com CLN2 deve ocorrer por equipe multiprofissional,\npossibilitando o desenvolvimento de Projeto Terapêutico Singular (PTS) e a adoção de terapias de apoio conforme sua\nnecessidade funcional e as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de Saúde (SUS).\n       Deve-se verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica se encontram os medicamentos preconizados neste Protocolo. Estados e municípios deverão manter\natualizadas as informações referentes aos registros de estoque, distribuição e dispensação dos medicamentos e encaminhar\nestas informações ao Ministério da Saúde via Base Nacional de Dados de Ações e Serviços da Assistência Farmacêutica no\nâmbito do Sistema Único de Saúde (BNAFAR), conforme as normativas vigentes.\n       Em 2014, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças Raras e\naprovou as Diretrizes para Atenção Integral às Pessoas com doenças raras no âmbito do Sistema Único de Saúde (SUS) por\nmeio da Portaria GM/MS nº 199, de 30 de janeiro de 2014 (consolidada no Anexo XXXVIII da Portaria de Consolidação\nGM/MS nº 2/2017 e na Seção XIV do Capítulo II do Título III da Portaria de Consolidação GM/MS nº 6/2017), relativas à\nPolítica Nacional de Atenção Integral às Pessoas com Doenças Raras.\n       A política tem abrangência transversal na Rede de Atenção à Saúde (RAS) e como objetivo reduzir a mortalidade,\ncontribuir para a redução da morbimortalidade e das manifestações secundárias e a melhoria da qualidade de vida das pessoas,\npor meio de ações de promoção, prevenção, detecção precoce, tratamento oportuno redução de incapacidade e cuidados\n\npaliativos. A linha de cuidado da atenção aos usuários com demanda para a realização das ações na Política Nacional de\nAtenção Integral às Pessoas com Doenças Raras é estruturada pela Atenção Primária e Atenção Especializada, em\nconformidade com a Rede de Atenção à Saúde (RAS) e seguindo as Diretrizes para Atenção Integral às Pessoas com Doenças\nRaras no SUS. A Atenção Primária é responsável pela coordenação do cuidado e por realizar a atenção contínua da população\nque está sob sua responsabilidade adstrita, além de ser a porta de entrada prioritária do usuário na RAS. Já a Atenção\nEspecializada é responsável pelo conjunto de pontos de atenção com diferentes densidades tecnológicas para a realização de\nações e serviços de urgência, ambulatorial especializado e hospitalar, apoiando e complementando os serviços da atenção\nbásica.\n          Os hospitais universitários, federais e estaduais, em torno de 50 em todo o Brasil, e as associações beneficentes e\nvoluntárias são o locus da atenção à saúde dos pacientes com doenças raras.\n          Porém, para reforçar o atendimento clínico e laboratorial, o Ministério da Saúde incentiva a criação de serviços da\nAtenção Especializada, assim classificados:\n          • Serviço de atenção especializada em doenças raras: presta serviço de saúde para uma ou mais doenças raras; e\n          • Serviço de referência em doenças raras: presta serviço de saúde para pacientes com doenças raras pertencentes a, no\nmínimo, dois eixos assistenciais (doenças raras de origem genética e de origem não genética).\n          No que diz respeito ao financiamento desses serviços, para além do ressarcimento pelos diversos atendimentos\ndiagnósticos e terapêuticos clínicos e cirúrgicos e a assistência farmacêutica, o Ministério da Saúde instituiu incentivo\nfinanceiro de custeio mensal para os serviços de atenção especializada em doenças raras.\n          Assim, o atendimento de pacientes com doenças raras é feito prioritariamente na Atenção Primária, principal porta de\nentrada para o SUS, e se houver necessidade o paciente será encaminhado para atendimento especializado em unidade de\nmédia ou alta complexidade, e a linha de cuidados de pacientes com doenças raras é estruturada pela Atenção Primária e\nAtenção Especializada, em conformidade com a Rede de Atenção à Saúde e seguindo as Diretrizes para Atenção Integral às\nPessoas com Doenças Raras no Sistema Único de Saúde.\n          Considerando que cerca de 80% das doenças raras são de origem genética, o aconselhamento genético (AG) é\nfundamental na atenção às famílias e pacientes com essas doenças. O aconselhamento genético é um processo de comunicação\nque lida com os problemas humanos associados à ocorrência ou ao risco de ocorrência de uma doença genética em uma\nfamília. Este processo envolve a participação de pessoas adequadamente capacitadas, com o objetivo de ajudar o indivíduo e a\nfamília a compreender os aspectos envolvidos, incluindo o diagnóstico, o curso provável da doença e os cuidados disponíveis.\n          Os procedimentos diagnósticos (Grupo 02), terapêuticos clínicos (Grupo 03) e terapêuticos cirúrgicos (Grupo 04 e os\nvários subgrupos cirúrgicos por especialidades e complexidade) da Tabela de Procedimentos, Medicamentos e Órteses,\nPróteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10 no\nSIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com\nversão mensalmente atualizada e disponibilizada.\n\n\n          Quadro 3: Códigos e procedimentos da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS.\n\n Código                              Procedimento\n 02.02.10.011-1                      Identificação de mutação por sequenciamento por amplicon até 500 pares de bases\n 02.02.10.019-7                      Ensaios enzimáticos em tecido cultivado para diagnóstico de erros inatos do metabolismo\n 03.01.01.021-8                      Avaliação clínica de diagnóstico de doenças raras – eixo I: 3 – erros inato de metabolismo\n 04.03.08.003-7                      Implante intraventricular de bomba de infusão de fármacos"
+    },
+    "treatment": {
+      "number": "7.1",
+      "content": "As principais manifestações clínicas da CLN2 e suas opções de tratamento de suporte e sintomático podem ser\nencontradas no Apêndice 1. É importante frisar que nem todos os pacientes apresentarão todas as manifestações citadas, as\nquais costumam ser mais frequentes e mais graves nos pacientes com a forma grave (infantil tardia) da doença. Da mesma\n\nmaneira, nem todos os pacientes necessitarão ser submetidos a todos os tipos de tratamento."
+    }
+  },
+  "stats": {
+    "section_count": 71,
+    "char_count": 67118,
+    "depth1_count": 54
+  }
+}

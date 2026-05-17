@@ -1,0 +1,1110 @@
+{
+  "slug": "mucopolissacaridose-tipo-i",
+  "name_pt": "Mucopolissacaridose tipo I",
+  "icd10": "E76.0",
+  "orphanet": "ORPHA:579",
+  "omim": "607014",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-munopolissacaridose-tipo-i.pdf",
+  "sections": [
+    {
+      "number": "3.1",
+      "title": "Diagnóstico clínico",
+      "depth": 2,
+      "content": "Deve-se suspeitar de MPS I se o paciente apresentar pelo menos um dos seguintes sinais e sintomas a seguir,\nespecialmente se dois ou mais critérios estiverem presentes, excluindo-se outras causas mais frequentes23:\n       - Características faciais sugestivas de doença lisossômica (face infiltrada);\n       - Otite média e infecções respiratórias superiores precoces e de repetição;\n       - Hérnia inguinal ou umbilical, especialmente se ambas estiverem pacientes e em crianças;\n       - Hepatoesplenomegalia;\n       - Alterações esqueléticas ou articulares típicas (disostose múltipla, giba, limitação da amplitude de movimento das\narticulações);\n       - Mãos em garra;\n       - Alterações oculares características (opacificação bilateral da córnea);\n       - Síndrome do túnel do carpo em crianças;\n       - Irmão de qualquer sexo com MPS I.\n       Ressalta-se que os achados clínicos variam de acordo com a gravidade da doença e, por si só, não são diagnósticos 23.\n       Os sinais e sintomas mais comuns na MPS I em geral e nas formas clássicas da doença são apresentados, respectivamente,\nnos Quadros 1 e 2.\n\nQuadro 1- Sinais e sintomas gerais da Mucopolissacaridose do tipo I.\n\n        Órgão/sistema                              Manifestação clínica                           Avaliação/tratamento\n                                                                                    Avaliação neurocirurgia.\n                                     Hidrocefalia/hipertensão intracraniana.\n                                                                                    Derivação ventrículo-peritoneal.\n                                                                                    Avaliação neurológica.\n                                     Atraso do desenvolvimento\n                                                                                    Psicopedagogia, fonoaudiologia, fisioterapia,\n                                     neuropsicomotor.\n                                                                                    psicomotricidade.\n Sistema nervoso central\n                                                                                    Avaliação neurológica.\n                                     Crises convulsivas.\n                                                                                    Farmacoterapia.\n                                                                                    Avaliação neurológica.\n                                     Alterações no ciclo sono-vigília, distúrbios\n                                                                                    Farmacoterapia.\n                                     do comportamento.\n                                                                                    Psicologia.\n                                                                                    Avaliação neurocirurgia.\n                                     Compressão medular.\n                                                                                    Cirurgia.\n Sistema nervoso periférico                                                         Avaliação traumato-ortopedia.\n                                     Síndrome do túnel do carpo.                    Fisioterapia.\n                                                                                    Cirurgia.\n\n\n                                     Acuidade visual diminuída.                     Avaliação oftalmológica.\n\n Olhos\n                                                                                    Avaliação oftalmológica.\n                                     Opacificação de córnea.\n                                                                                    Transplante de córnea (em casos específicos).\n\n                                                                                    Avaliação pneumológica,\n                                                                                    Amigdalectomia, adenoidectomia,\n                                     Síndrome da apnéia obstrutiva do sono.         Oxigenioterapia.\n                                                                                    Uso de aparelhos de pressão positiva contínua\n                                                                                    das vias respiratórias (em casos específicos).\n                                                                                    Avaliação pneumológica e\n Vias aéreas\n                                                                                    otorrinolaringológica.\n                                     Infecções de repetição.\n                                                                                    Farmacoterapia.\n                                                                                    Fisioterapia.\n                                                                                    Avaliação pneumológica.\n                                     Doença pulmonar restritiva.                    Farmacoterapia.\n                                                                                    Fisioterapia.\n                                                                                    Avaliação cirurgião.\n Tecido conjuntivo                   Hérnias.\n                                                                                    Cirurgia.\n                                                                                    Avaliação traumato-ortopedia.\n                                                                                    Farmacoterapia.\n Articulações                        Dor, contraturas.\n                                                                                    Fisioterapia.\n                                                                                    Cirurgia.\n Ossos                               Giba toracolombar, genu valgo.                 Avaliação traumato-ortopedia.\n\n        Órgão/sistema                           Manifestação clínica                         Avaliação/tratamento\n                                                                                 Coletes.\n                                                                                 Cirurgia.\n\n                                                                                 Avaliação otorrinolaringológica.\n                                   Hipoacusia.\n                                                                                 Próteses (em casos específicos).\n Orelhas                                                                         Avaliação otorrinolaringológica.\n                                   Otites de repetição.                          Farmacoterapia.\n                                                                                 Cirurgia.\n\n                                                                                 Avaliação gastroenterologiasta.\n                                   Diarreia.\n                                                                                 Orientação nutricional.\n\n\n                                   Ganho inadequado (insuficiente ou             Avaliação gastroenterologiasta.\n                                   excessivo) de peso.                           Orientação nutricional.\n Gastrointestinal\n                                                                                 Avaliação gastroenterologista.\n                                                                                 Orientação nutricional\n                                   Distúrbio de deglutição.                      Farmacoterapia.\n                                                                                 Fonoaudiologia.\n                                                                                 Cirurgia (gastrostomia).\n                                                                                 Avaliação odontológica ou de cirurgia\n                                                                                 bucomaxilofacial.\n Bucomaxilofacial                  Má oclusão, dentição anômala.\n                                                                                 Cirurgia.\n                                                                                 Aparelho ortodôntico.\n                                                                                 Avaliação cardiologia.\n                                   Valvulopatia, cardiomiopatia, insuficiência\n Cardiovascular                                                                  Farmacoterapia.\n                                   cardíaca.\n                                                                                 Cirurgia.\n                                         23                  24\nFonte: Elaboração com base em Clarke, 2024 e Hampe at al, 2020\n\nQuadro 2- Características mais frequentes das formas clássicas da Mucopolissacaridose do tipo I.\n\n           Nome                          Herança                     Deficiência                   Gene        Substrato            Idade de               Aspectos distintos centrais\n                                                                     Enzimática                               acumulado            diagnóstico\n\nDoença esquelética, depósitos em tecido mole e espectro de alterações de SNC\n\nHurler                            Autossômica                   Alfa-L-Iduronidase           IDUA         Sulfato de heparan,   1-2 anos         Atraso           no            desenvolvimento,\n(forma grave)                     Recessiva                                                               sulfato de dermatan                    hepatoesplenomegalia,       obstrução    de    vias\n                                                                                                                                                 aéreas,   características    faciais    infiltradas,\n                                                                                                                                                 disostose multiplex.\n                                                                                                                                                 Geralmente tranquilos e plácidos.\n                                                                                                                                                 Óbito em torno dos 10 anos de idade\n\nHurler-Scheie                                                                                                                   1-5 anos         Micrognatia, faces infiltradas, marcha ‘toe\n(forma intermediária)                                                                                                                            walker’ (na ponta dos pés), inteligência\n                                                                                                                                                 possivelmente normal.\n                                                                                                                                                 Óbito em torno dos 20 anos de idade.\n\nScheie                                                                                                                          3-15 anos        Doença valvular aórtica, doença articular,\n(forma menos severa)                                                                                                                             opacificação corneana, fácies normal.\n                                                                                                                                                 Óbito em décadas.\nFonte: Adaptado de Hahn S, 202225.\nLegenda: SNC: sistema nervoso central; MPS: mucopolissacaridoses; IDUA: iduronidaseᵃ",
+      "char_count": 11889
+    },
+    {
+      "number": "3.2",
+      "title": "Diagnóstico diferencial",
+      "depth": 2,
+      "content": "Os pacientes com MPS I, especialmente nos fenótipos atenuados, podem ser difíceis de serem reconhecidos por médicos\nnão familiarizados com a doença, principalmente ao se considerar a constelação de manifestações diversas apresentadas por eles\nao longo do tempo26.\n       Um dos desafios no diagnóstico da MPS é que, inicialmente, as diversas características apresentadas podem ser avaliadas\npor diferentes especialistas, retardando o reconhecimento de que os problemas de saúde aparentemente não relacionados têm um\núnico diagnóstico26. No paciente cuja principal manifestação é a doença do quadril, por exemplo, o diagnóstico diferencial pode\nincluir doença de Legg-Calvé-Perthes (LCP) e displasia espondiloepifisária (SED) 26,27.\n       Se o atraso no desenvolvimento e os problemas de comportamento forem as principais características apresentadas, o\ndiagnóstico diferencial incluiria o transtorno de déficit de atenção e hiperatividade (TDAH) e o transtorno do espectro do autismo\n(TEA). Existem ainda outros distúrbios a serem considerados no diagnóstico diferencial, como turvação da córnea, apneia\nobstrutiva do sono, perda auditiva e cifoescoliose26,27,28.\n       Uma vez que a constelação de achados é reconhecida como tendo uma causa subjacente comum, os principais distúrbios\nno diagnóstico diferencial são outras doenças de armazenamento, incluindo as oligossacaridoses (por exemplo, alfa e beta-\nmanosidose, fucosidose, aspartilglucosaminúria), esfingolipidoses (por exemplo, doença de Gaucher tipo II), doença de Niemann\nPick A, mucolipidoses (por exemplo, doença das células I) e até mesmo outros tipos de MPS, como a Síndrome de Morquio\n(MPS IV). A análise urinária de GAGs e oligossacarídeos ajuda a diferenciar esses distúrbios23,25.\n       Há relatos de pacientes com MPS I que receberam diagnósticos equivocados como raquitismo, nanismo e artropatia\njuvenil, a despeito de haver diferenças entre MPS I e estas doenças25-31.",
+      "char_count": 1943
+    },
+    {
+      "number": "3.3",
+      "title": "Diagnóstico laboratorial",
+      "depth": 2,
+      "content": "O caminho da confirmação diagnóstica de MPS I (Figura 1) envolve métodos bioquímicos ou genéticos24,25,26.\n       A pesquisa de GAGs urinários, quantitativo ou qualitativo, costuma ser o primeiro exame a ser realizado na maioria dos\ncasos suspeitos de MPS I em locais onde não se faz triagem neonatal. A alteração nesses exames não é capaz de estabelecer o\ndiagnóstico de MPS I, mas indica a possibilidade real de algum tipo de mucopolissacaridose. O diagnóstico definitivo da MPS I\nrequer o teste de atividade da enzima IDUA, realizado em leucócitos ou fibroblastos, por exemplo. Se demonstrada baixa\natividade da enzima, tem-se o diagnóstico de MPS I.\n       O teste genético molecular é frequentemente usado para confirmar o diagnóstico, detectando mutações causadoras de\ndoenças no gene IDUA. Este teste, porém, está disponível apenas em serviços de diagnóstico com laboratórios especializados.",
+      "char_count": 898
+    },
+    {
+      "number": "3.3.1",
+      "title": "Atividade da enzima IDUA",
+      "depth": 3,
+      "content": "A redução ou ausência de atividade da IDUA em fibroblastos, leucócitos, sangue impregnado em papel-filtro ou plasma\nsugere fortemente o diagnóstico de MPS I, mas não é suficiente para confirmação como teste único, pela possibilidade de\nocorrência de pseudo deficiência - presença de atividade diminuída da enzima em indivíduo normal, devido ao uso de substratos\nartificiais da enzima no ensaio32,33.\n       A medida da atividade enzimática em gotas de sangue impregnadas em papel-filtro34 tem a vantagem de ser realizada em\num material mais facilmente transportado e manipulado. Contudo, deve-se considerar o método de triagem, devido aos casos\nfalso-positivos associados. No estudo de Verma et al.35, houve concordância de 88% da atividade da IDUA em pacientes com\nMPS I medida em papel-filtro com aquela encontrada em outros tecidos, de modo que os casos falso-positivos foram 12%. Em\nrelação à estabilidade da IDUA em papel-filtro, outro estudo mostrou que a atividade da enzima diminui consideravelmente após\n21 dias da realização da coleta36. A medida da atividade da IDUA em vilo coriônico cultivado ou amniócitos é rotineiramente\nutilizada no diagnóstico pré-natal de MPS I37.\n\n       Como os resultados podem diferir entre os laboratórios, é importante que valores de referência sejam estabelecidos para\ncada serviço36,37,38.",
+      "char_count": 1333
+    },
+    {
+      "number": "3.3.2",
+      "title": "Análise de GAGs urinários",
+      "depth": 3,
+      "content": "A análise de GAGs urinários pode ser quantitativa, como pelo método espectrofotométrico 39, ou permitir a identificação\ndo tipo de GAGs que está sendo excretado em quantidade aumentada na urina, por cromatografia ou eletroforese 32,39. Nem o\nmétodo quantitativo nem o qualitativo são suficientes para predizer se a enzima deficiente é a lisossômica, pois não são\nespecíficos e o aumento de sulfato de heparan e de dermatan ocorre também nas MPS II e VII. No entanto, a detecção, por um\nou por ambos os métodos, sugere a presença provável de algum tipo de MPS, sendo necessária a realização de testes adicionais.\n       A quantificação de GAGs urinários também é utilizada para monitorização do tratamento específico da MPS I, uma vez\nque, durante o tratamento, ocorre diminuição da excreção dessas moléculas23,25. Salienta-se que os níveis de GAGs não podem\nser considerados como marcadores de gravidade da doença 32.",
+      "char_count": 917
+    },
+    {
+      "number": "3.3.3",
+      "title": "Teste genético",
+      "depth": 3,
+      "content": "A análise do gene IDUA permite a detecção das mutações que provocam a doença e, consequentemente, o diagnóstico\ngenético pré e pós-natal e a detecção de heterozigotos, facilitando o aconselhamento genético individual e familiar.\n       A taxa de detecção de variantes patogênicas por sequenciamento pelo método Sanger das regiões exônicas e éxon-íntron\ndo gene IDUA, em 85 indivíduos40 e em 102 indivíduos41 com MPS I, variou entre 95% e 97%. Até o momento cerca de 250\ndiiferentes mutações já foram descritas no gene IDUA42, o qual possui 14 éxons.\n       As duas mutações patogênicas mais comuns em pacientes brasileiros são p.Trp402Ter (éxon 9) e p.Pro533Arg (éxon 11),\ncom frequências variando de 27,8% a 37% e de 11,6% a 33%43, respectivamente. As mutações p.Gln70Ter e p.Arg89Gln,\nrelatadas como de alta frequência em pacientes com MPS I de outras regiões, estão presentes em frequências relativamente\nbaixas nos pacientes brasileiros (1,6% e 3,3%, respectivamente) 44. Ainda, a mutação p.Gln70Ter não foi identificada em outro\nestudo43.",
+      "char_count": 1043
+    },
+    {
+      "number": "3.4",
+      "title": "Associação genótipo-fenótipo clínico",
+      "depth": 2,
+      "content": "A maior importância dos estudos de genótipo-fenótipo é a identificação, em idade precoce, daqueles indivíduos que\napresentarão a forma grave da doença. Apesar disso não estar estabelecido para todas as mutações já descritas, existe uma\nassociação entre genótipo-fenótipo em algumas mutações23,40,41,44.\n       Os pacientes recém-nascidos pré-sintomáticos ou oligossintomáticos com deficiência de IDUA e mutações graves\nconhecidas (p.Trp402Ter, p.Gln70Ter, p.Ala327Pro e p.Gly51Asp, por exemplo) identificadas em ambos os alelos, ou seja,\nhomozigotos ou heterozigotos compostos, desenvolverão a MPS I grave40,41,44. As mutações p.Arg89Trp e p.Leu492Pro, por\noutro lado, associam-se a quadros atenuados da doença40,41,43,44.\n\n\n       CRITÉRIOS DE INCLUSÃO\n\n\n       Serão incluídos neste Protocolo e para o uso de laronidase, todos os pacientes com diagnóstico confirmado de MPS I\nconforme um dos seguintes critérios:\n        Atividade da enzima IDUA menor que 10% do limite inferior de referência em plasma, fibroblastos ou leucócitos, com\na atividade da enzima de referência avaliada na mesma amostra e pelo mesmo método, apresentando valores normais E presença\nde níveis aumentados de GAGs totais na urina ou de excreção aumentada de sulfatos de heparan e dermatan;\n       OU\n\n                Atividade da enzima IDUA menor que 10% do limite inferior de referência em plasma, fibroblastos, leucócitos ou em\npapel-filtro, com a atividade da enzima de referência avaliada na mesma amostra e pelo mesmo método, apresentando valores\nnormais E presença de mutações patogênicas em homozigose ou heterozigose composta no gene IDUA.\n               Para o TCTH, serão elegíveis ao transplante alogênico aparentado e não aparentado, mieloablativo de células-tronco\nhematopoiéticas os pacientes com diagnóstico de MPS I com até 3 anos de idade e desenvolvimento neuropsicomotor adequado\npara a idade, de acordo com avaliação realizada por neurologista. Todos os potenciais receptores devem estar inscritos no\nRegistro Nacional de Receptores de Medula Óssea ou outros precursores hematopoiéticos – REREME/INCA/MS. Deve-se\nobservar as regras estabelecidas para transplantes, conforme normas técnicas e operacionais do Sistema Nacional de Transplantes\n17,48,49\n           .\n\n\n               CRITÉRIOS DE EXCLUSÃO\n\n\n               Serão excluídos do uso de TRE com laronidase, os pacientes que apresentarem um dos seguintes critérios:\n               - Condição médica irreversível e que implique em sobrevida provavelmente menor que 6 meses como resultado da MPS\nI ou de outra doença associada, de acordo com a avaliação de mais de um especialista;\n               - Pacientes com idade maior que 18 anos que, após serem informados sobre os potenciais riscos e benefícios associados\nao tratamento com laronidase, recusarem-se a serem tratados;\n               - Contraindicação, hipersensibilidade ou toxicidade ao medicamento.\n               Os pacientes com MPS I serão excluídos da possibilidade de realização de TCTH alogênico, mieloablativo\naparentado com doadores homozigotos portadores de mutações patogênicas no gene IDUA. Já a indicação de transplante\nenvolvendo doadores heterozigotos portadores de mutações patogênicas no gene IDUA deve ser avaliada caso a caso.\n\n\n               TRATAMENTO\n\n\n               O atendimento dos pacientes com MPS I envolve equipe multidisciplinar2,4,46-50e inclui intervenções não específicas,\nrealizadas com vistas ao fenótipo clínico, como cirurgias para correção de hérnias, e específicas, visando ao uso da proteína\nmutante, como a TRE IV51,52 e ao TCTH. Outras intervenções, como o uso de TRE intratecal, chaperonas, inibidores de síntese\nde substrato, terapia traducional e terapia gênica, encontram-se ainda em fase de pesquisa e/ou desenvolvimento20,53.\n               O paciente com MPS I tem uma doença crônica, progressiva e multissistêmica e, rotineiramente, requer cuidados por\nequipe multiprofissional que inclua fonoaudiólogo, fisioterapeuta, terapeuta ocupacional, equipe de enfermagem e de diferentes\nespecialidades médicas23,45. É importante que os pacientes tenham acesso a aconselhamento genético e a investigação de outros\nfamiliares, quando houver diagnóstico feito na família; além disso o acompanhamento com o geneticista é importante durante\ntodo o curso da doença.\n               É crucial que na equipe haja profissional médico cuidando continuamente do/a paciente, monitorando a evolução da\ndoença, fornecendo orientação à família, encaminhando-o para especialistas, conforme necessário e coordenando o seu\natendimento como um todo. Idealmente, o acompanhamento deve ser feito em um centro de referência. Os centros de referências\ndevem incluir uma equipe multidisciplinar integrada de especialistas, que assegurem o gerenciamento abrangente dos pacientes\ncom MPS I, desde o diagnóstico até o tratamento e seguimento 43. Além disso, é importante que os pacientes e as famílias sejam\norientados sobre a doença, possíveis complicações e riscos, além de possuírem relatório escrito do caso. Os pacientes também\ndevem ser orientados para que, em caso de emergência, o médico que os atenda seja informado da doença e receba uma cópia\ndesse relatório. As principais manifestações clínicas da MPS I e suas opções de tratamento de suporte/sintomáticos encontram-\nse no quadro 1 (na seção 4.1).\n\n       Ressalta-se que nem todos os pacientes apresentarão todas as manifestações da doença, as quais costumam ser mais\nfrequentes e mais intensas nos pacientes com a forma grave da MPS I. Da mesma forma, nem todos os pacientes necessitarão\nser submetidos a todas as formas de tratamento.",
+      "char_count": 5630
+    },
+    {
+      "number": "6.1",
+      "title": "Tratamento das manifestações clínicas",
+      "depth": 2,
+      "content": "O tratamento dos pacientes com MPS I deve ter um caráter multidisciplinar devido às suas múltiplas manifestações23.",
+      "char_count": 115
+    },
+    {
+      "number": "6.1.1",
+      "title": "Tratamento das manifestações musculo-esqueléticas",
+      "depth": 3,
+      "content": "Pacientes com MPS I têm comprometimento ósseo significativo 2 e requerem fisioterapia motora dinâmica, cujo objetivo\nprincipal é a prevenção ou estabilização de deformidades osteoarticulares, mantendo a amplitude dos movimentos. A fisioterapia\ndeve se concentrar em técnicas para ajudar o relaxamento de todos os músculos, como a massoterapia, enfatizando o antebraço\ne o punho, devido à síndrome do túnel do carpo, além de manobras e manipulações de todas as articulações com movimentos\nlentos para não causar dor, de acordo com os critérios da técnica de mobilização miofascial. Outras atividades incluem\nalongamentos para reduzir contraturas musculares e aumentar a flexibilidade articular, com fortalecimento da musculatura para\nmelhorar a marcha e o equilíbrio, além de dissociação da cintura escapular e pélvica, exercícios de coordenação motora,\npropriocepção, jogos para melhorar movimentos usando acessórios e dança. É importante evitar a hiperextensão da cabeça, por\ncausa do comprometimento atlanto-axial54,55.",
+      "char_count": 1021
+    },
+    {
+      "number": "6.1.2",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "A fisioterapia respiratória visa a melhorar a função pulmonar, ventilação e biomecânica respiratória, prejudicadas na MPS\nI. Estão indicadas manobras de higiene brônquica, como vibrocompressão, drenagem postural, tosse regulada por manobra de\naceleração do fluxo expiratório, nebulização, limpeza das vias aéreas superiores com solução salina fisiológica e aspiração\nnasotraqueal com material estéril e descartável. É de vital importância orientar os cuidadores e os membros da família, pois a\nfisioterapia respiratória deve ser realizada diariamente 54,55.\n       Estudos do sono devem ser realizados rotineiramente para pacientes com MPS I grave, após a idade de 2 a 3 anos, e para\npacientes com MPS I atenuada, no momento do diagnóstico. Ainda, antes de procedimentos que envolvam anestesia, podem ser\nnecessários testes de função pulmonar e estudos de sono.",
+      "char_count": 861
+    },
+    {
+      "number": "6.2",
+      "title": "Tratamento medicamentoso (sintomático e/ou para complicações da MPS I)",
+      "depth": 2,
+      "content": "Em relação ao tratamento medicamentoso dos pacientes com MPS I também se deve atentar para suas múltiplas\nmanifestações23.",
+      "char_count": 122
+    },
+    {
+      "number": "6.2.1",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "Entre os objetivos do tratamento clínico está o melhor controle das infecções recorrentes de via aérea 23,48,49. Normalmente,\nsolução nasal de cloreto de sódio 0,9% (9 mg/mL) é usada para eliminar crostas e secreções. Antibióticos com cursos de 10 a 15\ndias são utilizados para o tratamento de exacerbações respiratórias agudas de origem bacteriana, como tonsilite, otite média\naguda ou conforme indicação médica. O uso de corticoide sistêmico por breves períodos pode ajudar a reduzir o edema e facilitar\na drenagem de secreções, conforme indicação médica. Pacientes com doença obstrutiva das vias aéreas devem ser avaliados por\npneumologistas48,49. O uso de medicamentos para aqueles que desenvolvem asma obedece a princípios semelhantes àqueles\npacientes sem concomitância de MPS I e devem ser administrados conforme o Protocolo de Asma vigente 56.",
+      "char_count": 851
+    },
+    {
+      "number": "6.2.2",
+      "title": "Tratamento das manifestações cardíacas",
+      "depth": 3,
+      "content": "O tratamento do acometimento cardíaco é, essencialmente, de suporte, envolvendo identificação e tratamento de pacientes\ncom insuficiência cardíaca congestiva secundária à miocardiopatia, geralmente, hipertrófica ou, mais raramente, por disfunção\nvalvular grave48,57-60. Nesse caso, o paciente deve ser tratado com betabloqueador, inibidor da enzima conversora da angiotensina\n(I-ECA) ou diurético, conforme a avaliação clínica48,57,58.\n       No caso de valvulopatias graves, os pacientes podem necessitar se submeter à valvuloplastia com balão ou\nreparação/substituição valvular cirúrgica57-60. De acordo com as orientações da American Heart Association, recomenda-se\nprofilaxia de endocardite bacteriana apenas para pacientes com história de endocardite ou prótese valvar 61.",
+      "char_count": 777
+    },
+    {
+      "number": "6.2.3",
+      "title": "Tratamento das manifestações neurocognitivas",
+      "depth": 3,
+      "content": "Crianças com MPS I grave devem receber o máximo de estimulação ao desenvolvimento durante os estágios iniciais da\ndoença. A adaptação do ambiente às necessidades da criança, como por exemplo, teclados com caracteres de grandes dimensões,\npode ajudar no desenvolvimento destas48,62.\n       Habilidades precocemente desenvolvidas podem ser mantidas em fases posteriores de progressão da doença. Crianças\ncom MPS I atenuada, que tenham alterações cognitivas ou comportamentais, beneficiam-se com intervenção padrão para tais\nsituações48.",
+      "char_count": 534
+    },
+    {
+      "number": "6.2.4",
+      "title": "Tratamento das manifestações oftalmológicas",
+      "depth": 3,
+      "content": "O transplante de córnea não é realizado rotineiramente em pacientes com fenótipo grave para MPS I 23,48. Já no fenótipo\natenuado, este transplante pode melhorar notavelmente a visão, embora possa ocorrer opacificação da córnea transplantada. As\nlentes corretivas devem ser prescritas para corrigir erros de refração em todos os espectros da doença 48.",
+      "char_count": 351
+    },
+    {
+      "number": "6.3",
+      "title": "Tratamento cirúrgico",
+      "depth": 2,
+      "content": "Os procedimentos cirúrgicos mais frequentes incluem a adenotonsilectomia, cirurgia de cornetos nasais e traqueostomia.\nComo o bloqueio das vias aéreas em MPS é multifatorial, os resultados da adenotonsilectomia variam, mas a melhora em médio\nprazo na qualidade respiratória é percebida na maioria dos casos 23,63.\n       À medida que a doença progride, a traqueostomia ou o uso de pressão nasal positiva contínua nas vias aéreas (CPAP)\npodem ser necessários. A cirurgia das vias aéreas pode ser complicada pela macroglossia, abertura limitada da boca, margem\ncirúrgica restrita e instabilidade da coluna cervical, dificultando a visualização do campo cirúrgico48,63,64. Adicionalmente, a\nhiperextensão no pescoço nesses pacientes pode causar compressão medular aguda. Uma alternativa para a realização de\nadenoidectomia quando o acesso pela abertura oral está comprometido é a cirurgia endoscópica através da via nasal63.\n       Caso necessário, a traqueostomia definitiva ou temporária pode ser realizada antes de outras cirurgias mandatórias, com\no intuito de facilitar o controle das vias aéreas. A traqueostomia deve ser evitada sempre que possível, devido às dificuldades na\ntécnica cirúrgica, endurecimento da traqueia, alterações anatômicas significativas, como pescoço curto e a possibilidade de\ncomplicações pós-operatórias, como traqueíte, pneumonia recorrente e bloqueio da traqueostomia por secreções espessas64. Os\ndesafios do cuidado de uma traqueostomia nesses pacientes, associados à dificuldade de aceitação pelo paciente e pela família,\ntambém devem ser considerados37,64.\n       Perda auditiva, seja de origem neurossensorial ou condutiva, ocorre em 70% a 100% dos pacientes com MPS I37. A\naudiometria pode ser realizada utilizando técnicas indicadas para crianças. O tratamento de perdas condutivas requer inserção\nde tubos de ventilação em T, embora nem sempre seja resolutivo65.\n       A MPS I pode evoluir com complicações neurológicas, como hidrocefalia comunicante e compressão medular 23,66,67. Os\nsinais clássicos de hipertensão intracraniana, geralmente, estão ausentes e evoluem de forma insidiosa com sintomas difíceis de\n\ndistinguir de danos primários ao cérebro. Alterações comportamentais, como agitação ou hipoatividade, podem ser sinais de\nhipertensão intracraniana2,66,67. A melhor forma de diagnosticar hipertensão intracraniana nesses pacientes é pela\nraquimanometria, uma vez que, frequentemente, não é observada dilatação ventricular relevante nos exames de imagem68,69,70.\nA derivação ventrículo-peritoneal pode ser eficaz em reduzir a pressão do sistema nervoso central 66,67, mas normalmente não\nreverte significativamente a manifestação clínica da doença. O procedimento também pode melhorar sintomas, como dor de\ncabeça ou a qualidade do sono48,67. Devido ao mecanismo particular da hipertensão intracraniana nas mucopolissacaridoses,\nrecomenda-se utilizar válvulas de alta pressão, no intuito de evitar síndrome de hiperdrenagem.\n       A maioria dos casos de compressão medular apresenta tetraparesia espástica, mas paraparesia espástica ou hemiparesia\ntambém podem ocorrer71. Cirurgia de coluna toracolombar para correção da cifose pode ser uma alternativa quando a\ndeformidade progride71. Relatos sugerem que os pacientes com MPS I que se submetem à cirurgia da coluna vertebral têm maior\nrisco de complicações graves, incluindo infarto da medula espinhal e instabilidade da coluna vertebral 23,48,72,73. Assim,\nintervenções cirúrgicas na coluna devem ser periodicamente reavaliadas por monitorização com neurofisiologia68. Também se\nrecomenda a realização de ressonância cerebral ao diagnóstico e a cada 2 a 3 anos, durante o seguimento. Exames de imagem da\ncoluna devem ser realizados se o paciente apresentar novos sintomas68,70.\n       Eventualmente, esses pacientes necessitam de cirurgias corretivas devido às diversas deformidades ósseas, incluindo a\nregião do quadril. Apesar da cirurgia de estabilização do quadril, essa intervenção não parece impedir a deterioração radiológica\ne o desenvolvimento de artrite do quadril clinicamente significativa74. Recomenda-se que seja programada cirurgia pediátrica do\nquadril, especialmente em pacientes com a síndrome de Hurler, considerando a possibilidade de substituição precoce do quadril74.\n       As hérnias inguinais e umbilicais são comuns entre os pacientes com MPS I. Alguns pacientes se submetem ao reparo de\nsuas hérnias inguinais antes mesmo do diagnóstico da doença. As hérnias umbilicais frequentemente recidivam após o reparo\ninicial, talvez como resultado de elastogênese comprometida75. A protuberância abdominal causada por hepatoesplenomegalia\nprogressiva pode também aumentar as hérnias umbilicais23.\n       A descompressão cirúrgica do nervo mediano é indicada nos casos de síndrome do túnel do carpo. A liberação cirúrgica\nde tendões também pode melhorar a função das mãos76.\n       Muitos pacientes com MPS apresentam risco anestésico elevado devido à obstrução das vias aéreas superiores. Quando\npossível, os procedimentos que exigem anestesia geral devem ser evitados, para minimizar os riscos. A dificuldade na intubação\npode ser fatal77. Idealmente, as cirurgias devem ser realizadas em centros de referência com experiência em MPS, sendo\nfundamental a presença de anestesista experiente em intubação difícil para a realização desses procedimentos, pois\nfrequentemente é necessário acompanhar a intubação com fibroscopia. As máscaras laríngeas podem ser usadas para manuseio\ndas vias aéreas por períodos curtos ou para facilitar a intubação de fibra óptica 73,74. Pode ser necessário usar tubos endotraqueais\nmenores do que o previsto para a idade e o tamanho de um paciente com MPS I77,78.\n       Esses pacientes, geralmente, apresentam obstrução pós-operatória das vias aéreas e a observação clínica noturna\nhospitalar é comum. A possibilidade de traqueostomia pós-operatória deve ser discutida antes de cirurgias nestes pacientes com\ntodas as partes envolvidas.",
+      "char_count": 5990
+    },
+    {
+      "number": "6.4",
+      "title": "Transplante de Células Tronco-Hematopoiéticas (TCTH)",
+      "depth": 2,
+      "content": "O TCTH alogênico mieloablativo é eficaz em reduzir a progressão de alguns desfechos em crianças com MPS I grave 79-\n91\n  . Entre os efeitos positivos dessa terapia estão a diminuição da hepatoesplenomegalia, da opacificação de córnea e das\ncomplicações cardiopulmonares. Apesar da heterogeneidade da doença tornar mais difícil a interpretação dos resultados, dados\ndisponíveis mostram os seguintes resultados:\n        A taxa de mortalidade relatada foi sendo reduzida ao longo do tempo, de uma sobrevida de 49% em 2 anos em estudo\nde 199681, a 77% em 3 anos, até 86% em 5 anos83,85. Estudo publicado em 2015 avaliou o TCTH alogênico nas\n\nmucopolissacaridoses, em 62 pacientes com MPS I (56 com o tipo I-Hurler). Uma sobrevida global alta (95,2%) e vida livre de\neventos (90,3%) foram alcançados, com baixa toxicidade, sendo 13,3% com doença aguda do enxerto contra o hospedeiro e\n14,8% com doença crônica de rejeição90.\n           Quanto à funcionalidade e à qualidade de vida, a pontuação de uma escala que avalia comportamento adaptativo foi\nmelhor em pacientes transplantados antes dos 2 anos de idade quando comparados, transversalmente, a um grupo não\ntransplantado91. No transplante, a capacidade cognitiva e não a idade correlacionou-se significativamente com o nível adaptativo\nfinal. Outro estudo, com 47 pacientes transplantados entre 6 e 44 meses, não apontou impacto significativo do tipo de transplante,\nnúmero de transplantes, idade no transplante e tempo desde o transplante no funcionamento adaptativo; no entanto, indivíduos\nsubmetidos ao TCTH em uma idade mais avançada relataram pior qualidade de vida física92.\n           O TCTH diminui a face infiltrada característica típica e a hepatoesplenomegalia, além de melhorar a audição 93.\n           As manifestações esqueléticas e a opacificação de córnea progridem na mesma velocidade em crianças submetidas ou\nnão ao TCTH91-95.\n           O grau de melhora nas complicações neurológicas após TCTH e a interrupção do declínio neurológico não está\n        84,85,90,91,92\nclaro                    . Alguns relatos demonstram melhora, enquanto outros não 90,91,92. Em crianças submetidas ao TCTH antes de\napresentarem evidências relevantes de atraso do desenvolvimento (entre 12 e 18 meses de idade), parece haver lentificação do\ndeclínio cognitivo. Crianças com atraso cognitivo significativo antes da realização do TCTH não demonstram correção do atraso\njá estabelecido. A hidrocefalia é prevenida ou estabilizada 90,91,92.\n           Em indivíduos com MPS I e presença de variantes patogênicas sabidamente graves, o TCTH estabiliza e melhora a\nfunção miocárdica, com regressão da hipertrofia e normalização das dimensões das câmaras cardíacas 91-93. Por este estudo, o\nTCTH não parece ter efeito na presença ou progressão do envolvimento valvular91-93.",
+      "char_count": 2825
+    },
+    {
+      "number": "6.5",
+      "title": "Tratamento medicamentoso específico",
+      "depth": 2,
+      "content": "A laronidase, IDUA recombinante, é uma enzima produzida em células de ovário de hamster chinês (células Chinese\nhamster ovary, CHO) e é o fármaco disponível para o tratamento específico da MPS I51,97,98. A laronidase foi considerada segura,\nnos estudos clínicos, com eventos adversos leves na maioria dos casos e facilmente tratáveis, apesar de eventos relacionados à\ninfusão serem frequentes. Os eventos adversos relatados nos estudos foram erupção cutânea, urticária e febre. O único estudo\ncontrolado com placebo não encontrou diferença significativa na ocorrência de eventos adversos entre os grupos99.\n          Os estudos sugerem que a laronidase tem um efeito benéfico na flexão do ombro, com melhora da amplitude dos\nmovimentos variando de 17° a 33,5° e redução, estatisticamente significativa, da hepatomegalia 97,98,99.\n          Em todos os estudos que relataram análise de GAGs urinários, houve redução estatisticamente significativa, comparada\nao placebo ou aos níveis anteriores ao uso da TRE, de pelo menos 50%, medidos a partir da quarta semana de tratamento 97,98,99.\n          A revisão sistemática com meta-análise da Cochrane, publicada em 2019100, comparou laronidase com placebo com\nacompanhamento de 26 semanas e observou redução dos GAGs urinários no grupo que usou laronidase de 54% em relação ao\nbasal. Esse achado foi estatisticamente significativo (p<0,001).\n          Estudo publicado em 2022101 indica que indivíduos com formas atenuadas crescem mais durante períodos de uso regular\nuso da TRE.\n          Ressalta-se a importância do acompanhamento dos usuários em relação ao uso dos medicamentos preconizados neste\nPCDT para que alcancem os resultados positivos em relação à efetividade do tratamento e para monitorar o surgimento de\nproblemas relacionados à segurança. Nesse aspecto, a prática do Cuidado Farmacêutico, por meio de orientação, educação em\nsaúde e acompanhamento contínuo, contribui diretamente para o alcance dos melhores resultados em saúde, ao incentivar o uso\napropriado dos medicamentos que sejam indicados, seguros e efetivos, ao estimular a adesão ao tratamento, ao fornecer apoio e\ninformações que promovam a autonomia e o autocuidado dos pacientes. Como a adesão ao tratamento é essencial para que o\n\nusuário alcance os resultados esperados, é fundamental que sejam fornecidas, no momento da dispensação dos medicamentos,\ninformações acerca do processo de uso do medicamento, interações medicamentosas e possíveis reações adversas. A integração\ndo Cuidado Farmacêutico aos protocolos clínicos e diretrizes terapêuticas é, portanto, fundamental para proporcionar uma\nassistência à saúde mais segura, efetiva e centrada na pessoa, abordando de forma abrangente as necessidades de cada indivíduo.",
+      "char_count": 2749
+    },
+    {
+      "number": "6.5.1",
+      "title": "Uso de laronidase em gestantes e lactantes",
+      "depth": 3,
+      "content": "São raros os relatos de mulheres grávidas com qualquer tipo de MPS. Os GAGs se acumulam nas gônadas, placenta e\nhipófise de humanos com MPS, o que pode interferir na função reprodutiva 102. Ainda, as informações sobre o uso de laronidase\npor mulheres grávidas são muito limitadas. Assim, o uso da TRE em gestantes e lactantes deve ser realizado a critério médico.\n       A laronidase é classificada como classe B para uso na gestação e aleitamento103. Há relato na literatura de manutenção de\nuso da laronidase durante a gestação e amamentação natural por pelo menos 3 meses, com desfechos positivos para mãe e para\no recém-nascido104. Devido às limitações da evidência, recomenda-se que o tratamento com TRE não seja iniciado durante a\ngestação, especialmente durante o primeiro trimestre. Caso seja utilizada pré medicação, a interrupção da TRE deve ser\nconsiderada, especialmente no primeiro trimestre. Contudo, o uso da TRE com laronidase por mulheres grávidas ou que estejam\namamentando é uma decisão conjunta do médico assistente e da paciente.\n       Casos associados à não redução de GAGs urinários devem ser avaliados de forma individualizada, para excluir a\npossibilidade de ocorrência de anticorpos neutralizantes105.\n       Quando houver reação à infusão mediada por IgE, deve ser discutida a possibilidade do uso de protocolos que promovam\na tolerância ao medicamento.",
+      "char_count": 1381
+    },
+    {
+      "number": "6.6",
+      "title": "Medicamento",
+      "depth": 2,
+      "content": "- Laronidase: solução injetável de 0,58 mg/mL.",
+      "char_count": 46
+    },
+    {
+      "number": "6.7",
+      "title": "Esquema de Administração",
+      "depth": 2,
+      "content": "A dose recomendada para a laronidase é de 0,58 mg/kg de peso corporal, administrada uma vez por semana por infusão\nintravenosa, durante três a quatro horas. Pré-tratamento com antipiréticos ou anti-histamínicos é recomendado 60 minutos antes\ndo início da infusão em bula103, porém trata-se apenas de uma recomendação. A decisão de usar pré-medicação ou não, cabe ao\nmédico/a assistente do paciente103. A infusão deve ser feita em ambiente hospitalar ou ambulatorial. Infusões domiciliares podem\nser consideradas após 6 meses de tratamento sem intercorrências103,106.\n       O volume total da infusão é determinado pelo peso corporal do paciente e deve ser infundido ao longo de 3 a 4 horas.\nPacientes com 20 kg ou menos devem receber um volume total de 100 mL. Pacientes com mais de 20 kg devem receber um\nvolume total de 250 ml. A taxa inicial de infusão é de 10 mcg/kg/hora e pode ser aumentada a cada 15 minutos durante a primeira\nhora, conforme a tolerância, até uma velocidade máxima de infusão de 200 mcg/kg/hora ser atingida, sendo mantida para o\nrestante da infusão (2 a 3 horas)103.\n       Alguns estudos107,103 avaliaram um esquema posológico alternativo, diferente do preconizado em bula da laronidase.\nPacientes em uso de 1,2 mg/kg de laronidase em semanas alternadas (15/15 dias) apresentaram bons resultados clínicos (nenhuma\ndeterioração ou reversão dos resultados clínicos), boa tolerância e segurança, além de maior satisfação, quando comparados ao\nuso da dose semanal. Contudo, devido à escassez das evidências, este Protocolo não preconiza o uso de laronidase em esquemas\nde administração distintos.",
+      "char_count": 1618
+    },
+    {
+      "number": "6.8",
+      "title": "Critérios de Interrupção",
+      "depth": 2,
+      "content": "Não há tempo de tratamento pré-determinado. Devido às características da doença e à ausência de tratamento específico\nalternativo, o uso de laronidase deve ser mantido por toda a vida do paciente.\n       A TRE deve ser interrompida caso o paciente apresente, pelo menos, uma das seguintes situações 49,100:\n        Adesão inadequada ao tratamento, definida por falta em mais de 50% das sessões de infusão do medicamento;\n        Redução grave na qualidade de vida e no estado funcional, apesar do tratamento específico para a doença, definidas por\ncondição clínica que se associe a uma expectativa de vida menor que 1 ano;\n        Ausência de melhora, após 6 meses de tratamento, nas manifestações clínicas que comprovadamente respondem à TRE:\nhepatomegalia, verificada por quaisquer métodos, como exame físico, ecografia abdominal ou ressonância abdominal; redução\nde pelo menos 50% dos níveis basais de GAGs urinários; redução de pelo menos 10° na restrição da amplitude dos movimentos\ndo ombro;\n        Pacientes adultos (maiores de 18 anos) que, após serem devidamente informados sobre os riscos e benefícios de sua\ndecisão, optarem por não mais se submeterem à TRE IV com laronidase;\n        Surgimento de contraindicação ao medicamento.\n       Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, ao paciente ou seus responsáveis,\nquando a TRE estiver sendo considerada e antes de iniciá-la.\n       No caso de interrupção por falha de adesão, o paciente e familiares deverão ser inseridos em programa de incentivo à\nadesão e poderão retornar ao tratamento, caso haja comprometimento explícito de seguimento das recomendações médicas\n\n\n       MONITORAMENTO\n\n\n       Como mencionado anteriormente, indivíduos com MPS I devem ser acompanhados por equipe multidisciplinar, cuja\ncomposição dependerá de suas necessidades individuais. A resposta ao tratamento deve ser avaliada da mesma forma em\npacientes adultos e crianças. Aspectos clínicos e parâmetros associados ao acometimento de órgãos-alvo devem ser\nminuciosamente investigados e acompanhados periodicamente.\n       A despeito da multiplicidade de manifestações da MPS I, alguns órgãos ou sistemas são afetados mais frequentemente ou\nocorre morbidade potencialmente mais grave. Além do surgimento de danos em órgãos não comprometidos anteriormente, pode\nhaver progressão da doença, independentemente de os pacientes estarem usando ou não terapia específica. Assim, ambas as\npossibilidades devem fazer parte da avaliação inicial e do seguimento destes pacientes.\n       O Apêndice 2 apresenta as avaliações consideradas necessárias para o acompanhamento de pacientes com MPS I, com\num programa de acompanhamento mínimo, o qual pode ser modificado de acordo com julgamento clínico.\n       Por sua vez, o seguimento de pacientes submetidos ao TCTH deve seguir a conduta adotada pelo centro transplantador.\n       A resposta terapêutica e os eventos adversos devem ser monitorados em todos os pacientes108-116. O médico deve realizar\nanamnese completa em cada visita e coletar dados de altura em pé, decúbito dorsal ou por segmento, peso e perímetro cefálico\nusando, de preferência, o mesmo instrumento devidamente calibrado. O exame físico deve ser completo e incluir sinais vitais\n(temperatura, frequência cardíaca, frequência respiratória e pressão arterial), bem como medidas para quantificação do tamanho\ndo fígado (hepatimetria) e do baço. A avaliação do desenvolvimento sexual deve ser realizada em adolescentes, de acordo com\nos critérios de Tanner117.\n       Nas visitas, dados sobre todas as avaliações realizadas desde o último agendamento devem ser obtidos e testes necessários\ndevem ser solicitados, incluindo avaliações com especialistas em neurologia, otorrinolaringologia, oftalmologia, cardiologia e\npneumologia, estudo do sono e avaliação de volumes viscerais com ressonância magnética, tomografia computadorizada ou\necografia, conforme necessidade de cada paciente37.\n\n       Para fins de diagnóstico e acompanhamento, devem ser realizadas radiografias do crânio em perfil, coluna vertebral em\nperfil, incluindo região cervical, tórax póstero-anterior, coxofemorais póstero-anterior e ambas as mãos. A superexposição à\nradiação deve ser evitada4.\n\n\n       REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR\n\n\n       Devem ser observados os critérios de inclusão e exclusão de pacientes neste Protocolo, a duração e o monitoramento dos\ntratamentos clínico e de reabilitação necessários bem como a verificação periódica das doses prescritas e dispensadas e a\nadequação de uso do medicamento.\n       O tratamento da MPS I deve ser feito por equipe em Serviços Especializados ou de Referência em Doenças Raras, para\nfins de diagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige experiência e\nfamiliaridade com manifestações clínicas associadas, convém que o médico responsável tenha experiência e seja treinado nessa\natividade. Cabe destacar que, sempre que possível, o atendimento da pessoa com MPS I deve ocorrer por equipe\nmultiprofissional, possibilitando o desenvolvimento de Projeto Terapêutico Singular (PTS) e a adoção de terapias de apoio\nconforme sua necessidade funcional e as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de\nSaúde (SUS).\n       Para a administração dos medicamentos é essencial o atendimento centralizado, para maior racionalidade do uso e\navaliação da efetividade. A infusão deve ser feita em ambiente hospitalar ou ambulatorial sob vigilância de um médico ou outro\nprofissional da saúde, devido ao risco de reações durante a infusão. Infusões domiciliares podem ser consideradas após 6 meses\nde tratamento sem intercorrências.\n       Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência\nFarmacêutica se encontra o medicamento preconizado neste Protocolo. Estados e municípios deverão manter atualizadas as\ninformações referentes aos registros de estoque, distribuição e dispensação dos medicamentos e encaminhar estas informações\nao Ministério da Saúde via Base Nacional de Dados de Ações e Serviços da Assistência Farmacêutica no âmbito do Sistema\nÚnico de Saúde (BNAFAR), conforme as normas vigentes.\n       Para a autorização do TCTH alogênico aparentado ou não aparentado de medula óssea, de sangue periférico ou de sangue\nde cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no Registro Nacional de\nReceptores de Medula Óssea ou outros precursores hematopoéticos – REREME/INCA/MS e devem ser observadas as normas\ntécnicas e operacionais do Sistema Nacional de Transplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem continuar sendo assistidos\ne acompanhados; os demais receptores transplantados deverão, efetivada a alta do hospital transplantador, ser devidamente\nreencaminhados aos seus hospitais de origem, para a continuidade da assistência e acompanhamento. A comunicação entre os\nhospitais deve ser mantida de modo que o hospital solicitante conte, sempre que necessário, com a orientação do hospital\ntransplantador e este, com as informações atualizadas sobre a evolução dos transplantados.\n       Em 2014, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças Raras e aprovou\nas Diretrizes para Atenção Integral às Pessoas com doenças raras no âmbito do Sistema Único de Saúde (SUS) por meio da\nPortaria GM/MS nº 199, de 30 de janeiro de 2014 (consolidada no Anexo XXXVIII da Portaria de Consolidação GM/MS nº\n2/2017 e na Seção XIV do Capítulo II do Título III da Portaria de Consolidação GM/MS nº 6/2017), relativas à Política Nacional\nde Atenção Integral às Pessoas com Doenças Raras118-121.\n       A política tem abrangência transversal na Rede de Atenção à Saúde (RAS) e possui como objetivo reduzir a mortalidade,\ncontribuir para a redução da morbimortalidade e das manifestações secundárias e a melhoria da qualidade de vida das pessoas,\npor meio de ações de promoção, prevenção, detecção precoce, tratamento oportuno, redução de incapacidade e cuidados\n\npaliativos. A linha de cuidado da atenção aos usuários com demanda para a realização das ações na Política Nacional de Atenção\nIntegral às Pessoas com Doenças Raras é estruturada pela Atenção Primária e Atenção Especializada, em conformidade com a\nRede de Atenção à Saúde (RAS) e seguindo as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no SUS. A\nAtenção Primária é responsável pela coordenação do cuidado e por realizar a atenção contínua da população que está sob sua\nresponsabilidade adstrita, além de ser a porta de entrada prioritária do usuário na RAS. Já a Atenção Especializada é responsável\npelo conjunto de pontos de atenção com diferentes densidades tecnológicas para a realização de ações e serviços de urgência,\nambulatorial especializado e hospitalar, apoiando e complementando os serviços da Atenção Primária.\n         Os hospitais universitários, federais e estaduais, em torno de 50 em todo o Brasil e as associações beneficentes e\nvoluntárias são o locus da atenção à saúde dos pacientes com doenças raras. Todavia, para reforçar o atendimento clínico e\nlaboratorial, o Ministério da Saúde incentiva a criação de serviços da Atenção Especializada, assim classificados:\n          Serviço de Atenção Especializada em Doenças Raras para prestar serviço de saúde para uma ou mais doenças raras; e\n          Serviço de Referência em Doenças Raras para prestar serviço de saúde para pacientes com doenças raras pertencentes\na, no mínimo, dois eixos assistenciais (doenças raras de origem genética e de origem não genética).\n         No que diz respeito ao financiamento desses serviços, para além do ressarcimento pelos diversos atendimentos\ndiagnósticos e terapêuticos clínicos e cirúrgicos e a assistência farmacêutica, o Ministério da Saúde instituiu incentivo financeiro\nde custeio mensal para os Serviços de Atenção Especializada em Doenças Raras e para os Serviços de Referência em Doenças\nRaras.\n         Considerando que cerca de 80% das doenças raras são de origem genética, o aconselhamento genético (AG) é fundamental\nna atenção às famílias e pacientes com essas doenças. O aconselhamento genético é um processo de comunicação que lida com\nos problemas humanos associados à ocorrência ou ao risco de ocorrência de uma doença genética em uma família. Este processo\nenvolve a participação de pessoas adequadamente capacitadas, com o objetivo de ajudar o indivíduo e a família a compreender\nos aspectos envolvidos, incluindo o diagnóstico, o curso provável da doença e os cuidados disponíveis.\n          Pacientes com suspeita de deficiência intelectual devem ser encaminhados, preferencialmente, a um Serviço\nEspecializado ou de Referência em Doenças Raras para seu adequado diagnóstico.\n\n\n         TERMO DE ESCLARECIMENTO E RESPONSABILIDADE – TER\n\n\n         Recomenda-se informar o paciente ou seu responsável legal sobre os potenciais riscos, benefícios e eventos adversos\nrelacionados ao uso dos medicamentos preconizados neste Protocolo, levando-se em consideração as informações contidas no\nTER.\n\n\n         REFERÊNCIAS",
+      "char_count": 11240
+    },
+    {
+      "number": "1",
+      "title": "Terlato NJ, Cox GF. Can mucopolysaccharidosis type I disease severity be predicted on basis of patient’s genotype? A",
+      "depth": 1,
+      "content": "comprehensive review of literature. Genetics in medicine. 2003;5(4):286-94",
+      "char_count": 74
+    },
+    {
+      "number": "2",
+      "title": "Neufeld EF, Muenzer J. The Mucopolysaccharidoses. . In: Valle D, Beaudet AL, Vogelstein B, Kinzler KW, Antonarakis",
+      "depth": 1,
+      "content": "SE, Ballabio A, et al., editors. The Online Metabolic and Molecular Bases of Inherited Disease. New York, NY: McGraw-\n     Hill; capítulo 136, 2014.",
+      "char_count": 148
+    },
+    {
+      "number": "3",
+      "title": "Soliman OI, Timmermans RG, Nemes A, Vletter WB, Wilson JH, ten Cate FJ, et al. Cardiac abnormalities in adults with",
+      "depth": 1,
+      "content": "the attenuated form of mucopolysaccharidosis type I. J Inherit Metab Dis. 2007;30(5):750-7.",
+      "char_count": 91
+    },
+    {
+      "number": "4",
+      "title": "Pastores GM, Arn P, Beck M, Clarke JT, Guffon N, Kaplan P, et al. The MPS I registry: design, methodology, and early",
+      "depth": 1,
+      "content": "findings of a global disease registry for monitoring patients with Mucopolysaccharidosis Type I. Mol Genet Metab.\n     2007;91(1):37-47.",
+      "char_count": 136
+    },
+    {
+      "number": "5",
+      "title": "Moore D, Connock MJ, Wraith E, Lavery C. The prevalence of and survival in Mucopolysaccharidosis I: Hurler, Hurler-",
+      "depth": 1,
+      "content": "Scheie and Scheie syndromes in the UK. Orphanet J Rare Dis. 2008;3:24.",
+      "char_count": 70
+    },
+    {
+      "number": "6",
+      "title": "Nelson J. Incidence of the mucopolysaccharidoses in Northern Ireland. Hum Genet. 1997;101(3):355-8.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "7",
+      "title": "Beck M, Arn P, Giugliani R, Muenzer J, Okuyama T, Taylor J, et al. The natural history of MPS I: global perspectives from",
+      "depth": 1,
+      "content": "the MPS I Registry. Genet Med. 2014;16(10):759-65.",
+      "char_count": 50
+    },
+    {
+      "number": "8",
+      "title": "Muñoz-Rojas MV, Bay L, Sanchez L, van Kuijck M, Ospina S, Cabello JF, et al. Clinical manifestations and treatment of",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I patients in Latin America as compared with the rest of the world. J Inherit Metab Dis.\n     2011;34(5):1029-37.",
+      "char_count": 140
+    },
+    {
+      "number": "9",
+      "title": "Dornelles AD, de Camargo Pinto LL, de Paula AC, Steiner CE, Lourenço CM, Kim CA, et al. Enzyme replacement therapy",
+      "depth": 1,
+      "content": "for Mucopolysaccharidosis Type I among patients followed within the MPS Brazil Network. Genet Mol Biol.\n     2014;37(1):23-9.",
+      "char_count": 125
+    },
+    {
+      "number": "10",
+      "title": "Lowry RB, Applegarth DA, Toone JR, MacDonald E, Thunem NY. An update on the frequency of mucopolysaccharide",
+      "depth": 1,
+      "content": "syndromes in British Columbia. Hum Genet. 1990;85(3):389-90.",
+      "char_count": 60
+    },
+    {
+      "number": "11",
+      "title": "Meikle PJ, Hopwood JJ, Clague AE, Carey WF. Prevalence of lysosomal storage disorders. JAMA. 1999;281(3):249-54.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "12",
+      "title": "Boy R, Schwartz IV, Krug BC, Santana-da-Silva LC, Steiner CE, Acosta AX, et al. Ethical issues related to the access to",
+      "depth": 1,
+      "content": "orphan drugs in Brazil: the case of mucopolysaccharidosis type I. J Med Ethics. 2011;37(4):233-9.",
+      "char_count": 97
+    },
+    {
+      "number": "13",
+      "title": "Baehner F, Schmiedeskamp C, Krummenauer F, Miebach E, Bajbouj M, Whybra C, et al. Cumulative incidence rates of the",
+      "depth": 1,
+      "content": "mucopolysaccharidoses in Germany. J Inherit Metab Dis. 2005;28(6):1011-7.",
+      "char_count": 73
+    },
+    {
+      "number": "14",
+      "title": "Elliott S, Buroker N, Cournoyer JJ, Potier AM, Trometer JD, Elbin C, et al. Pilot study of newborn screening for six",
+      "depth": 1,
+      "content": "lysosomal storage diseases using Tandem Mass Spectrometry. Mol Genet Metab. 2016;118(4):304-9.",
+      "char_count": 94
+    },
+    {
+      "number": "15",
+      "title": "Hopkins PV, Campbell C, Klug T, Rogers S, Raburn-Miller J, Kiesling J. Lysosomal storage disorder screening",
+      "depth": 1,
+      "content": "implementation: findings from the first six months of full population pilot testing in Missouri. J Pediatr. 2015;166(1):172-\n     7.",
+      "char_count": 132
+    },
+    {
+      "number": "16",
+      "title": "CELIK Çelik B, Tomatsu SC, Tomatsu S, Khan SA. Epidemiology of Mucopolysaccharidoses Update. Diagnostics (Basel).",
+      "depth": 1,
+      "content": "2021; 10;11(2):273. doi: 10.3390/diagnostics11020273.",
+      "char_count": 53
+    },
+    {
+      "number": "17",
+      "title": "D'Aco K, Underhill L, Rangachari L, Arn P, Cox GF, Giugliani R, et al. Diagnosis and treatment trends in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I: findings from the MPS I Registry. Eur J Pediatr. 2012;171(6):911-9.",
+      "char_count": 92
+    },
+    {
+      "number": "18",
+      "title": "Federhen A, Pasqualin G, Freitas TF, Gonzales EA, Trapp F, Matte U, et al. Estimated birth prevalence of",
+      "depth": 1,
+      "content": "mucopolysaccharidoses in Brazil. Am J Med Genet. 2020;182A:469–483",
+      "char_count": 66
+    },
+    {
+      "number": "19",
+      "title": "Josahkian JA, Trapp FB, Burin MG, Michelin-Tirelli K, Magalhães PPS, Sebastião FM et al. Updated birth prevalence and",
+      "depth": 1,
+      "content": "relative frequency of mucopolysaccharidoses across Brazilian region. Genetics and Molecular Biology. 2021; 44(1):\n     e2020138 .",
+      "char_count": 129
+    },
+    {
+      "number": "20",
+      "title": "Nan H, Park C, Maeng S. Mucopolysaccharidoses I and II: Brief Review of Therapeutic Options and Supportive/Palliative",
+      "depth": 1,
+      "content": "Therapies. Biomed Res Int. 2020 Dec 4;2020:2408402. doi: 10.1155/2020/2408402.",
+      "char_count": 78
+    },
+    {
+      "number": "21",
+      "title": "Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos. Departamento de Gestão e",
+      "depth": 1,
+      "content": "Incorporação de Tecnologias em Saúde. Diretriz Metodológica de Elaboração de Diretrizes Clínicas do Ministério da Saúde.\n     2016",
+      "char_count": 130
+    },
+    {
+      "number": "22",
+      "title": "Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, et al.. GRADE: an emerging consensus on",
+      "depth": 1,
+      "content": "rating    quality   of     evidence     and    strength    of     recommendations.        BMJ        2008;   336:    924.   doi:\n    https://doi.org/10.1136/bmj.39489.470347.AD\n23. Clarke LA. Mucopolysaccharidosis Type I. 2002 [atualização em 2024, Apr 11]. Em: Adam MP, Feldman J, Mirzaa GM,\n    Pagon RA, Wallace SE, Bean LJH, Gripp KW, Amemiya A, editores. GeneReviews® [Internet]. Seattle (WA): University\n    of Washington, Seattle; 1993–2024.",
+      "char_count": 448
+    },
+    {
+      "number": "24",
+      "title": "Hampe CS, Eisengart JB, Lund TC, Orchard PJ, Swietlicka M, Wesley J, ey al. Mucopolysaccharidosis Type I: A Review",
+      "depth": 1,
+      "content": "of the Natural History and Molecular Pathology. Cells. 2020; 9(8):1838. doi: 10.3390/cells9081838",
+      "char_count": 97
+    },
+    {
+      "number": "25",
+      "title": "Han      S.     Mucopolysaccharidoses:         Clinical     features     and        diagnosis.       Uptodate.      2020.   Em",
+      "depth": 1,
+      "content": "https://www.uptodate.com/contents/mucopolysaccharidoses-clinical-features-and-\n    diagnosis?search=MPS%20I&source=search_result&selectedTitle=1%7E18&usage_type=default&display_rank=1",
+      "char_count": 183
+    },
+    {
+      "number": "26",
+      "title": "Bruni S, Lavery C, Brummfield A. The diagnostic journey of patients with mucopolysaccharidosis I: A real-world survey",
+      "depth": 1,
+      "content": "of patient and physician experiences. Molecular Genetics and Metabolism Report. 2016;8:67-73",
+      "char_count": 92
+    },
+    {
+      "number": "27",
+      "title": "Thomsen G, Vesterdal J. Atypical Hurler's syndrome; a report of 3 cases with a discussion of the differential diagnosis. Acta",
+      "depth": 1,
+      "content": "radiol. 1951;35(5-6):331-44. doi: 10.3109/00016925109136665.",
+      "char_count": 60
+    },
+    {
+      "number": "28",
+      "title": "Kurniawan BD. The great masquerade: delayed diagnosis of mucopolysaccharidosis in adulthood. Can J Ophthalmol.",
+      "depth": 1,
+      "content": "2013;48(6)e141-42",
+      "char_count": 17
+    },
+    {
+      "number": "29",
+      "title": "Melikoglu MA, Kocabas H, Sezer I, Cay HF, Cassidy AG, Balci N. Legg-Perthes disease-like joint involvement and",
+      "depth": 1,
+      "content": "diagnosis delay in Scheie syndrome: a case report. Clin Rheumatol. 2007 Nov;26(11):1937-9. doi: 10.1007/s10067-007-\n    0549-6",
+      "char_count": 126
+    },
+    {
+      "number": "30",
+      "title": "Gökay S, Kardaş F, Kendirci M, Sözeri B. Arthropathy-like findings and a carpal tunnel syndrome as the presenting features",
+      "depth": 1,
+      "content": "of    Scheie   syndrome:    Three     cases   from   the   same    family.   Turk     J   Pediatr.    2018;60(3):344-347.   doi:\n    10.24953/turkjped.2018.03.020.",
+      "char_count": 163
+    },
+    {
+      "number": "31",
+      "title": "Chakraborty PP, Biswas SN, Ray S, Dey SK. Mucopolysaccharidosis type I disguised as rickets. BMJ Case Rep. 2016 May",
+      "depth": 1,
+      "content": "11;2016:bcr2016215416. doi: 10.1136/bcr-2016-215416. PMID: 27170613",
+      "char_count": 67
+    },
+    {
+      "number": "32",
+      "title": "Auray-Blais C, Lavoie P, Tomatsu S, Valayannopoulos V, Mitchell JJ, Raiman J, et al. UPLC-MS/MS detection of",
+      "depth": 1,
+      "content": "disaccharides derived from glycosaminoglycans as biomarkers of mucopolysaccharidoses. Anal Chim Acta. 2016;936:139-\n    48.",
+      "char_count": 123
+    },
+    {
+      "number": "33",
+      "title": "Keating KG, Whiteaker L, Corkery J, Charrow J, Burton B. Pseudodeficiency of alpha-iduronidase is a common finding",
+      "depth": 1,
+      "content": "identified from newborn screening in the state of Illinois. Mol Genet Metab 2016;117(2):S66.",
+      "char_count": 92
+    },
+    {
+      "number": "34",
+      "title": "Chamoles NA, Blanco M, Gaggioli D. Diagnosis of alpha-L-iduronidase deficiency in dried blood spots on filter paper: the",
+      "depth": 1,
+      "content": "possibility of newborn diagnosis. Clin Chem. 2001;47(4):780-1.",
+      "char_count": 62
+    },
+    {
+      "number": "35",
+      "title": "Verma J, Thomas DC, Kasper DC, Sharma S, Puri RD, Bijarnia-Mahay S, et al. Inherited Metabolic Disorders: Efficacy of",
+      "depth": 1,
+      "content": "Enzyme Assays on Dried Blood Spots for the Diagnosis of Lysosomal Storage Disorders. JIMD Rep. 2017;31:15-27.",
+      "char_count": 109
+    },
+    {
+      "number": "36",
+      "title": "Breier AC, Cé J, Mezzalira J, Daitx VV, Moraes VC, Goldim MPS, et al. Alpha-l-iduronidase and arylsulfatase B in dried",
+      "depth": 1,
+      "content": "blood spots on filter paper: Biochemical parameters and time stability. Clin Biochem. 2017;50(7-8):431-5.",
+      "char_count": 105
+    },
+    {
+      "number": "37",
+      "title": "Martins AM, Dualibi AP, Norato D, Takata ET, Santos ES, Valadares ER, et al. Guidelines for the management of",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I. J Pediatr. 2009;155(4 Suppl):S32-46.",
+      "char_count": 66
+    },
+    {
+      "number": "38",
+      "title": "Müller KB, Pereira VG, Martins AM, D'Almeida V. Evaluation of α-iduronidase in dried blood spots is an accurate tool for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I diagnosis. J Clin Lab Anal. 2011;25(4):251-4.\n39. de Jong JG, Hasselman JJ, van Landeghem AA, Vader HL, Wevers RA. The spot test is not a reliable screening procedure\n    for mucopolysaccharidoses. Clin Chem. 1991;37(4):572-5.",
+      "char_count": 250
+    },
+    {
+      "number": "40",
+      "title": "Beesley CE, Meaney CA, Greenland G, Adams V, Vellodi A, Young EP, et al. Mutational analysis of 85",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I families: frequency of known mutations, identification of 17 novel mutations and in vitro\n    expression of missense mutations. Hum Genet. 2001;109(5):503-11.",
+      "char_count": 187
+    },
+    {
+      "number": "41",
+      "title": "Bertola F, Filocamo M, Casati G, Mort M, Rosano C, Tylki-Szymanska A, et al. IDUA mutational profiling of a cohort of",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "102",
+      "title": "European patients with mucopolysaccharidosis type I: identification and characterization of 35 novel α-L-iduronidase",
+      "depth": 1,
+      "content": "(IDUA) alleles. Hum Mutat. 2011;32(6):E2189-210.",
+      "char_count": 48
+    },
+    {
+      "number": "42",
+      "title": "Institute of Medical Genetics in Cardiff. The Human Gene Mutation Database. Em: http://www.hgmd.cf.ac.uk/ac/index.php.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "43",
+      "title": "Pereira VG, Martins AM, Micheletti C, D'Almeida V. Mutational and oxidative stress analysis in patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I undergoing enzyme replacement therapy. Clin Chim Acta. 2008;387(1-2):75-9.",
+      "char_count": 103
+    },
+    {
+      "number": "44",
+      "title": "Matte U, Yogalingam G, Brooks D, Leistner S, Schwartz I, Lima L, et al. Identification and characterization of 13 new",
+      "depth": 1,
+      "content": "mutations in mucopolysaccharidosis type I patients. Mol Genet Metab. 2003;78(1):37-43.",
+      "char_count": 86
+    },
+    {
+      "number": "45",
+      "title": "Parini R, Deodato F, Di Rocco M, Lanino E, Locatelli F, Messina C, et al. Open issues in Mucopolysaccharidosis type I-",
+      "depth": 1,
+      "content": "Hurler. Orphanet J Rare Dis. 2017;12(1):112.",
+      "char_count": 44
+    },
+    {
+      "number": "46",
+      "title": "Pastores GM, Meere PA. Musculoskeletal complications associated with lysosomal storage disorders: Gaucher disease and",
+      "depth": 1,
+      "content": "Hurler-Scheie syndrome (mucopolysaccharidosis type I). Curr Opin Rheumatol. 2005;17(1):70-8.",
+      "char_count": 92
+    },
+    {
+      "number": "47",
+      "title": "Pastores GM. Musculoskeletal complications encountered in the lysosomal storage disorders. Best Pract Res Clin",
+      "depth": 1,
+      "content": "Rheumatol. 2008;22(5):937-47.",
+      "char_count": 29
+    },
+    {
+      "number": "48",
+      "title": "Muenzer J, Wraith JE, Clarke LA, I ICPoMaToM. Mucopolysaccharidosis I: management and treatment guidelines.",
+      "depth": 1,
+      "content": "Pediatrics. 2009;123(1):19-29.",
+      "char_count": 30
+    },
+    {
+      "number": "49",
+      "title": "Bay L, Amartino H, Antacle A, Arberas C, et al. Nuevas recomendaciones para el cuidado de los pacientes con",
+      "depth": 1,
+      "content": "mucopolisacaridosis tipo I. Arch Argent Pediatr 2021;119(2):e121-e128.",
+      "char_count": 70
+    },
+    {
+      "number": "50",
+      "title": "Turra GS, Schwartz IV. Evaluation of orofacial motricity in patients with mucopolysaccharidosis: a cross-sectional study. J",
+      "depth": 1,
+      "content": "Pediatr (Rio J). 2009;85(3):254-60.",
+      "char_count": 35
+    },
+    {
+      "number": "51",
+      "title": "Schwartz IV, Souza CF, Giugliani R. Treatment of inborn errors of metabolism. J Pediatr (Rio J). 2008;84(4 Suppl):S8-19.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "52",
+      "title": "Jameson E, Jones S, Remmington T. Enzyme replacement therapy with laronidase (Aldurazyme®) for treating",
+      "depth": 1,
+      "content": "mucopolysaccharidosis      type   I.   Cochrane     Database     Syst   Rev.       2019   Jun   18;6(6):CD009354.      doi:\n    10.1002/14651858.CD009354.pub5.",
+      "char_count": 159
+    },
+    {
+      "number": "53",
+      "title": "Penon-Portmann M, Blair DR, Harmatz P.Current and new therapies for mucopolysaccharidoses. Pediatrics &",
+      "depth": 1,
+      "content": "Neonatology.2023;64(1):S10-S17. https://doi.org/10.1016/j.pedneo.2022.10.001..",
+      "char_count": 78
+    },
+    {
+      "number": "54",
+      "title": "Dusing SC, Thorpe D, Rosenberg A, Mercer V, Escolar ML. Gross motor abilities in children with Hurler syndrome. Dev",
+      "depth": 1,
+      "content": "Med Child Neurol. 2006;48(11):927-30.",
+      "char_count": 37
+    },
+    {
+      "number": "55",
+      "title": "Haley SM, Fragala Pinkham MA, Dumas HM, Ni P, Skrinar AM, Cox GF. A physical performance measure for individuals",
+      "depth": 1,
+      "content": "with mucopolysaccharidosis type I. Dev Med Child Neurol. 2006;48(7):576-81",
+      "char_count": 74
+    },
+    {
+      "number": "56",
+      "title": "Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas Asma. Portaria Conjunta SAES/SECTICS/MS nº",
+      "depth": 1,
+      "content": "32 - 20/12/2023. Disponível em: https://www.gov.br/conitec/pt-br/midias/protocolos/portaria-conjunta-saes-sectics-no-\n    32.pdf.\n57. Pierpont MEM, Moller JH. Cardiac manifestations of genetic disease. In: Moss A, editor. Heart disease in infants, children,\n    and adolescents. 5th ed. ed. London: Williams & Wilkins; 1995. p. 1486-520.",
+      "char_count": 337
+    },
+    {
+      "number": "58",
+      "title": "Dangel JH. Cardiovascular changes in children with mucopolysaccharide storage diseases and related disorders--clinical",
+      "depth": 1,
+      "content": "and echocardiographic findings in 64 patients. Eur J Pediatr. 1998;157(7):534-8.",
+      "char_count": 80
+    },
+    {
+      "number": "59",
+      "title": "Fischer TA, Lehr HA, Nixdorff U, Meyer J. Combined aortic and mitral stenosis in mucopolysaccharidosis type I-S (Ullrich-",
+      "depth": 1,
+      "content": "Scheie syndrome). Heart. 1999;81(1):97-9.",
+      "char_count": 41
+    },
+    {
+      "number": "60",
+      "title": "Minakata K, Konishi Y, Matsumoto M, Miwa S. Surgical treatment for Scheie's syndrome (mucopolysaccharidosis type I-",
+      "depth": 1,
+      "content": "S): report of two cases. Jpn Circ J. 1998;62(9):700-3.\n61. Wilson W, Taubert KA, Gewitz M, Lockhart PB, Baddour LM, Levison M, et al. Prevention of infective endocarditis:\n    guidelines from the American Heart Association: a guideline from the American Heart Association Rheumatic Fever,\n    Endocarditis, and Kawasaki Disease Committee, Council on Cardiovascular Disease in the Young, and the Council on\n    Clinical Cardiology, Council on Cardiovascular Surgery and Anesthesia, and the Quality of Care and Outcomes Research\n    Interdisciplinary Working Group. Circulation. 2007;116(15):1736-54.",
+      "char_count": 598
+    },
+    {
+      "number": "62",
+      "title": "Shapiro EG, Eisengart JB. The natural history of neurocognition in MPS disorders: A review. Mol Genet Metab. 2021",
+      "depth": 1,
+      "content": "May;133(1):8-34. doi: 10.1016/j.ymgme.2021.03.002.",
+      "char_count": 50
+    },
+    {
+      "number": "63",
+      "title": "Nayak DR, Balakrishnan R, Murthy KD. An endoscopic approach to the deviated nasal septum--a preliminary study. J",
+      "depth": 1,
+      "content": "Laryngol Otol. 1998;112(10):934-9.",
+      "char_count": 34
+    },
+    {
+      "number": "64",
+      "title": "Shapiro J, Strome M, Crocker AC. Airway obstruction and sleep apnea in Hurler and Hunter syndromes. Ann Otol Rhinol",
+      "depth": 1,
+      "content": "Laryngol. 1985;94(5 Pt 1):458-61.",
+      "char_count": 33
+    },
+    {
+      "number": "65",
+      "title": "Oghan F, Harputluoglu U, Guclu E, Guvey A, Turan N, Ozturk O. Permanent t-tube insertion in two patients with Hurler's",
+      "depth": 1,
+      "content": "syndrome. Int J Audiol. 2007;46(2):94-6",
+      "char_count": 39
+    },
+    {
+      "number": "66",
+      "title": "Sheridan M, Johnston I. Hydrocephalus and pseudotumour cerebri in the mucopolysaccharidoses. Childs Nerv Syst.",
+      "depth": 1,
+      "content": "1994;10(3):148-50.",
+      "char_count": 18
+    },
+    {
+      "number": "67",
+      "title": "Dalla Corte A, de Souza CFM, Anés M, Giugliani R. Hydrocephalus and mucopolysaccharidoses: what do we know and",
+      "depth": 1,
+      "content": "what do we not know? Childs Nerv Syst. 2017;33(7):1073-80",
+      "char_count": 57
+    },
+    {
+      "number": "68",
+      "title": "Reichert R, Campos LG, Vairo F, de Souza CF, Pérez JA, Duarte J, et al. Neuroimaging Findings in Patients with",
+      "depth": 1,
+      "content": "Mucopolysaccharidosis: What You Really Need to Know. Radiographics. 2016;36(5):1448-62.",
+      "char_count": 87
+    },
+    {
+      "number": "69",
+      "title": "Seto T, Kono K, Morimoto K, Inoue Y, Shintaku H, Hattori H, et al. Brain magnetic resonance imaging in 23 patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses and the effect of bone marrow transplantation. Ann Neurol. 2001;50(1):79-92.",
+      "char_count": 98
+    },
+    {
+      "number": "70",
+      "title": "Watts RW, Spellacy E, Kendall BE, du Boulay G, Gibbs DA. Computed tomography studies on patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses. Neuroradiology. 1981;21(1):9-23.",
+      "char_count": 55
+    },
+    {
+      "number": "71",
+      "title": "Kachur E, Del Maestro R. Mucopolysaccharidoses and spinal cord compression: case report and review of the literature",
+      "depth": 1,
+      "content": "with implications of bone marrow transplantation. Neurosurgery. 2000;47(1):223-8; discussion 8-9.",
+      "char_count": 97
+    },
+    {
+      "number": "72",
+      "title": "Williams N, Cundy P, Eastwood D. Surgical Management of Thoracolumbar Kyphosis in Patients with",
+      "depth": 1,
+      "content": "Mucopolysaccharidosis: A Systematic Review. Spine (Phila Pa 1976). 2017.",
+      "char_count": 72
+    },
+    {
+      "number": "73",
+      "title": "Liang J, Singhal A. Regression of ventriculomegaly following medical management of a patient with Hurler syndrome. J",
+      "depth": 1,
+      "content": "Neurosurg Pediatr. 2016;17(5):537-9.",
+      "char_count": 36
+    },
+    {
+      "number": "74",
+      "title": "Kennedy J, Noel J, O'Meara A, Mulhall K, Crushell E, Fogarty E, et al. A Long-term Retrospective Evaluation of Functional",
+      "depth": 1,
+      "content": "and Radiographic Outcomes of Pediatric Hip Surgery in Hurler Syndrome. J Pediatr Orthop. 2016;36(1):25-8.",
+      "char_count": 105
+    },
+    {
+      "number": "75",
+      "title": "Hinek A, Wilson SE. Impaired elastogenesis in Hurler disease: dermatan sulfate accumulation linked to deficiency in elastin-",
+      "depth": 1,
+      "content": "binding protein and elastic fiber assembly. Am J Pathol. 2000;156(3):925-38.",
+      "char_count": 76
+    },
+    {
+      "number": "76",
+      "title": "Pronicka E, Tylki-Szymanska A, Kwast O, Chmielik J, Maciejko D, Cedro A. Carpal tunnel syndrome in children with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses: needs for surgical tendons and median nerve release. J Ment Defic Res. 1988;32 ( Pt 1):79-82.",
+      "char_count": 116
+    },
+    {
+      "number": "77",
+      "title": "Shinhar SY, Zablocki H, Madgy DN. Airway management in mucopolysaccharide storage disorders. Arch Otolaryngol Head",
+      "depth": 1,
+      "content": "Neck Surg. 2004;130(2):233-7.",
+      "char_count": 29
+    },
+    {
+      "number": "78",
+      "title": "Brain AI. The laryngeal mask--a new concept in airway management. Br J Anaesth. 1983;55(8):801-5.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "79",
+      "title": "Hampe CS, Wesley J, Lund TC, Orchard PJ, Polgreen LE, Eisengart JB, McLoon LK, Cureoglu S, Schachern P, McIvor",
+      "depth": 1,
+      "content": "RS. Mucopolysaccharidosis Type I: Current Treatments, Limitations, and Prospects for Improvement. Biomolecules. 2021\n    Jan 29;11(2):189. doi: 10.3390/biom11020189.",
+      "char_count": 165
+    },
+    {
+      "number": "80",
+      "title": "Brasil. Ministério da Saúde. CONITEC. Relatório de Recomendação. Ampliação do Transplante de Células- Tronco",
+      "depth": 1,
+      "content": "Hematopoiéticas para Mucopolissacaridose Tipo I. Janeiro 2018. Disponível em: https://www.gov.br/conitec/pt-\n    br/midias/relatorios/2018/relatorio_transplante_celulastroncohematopoeticas_mpsi.pdf",
+      "char_count": 197
+    },
+    {
+      "number": "81",
+      "title": "Vellodi A, Young EP, Cooper A, Wraith JE, Winchester B, Meaney C, et al. Bone marrow transplantation for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I: experience of two British centres. Arch Dis Child. 1997;76: 92–99",
+      "char_count": 95
+    },
+    {
+      "number": "82",
+      "title": "Souillet G, Guffon N, Maire I, Pujol M, Taylor P, Sevin F, et al. Outcome of 27 patients with Hurler’s syndrome transplanted",
+      "depth": 1,
+      "content": "from either related or unrelated haematopoietic stem cell sources. Bone Marrow Transplant. 2003;31: 1105–1117.",
+      "char_count": 110
+    },
+    {
+      "number": "83",
+      "title": "Staba SL, Escolar ML, Poe M, Kim Y, Martin PL, Szabolcs P, et al. Cord-blood transplants from unrelated donors in patients",
+      "depth": 1,
+      "content": "with Hurler’s syndrome. N Engl J Med. 2004;350: 1960–1969",
+      "char_count": 57
+    },
+    {
+      "number": "84",
+      "title": "Aldenhoven M, Wynn RF, Orchard PJ, O’Meara A, Veys P, Fischer A, et al. Long-term outcome of Hurler syndrome",
+      "depth": 1,
+      "content": "patients after hematopoietic cell transplantation: an international multicenter study. Blood.2015;125: 2164–2172.",
+      "char_count": 113
+    },
+    {
+      "number": "85",
+      "title": "Guffon N, Souillet G, Maire I, Straczek J, Guibaud P. Follow-up of nine patients with Hurler syndrome after bone marrow",
+      "depth": 1,
+      "content": "transplantation. J Pediatr. 1998;133: 119–125.",
+      "char_count": 46
+    },
+    {
+      "number": "86",
+      "title": "Wadhwa A, Chen Y, Holmqvist A, Wu J, Ness E,l Parman M, et al. Late Mortality after Allogeneic Blood or Marrow",
+      "depth": 1,
+      "content": "Transplantation for Inborn Errors of Metabolism: A Report from the Blood or Marrow Transplant Survivor Study-2\n    (BMTSS-2). Biol Blood Marrow Transplant. 2019; 25(2): 328–334. doi:10.1016/j.bbmt.2018.09.035.",
+      "char_count": 209
+    },
+    {
+      "number": "87",
+      "title": "Peters C, Balthazor M, Shapiro EG, King RJ, Kollman C, Hegland JD, et al. Outcome of unrelated donor bone marrow",
+      "depth": 1,
+      "content": "transplantation in 40 children with Hurler syndrome. Blood. 1996;87: 4894–4902.",
+      "char_count": 79
+    },
+    {
+      "number": "88",
+      "title": "Boelens JJ, Rocha V, Aldenhoven M, Wynn R, O’Meara A, Michel G, et al. Risk factor analysis of outcomes after unrelated",
+      "depth": 1,
+      "content": "cord blood transplantation in patients with hurler syndrome. Biol Blood Marrow Transplant. 2009;15: 618–625",
+      "char_count": 107
+    },
+    {
+      "number": "89",
+      "title": "Ghosh A, Miller W, Orchard PJ, Jones SA, Mercer J, Church HJ, et al. Enzyme replacement therapy prior to haematopoietic",
+      "depth": 1,
+      "content": "stem cell transplantation in Mucopolysaccharidosis Type I: 10 year combined experience of 2 centres. Mol Genet Metab.\n    2016;117: 373–377.",
+      "char_count": 140
+    },
+    {
+      "number": "90",
+      "title": "Aldenhoven M, Jones SA, Bonney D, Borrill RE, Coussons M, Mercer J, et al. Hematopoietic cell transplantation for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis patients is safe and effective: results after implementation of international guidelines. Biol Blood\n    Marrow Transplant. 2015;21: 1106–1109",
+      "char_count": 164
+    },
+    {
+      "number": "91",
+      "title": "Bjoraker KJ, Delaney K, Peters C, Krivit W, Shapiro EG. Long-term outcomes of adaptive functions for children with",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I (Hurler syndrome) treated with hematopoietic stem cell transplantation. J Dev Behav Pediatr.\n    2006;27: 290–296",
+      "char_count": 137
+    },
+    {
+      "number": "92",
+      "title": "Kunin-Batson AS, Shapiro EG, Rudser KD, Lavery CA, Bjoraker KJ, Jones SA, et al. Long-Term Cognitive and Functional",
+      "depth": 1,
+      "content": "Outcomes in Children with Mucopolysaccharidosis (MPS)-IH (Hurler Syndrome) Treated with Hematopoietic Cell\n    Transplantation. JIMD Rep. 2016;29: 95–102",
+      "char_count": 153
+    },
+    {
+      "number": "93",
+      "title": "Gardin A , Castelle M , Pichard S , Cano A , Chabrol B , Piarroux J, et al. Long term follow-up after haematopoietic stem",
+      "depth": 1,
+      "content": "cell transplantation for mucopolysaccharidosis type I-H: a retrospective study of 51 patients. Bone Marrow Transplantation.\n    2023; 58:295–302; https://doi.org/10.1038/s41409-022-01886-1.",
+      "char_count": 189
+    },
+    {
+      "number": "94",
+      "title": "Weisstein JS, Delgado E, Steinbach LS, Hart K, Packman S. Musculoskeletal manifestations of Hurler syndrome: long-term",
+      "depth": 1,
+      "content": "follow-up after bone marrow transplantation. J Pediatr Orthop. 2004;24: 97–101.",
+      "char_count": 79
+    },
+    {
+      "number": "95",
+      "title": "Javed A, Aslam T, Jones SA, Mercer J, Tyler K, Church H, et al. The effect of haemopoietic stem cell transplantation on",
+      "depth": 1,
+      "content": "the ocular phenotype in mucopolysaccharidosis type I (Hurler). Acta Ophthalmol. 2018: 96: 494–498.",
+      "char_count": 98
+    },
+    {
+      "number": "96",
+      "title": "Braunlin EA, Stauffer NR, Peters CH, Bass JL, Berry JM, Hopwood JJ, et al. Usefulness of bone marrow transplantation in",
+      "depth": 1,
+      "content": "the Hurler syndrome. Am J Cardiol. 2003;92: 882–886.97 Boelens JJ. Trends in haematopoietic cell transplantation for\n    inborn errors of metabolism. J Inherit Metab Dis. 2006;29: 413–420.",
+      "char_count": 188
+    },
+    {
+      "number": "97",
+      "title": "Kakkis ED, Muenzer J, Tiller GE, Waber L, Belmont J, Passage M, et al. Enzyme-replacement therapy in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I. N Engl J Med. 2001;344(3):182-8.",
+      "char_count": 57
+    },
+    {
+      "number": "98",
+      "title": "Sifuentes M, Doroshow R, Hoft R, Mason G, Walot I, Diament M, et al. A follow-up study of MPS I patients treated with",
+      "depth": 1,
+      "content": "laronidase enzyme replacement therapy for 6 years. Mol Genet Metab. 2007;90(2):171-80.",
+      "char_count": 86
+    },
+    {
+      "number": "99",
+      "title": "Wraith JE, Clarke LA, Beck M, Kolodny EH, Pastores GM, Muenzer J, et al. Enzyme replacement therapy for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I: a randomized, double-blinded, placebo-controlled, multinational study of recombinant human\n    alpha-L-iduronidase (laronidase). J Pediatr. 2004;144(5):581-8.",
+      "char_count": 183
+    },
+    {
+      "number": "100",
+      "title": "Jameson E, Jones S, Remmington T. Enzyme replacement therapy with laronidase (Aldurazyme ®) for treating",
+      "depth": 1,
+      "content": "mucopolysaccharidosis      type    I.   Cochrane   Database       Syst   Rev.   2019      Jun     18;6(6):CD009354.   doi:\n    10.1002/14651858.CD009354.pub5.",
+      "char_count": 158
+    },
+    {
+      "number": "101",
+      "title": "Polgreen LB, Bay L, Clarke LA, Guffon N, Jones SA, Munzer J, et al. Growth in individuals with attenuated",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I during untreated and treated periods: Data from the MPS I registry. Am J Med Genet.\n    2022;188A:2941–2951.",
+      "char_count": 137
+    },
+    {
+      "number": "102",
+      "title": "Stewart F, Bentley A, Burton BK, Guffon N, Hale SL, HarmatzPR, et al. Expert Opinions on Managing Fertility and",
+      "depth": 1,
+      "content": "Pregnancy in Patients With Mucopolysaccharidosis. Journal of Inborn Errors of Metabolism & Screening. 2016; 4:1-11.\n103. Brasil.   Agência      Nacional        de   Vigilância     Sanitária.     Aldurazyme.          2024.   Disponível    em:\n    https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=ALDURAZYME..",
+      "char_count": 315
+    },
+    {
+      "number": "104",
+      "title": "Castorina M, Antuzzi D, Richards SM, Cox GF, Xue Y. Successful pregnancy and breastfeeding in a woman with",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I while receiving laronidase enzyme replacement. therapy. Clin Exp Obstet Gynecol.\n    2015;42(1):108-13.",
+      "char_count": 132
+    },
+    {
+      "number": "105",
+      "title": "Xue Y, Richards SM, Mahmood A, Cox GF. Effect of anti-laronidase antibodies on efficacy and safety of laronidase enzyme",
+      "depth": 1,
+      "content": "replacement therapy for MPS I: A comprehensive meta-analysis of pooled data from multiple studies. Mol Genet Metab.\n    2016;117(4):419-26.",
+      "char_count": 139
+    },
+    {
+      "number": "106",
+      "title": "Toscano A, Musumeci O, Sacchini M, Ravaglia S, Siciliano G, et al. Safety outcomes and patients' preferences for home-",
+      "depth": 1,
+      "content": "based intravenous enzyme replacement therapy (ERT) in pompe disease and mucopolysaccharidosis type I (MPS I) disorder:\n    COVID-19 and beyond. Orphanet J Rare Dis. 2023 Oct 27;18(1):338. doi: 10.1186/s13023-023-02919-8. PMID: 37891668;\n    PMCID: PMC10604412.",
+      "char_count": 260
+    },
+    {
+      "number": "107",
+      "title": "Horovitz DD, Acosta AX, Giugliani R, Hlavatá A, Hlavatá K, Tchan MC, et al. Alternative laronidase dose regimen for",
+      "depth": 1,
+      "content": "patients with mucopolysaccharidosis I: a multinational, retrospective, chart review case series. Orphanet J Rare Dis. 2016\n    Apr 29;11(1):51. doi: 10.1186/s13023-016-0437-8. PMID: 27129473; PMCID: PMC4850670.",
+      "char_count": 210
+    },
+    {
+      "number": "108",
+      "title": "Giugliani R, Federhen A, Muñoz Rojas MV, Vieira TA, Artigalás O, Pinto LL, et al. [Enzyme replacement therapy for",
+      "depth": 1,
+      "content": "mucopolysaccharidoses I, II and VI: recommendations from a group of Brazilian F experts]. Rev Assoc Med Bras\n    (1992).2010;56(3):271-7.",
+      "char_count": 137
+    },
+    {
+      "number": "109",
+      "title": "Valayannopoulos V, Boddaert N, Barbier V, Le Merrer M, Caillaud C, de Lonlay P. Cognitive and neuroradiological",
+      "depth": 1,
+      "content": "improvement in three patients with attenuated MPS I treated by laronidase. Mol Genet Metab. 2010;100: 20–23.",
+      "char_count": 108
+    },
+    {
+      "number": "110",
+      "title": "Eisengart JB, Rudser KD, Tolar J, Orchard PJ, Kivisto T, Ziegler RS, et al. Enzyme replacement is associated with better",
+      "depth": 1,
+      "content": "cognitive outcomes after transplant in Hurler syndrome. J Pediatr. 2013;162: 375–80.e1.",
+      "char_count": 87
+    },
+    {
+      "number": "111",
+      "title": "Wraith JE, Beck M, Lane R, van der Ploeg A, Shapiro E, Xue Y, et al. Enzyme replacement therapy in patients who have",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I and are younger than 5 years: results of a multinational study of recombinant human alpha-L-\n    iduronidase (laronidase). Pediatrics. 2007;120: e37–46.",
+      "char_count": 176
+    },
+    {
+      "number": "112",
+      "title": "Clarke LA. The mucopolysaccharidoses: a success of molecular medicine. Expert Rev Mol Med. 2008;10:e1.",
+      "depth": 1,
+      "content": "113. 1Clarke LA, Wraith JE, Beck M, Kolodny EH, Pastores GM, Muenzer J, et al. Long-term efficacy, and safety of laronidase\n    in the treatment of mucopolysaccharidosis I. Pediatrics. 2009;123(1):229-40.",
+      "char_count": 204
+    },
+    {
+      "number": "114",
+      "title": "Giugliani R, Rojas VM, Martins AM, Valadares ER, Clarke JT, Goes JE, et al. A dose-optimization trial of laronidase",
+      "depth": 1,
+      "content": "(Aldurazyme) in patients with mucopolysaccharidosis I. Mol Genet Metab. 2009;96(1):13-9.",
+      "char_count": 88
+    },
+    {
+      "number": "115",
+      "title": "Harmatz P, Giugliani R, Schwartz I, Guffon N, Teles EL, Miranda MC, et al. Enzyme replacement therapy for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis VI: a phase 3, randomized, double-blind, placebo-controlled, multinational study of recombinant\n    human N-acetylgalactosamine 4-sulfatase (recombinant human arylsulfatase B or rhASB) and follow-on, open-label\n    extension study. J Pediatr. 2006;148(4):533-9.",
+      "char_count": 283
+    },
+    {
+      "number": "116",
+      "title": "Wraith JE, Beck M, Lane R, van der Ploeg A, Shapiro E, Xue Y, et al. Enzyme replacement therapy in patients who have",
+      "depth": 1,
+      "content": "mucopolysaccharidosis I and are younger than 5 years: results of a multinational study of recombinant human alpha-L-\n    iduronidase (laronidase). Pediatrics. 2007;120(1):e37-46.\n117. Marshall, WA, Tanner, JM. Variations in pattern of pubertal changes in girls. Arch Dis Child. 1969; 44: 291–303.",
+      "char_count": 296
+    },
+    {
+      "number": "118",
+      "title": "Brasil. Ministério da Saúde. Portaria nº 199, de 30 de janeiro de 2014. Institui a Política Nacional de Atenção Integral às",
+      "depth": 1,
+      "content": "Pessoas com Doenças Raras, aprova as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no âmbito do Sistema\n    Único      de    Saúde      (SUS)     e     institui   incentivos     financeiros     de    custeio.    Disponível      em:\n    https://bvsms.saude.gov.br/bvs/saudelgis/gm/2014/prt0199_30_01_2014.html\n119. Brasil. Brasil. Ministério da Saúde. Diretrizes para Atenção Integral às Pessoas com Doenças Raras. Disponível em:\n    https://bvsms.saude.gov.br/bvs/publicacoes/diretrizes_atencao_integral_pessoa_doencas_raras_SUS.pdf\n120. Brasil. Ministério da Saúde. Portaria de Consolidação GM/MS nº 2, de 28 de setembro de 2017. Disponível em:\n    https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html\n121. Brasil. Ministério da Saúde. Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017. Disponível em:\n    https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0006_03_10_2017.html\n\n                                   TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n                                                  LARONIDASE\n\n\n         Eu, _______________________________________________________________________________________(nome\ndo(a) paciente), declaro ter sido informado(a) sobre benefícios, riscos, contraindicações e principais eventos adversos\nrelacionados ao uso de laronidase, indicada para o tratamento de Mucopolissacaridase do tipo I.\n         Os termos médicos foram explicados e todas as dúvidas foram esclarecidas pelo(a) médico(a) __________________\n_______________________________________________________________________(nome do(a) médico(a) que prescreve).\n         Assim, declaro que fui claramente informado (a) de que o medicamento que passo a receber pode trazer os seguintes\nbenefícios: melhora dos sintomas da doença, como da hepatomegalia e da rigidez articular.\n         Fui também claramente informado (a) a respeito das seguintes contraindicações, potenciais eventos adversos e riscos:\n          Aqueles relatados em dois ou mais estudos foram erupção cutânea, urticária e febre;\n          Contraindicação em casos de hipersensibilidade (alergia) ao fármaco ou aos componentes da formula\n         Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a devolvê-lo caso não\nqueira ou não possa utilizá-lo ou se o tratamento for interrompido.\n         Sei também que continuarei a ser atendido (a), inclusive em caso de desistência do uso do medicamento.\n         Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas ao meu tratamento,\ndesde que assegurado o anonimato.\n         (   ) Sim    (   ) Não\n         Meu tratamento constará do seguinte medicamento:\n         (   ) Laronidase\nLocal:                                           Data:\nNome do paciente:\nCartão Nacional de Saúde:\nNome do responsável legal:\nDocumento de identificação do responsável legal:\n\n\n_____________________________________\nAssinatura do paciente ou do responsável legal\nMédico responsável:                                                                              CRM:                           UF:\n\n\n___________________________\nAssinatura e carimbo do médico\nData:____________________\nNota: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência Farmacêutica se encontram os\nmedicamentos preconizados neste Protocolo.\n\n                                                                            APÊNDICE 1\n\n                                        METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA\n\n\n        Escopo e finalidade do Protocolo\n\n\n        O presente apêndice consiste no documento de trabalho do grupo elaborador da atualização do Protocolo Clínico e\nDiretrizes Brasileiras da Mucopolissacaridose do tipo I (MPS I), contendo a descrição da metodologia de busca de evidências\ncientíficas, as recomendações e seus julgamentos (fundamentos para a tomada de decisão), tendo como objetivo aumentar a sua\ntransparência e prover considerações adicionais para profissionais da saúde, gestores e demais potenciais interessados.\n        O grupo desenvolvedor deste PCDT foi composto por especialistas e metodologistas sob a coordenação do Departamento\nde Gestão e Incorporação de Tecnologias e Inovação em Saúde da Secretaria de Ciência, Tecnologia, Inovação e Complexo\nEconômico-Industrial da Saúde (DGITS/SECTICS/MS).\n        Todos os participantes do processo de elaboração do PCDT preencheram o formulário de Declaração de Conflitos de\nInteresse, que foram enviados ao Ministério da Saúde para análise prévia às reuniões de escopo e formulação de recomendações.\n        Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o sítio eletrônico da Conitec para a\nidentificação das tecnologias disponíveis no Brasil e tecnologias demandadas ou recentemente incorporadas para o tratamento\nda MPS I. Não foram encontradas tecnologias disponíveis já incorporadas para o tratamento da MPS I, além da laronidase e do\nTCTH. Assim, não foram identificadas novas tecnologias diagnósticas e terapêuticas a serem priorizadas nesse PCDT.\n        Na reunião de escopo para atualização do documento, ocorrida em 10 de abril de 2023, não foram identificadas novas\ntecnologias diagnósticas e terapêuticas a serem priorizadas para a revisão do PCDT em questão. Contudo, foram reconhecidos,\nna reunião de escopo que contou com a participação de especialistas na área, os pontos a terem a literatura atualizada e/ou\nnecessidade de ajustes na redação, assim, definiu-se a necessidade de revisar e reorganizar o texto, tendo como público-alvo\nprimário: clínicos gerais, geneticistas, neurologistas, cardiologistas, pneumologistas e traumato-ortopedistas e, como público-\nalvo secundário: oftalmologistas, gastroenterologistas, patologistas e outros especialistas médicos.\n\n\n        E quipe de elaboração e partes interessadas\n\n\n        Colaboração externa\n        O Protocolo foi atualizado pelo NATS HCPA/Nuclimed.\n        Todos os membros votantes e metodologistas do Grupo Elaborador declararam seus conflitos de interesse, utilizando a\nDeclaração de Potenciais Conflitos de Interesse (Quadro A).\n\n\nQuadro A. Questionário de conflitos de interesse diretrizes clínico-assistenciais.",
+      "char_count": 6274
+    },
+    {
+      "number": "1",
+      "title": "Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos benefícios abaixo?",
+      "depth": 1,
+      "content": "a) Reembolso por comparecimento a eventos na área de interesse da diretriz                                     ( ) Sim\n                                                                                                                 ( ) Não\n  b) Honorários por apresentação, consultoria, palestra ou atividades de ensino                                  ( ) Sim\n                                                                                                                 ( ) Não\n  c) Financiamento para redação de artigos ou editorias                                                          ( ) Sim\n                                                                                                                 ( ) Não\n  d) Suporte para realização ou desenvolvimento de pesquisa na área                                              ( ) Sim\n\n                                                                                                                 ( ) Não\n e) Recursos ou apoio financeiro para membro da equipe                                                           ( ) Sim\n                                                                                                                 ( ) Não\n f) Algum outro benefício financeiro                                                                             ( ) Sim\n                                                                                                                 ( ) Não",
+      "char_count": 1450
+    },
+    {
+      "number": "2",
+      "title": "Você possui apólices ou ações de alguma empresa que possa de alguma forma ser beneficiada ou                 ( ) Sim",
+      "depth": 1,
+      "content": "prejudicada com as recomendações da diretriz?                                                                   ( ) Não",
+      "char_count": 119
+    },
+    {
+      "number": "3",
+      "title": "Você possui algum direito de propriedade intelectual (patentes, registros de marca, royalties) de alguma     ( ) Sim",
+      "depth": 1,
+      "content": "tecnologia ligada ao tema da diretriz?                                                                          ( ) Não",
+      "char_count": 119
+    },
+    {
+      "number": "4",
+      "title": "Você já atuou como perito judicial na área tema da diretriz?                                                 ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "5",
+      "title": "Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados pela sua",
+      "depth": 1,
+      "content": "atividade na elaboração ou revisão da diretriz?\n a) Instituição privada com ou sem fins lucrativos                                                               ( ) Sim\n                                                                                                                 ( ) Não\n b) Organização governamental ou não-governamental                                                               ( ) Sim\n                                                                                                                 ( ) Não\n c) Produtor, distribuidor ou detentor de registro                                                               ( ) Sim\n                                                                                                                 ( ) Não\n d) Partido político                                                                                             ( ) Sim\n                                                                                                                 ( ) Não\n e) Comitê, sociedade ou grupo de trabalho                                                                       ( ) Sim\n                                                                                                                 ( ) Não\n f) Outro grupo de interesse                                                                                     ( ) Sim\n                                                                                                                 ( ) Não",
+      "char_count": 1499
+    },
+    {
+      "number": "6",
+      "title": "Você poderia ter algum tipo de benefício clínico?                                                            ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "7",
+      "title": "Você possui uma ligação ou rivalidade acadêmica com alguém cujos interesses possam ser afetados?             ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "8",
+      "title": "Você possui profunda convicção pessoal ou religiosa que pode comprometer o que você irá escrever e que       ( ) Sim",
+      "depth": 1,
+      "content": "deveria ser do conhecimento público?                                                                            ( ) Não",
+      "char_count": 119
+    },
+    {
+      "number": "9",
+      "title": "Existe algum aspecto do seu histórico profissional, que não esteja relacionado acima, que possa afetar sua   ( ) Sim",
+      "depth": 1,
+      "content": "objetividade ou imparcialidade?                                                                                 ( ) Não",
+      "char_count": 119
+    },
+    {
+      "number": "10",
+      "title": "Sua família ou pessoas que mantenha relações próximas possui alguns dos conflitos listados acima?           ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não\n\n\n      Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas\n\n\n      A proposta de atualização do PCDT de Mucopolissacaridose do tipo I (MPS I) foi apresentada na 118ª Reunião da\nSubcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em 27 de setembro 2024. A\nreunião teve a presença de representantes da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial\n\nda Saúde (SECTICS); Secretaria de Atenção Especializada em Saúde (SAES) e Secretaria de Vigilância em Saúde e Ambiente\n(SVSA).\n\n\n        Consulta Pública\n\n\n        A Consulta Pública nº 82/2024, do Protocolo Clínico e Diretrizes Terapêuticas Mucopolissacaridose do tipo I (MPS I),\nfoi realizada entre os dias 22/11/2024 e 11/12/2024 e não foram recebidas contribuições sobre o tema.",
+      "char_count": 856
+    },
+    {
+      "number": "5",
+      "title": "Busca da evidência e recomendações",
+      "depth": 1,
+      "content": "O processo de atualização desse PCDT seguiu as recomendações das Diretrizes Metodológicas de Elaboração de\nDiretrizes Clínicas do Ministério da Saúde3.\n        Foram realizadas buscas sistematizadas da literatura nas bases de dados Medline, Embase, BVS (incluindo Lilacs) e\nCochrane Library. Por se tratar de atualização de documentos oficiais já publicados, seguindo as recomendações da Cochrane,\noptou-se por definir uma data de início para as buscas.\n        Considerando a versão do PCDT publicada por meio da Portaria Conjunta SAES-SCTIE/MS nº 12, de 11/04/2018,\ndefiniu-se a data inicial da busca em 01 de janeiro de 2018 e a data final em 15 de fevereiro de 2024.\n        Foram realizadas buscas com três objetivos:\n        a) Busca I: estudos clínicos, revisões sistemáticas e diretrizes, protocolos ou recomendações clínicas sobre aspectos de\ndiagnóstico, seguimento, cuidados e tratamento daqueles com MPS I;\n        b) Buscas II e III: identificação de estudos clínicos, revisões sistemáticas sobre o tratamento da MPS I em populações\nespeciais de gestantes e lactantes, posto que algumas formas da doença ocorrem durante a idade fértil dos pacientes;\n        c) Busca IV: identificação de estudos clínicos e revisões sistemáticas sobre laronidase, o medicamento de tratamento\nprimário da MPS I disponível no SUS.\n        d) Busca V: identificação de estudos clínicos e revisões sistemáticas sobre o transplante de células tronco\nhematopoiéticas/TCTH)\n         As questões de pesquisa são apresentadas a seguir.\n        Questão I – Quais são as evidências (na forma de estudos clínicos, revisões sistemáticas e diretrizes, protocolos ou\nrecomendações clínicas) sobre aspectos de diagnóstico, seguimento, cuidados e tratamento daqueles com MPS I, produzidas a\npartir de 2018?\n        A estrutura PICOT para esta questão se encontra no Quadro B:\n\n\nQuadro B- Pergunta PICOT (população, intervenção, comparador, desfechos e tipos de estudos) elaborada*.\n\n População                             Pacientes com Mucopolissacaridose tipo I (MPS I)\n Intervenção                           Tratamento: não medicamentoso, sintomático/suporte, primário com Laronidase\n                                       Tratamento: não medicamentoso, sintomático/suporte ou transplante de células tronco\n Comparador(es)\n                                       hematopoiéticas (TCTH)\n                                       Diagnóstico\n                                       Seguimento\n Desfecho(s)                           Eficácia (Desfechos clínicos)\n                                       neurológicos: atraso no desenvolvimento neuropsicomotor, hipertensão intracraniana,\n                                       convulsões, compressão medular;\n\n                                          respiratórios/pulmonares: infecções respiratórias, alteração de função pulmonar, doença\n                                          obstrutiva das vias aéreas, distúrbios do sono do tipo apneia ou hipopneia, SAHOS;\n                                          musculoesqueléticos: redução na mobilidade articular, comprometimento atlanto-axial,\n                                          comprometimento da coluna, doença osteo-articular ;\n                                          desfechos cardíacos: valvulopatia, insuficiência cardíaca;\n                                          outros desfechos: visão, audição, hepatomegalia, qualidade de vida, mortalidade e excreção\n                                          de GAGs urinários.\n                                          Segurança\n Tipos de estudo (desenhos)\n                                          Estudos clínicos, revisões sistemáticas e diretrizes, protocolos ou recomendações clínicas\n de interesse\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n        Quadro C apresenta as estratégias de busca para esta questão.\n\n\nQuadro C. Estratégias de busca, de acordo com a base de dados, para identificação de revisões sistemáticas ou estudos clínicos e diretrizes clínicas ou protocolos\nclínicos ou recomendações clínicas sobre diagnóstico/ acompanhamento/ cuidados/ tratamento para MPS I.\n\n                                                                                                                   Número             de          resultados\n Bases de dados                     Estratégia de busca\n                                                                                                                   encontrados\n\n                                    (mucopolysaccharidosis type I [Title/Abstract]) AND\n Medline (via Pubmed)               ((guidelines[Title/Abstract])                                          OR      13\n                                    recommendations[Title/Abstract]))\n\n                                    (recommendations            OR      'practice      guideline')      AND\n Embase                             ‘mucopolysaccharidosis type I': Broad search AND [2018-                        39\n                                    2024]/py\n\n                                    (mucopolysaccharidosis type I) AND (guidelines OR\n BVS                                                                                                               16\n                                    recommendations)- Title, abstract, subject\n\n                                    (mucopolysaccharidosis type I [Title/Abstract]) AND                            1\n Cochrane library                   ((guidelines[Title/Abstract])                                          OR\n                                    recommendations[Title/Abstract]))\n\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n        Adicionalmente, na busca por diretrizes clínicas, protocolos clínicos e recomendações clínicas sobre diagnóstico,\nacompanhamento, cuidados e tratamento da MPS 1 foram também avaliados os seguintes documentos:\n        - NICE guidelines (http://www.nice.org.uk): Sem novas recomendações desde 2018.\n        - National Guideline Clearinghouse – Sem novas recomendações desde 2018.\n        - National Library of Australia. Department of Health and Ageing, Australian Government (http://www.health.gov.au).\nEncontrado o ‘Guidelines for the treatment of mucopolysaccharidosis type I (MPS I) through the Life Saving Drugs Program’.\n        - Guideline International Network (http://www.g-i- n.net/library/international-guidelines- library): nenhuma diretriz\nlocalizada.\n        - Sociedade Brasileira de Genética Médica (http://www.sbgm.org.br): nenhuma diretriz localizada.\n\n        - Diretrizes da Associação Médica Brasileira (AMB) (http://diretrizes.amb.org.br): nenhuma diretriz localizada.\n        A única diretriz identificada, do governo australiano, é um guia resumido, de três folhas, sem referências ou qualquer\ndescrição de metodologias.\n        Foram encontradas 69 publicações das bases de dados PubMed, Embase, BVS e Cochrane library, além de uma diretriz\nencontrada por pesquisa direta em sites de agências de ATS. Excluindo-se as duplicatas, restaram 40 títulos, dos quais 36 foram\nexcluídos na fase de título e resumo. As quatro referências restantes foram lidas integralmente, sendo três excluídas, de modo\nque apenas uma foi incluída (Figura A).\n\n\nFigura A – Seleção dos estudos para atualização sobre aspectos de diagnóstico, seguimento, cuidados e tratamento daqueles com MPS, produzidas a partir de\n2018 (pesquisas em bases de dados, registros e outras fontes).\n\n\n\n\n        Questão II- Quais as evidências (na forma de estudos clínicos e revisões sistemáticas) sobre o tratamento da MPS I em\ngestantes, produzidas a partir de 2018?\n        A estrutura PICOT para esta questão se encontra no Quadro D.\n\n\nQuadro D- Pergunta PICOT (população, intervenção, comparador, desfechos e tipos de estudos) elaborada*.\n\n População                                                       Gestantes com MPS tipo I\n Intervenção                                                     Tratamento primário para Lactantes com MPS tipo I com laronidase\n Comparador(es)                                                  Sem tratamento primário para MPS tipo I ou TCTH\n                                                                 Segurança\n                                                                 Eficácia – desfechos neurológicos; respiratórios; musculo-esqueléticos:\n Desfecho(s)\n                                                                 cardíacos e outros desfechos (visão, audição, hepatomegalia, qualidade de\n                                                                 vida, mortalidade e excreção de GAGs urinários\n Tipos de estudo (desenhos) de interesse                         Estudos clínicos, revisões sistemáticas e coortes\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n        O Quadro E apresenta as estratégias de busca para esta questão.\n\n\nQuadro E. Estratégias de busca, de acordo com a base de dados, para identificação de revisões sistemáticas e/ou estudos clínicos sobre tratamento primário para\nMPS I e gestação/gravidez.\n\n                                                                                                                                       Número de\n       Bases de dados                                              Estratégia de busca                                                  resultados\n                                                                                                                                       encontrados\n\n                                   (pregnancy[Title/Abstract]) AND (laronidase[Title/Abstract])                                               0\n\n   Medline (via Pubmed)\n                                    (mucopolysaccharidosis type I [Title/Abstract]) AND\n                                   (pregnancy[Title/Abstract])                                                                                0\n\n                                   'pregnancy' AND ‘mucopolysaccharidosis type I’:ti,ab,kw AND [2018-                                         4\n                                   2024]/py\n            Embase\n\n                                   'pregnancy' AND ‘laronidase’:ti,ab,kw AND [2018-2024]/py                                                   3\n\n                                   (mucopolysaccharidosis type I) AND (pregnancy)- Title, abstract,                                           0\n                                   subject\n\n              BVS\n                                   (laronidase) AND (pregnancy)- Title, abstract, subject                                                     0\n\n\n                                   A partir de 2018\n\n                                   \" mucopolysaccharidosis type I \" in Title Abstract Keyword AND\n                                   pregnancy in Title Abstract Keyword - (Word variations have been                                           0\n                                   searched)\n      Cochrane Library\n\n                                   \" laronidase\" in Title Abstract Keyword AND pregnancy in Title                                             0\n                                   Abstract Keyword - (Word variations have been searched)\n\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n        Foram identificadas 7 publicações. Excluindo-se as duplicatas, restaram 4 títulos, tendo sido 3 deles excluídos já na fase\nde leitura de título e resumo. Restou um único artigo que foi excluído na fase da elegibilidade. Assim, não foram incluídos títulos\npara análise neste tópico.\n        A Figura B resume o processo de busca, triagem, análise de elegibilidade e inclusão realizadas.\n\nFigura B – Seleção de estudos para atualização sobre aspectos de tratamento de MPS I em gestantes, com laronidase, produzidas a partir de 2018 (pesquisas em\nbases de dados, registros e outras fontes).\n\n\n\n\n         Questão III- Quais as evidências (na forma de estudos clínicos e revisões sistemáticas) sobre o tratamento da MPS I em\nlactantes, produzidas a partir de 2021?\n         A estrutura PICOT para esta questão se encontra no Quadro F.\n\n\nQuadro F - Pergunta PICOT (população, intervenção, comparador, desfechos e tipos de estudos) elaborada*.\n\n População                                                    Lactantes com MPS tipo I\n Intervenção                                                  Tratamento primário para MPS tipo I com Laronidase\n Comparador(es)                                               Sem tratamento primário para MPS I ou tratamento com TCTH\n                                                              Eficácia – desfechos neurológicos; respiratórios; musculo-esqueléticos:\n Desfecho(s)                                                  cardíacos e outros desfechos (visão, audição, hepatomegalia, qualidade de\n                                                              vida, mortalidade e excreção de GAGs urinários).\n Tipos de estudo (desenhos) de interesse                      Estudos clínicos, revisões sistemáticas e coortes\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n           O Quadro G apresenta as estratégias de busca para esta questão.\n\nQuadro G. Estratégias de busca, de acordo com a base de dados, para identificação de revisões sistemáticas ou estudos clínicos DF sobre tratamento primário e\namamentação\n\n                                                                                                                        Número de resultados\n       Bases de dados                                       Estratégia de busca\n                                                                                                                              encontrados\n\n                                   (mucopolysaccharidosis type I [Title/Abstract]) AND                                               0\n                                   (breastfeeding [Title/Abstract])\n\n  Medline (via Pubmed)\n                                   (laronidase [Title/Abstract]) AND (breastfeeding                                                  1\n                                   [Title/Abstract])\n\n\n\n                                   'breastfeeding' AND mucopolysaccharidosis type I’:ti,ab,kw                                        7\n                                   AND [2018-2024]/py\n           Embase                                                                                                                    0\n                                   'breastfeeding' AND laronidase’:ti,ab,kw AND [2018-\n                                   2024]/py\n\n                                   (mucopolysaccharidosis type I) AND (breastfeeding)- Title,                                        0\n                                   abstract, subject\n              BVS                                                                                                                    0\n                                   (laronidase) AND (breastfeeding)- Title, abstract, subject\n\n\n\n                                   mucopolysaccharidosis type I Title Abstract Keyword AND                                           0\n                                   breastfeeding in Title Abstract Keyword - (Word variations\n                                   have been searched)\n     Cochrane Library                                                                                                                0\n                                   laronidase Title Abstract Keyword AND breastfeeding in\n                                   Title Abstract Keyword - (Word variations have been\n                                   searched)\n\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n        Foram encontradas 8 publicações nas bases de dados, com uma duplicata. Todos os 7 estudos restantes foram excluídos\njá na fase de leitura de título e resumo. Desta forma, não foram incluídos títulos para análise neste tópico.\n        A Figura C resume o processo de busca, triagem, análise de elegibilidade e inclusão realizadas.\n\nFigura C- Seleção de estudos para atualização (na forma de estudos clínicos e revisões sistemáticas) sobre o tratamento da MPS I com laronidase em lactantes,\n(produzidas a partir de 2018).\n\n\n\n\n        Questão IV Quais os dados disponíveis, advindos de estudos clínicos e revisões sistemáticas, sobre a tecnologia laronidase\npara o tratamento primário da MPS I, produzidas a partir de 2018?\n        A estrutura PICOT para esta questão se encontra no Quadro H.\n\n\nQuadro H - Pergunta PICOT (população, intervenção, comparador, desfechos e tipos de estudos) elaborada*.\n\n População                                                     Pacientes com MPS tipo I\n Intervenção                                                   Tratamento primário para MPS tipo I com laronidase\n Comparador(es)                                                Sem tratamento primário para MPS tipo I ou tratamento com TCTH\n                                                               Eficácia\n                                                               neurológicos: atraso no desenvolvimento neuropsicomotor, hipertensão\n                                                               intracraniana, convulsões, compressão medular;\n                                                               respiratórios/pulmonares: infecções respiratórias, alteração de função\n                                                               pulmonar, doença obstrutiva das vias aéreas, distúrbios do sono do tipo\n                                                               apnéia ou hiponéia, SAHOS;\n Desfecho(s)\n                                                               musculo-esqueléticos: redução na mobilidade articular, comprometimento\n                                                               atlanto-axial, comprometimento da coluna, doença osteo-articular ;\n                                                               desfechos cardíacos: valvulopatia, insuficiência cardíaca;\n                                                               desfechos outros: hepatomegalia, qualidade de vida, mortalidade e excreção\n                                                               de GAGs urinários.\n\n                                                              Segurança\n Tipos de estudo (desenhos) de interesse                      Estudos clínicos, revisões sistemáticas e coortes\n\n\n         O Quadro I apresenta as estratégias de busca para esta questão.\n\n\nQuadro I. Estratégias de busca, de acordo com a base de dados, para identificação de revisões sistemáticas e/ou estudos clínicos sobre uso da laronidase em\nMPS I\n\n                                                                                                                      Número de resultados\n        Bases de dados                                     Estratégia de busca\n                                                                                                                             encontrados\n\n                                  ((\"Laronidase\"[all         fields)      OR     (\"Recombinant          α-L-    61\n Medline (via Pubmed)             iduronidase\"[Text Word]) OR\n                                  (\"Aldurazyme\"[Text Word]))\n\n                                  (‘laronidase’/exp OR ‘laronidase’:ti,ab,kw OR 'recombinant                    85\n Embase                           α-L-iduronidase':ti,ab,kw OR 'Aldurazyme':ti,ab,kw OR)\n                                  AND [embase]/lim\n\n                                  ((\"laronidase\") OR (\"recombinant α-L-iduronidase\") OR                         45\n BVS                              (\"Aldurazyme\"))\n                                  Title, abstract, subject\n\n                                  (\"laronidase\") in Title Abstract Keyword OR (\"Recombinant                     2\n                                  α-L-iduronidase\")         in    Title     Abstract      Keyword        OR\n Cochrane Library\n                                  (\"Aldurazyme\") in Title Abstract Keyword- (Word variations\n                                  have been searched)\n\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n         Foram identificadas 193 publicações das bases de dados. Excluindo-se 77 duplicatas, restaram 154 títulos, dos quais 151\nforam excluídos na fase de leitura de título e resumo. Dos 3 restantes, um foi excluído na fase final de elegibilidade. Ao final, os\ndois artigos avaliados na sua integralidade foram incluídos.\n         A Figura D resume o processo de busca, triagem, análise de elegibilidade e inclusão realizadas.\n\nFigura D – Selação dos estudos para atualização sobre (na forma de estudos clínicos e revisões sistemáticas) sobre o uso da laronidase no tratamento da MPS I,\n(produzidas a partir de 2018).\n\n\n\n\n         Questão V Quais os dados disponíveis, advindos de estudos clínicos e revisões sistemáticas, sobre a tecnologia TCTH\npara o tratamento primário da MPS I produzidas a partir de 2018?\n         A estrutura PICOT para esta questão se encontra no Quadro J.\n\n\nQuadro J - Pergunta PICOT (população, intervenção, comparador, desfechos e tipos de estudos) elaborada*.\n População                           Pacientes com MPS tipo I\n Intervenção                         Tratamento primário para MPS tipo I submetidos a TCTH\n Comparador(es)                      Sem tratamento primário para MPS tipo I com laronidase ou sem tratamento\n                                     Eficácia\n                                     neurológicos: atraso no desenvolvimento neuropsicomotor, hipertensão intracraniana,\n                                     convulsões, compressão medular;\n                                     respiratórios/pulmonares: infecções respiratórias, alteração de função pulmonar, doença\n                                     obstrutiva das vias aéreas, distúrbios do sono do tipo apnéia ou hiponéia, SAHOS;\n Desfecho(s)                         musculo-esqueléticos: redução na mobilidade articular, comprometimento atlanto-axial,\n                                     comprometimento da coluna, doença osteo-articular ;\n                                     desfechos cardíacos: valvulopatia, insuficiência cardíaca;\n                                     desfechos outros: hepatomegalia, qualidade de vida, mortalidade e excreção de GAGs urinários.\n\n\n                                     Segurança\n Tipos          de         estudo\n                                     Estudos clínicos, revisões sistemáticas e coortes\n (desenhos) de interesse\n\n          O Quadro K apresenta as estratégias de busca para esta questão.\n\n\nQuadro K- Estratégias de busca, de acordo com a base de dados, para identificação de revisões sistemáticas e/ou estudos clínicos sobre uso do TCTH em MPS\nI\n\n                                                                                                                     Número de resultados\n        Bases de dados                                     Estratégia de busca\n                                                                                                                           encontrados\n\n                                  (((\"Bone Marrow Transplantation\"[MeSH Terms] AND                             47\n                                  \"Mucopolysaccharidosis I\"[MeSH Terms]) OR \"Stem Cell\n    Medline (via Pubmed)\n                                  Transplantation\"[MeSH                       Terms])                AND\n                                  \"Mucopolysaccharidosis I\"[MeSH Terms])\n\n                                  ('bone marrow transplantation'/exp OR 'bone marrow                           82\n    Embase                        transplantation') AND ('mucopolysaccharidosis type 1'/exp\n                                  OR 'mucopolysaccharidosis type 1')\n\n                                  (Bone             Marrow              Transplantation)             AND       13\n    BVS\n                                  (Mucopolysaccharidosis I)\n\n                                  “Bone Marrow Transplantation” in Title Abstract Keyword                      0\n    Cochrane Library              AND \"mucopolysaccharidosis type 1\" in Title Abstract\n                                  Keyword - (Word variations have been searched)\n\nNota: Foram incluídas publicações publicadas de 01/01/2018 a 15 de fevereiro de 2024.\n\n\n\n          Foram identificadas 142 publicações nas bases de dados. Excluindo-se as duplicatas, restaram 99 títulos, dos quais 95\nforam excluídos na fase de leitura de título e resumo. Quatro artigos foram avaliados na sua integralidade: um deles foi excluído\ne 3 incluídos.\n          A Figura E resume o processo de busca, triagem, análise de elegibilidade e inclusão realizadas.\n\nFigura E- Seleção de estudos para atualização sobre (na forma de estudos clínicos e revisões sistemáticas) sobre o uso de TCTH no tratamento da MPS I,\n(produzidas a partir de 2018).\n\n\n\n\n        Para responder todas as questões, foram considerados os seguintes critérios de elegibilidade:\n        (a) Tipos de participantes\n        Pacientes com MPS I, independente da faixa etária ou da forma da doença.\n        Em relação às buscas II e III, específicas para gestantes e lactantes, apenas este grupo de pacientes com MPS I foi\nconsiderado.\n        (b) Tipo de intervenção\n        Tratamento primário com laronidase ou TCTH ou sintomático ou suporte.\n        (c) Tipos de estudos\n        Ensaios clínicos, revisões sistemáticas e coortes.\n        A primeira estratégia de busca incluiu ainda diretrizes clínicas, protocolos clínicos e recomendações clínicas sobre\naspectos de diagnóstico, seguimento, cuidados e tratamento daqueles com MPS I.\n        (d) Desfechos\n        Eficácia e Segurança (em relação à busca I, que envolveu diretrizes, os aspectos de diagnóstico e seguimento clínico\ntambém foram considerados).\n        (e) Idioma\n        Sem restrição de idioma.\n        (f) Período temporal\n\n\n        O Quadro L elenca os artigos excluídos após leitura de texto completo nas cinco buscas realizadas e a razão da exclusão.\n\nQuadro L. Estudos excluídos durante a fase de leitura do texto completo e o motivo da exclusão.\n\n       Artigos excluídos na fase de elegibilidade (texto completo)                                         Razão da exclusão\n Questão 1\n 3 artigos excluídos na fase de elegibilidade\n Stapleton M, Hoshina H, Sawamoto K, Kubaski F, Mason RW,\n Mackenzie WG, et al. Critical review of current MPS guidelines and                        Tipo de estudo. Não se tratam de diretrizes, mas\n management. Mol Genet Metab. 2019; 126 (3):238-245. doi:                                  uma análise de diretrizes feitas.\n 10.1016/j.ymgme.2018.07.001.\n Departmento de saúde e envelhecimento do governo Australiano,\n                                                                                           Texto é apenas um fluxo (flowchart) sem\n (http://www.health.gov.au), o ‘Guidelines for the treatment of\n                                                                                           referências e sem qualquer aspecto metodológico\n mucopolysaccharidosis type I (MPS I) through the Life Saving Drugs\n                                                                                           descrito/explicitado.\n Program’. 2020\n                                                                                           Texto contém tópicos numerados. Sem referências\n ‘Guidance for the treatment of Mucopolysaccharidosis type I (MPS I)’\n                                                                                           e      sem   qualquer      aspecto   metodológico\n da Lysosomal Storage Disorders Support Society (LSDSS). 2022\n                                                                                           descrito/explicitado.\n Questão 2\n 1 artigo excluído na fase de elegibilidade\n Anderson PO. Drug Therapy of Genetic Diseases During Breastfeeding.\n                                                                                           Revisão não sistemática.\n Breastfeeding Medicine. 2020; 15(7):1-3. DOI: 10.1089/bfm.2020.0109\n Questão 3\n Sem artigos excluídos na fase de elegibilidade\n Questão 4\n 1 artigo excluído na fase de elegibilidade\n Instituto Nacional de Salud Perú. Laronidasa para el tratamiento de                       Revisão rápida de tecnologia\n pacientes con mucopolisacaridosis tipo 1. Serie Evaluation de\n Tecnologia Sanitaria rapida 2018. n 24\n Questão 5\n 1 artigo excluído na fase de elegibilidade\n Gentner B, Tucci F, Galimberti S, Fumagalli F, De Pellegrin M, Silvani\n P, et al. Hematopoietic Stem- and Progenitor-Cell Gene Therapy for                        Intervenção avaliada: transplante de células\n Hurler Syndrome. N Engl J Med 2021; 385:1929-40. DOI:                                     hematopoiéticas associado à terapia gênica\n 10.1056/NEJMoa2106596\n\n\n        Análise e apresentação dos resultados\n        Não foram encontrados estudos com atualizações consideradas relevantes.\n        As recomendações para diagnóstico, seguimento e tratamento encontradas não alteraram aquelas já consideradas na\nelaboração do PCDT publicado por meio da Portaria Conjunta SAES-SCTIE/MS nº 12/2018.\n        Uma revisão sistemática seguida de meta-análise, elaborada pela Cochrane, sobre o uso da laronidase não alterou as\nevidências sobre o tema. Uma coorte de pacientes tratados com TRE avaliou o seu crescimento com ou sem a reposição\nenzimática, em relação às curvas padrão para idade e sexo. Não foi encontrado ensaio clínico randomizado.\n        Resumo das evidências:\n\n       As recomendações sobre diagnóstico, acompanhamento e tratamento da MPS I, publicadas em 2021, por Bay et al 2 não\nalteraram as recomendações deste PCDT, provavelmente porque o trabalho foi desenvolvido para atualizar as recomendações da\nArgentina, as quais eram de 2008.\n       A revisão seguida de meta-análise, publicada pela Cochrane em 2019, com foco na laronidase3, é a segunda atualização\nde uma revisão originalmente feita em 2013 e já atualizada em 2015. O estudo comparou laronidase e placebo, com tempo de\nacompanhamento de 26 semanas, e observou uma redução de 54% (estatisticamente significativa) nos GAGs urinários em relação\nao basal naqueles que usaram laronidase. O grupo que usou laronidase obteve melhoras estatisticamente significativas na\npercentagem da capacidade vital forçada prevista em comparação com o placebo [média 5,60l (IC95% 1,24 a 9,96l)] e no teste\nde caminhada de seis minutos, havendo melhora média de 38,1 metros no grupo da laronidase (P=0,039), em análise de\ncovariância planejada prospectivamente. Além disso, houve melhora nos desfechos relacionados a hepatomegalia, apneia do\nsono e hipopneia. Anticorpos contra a laronidase foram detectados em quase todos os participantes do grupo de tratamento, sem\nefeito clínico aparente e cujos títulos diminuíram no final do estudo. Ocorreram eventos adversos relacionados com a infusão\nem ambos os grupos, mas todos ligeiros e sem necessidade de intervenção médica ou interrupção do medicamento. Conforme\navaliado por questionários, as alterações no “Índice de Incapacidade” após o tratamento foram pequenas e não diferiram entre\nos grupos. Não houve mortes em nenhum dos grupos. Todos estes achados foram categorizados como certeza da evidência baixa,\ncom exceção do desfecho ‘anticorpos contra laronidase’, que foi categorizada como de muito baixa certeza.\n       Um estudo de Polgreen et al4 comparou as curvas de crescimento pré e pós terapia de reposição enzimática (TRE), em\npacientes com forma atenuada de MPS I. Originalmente, 425 pacientes foram acompanhados, contudo, 26 foram excluídos por\nterem realizado TCTH e outros 103, por ausência de registros de altura. A população final estudada consistiu em 295 indivíduos,\ncom 2.704 registros de altura. Desses, 142 eram homens e 153 eram mulheres, entre 2 e 18 anos de idade. Os escores z\npadronizados de altura/idade, ajustados para o sexo, foram comparados naqueles com e sem uso de TRE. Houve redução\nsignificativamente mais lenta nos escores z de altura/idade naqueles usando TRE em comparação com aqueles sem a TRE. Os\nescores z médios estimados de altura com TRE versus sem TRE, aos 10 anos de idade, foram -2,4 versus -3,3 nas mulheres e -\n1,4 versus -2,9 em homens, com tempo médio pós-tratamento de 3 anos em mulheres e menor que 4,1 anos em homens. Enquanto\na altura média de todos permaneceu abaixo dos padrões do CDC, a terapia com a laronidase foi associada a declínio mais lento\nnos escores z de altura.\n       Ainda, três dos artigos encontrados diziam respeito ao TCTH, sendo todos coortes.\n       O estudo de Javel et al5 avaliou aspectos oculares com a realização de TCTH. Os autores utilizaram os testes visuais\nLogMAR (caracteres/letras em formato de tabela usados para avaliar a acuidade visual para perto) e fizeram uma análise de\nregressão da acuidade LogMAR com o nível de iduronidase. A análise mostrou relação negativa significativa (R2=0,15,\np=0,004), indicando melhor acuidade associada com níveis elevados de iduronidase. No entanto, esse trabalho tem limitações\nmetodológicas e não apresenta os dados de forma clara.\n       Já o estudo de Wadhwa et al6 acompanhou 96 pacientes com síndrome de Hurler submetidos ao TCTH alogênico que\nsobreviveram por 2 anos ou mais. No momento do transplante, a idade mediana era 1,5 anos (variando de 0,40 a 6 anos). Tendo\nsobrevivido por dois ou mais anos após o TCTH, o tempo de acompanhamento médio foi de 13,2 anos (variando de 1,6 a 31,4\nanos). Nesse período, 14 pacientes (14,6%) morreram, sendo a sobrevida global de 96,6 ± 1,9% em 5 anos e 93,6 ± 2,8% em 10\nanos pós-TCTH. Os pacientes dessa coorte exibiram um risco 22 vezes maior de mortalidade relativa (IC 95%, 12 a 37 vezes)\nem comparação com os membros de uma coorte de mesma idade e sexo, da população geral dos EUA. Quanto menor a idade da\nrealização do TCTH, menor o risco de mortalidade tardia por todas as causas [HR, 0,20; IC 95%, 0,05 a 0,90; p=0,03] em\ncomparação com o transplante realizado tardiamente, ou seja, aquele realizado em idade superior à mediana. Os dados da causa\nda morte estavam disponíveis para todosos catorze pacientes que morreram. A causa mais prevalente para o óbito foi a progressão\nda doença primária (n = 10; 71%), seguida de doenças cardíacas (n = 4; 29%) e doenças pulmonares (n = 4; 29%).\n\n       Por fim, Gardin et al7 acompanharam 51 pacientes com forma grave de MPS I (síndrome de Hurler) submetidos ao TCTH\nna França, entre 1986 e 2018. O tempo mediano de seguimento dos pacientes foi 9 anos (entre 8 e 16,5 anos). Quatro pacientes\nmorreram por complicações do TCTH e um por progressão da doença. Quimerismo completo e atividade normal da enzima α-\nL-Iduronidase foram obtidos em 84% e 71% dos pacientes, respectivamente. Todos os pacientes adquiriram marcha\nindependente, 91% adquiriram linguagem inteligível e e 78% adquiriram capacidade de leitura e escrita. A avaliação do\nQuociente de Inteligência (n = 23) mostrou que 69% tinham QI maior ou igual a 70 no último acompanhamento. Ainda, 58%\ndos pacientes tinha escolaridade normal ou “aceitável” e 62% dos 13 adultos tinham boa inserção socioprofissional. No entanto,\nos autores observaram que a displasia esquelética, bem como as deficiências visuais e auditivas, progrediu apesar do TCTH,\nlevando à incapacidade significativa.\n       Considerações gerais e para implementação:\n       Não foram encontradas evidências sobre a disponibilização de novos tratamentos ou exames diagnósticos para a MPS I.\n       Perfil de evidências:\n       Foram incluídas novas referências acerca de todas as dúvidas clínicas elaboradas (diagnóstico, tratamento e monitorização\nda MPS I, tratamento com laronidase e com TCTH): uma diretriz clínica2, uma revisão sistemática com meta-análise3, e quatro\ncoortes4-7. Não foram encontradas referências novas sobre tratamento com TRE em gestantes e lactantes que obedecessem aos\ncritérios pré-estabelecidos nas respectivas perguntas PICO para serem incorporadas a este PCDT.",
+      "char_count": 36238
+    },
+    {
+      "number": "6",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an",
+      "depth": 1,
+      "content": "updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: 10.1136/bmj.n71.",
+      "char_count": 91
+    },
+    {
+      "number": "2",
+      "title": "Bay L, Amartino H, Antacle A, Arberas C, et al. Nuevas recomendaciones para el cuidado de los pacientes con",
+      "depth": 1,
+      "content": "mucopolisacaridosis tipo I. Arch Argent Pediatr 2021;119(2):e121-e128.",
+      "char_count": 70
+    },
+    {
+      "number": "3",
+      "title": "Jameson E, Jones S, Remmington T. Enzyme replacement therapy with laronidase (Aldurazyme ®) for treating",
+      "depth": 1,
+      "content": "mucopolysaccharidosis     type   I.   Cochrane    Database    Syst    Rev.   2019    Jun    18;6(6):CD009354.      doi:\n         10.1002/14651858.CD009354.pub5.",
+      "char_count": 160
+    },
+    {
+      "number": "4",
+      "title": "Polgreen LB, Bay L, Clarke LA, Guffon N, Jones SA, Munzer J, et al. Growth in individuals with attenuated",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type I during untreated and treated periods: Data from the MPS I registry. Am J Med Genet.\n         2022;188A:2941–2951.",
+      "char_count": 142
+    },
+    {
+      "number": "5",
+      "title": "Javed A, Aslam T, Jones SA, Mercer J, Tyler K, Church H, et al. The effect of haemopoietic stem cell transplantation",
+      "depth": 1,
+      "content": "on the ocular phenotype in mucopolysaccharidosis type I (Hurler). Acta Ophthalmol. 2018: 96: 494–498.",
+      "char_count": 101
+    },
+    {
+      "number": "6",
+      "title": "Wadhwa A, Chen Y, Holmqvist A, Wu J, Ness E,l Parman M, et al. Late Mortality after Allogeneic Blood or Marrow",
+      "depth": 1,
+      "content": "Transplantation for Inborn Errors of Metabolism: A Report from the Blood or Marrow Transplant Survivor Study-2\n         (BMTSS-2). Biol Blood Marrow Transplant. 2019; 25(2): 328–334. doi:10.1016/j.bbmt.2018.09.035.",
+      "char_count": 214
+    },
+    {
+      "number": "7",
+      "title": "Gardin A, Castelle M , Pichard S , Cano A , Chabrol B , Piarroux J, et al. Long term follow-up after haematopoietic",
+      "depth": 1,
+      "content": "stem cell transplantation for mucopolysaccharidosis type I-H: a retrospective study of 51 patients. Bone Marrow\n         Transplantation (2023) 58:295–302; https://doi.org/10.1038/s41409-022-01886-1.\n\n                                                  APÊNDICE 2\n\nPROGRAMA MÍNIMO DE ACOMPANHAMENTO DE PACIENTES COM MPS I (EM USO OU NÃO DE TRE)\n\n      Avaliação inicial e período de acompanhamento clínico mínimo sugerido para pacientes com Mucopolissacaridose I.\n\n\n              Avaliações                       Avaliação inicial                      A cada 6 meses*\n         Atividade enzimática                          X                Realizar a cada 30 dias se paciente realizou\n                                                                        TCTH (primeiros 6 meses após transplante).\n                                                                        Depois, a cada 6 meses.\n             Genotipagem                   Obrigatória se a indicação\n                                             de TCTH for possível\n\n            GAGs urinários                             X                X\n                                                                        (se paciente realizouTCTH, realizar a cada mês\n                                                                        nos primeiros 6 meses após transplante)\n            História médica                            X                X\n\nRevisão do número de infusões realizadas                                X\n              no período\n      Determinação da adesão ao                        X                X\n      acompanhamento/tratamento\n              Peso/altura                              X                X\n\n            Pressão arterial                           X                X\n\n      Hepatimetria (exame físico)                      X                X\n\n   Questionário de qualidade de vida                   X\n              validado**\n          - Exame neurológico                          X                X\n\n           - RNM do crânio                             X\n\n           - RNM da coluna                             X\n\n   - Velocidade de condução do nervo                   X\n                mediano\n - Avaliação do neurodesenvolvimento                   X                Obrigatória pré-TCTH.\n\n  AVALIAÇÃO OFTALMOLÓGICA                              X\n    (acuidade visual, retina, córnea)\n           AUDIOMETRIA                                 X\n\n           - Ecocardiograma                            X\n\n          - Eletrocardiograma                          X\n\n      - CVF/VEF1 (espirometria)                        X\n\n           - Polissonografia                           X\n\n                     Avaliações                                 Avaliação inicial                                A cada 6 meses*\n AVALIAÇÃO               DA        MOBILIDADE            X                                     X\n ARTICULAR\n RADIOGRAFIA SIMPLES DE OSSOS                            X\n\nFonte: Elaborado com base em Hampe et al 2022, Han 2020, Clarke 2024\n*Para pacientes em tratamento específico. Os demais casos e as demais avaliações devem ser realizadas em períodos determinados pelo médico assistente.\nGAGs = glicosaminoglicanos; RNM = ressonância magnética; CVF = capacidade vital forçada; VEF1 = volume expiratório forçado no primeiro segundo.\nNOTA: No seguimento de pacientes submetidos ao TCTH, observar outra orientação porventura dada pelo centro transplantador.\n\n\n\nREFERÊNCIAS",
+      "char_count": 3473
+    },
+    {
+      "number": "1",
+      "title": "Hampe CS, Eisengart JB, Lund TC, Orchard PJ, Swietlicka M, Wesley J, ey al. Mucopolysaccharidosis Type I: A",
+      "depth": 1,
+      "content": "Review of the Natural History and Molecular Pathology. Cells. 2020; 9(8):1838. doi: 10.3390/cells9081838\n     2.   Han      S.    Mucopolysaccharidoses:           Clinical     features     and     diagnosis.     Uptodate.       2020.     Disponível          em:\n          https://www.uptodate.com/contents/mucopolysaccharidoses-clinical-features-and-\n          diagnosis?search=MPS%20I&source=search_result&selectedTitle=1%7E18&usage_type=default&display_rank=1",
+      "char_count": 461
+    },
+    {
+      "number": "3",
+      "title": "Clarke LA. Mucopolysaccharidosis Type I. 2002 [atualização em 2024, Apr 11]. Em: Adam MP, Feldman J, Mirzaa",
+      "depth": 1,
+      "content": "GM, Pagon RA, Wallace SE, Bean LJH, Gripp KW, Amemiya A, editores. GeneReviews® [Internet]. Seattle (WA):\n          University of Washington, Seattle; 1993–2024.\n\n                                                    APÊNDICE 3\n\n                                 HISTÓRICO DE ALTERAÇÕES DO PROTOCOLO\n\n\n\n\n  Número do Relatório da                                                Tecnologias avaliadas pela Conitec\ndiretriz clínica (Conitec) ou    Principais alterações       Incorporação ou alteração do             Não incorporação ou não\n   Portaria de Publicação                                             uso no SUS                         alteração no SUS\nRelatório de Recomendação nº Atualização do conteúdo\n                                                         -                                        -\n983/2025                        do PCDT\n                                                         Laronidase     como     terapia    de\n                                                         reposição       enzimática         na\n                                                         mucopolissacaridose        tipo      I\n                                                         [Relatório    Técnico     nº      293;\n                                Primeira versão do PCDT Portaria SCTIE/MS nº 37/2017]\nPortaria   Conjunta   SAES-\n                                do    documento    com\nSCTIE/MS nº 12, 11 de abril                                                                       -\n                                incorporação         de Ampliação do Transplante de\nde 2018\n                                tecnologias              Células          -             Tronco\n                                                         Hematopoiéticas                   para\n                                                         Mucopolissacaridose       Tipo       I\n                                                         [Relatório    Técnico     nº      329;\n                                                         Portaria SCTIE/MS nº 08/2018]",
+      "char_count": 2061
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3.1",
+      "content": "Deve-se suspeitar de MPS I se o paciente apresentar pelo menos um dos seguintes sinais e sintomas a seguir,\nespecialmente se dois ou mais critérios estiverem presentes, excluindo-se outras causas mais frequentes23:\n       - Características faciais sugestivas de doença lisossômica (face infiltrada);\n       - Otite média e infecções respiratórias superiores precoces e de repetição;\n       - Hérnia inguinal ou umbilical, especialmente se ambas estiverem pacientes e em crianças;\n       - Hepatoesplenomegalia;\n       - Alterações esqueléticas ou articulares típicas (disostose múltipla, giba, limitação da amplitude de movimento das\narticulações);\n       - Mãos em garra;\n       - Alterações oculares características (opacificação bilateral da córnea);\n       - Síndrome do túnel do carpo em crianças;\n       - Irmão de qualquer sexo com MPS I.\n       Ressalta-se que os achados clínicos variam de acordo com a gravidade da doença e, por si só, não são diagnósticos 23.\n       Os sinais e sintomas mais comuns na MPS I em geral e nas formas clássicas da doença são apresentados, respectivamente,\nnos Quadros 1 e 2.\n\nQuadro 1- Sinais e sintomas gerais da Mucopolissacaridose do tipo I.\n\n        Órgão/sistema                              Manifestação clínica                           Avaliação/tratamento\n                                                                                    Avaliação neurocirurgia.\n                                     Hidrocefalia/hipertensão intracraniana.\n                                                                                    Derivação ventrículo-peritoneal.\n                                                                                    Avaliação neurológica.\n                                     Atraso do desenvolvimento\n                                                                                    Psicopedagogia, fonoaudiologia, fisioterapia,\n                                     neuropsicomotor.\n                                                                                    psicomotricidade.\n Sistema nervoso central\n                                                                                    Avaliação neurológica.\n                                     Crises convulsivas.\n                                                                                    Farmacoterapia.\n                                                                                    Avaliação neurológica.\n                                     Alterações no ciclo sono-vigília, distúrbios\n                                                                                    Farmacoterapia.\n                                     do comportamento.\n                                                                                    Psicologia.\n                                                                                    Avaliação neurocirurgia.\n                                     Compressão medular.\n                                                                                    Cirurgia.\n Sistema nervoso periférico                                                         Avaliação traumato-ortopedia.\n                                     Síndrome do túnel do carpo.                    Fisioterapia.\n                                                                                    Cirurgia.\n\n\n                                     Acuidade visual diminuída.                     Avaliação oftalmológica.\n\n Olhos\n                                                                                    Avaliação oftalmológica.\n                                     Opacificação de córnea.\n                                                                                    Transplante de córnea (em casos específicos).\n\n                                                                                    Avaliação pneumológica,\n                                                                                    Amigdalectomia, adenoidectomia,\n                                     Síndrome da apnéia obstrutiva do sono.         Oxigenioterapia.\n                                                                                    Uso de aparelhos de pressão positiva contínua\n                                                                                    das vias respiratórias (em casos específicos).\n                                                                                    Avaliação pneumológica e\n Vias aéreas\n                                                                                    otorrinolaringológica.\n                                     Infecções de repetição.\n                                                                                    Farmacoterapia.\n                                                                                    Fisioterapia.\n                                                                                    Avaliação pneumológica.\n                                     Doença pulmonar restritiva.                    Farmacoterapia.\n                                                                                    Fisioterapia.\n                                                                                    Avaliação cirurgião.\n Tecido conjuntivo                   Hérnias.\n                                                                                    Cirurgia.\n                                                                                    Avaliação traumato-ortopedia.\n                                                                                    Farmacoterapia.\n Articulações                        Dor, contraturas.\n                                                                                    Fisioterapia.\n                                                                                    Cirurgia.\n Ossos                               Giba toracolombar, genu valgo.                 Avaliação traumato-ortopedia.\n\n        Órgão/sistema                           Manifestação clínica                         Avaliação/tratamento\n                                                                                 Coletes.\n                                                                                 Cirurgia.\n\n                                                                                 Avaliação otorrinolaringológica.\n                                   Hipoacusia.\n                                                                                 Próteses (em casos específicos).\n Orelhas                                                                         Avaliação otorrinolaringológica.\n                                   Otites de repetição.                          Farmacoterapia.\n                                                                                 Cirurgia.\n\n                                                                                 Avaliação gastroenterologiasta.\n                                   Diarreia.\n                                                                                 Orientação nutricional.\n\n\n                                   Ganho inadequado (insuficiente ou             Avaliação gastroenterologiasta.\n                                   excessivo) de peso.                           Orientação nutricional.\n Gastrointestinal\n                                                                                 Avaliação gastroenterologista.\n                                                                                 Orientação nutricional\n                                   Distúrbio de deglutição.                      Farmacoterapia.\n                                                                                 Fonoaudiologia.\n                                                                                 Cirurgia (gastrostomia).\n                                                                                 Avaliação odontológica ou de cirurgia\n                                                                                 bucomaxilofacial.\n Bucomaxilofacial                  Má oclusão, dentição anômala.\n                                                                                 Cirurgia.\n                                                                                 Aparelho ortodôntico.\n                                                                                 Avaliação cardiologia.\n                                   Valvulopatia, cardiomiopatia, insuficiência\n Cardiovascular                                                                  Farmacoterapia.\n                                   cardíaca.\n                                                                                 Cirurgia.\n                                         23                  24\nFonte: Elaboração com base em Clarke, 2024 e Hampe at al, 2020\n\nQuadro 2- Características mais frequentes das formas clássicas da Mucopolissacaridose do tipo I.\n\n           Nome                          Herança                     Deficiência                   Gene        Substrato            Idade de               Aspectos distintos centrais\n                                                                     Enzimática                               acumulado            diagnóstico\n\nDoença esquelética, depósitos em tecido mole e espectro de alterações de SNC\n\nHurler                            Autossômica                   Alfa-L-Iduronidase           IDUA         Sulfato de heparan,   1-2 anos         Atraso           no            desenvolvimento,\n(forma grave)                     Recessiva                                                               sulfato de dermatan                    hepatoesplenomegalia,       obstrução    de    vias\n                                                                                                                                                 aéreas,   características    faciais    infiltradas,\n                                                                                                                                                 disostose multiplex.\n                                                                                                                                                 Geralmente tranquilos e plácidos.\n                                                                                                                                                 Óbito em torno dos 10 anos de idade\n\nHurler-Scheie                                                                                                                   1-5 anos         Micrognatia, faces infiltradas, marcha ‘toe\n(forma intermediária)                                                                                                                            walker’ (na ponta dos pés), inteligência\n                                                                                                                                                 possivelmente normal.\n                                                                                                                                                 Óbito em torno dos 20 anos de idade.\n\nScheie                                                                                                                          3-15 anos        Doença valvular aórtica, doença articular,\n(forma menos severa)                                                                                                                             opacificação corneana, fácies normal.\n                                                                                                                                                 Óbito em décadas.\nFonte: Adaptado de Hahn S, 202225.\nLegenda: SNC: sistema nervoso central; MPS: mucopolissacaridoses; IDUA: iduronidaseᵃ"
+    },
+    "treatment": {
+      "number": "6.1",
+      "content": "O tratamento dos pacientes com MPS I deve ter um caráter multidisciplinar devido às suas múltiplas manifestações23."
+    }
+  },
+  "stats": {
+    "section_count": 155,
+    "char_count": 150279,
+    "depth1_count": 133
+  }
+}

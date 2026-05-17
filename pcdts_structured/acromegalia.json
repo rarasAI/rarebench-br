@@ -1,0 +1,846 @@
+{
+  "slug": "acromegalia",
+  "name_pt": "Acromegalia",
+  "icd10": "E22.0",
+  "orphanet": "ORPHA:963",
+  "omim": "102200",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/portaria-no-23-pcdt-acromegalia.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A acromegalia é uma doença crônica e insidiosa que, em cerca de 98% dos casos, é causada por adenomas hipofisários\nsecretores de hormônio do crescimento (GH), conhecidos como somatotropinomas. Estes tumores são classificados de acordo\ncom o tamanho: microadenomas (menos de 1 cm) ou macroadenomas (1 cm ou mais), sendo que mais de 70% dos tumores\nassociados à acromegalia são macroadenomas 1–3.\n          Os somatotropinomas são tumores monoclonais que podem ocorrer de forma esporádica ou, mais raramente, de forma\nfamiliar4. Além disso, existem sete tipos histológicos diferentes5, os quais apresentam comportamentos biológicos heterogêneos.\nEssa diferença afeta a resposta aos diferentes tratamentos da doença, já que, por exemplo, há diferença na expressão dos\nreceptores dopaminérgicos e somatostatinérgicos6,7.\n          Em aproximadamente 2% dos casos, a acromegalia é causada por hipersecreção do hormônio liberador de GH (GHRH),\nno próprio hipotálamo ou de origem ectópica (por exemplo, carcinoide brônquico e tumor de ilhota pancreática). A secreção\nectópica do GH é extremamente rara8.\n          O excesso de GH estimula a hipersecreção do fator de crescimento semelhante à insulina tipo I (IGF-I) principalmente\npelo fígado, mas também por diversas células do organismo. O aumento dos níveis de IGF-I é o responsável pela maioria dos\nsinais e sintomas clínicos associados à acromegalia1–3.\n          A acromegalia pode ocorrer em qualquer idade, porém é mais comum entre os 30 e 50 anos. Em crianças e adolescentes,\na doença ocorre antes do fechamento das placas de crescimento epifisárias, portanto, é chamada de gigantismo hipofisário. Cerca\nde 10% dos pacientes com acromegalia têm alta estatura, indicando que o início da doença ocorreu antes do fechamento da placa\nde crescimento epifisária9.\n          A acromegalia e o gigantismo são incomuns, com a prevalência variando entre 2,8 e 13,7 casos por 100.000 habitantes, e\numa incidência anual de 0,2 a 1,17 casos por 100.000 pessoas, considerando dados de diversas regiões geográficas do mundo 10–\n12\n     . Dessa forma, apesar de não haver estudos abrangentes realizados no Brasil, por meio desses dados epidemiológicos, estima-\nse uma prevalência de 5.768 a 27.398 pessoas acometidas e que cerca de 412 a 2.300 novos casos de acromegalia sejam\ndiagnosticados anualmente no país. Estudo realizado em um único centro de referência regional em Londrina encontrou uma\nprevalência de 1,27 casos de acromegalia por 100.000 habitantes 13.\n          Não foram encontrados dados epidemiológicos brasileiros específicos para o gigantismo. Um estudo retrospectivo\nmulticêntrico internacional abrangendo 208 casos de gigantismo hipofisário revelou uma predominância do sexo masculino\n(78%), sendo a causa genética conhecida em cerca de 50% dos casos de gigantismo 14,15. A mutação germinativa no gene AIP é\na principal alteração genética e pacientes com esta mutação não respondem adequadamente aos ligantes do receptor da\nsomatostatina de primeira geração16.\n          Tanto o GH quanto o IGF-I possuem receptores em diversos órgãos e sistemas, o que torna a acromegalia uma doença\nsistêmica com diversas comorbidades, tais como: hipertensão arterial, diabete melito, apneia do sono, fraturas vertebrais e\nmanifestações musculoesqueléticas, neoplasia colorretal e artropatia/osteoartropatia. Além disso, o paciente com acromegalia\napresenta alterações fenotípicas como fácies acromegálica e crescimento de extremidades. Tanto as alterações fenotípicas quanto\nas comorbidades contribuem para a redução da qualidade de vida destes pacientes17–20.\n          Pacientes mais jovens tendem a apresentar tumores mais agressivos e também possuem maior chance de desenvolver\nsinais e sintomas compressivos decorrentes do efeito de massa do tumor, como perda visual21. No caso do gigantismo, a principal\n\n\n                                                                                                                              2\n\nmanifestação clínica é a alta estatura decorrente de crescimento exagerado, podendo a mesma estar associada a outros achados\nfenotípicos similares aos observados nos pacientes adultos com acromegalia e também a sinais e sintomas compressivos. Em\nmulheres adolescentes com adenomas hipofisários secretores de GH, também são relatados casos de amenorreia, com ou sem\ngalactorreia e, em ambos os sexos, a doença pode se manifestar inicialmente pelo quadro de diabete melito em adolescentes14.\n       Finalmente, fatores associados a um pior prognóstico em pacientes com acromegalia têm sido identificados, indicando\nmaior atenção no cuidado de pacientes com essas características já que não costumam responder adequadamente aos\nmedicamentos de primeira linha – ligantes do receptor da somatostatina de primeira geração 22. Entre os fatores, destacam-se:\nidade (jovens); aspectos bioquímicos (níveis mais altos de GH e IGF-I); histológicos (adenomas esparsamente granulados; baixa\nexpressão do receptor da somatostatina subtipo 2 – SST2); moleculares (mutação germinativa no gene AIP) e radiológicos (maior\nvolume tumoral, invasão do seio cavernoso, hipersinal em T2 na ressonância magnética de sela túrcica) 23–25.\n       A acromegalia está associada à elevada mortalidade se não adequadamente controlada (níveis séricos de GH e IGF-I\nelevados)26–28. No entanto, com o tratamento adequado e o controle das comorbidades, a taxa de mortalidade é igual à da\npopulação geral. Além de um tratamento adequado, o diagnóstico precoce também desempenha um papel essencial na redução\nda elevada taxa de mortalidade associada à acromegalia26,29.\n       Dessa forma, a identificação da doença em seu estágio inicial e o encaminhamento ágil e adequado para atendimento\nespecializado multidisciplinar dão à Atenção Primária à Saúde um caráter essencial para um melhor resultado terapêutico e\nprognóstico dos casos.",
+      "char_count": 5880
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À",
+      "depth": 1,
+      "content": "SAÚDE (CID-10)\n\n\n        E22.0 Acromegalia e gigantismo hipofisário",
+      "char_count": 68
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "O diagnóstico de acromegalia é feito a partir da suspeita clínica, por comprovação de excesso hormonal em exames\nlaboratoriais e por exames de imagem para determinação da causa de excesso de GH 31–33.",
+      "char_count": 200
+    },
+    {
+      "number": "3.1",
+      "title": "Diagnóstico clínico",
+      "depth": 2,
+      "content": "Por ser uma doença insidiosa, o atraso no diagnóstico em geral é de 7 a 10 anos. Os sintomas da acromegalia podem\ndecorrer do próprio tumor hipofisário produtor de GH, como defeitos visuais, paralisia de nervos cranianos (por invasão de seio\ncavernoso) e cefaleia, ou resultar do excesso de GH e de IGF-I (somatomedina C)1,2.\n       O excesso de GH pode se manifestar por sinais clínicos de crescimento excessivo (macrognatia, crescimento de pés e\nmãos, hipertrofia de tecidos moles, macroglossia), por complicações musculoesqueléticas (artralgias, síndrome do túnel do carpo,\nmiopatia) e por complicações sistêmicas, como hipertensão arterial sistêmica (em até 30% dos pacientes) e ainda diabete melito,\ncardiopatia, hipertrofia de ventrículo esquerdo e apneia do sono 34. Em pacientes jovens que ainda não tiveram o fechamento da\ncartilagem de crescimento, há registro de crescimento exagerado e gigantismo 1,2,35. Em jovens e adolescentes com gigantismo,\nque apresentem tumores de crescimento rápido, agressivos ou invasivos, associados a elevados níveis de GH ao diagnóstico,\ndeve-se considerar ampliar a investigação clínica para condições familiares ou genéticas, como Neoplasia Endócrina Múltipla\ntipo 1 (NEM-1), Adenomas Hipofisários Familiares Isolados (FIPA), Acrogigantismo Ligado ao X, que cursam frequentemente\ncom resistência ao tratamento medicamentoso de primeira linha e requerem múltiplas intervenções terapêuticas 36,37.\n\n\n\n\n                                                                                                                               3\n\n       Além disso, a evidência atualmente disponível sugere o aumento da incidência de neoplasia, especialmente de cólon,\nporém tal associação permanece controversa19.\n       Um grupo significativo de pacientes pode apresentar sintomas e sinais decorrentes da hiperprolactinemia, tais como\nalterações menstruais e galactorreia no sexo feminino, e impotência, sintomas de hipogonadismo e galactorreia no sexo\nmasculino38, o que muitas vezes leva ao diagnóstico da doença. Doenças prostáticas também são mais comuns em homens com\nacromegalia39.",
+      "char_count": 2116
+    },
+    {
+      "number": "3.2",
+      "title": "Diagnóstico laboratorial",
+      "depth": 2,
+      "content": "A maioria dos pacientes com acromegalia apresenta níveis elevados de GH e IGF-I. A comprovação desse excesso\nhormonal é imprescindível para o diagnóstico e deve ser feita pela dosagem de níveis séricos basais de IGF-I e de GH, podendo\nser realizada dosagem após sobrecarga de glicose31–33,40.\n       A dosagem do nível sérico de IGF-I é o melhor teste inicial para o rastreamento diagnóstico, estando os níveis elevados\nna maioria dos pacientes com acromegalia. Destaca-se que, em pacientes com apresentação clínica sugestiva de acromegalia e\ncom IGF-1 acima de 30% do limite superior da referência, a supressão do GH não é necessária41. Os valores de referência variam\nde acordo com a idade, índice de massa corporal (IMC) e com os métodos de dosagem utilizados. Os resultados, portanto, devem\nser avaliados considerando essas variações, com os valores de referência sendo fornecidos pelo laboratório. Por tais razões, é\nimportante que, durante o tratamento e a monitorização da doença, sejam utilizados os mesmos métodos de dosagem dos níveis\nséricos de GH e IGF-I1,31,34,40,42.\n       A avaliação laboratorial se inicia com a dosagem de IGF-I, seguida, em alguns casos da dosagem de GH basal ou após\nsupressão com glicose. A secreção de GH em indivíduos normais é pulsátil e estimulada por diversos fatores. Além disso, a\nconcentração sérica de GH pode ser alterada por uso concomitante de alguns medicamentos (arginina, contraceptivos orais,\nesteroides)1, além de doenças, como diabete melito descompensada, doenças hepáticas e desnutrição 34. Assim, a dosagem isolada\nde GH tem pouca utilidade diagnóstica, pois valores elevados são encontrados em indivíduos normais em resposta a estímulos\nfisiológicos ou em indivíduos com outras doenças que tenham ocasionado sua elevação 1,34. Entretanto, um valor muito baixo de\nGH (menor que 0,4 ng/mL), utilizando método ultrassensível, exclui o diagnóstico de acromegalia, especialmente se estiver\nassociado a nível sérico de IGF-I normal2,31,42.\n       A dosagem de GH após sobrecarga de glicose é um teste laboratorial dinâmico que permite a demonstração da não\nsupressão da secreção de GH. O teste é feito com dosagens de GH antes e 30, 60, 90 e 120 minutos após o paciente receber 75\ng de glicose anidra por via oral. Em indivíduos saudáveis, as concentrações de GH caem para níveis inferiores a 0,4 ng/mL em\npelo menos uma das dosagens, sendo esse o ponto de corte acima do qual é considerada a ausência de supressão fisiológica,\nsugerindo a secreção desregulada de GH33,43–45. Pacientes com diagnóstico de diabete melito não devem ser submetidos à\nsobrecarga de glicose. A alta concentração de IGF-I e nível de GH basal maior que 0,4 ng/mL na presença de hiperglicemia\npodem ser utilizados no diagnóstico laboratorial do paciente 46.\n       Ainda que não sejam obrigatórios, outros exames laboratoriais importantes são as dosagens de glicose de jejum e de\nhemoglobina glicada, pela elevada prevalência de diabete melito nos pacientes com acromegalia. A função adeno-hipofisária\ndeve ser avaliada por meio das determinações séricas dos seguintes hormônios: cortisol, TSH, T4 livre, prolactina, LH e FSH.\nAdicionalmente, homens devem realizar a dosagem sérica de testosterona total e dos testes de gonadotrofina (LH e FSH). Para\nmulheres com ciclo menstrual irregular ou pós-menopausa, deve-se considerar as dosagens de estradiol, LH e FSH31–33. Para\nmulheres com ciclo menstrual regular, não é necessário realizar a dosagem de gonadotrofinas e estradiol.\n\n\n\n\n                                                                                                                            4",
+      "char_count": 3635
+    },
+    {
+      "number": "3.3",
+      "title": "Diagnóstico por exames de imagem",
+      "depth": 2,
+      "content": "Os exames de imagem permitem determinar a origem do excesso de GH. Como a principal causa de acromegalia (cerca\nde 98% dos casos) é um tumor hipofisário produtor de GH, todos os pacientes devem ser submetidos à ressonância magnética\n(RM) de sela túrcica34,42 ou, se apresentarem contraindicação a esse exame, devem realizar tomografia computadorizada (TC) de\nsela túrcica. Nos raros casos em que haja diagnóstico clínico e laboratorial de acromegalia com RM ou TC de sela túrcica sem\nevidência de adenoma, tumores ectópicos produtores de GH ou de GHRH devem ser pesquisados. Para isso, o paciente deve ser\nsubmetido à TC de tórax e de abdômen1.",
+      "char_count": 644
+    },
+    {
+      "number": "3.4",
+      "title": "Outros exames",
+      "depth": 2,
+      "content": "Para avaliação das complicações decorrentes da acromegalia, os exames a serem solicitados devem ser individualizados,\npodendo incluir ecocardiografia, tomografia computadorizada seios da face, radiografia de coluna, ultrassonografia de tireoide,\navaliação de distúrbios do sono (polissonografia) e, devido a relatos de aumento da incidência de neoplasia de cólon em alguns\nestudos, colonoscopia1,33,34. Além disso, pacientes com tumores hipofisários, que à RM apresentem contato com o nervo óptico\nou tenham queixas visuais, devem ser submetidos à exame oftalmológico com realização de campimetria visual manual 34,42.\n       A incidência de doenças e câncer de tireoide também parece ser maior nos pacientes com acromegalia do que na população\nem geral. Por isso, recomenda-se que o exame clínico inclua a avaliação da tireoide pela palpação e, em pacientes com nódulo\npalpável, seja realizada ecografia de tireoide34,47,48.",
+      "char_count": 925
+    },
+    {
+      "number": "4",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "depth": 1,
+      "content": "São incluídos nesse PCDT as crianças, adolescentes e adultos com suspeita ou diagnóstico de acromegalia ou gigantismo\nconfirmado por manifestações clínicas, comprovação laboratorial de excesso hormonal e por exame de imagem com\nidentificação da causa da doença.\n       Para o tratamento com octreotida e lanreotida, o paciente também deve apresentar os seguintes critérios:\n       No tratamento primário: o paciente deve ter contraindicação ao tratamento cirúrgico ou ter baixa probabilidade de\nbenefício com a cirurgia (devido a tumores invasivos predominantemente de seios cavernosos), e não apresentar risco de perda\nvisual devido à extensão supra-selar do tumor.\n       No tratamento complementar: três meses após procedimento cirúrgico, o paciente que não apresente critérios laboratoriais\nde controle da doença (IGF-I elevado).\n       Para o tratamento com cabergolina, o paciente também deve apresentar:\n       No tratamento primário: pacientes com adenomas hipofisários coprodutores de prolactina e GH ou pacientes com tumores\nnão invasivos e com níveis pouco elevados de GH e IGF-I (menor do que 1,5 vezes o limite superior da normalidade para a idade\ndo paciente).\n       Tratamento complementar: pacientes que, três meses após uso regular de octreotida ou lanreotida, não apresentem\ncritérios laboratoriais de controle da doença, ou seja, redução nos níveis de GH e IGF-I, sem atingir os níveis de normalidade.\n       Para o tratamento com pasireotida, o paciente também deve apresentar idade a partir de 12 anos e exame de imagem que\nevidencie tumor remanescente após cirurgia no exame de imagem, sem resposta ao tratamento com octreotida ou lanreotida,\nassociado ou não à cabergolina.\n\n\n\n\n                                                                                                                                  5",
+      "char_count": 1833
+    },
+    {
+      "number": "5",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "depth": 1,
+      "content": "Pacientes com intolerância, hipersensibilidade ou contraindicação aos medicamentos ou procedimentos preconizados\nneste Protocolo serão excluídos dos respectivos medicamentos ou procedimentos. Para o uso de pasireotida, serão excluídos\npacientes que apresentem diagnóstico de diabete melito não controlado (HbA1c superior a 8%).",
+      "char_count": 327
+    },
+    {
+      "number": "6",
+      "title": "TRATAMENTO",
+      "depth": 1,
+      "content": "O tratamento da acromegalia pode envolver procedimentos cirúrgicos, radioterapia e terapia medicamentosa. A\nacromegalia deve ser acompanhada não só para o controle dos sintomas, mas também para a diminuição da mortalidade 23. Se\nnecessário, os pacientes também devem receber tratamento para as eventuais complicações decorrentes da acromegalia, como\nhipertensão arterial sistêmica, diabete melito e doenças cardíacas.",
+      "char_count": 417
+    },
+    {
+      "number": "6.1",
+      "title": "Tratamento cirúrgico",
+      "depth": 2,
+      "content": "O tratamento cirúrgico, com remoção do tumor, é o tratamento primário dos pacientes com acromegalia, na maioria dos\ncasos. A remoção completa do tumor secretor de GH resulta em normalização das taxas hormonais com consequente melhoria\ndas alterações clínicas e laboratoriais. A ressecção cirúrgica com consequente remissão da acromegalia pode reduzir as causas\nde mortalidade dos pacientes acromegálicos para os níveis normais da população 23,31,32,34,42,49–51.\n       Como a cirurgia pode levar à cura, é o tratamento de escolha em pacientes com acromegalia. Também é o tratamento\ninicial nos tumores que provocam sintomas compressivos, em especial do quiasma óptico com perda de campo visual.\n       O resultado do tratamento cirúrgico depende da ressecção completa das células produtoras de GH, com interferências de\ndiversos fatores, tais como características anatômicas do tumor, tamanho e invasão de seio cavernoso. A experiência da equipe\ncirúrgica e a realização do procedimento em centros especializados também interferem nas taxas de cura 52. Pacientes que\napresentem Classificação Knosp (avaliação da extensão do tumor hipofisário em relação ao seio cavernoso) graus 3 ou 4 e níveis\nelevados de IGF-I pré-operatório têm pior prognóstico de sucesso da cirurgia 53,54.\n       Em pacientes com microadenomas, a taxa de sucesso (normalização do IGF-I) descrita na literatura é de 75% a 95%; em\npacientes com macroadenomas não invasivos, a taxa é de 40% a 68% 32,34,42,51,55–57. Um estudo brasileiro identificou que em\npacientes com acromegalia submetidos à cirurgia transesfenoidal (84% com macroadenomas), a remissão cirúrgica (definida\ncomo IGF-I normal e GH menor que 1 mcg/L três meses após a cirurgia) foi alcançada em 45% dos casos (56% em indivíduos\ncom tumores não invasivos e 19% naqueles com tumores invasivos). A invasão do seio cavernoso foi considerado o único\npreditor pré-operatório de remissão cirúrgica58. Outros três estudos retrospectivos realizados no Brasil, com abordagens\nendoscópicas diferentes, mostraram taxas de remissão bioquímica (dosagem de IGF-I dentro dos níveis normais para sexo e\nidade e nadir de GH após sobrecarga de glicose abaixo de 1 ng/mL) de 16%, 35,5% e 70,7%, respectivamente 59–61.\n       Para tumores com extensão para seio cavernoso ou outras características de maior invasão, o tratamento cirúrgico não\nresultará em cura. Contudo, apesar da baixa probabilidade de cura, os pacientes podem se beneficiar do tratamento cirúrgico,\npois ele proporciona melhor resposta a outras terapias posteriores 62,63. O procedimento cirúrgico também permite redução da\nmassa tumoral e, quando presentes, descompressão de estruturas neurais, como terceiro ventrículo, artérias carótidas, parênquima\ncerebral adjacente e quiasma óptico, melhorando os sintomas visuais. Quando a primeira cirurgia não resultou em controle da\ndoença, um novo tratamento cirúrgico pode levar a cura em aproximadamente 50% dos casos56.\n       O tratamento cirúrgico de escolha dos adenomas hipofisários produtores de GH se faz por via transesfenoidal com acesso\nendoscópico ou por microscopia (a abordagem transcraniana é raramente utilizada). O acesso por craniotomia fronto-temporal e\nressecção microcirúrgica do tumor também pode ser indicado, em especial nos pacientes que apresentam extensão do tumor\n\n\n                                                                                                                              6\n\nacima do diafragma selar com extensões laterais. Entretanto, tal decisão deve ser individualizada e discutida pela equipe\nmultidisciplinar42,51,64,65.\n        As principais complicações relacionadas ao tratamento cirúrgico são: fístula liquórica, infecções (meningite e sinusite),\nhipopituitarismo e deficiência transitória de vasopressina. Outras complicações decorrentes do ato cirúrgico incluem: perda\nvisual e sangramentos51,66. A taxa de mortalidade da cirurgia transesfenoidal, quando realizada por neurocirurgiões com\nexperiência no procedimento, é inferior a 1%32. O tratamento pré-operatório com análogos da somatostatina não é preconizado\nneste Protocolo.",
+      "char_count": 4118
+    },
+    {
+      "number": "6.2",
+      "title": "Radioterapia",
+      "depth": 2,
+      "content": "A radioterapia pode ser considerada terapia de segunda ou terceira linha naqueles que apresentarem contraindicação a\ncirurgia ou em que, após tratamento cirúrgico e medicamentoso, não houve controle adequado da doença 42,49. A seleção dos\npacientes para o tratamento radioterápico deve ser feita em bases individuais, mas o procedimento estará geralmente indicado\nem pacientes com contraindicação à realização de cirurgia, com lesões de localização irressecável e resistentes ao tratamento\nmedicamentoso. Deve ser dividida em duas modalidades de tratamento: radioterapia convencional fracionada e radiocirurgia\nestereotáxica (essa ainda podendo ser dividida em diferentes modalidades).\n        Há maior experiência terapêutica com a radioterapia convencional, a qual é administrada por um acelerador linear (4 a 8\nMeV) com uma dose total de 40 a 45 Gy, fracionada em pelo menos 20 sessões. Em geral, a normalização de GH e IGF- 1, ou\nseja, o controle da doença, ocorre em 50% a 60% dos pacientes em 5 a 10 anos e em 65% a 87% dos pacientes em 15 anos,\ndemonstrando a dependência do tempo para o efeito completo da radiação. Já o controle do crescimento do tumor ocorre em\n90% a 100% dos casos logo após o tratamento 67–70. Além do tempo para o efeito, 5 a 15 anos até benefício máximo, o alto risco\nde eventos adversos em longo prazo também é um problema desta técnica, podendo ocorrer: hipopituitarismo em 30% a 80%\ndos pacientes, neuropatia óptica em 0% a 5%, neoplasia secundária em até 2%, doença cerebrovascular em 4% dos pacientes\napós 5 anos e em até 21% depois de 20 anos. Esses eventos indesejados são atribuídos à radiação de tecidos circundantes\nsaudáveis, o que reforça a necessidade de monitorização contínua 40,71.\n        As técnicas estereotáxicas foram desenvolvidas a partir de 1950 e incluem a radiocirurgia estereotáxica e a radioterapia\nfracionada estereotáxica. Ambas fornecem uma alta dose de radiação para um alvo definido com uma dose acentuada na margem\ndo tumor, limitando assim a irradiação e o dano às estruturas do cérebro adjacentes71. A taxa de cura bioquímica com estas\ntécnicas é de 40% a 60% dos pacientes aos 5 anos. De forma semelhante à radioterapia convencional, o tamanho do tumor\ndiminui ou se mantém estável em 93% a 100% dos pacientes com 5 a 10 anos de seguimento. A taxa de hipopituitarismo é de\n10% a 50% após 5 anos e o risco de outras complicações induzidas por radiação é baixa: 0% a 5% para novos déficits visuais,\ndano dos nervos cranianos ou radionecrose cerebral e 0% a 1% para tumores cerebrais secundários71.\n        A comparação das duas modalidades de radioterapia foi alvo de uma revisão sistemática com meta-análise. As taxas de\ncontrole, definido pela normalização de GH e IGF-I, com os dois tipos de radioterapia foram comparáveis: 52% para radiocirurgia\nvs. 36% para radioterapia convencional, p=0,14. O uso de radiocirurgia foi associado com menores taxas de hipopituitarismo\ncom nível de significância marginal (32% vs. 51%, p=0,05) 72. Adicionalmente, uma revisão sistemática indicou que as técnicas\nforam comparáveis em termos de taxa de redução do tamanho tumoral, controle tumoral e eventos adversos. Entretanto, uma\nmaior taxa de remissão bioquímica (43% vs 28%, p =0,02) foi observada entre aqueles tratados com radiocirurgia. Contudo,\nestes dados devem ser vistos com cautela pelas limitações dos estudos incluídos, como sua elevada heterogeneidade 73.\n        As principais complicações da radioterapia são hipopituitarismo, defeitos visuais, tumores secundários, eventos\ncerebrovasculares e, possivelmente, alterações neurocognitivas em longo prazo 1.\n\n\n\n\n                                                                                                                               7",
+      "char_count": 3757
+    },
+    {
+      "number": "6.3",
+      "title": "Tratamento medicamentoso",
+      "depth": 2,
+      "content": "ANÁLOGOS DA SOMATOSTATINA OU LIGANTES DO RECEPTOR DA SOMATOSTATINA DE\nPRIMEIRA GERAÇÃO (OCTREOTIDA E LANREOTIDA)\n       Os análogos da somatostatina são alguns dos principais medicamentos usados no tratamento da acromegalia e agem pela\nestimulação do receptor da somatostatina. Dessa maneira, eles diminuem a secreção de GH e a proliferação dos tumoral 1.\n       A octreotida e a lanreotida são os dois análogos da somatostatina preconizados neste Protocolo, disponíveis em\nformulações de curta e longa duração, sendo esta última a mais utilizada atualmente na prática clínica.\n       Há evidências sobre o uso desses medicamentos como tratamento primário (prévio à cirurgia) e secundário (após a\ncirurgia)74–78. No entanto, o tratamento primário deve ser realizado apenas em pacientes com contraindicação ao tratamento\ncirúrgico ou que tenham baixa probabilidade de benefício com a cirurgia (devido a tumores invasivos predominantemente de\nseios cavernosos) e que não apresentem risco de perda visual devido à extensão supra-selar do tumor.\n       AGONISTA DOPAMINÉRGICO (CABERGOLINA)\n       Diversos estudos avaliaram o uso da cabergolina para o tratamento de pacientes com acromegalia 42,79–81. Uma meta-\nanálise incluindo 9 estudos avaliou o uso de cabergolina em monoterapia e indicou que 34% dos pacientes alcançaram níveis\nnormais de IGF-I. Outros cinco estudos avaliaram o uso de cabergolina em associação com análogos da somatostatina em\npacientes que não apresentaram o controle dos níveis de IGF-I apenas com o uso de octreotida ou lanreotida e apontaram que,\ncom o uso da combinação, 52% dos pacientes alcançaram níveis normais de IGF-I 79.\n       Um estudo brasileiro avaliou o uso da cabergolina, em monoterapia ou em associação com análogos da somatostatina. O\ncontrole da doença de curto prazo, definido como nível de GH menor que 1,0 µg/L e nível normal de IGF-I correspondente à\nidade após 3 a 6 meses de tratamento com a dose mais alta usada, foi alcançado por 21% dos pacientes em monoterapia e por\n32% dos pacientes em uso da combinação. Foi concluído que a eficácia da cabergolina parece ser menor do que a de outros\nmedicamentos, podendo ser necessária a mudança do tratamento após um acompanhamento de longo prazo 82.\n       ANÁLOGOS DA SOMATOSTATINA OU LIGANTES DO RECEPTOR DA SOMATOSTATINA DE\nSEGUNDA GERAÇÃO (PASIREOTIDA)\n       O principal estudo de avaliação da pasireotida foi o PAOLA, um ensaio clínico randomizado que avaliou a sua segurança\ne eficácia em comparação com a terapia continuada com octreotida e lanreotida em pacientes com acromegalia que não foram\nbem controlados, apesar do uso de altas doses desses medicamentos. Nenhum paciente do grupo controle ativo teve resposta\nbioquímica. No entanto, 15% dos pacientes do grupo pasireotida 40 mg e 20% dos pacientes do grupo pasireotida 60 mg\nalcançaram a resposta bioquímica, ou seja, um nível médio de GH menor que 2,5 μg/L e nível normal de IGF-I em 24 semanas\n(p = 0,0001). Nesse estudo, a normalização do IGF-I foi obtida por 25% e 26% dos indivíduos que foram tratados com pasireotida\n40 mg e 60 mg, respectivamente (versus 0% no grupo de pacientes que receberam o controle ativo) 83.\n       Um estudo brasileiro retrospectivo avaliou o uso da pasireotida em pacientes com acromegalia. O controle do IGF-I foi\nalcançado por 54% dos pacientes, que também apresentaram melhoria de qualidade de vida e dos sintomas da doença. Já a\nredução do volume tumoral foi observada em 63% dos pacientes. Nesse estudo, a maioria dos pacientes apresentou eventos\nhiperglicêmicos, incluindo 63% dos pacientes com glicemia normal antes do tratamento 84. O pamoato de pasireotida é\nrecomendado neste Protocolo para o tratamento de pacientes com acromegalia, conforme Portaria SECTICS/MS nº 25, de 19 de\njunho de 2024.\n       Diretrizes clínicas85,86 também recomendam o uso do pegvisomanto, especialmente para pacientes que não respondem\nadequadamente ao tratamento com análogos da somatostatina ou que apresentam intolerância a outros medicamentos. Entretanto,\na incorporação ao SUS do medicamento foi avaliada pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único\nde Saúde (Conitec), com recomendação de não incorporação, devido à elevada razão de custo-efetividade incremental. Portanto,\neste Protocolo não recomenda o uso de pegvisomanto.\n\n\n                                                                                                                            8\n\n       Ressalta-se a importância do acompanhamento dos usuários em relação ao uso dos medicamentos preconizados neste\nPCDT para que alcancem os resultados positivos em relação à efetividade do tratamento e para monitorar o surgimento de\nproblemas relacionados à segurança. Nesse aspecto, a prática do Cuidado Farmacêutico, por meio de orientação, educação em\nsaúde e acompanhamento contínuo, contribui diretamente para o alcance dos melhores resultados em saúde, ao incentivar o uso\napropriado dos medicamentos que sejam indicados, seguros e efetivos, ao estimular a adesão ao tratamento, ao fornecer apoio e\ninformações que promovam a autonomia e o autocuidado dos pacientes. Como a adesão ao tratamento é essencial para que o\nusuário alcance os resultados esperados, é fundamental que sejam fornecidas, no momento da dispensação dos medicamentos,\ninformações acerca do processo de uso do medicamento, interações medicamentosas e possíveis reações adversas. A integração\ndo Cuidado Farmacêutico aos protocolos clínicos e diretrizes terapêuticas é, portanto, fundamental para proporcionar uma\nassistência à saúde mais segura, efetiva e centrada na pessoa, abordando de forma abrangente as necessidades de cada indivíduo.\n\n\n\n\n                                                                                                                             9\n\n     A imagem abaixo ilustra o algoritmo de tratamento da acromegalia.\n     Figura 1 - Fluxograma de tratamento.",
+      "char_count": 5930
+    },
+    {
+      "number": "6.3.1",
+      "title": "Medicamentos",
+      "depth": 3,
+      "content": " Acetato de octreotida: solução injetável de 0,1 mg/mL; pó para suspensão injetável de 10 mg, 20 mg e 30 mg;\n      Acetato de lanreotida solução injetável de liberação controlada de 60 mg, 90 mg e 120 mg;\n      Cabergolina: comprimido de 0,5 mg;\n\n\n                                                                                                                     10\n\n        Pamoato de pasireotida: pó para suspensão injetável de 10 mg, 20 mg, 40 mg e 60 mg.",
+      "char_count": 464
+    },
+    {
+      "number": "6.3.2",
+      "title": "Esquemas de administração",
+      "depth": 3,
+      "content": "Acetato de octreotida de liberação prolongada: administrações intramusculares em região glútea profunda a cada 4\nsemanas, dose mínima de 10 mg e dose máxima de 30 mg (a dose inicial recomendada em bula é de 20 mg). Os ajustes na dose\ndevem ser feitos a intervalos trimestrais, de acordo com a resposta clínica, os eventos adversos e os níveis séricos de IGF-I, e\napós o controle da atividade da doença (normalização dos níveis de IGF-I), podem ser espaçados para controles semestrais ou\nanuais. As aplicações devem ser feitas por profissional treinado e habilitado87.\n       Acetato de octreotida: dose inicial de 0,05 a 0,1 mg por injeção subcutânea a cada 8 ou 12 horas. A dose ideal diária na\nmaioria dos pacientes é de 0,3 mg. A dose máxima é de 1,5 mg/dia. O ajuste posológico deve ser baseado na avaliação mensal\ndos níveis de GH e IGF-I, e dos sintomas clínicos, e na tolerabilidade87.\n       Lanreotida: administrações subcutâneas profundas em região glútea a cada 4 semanas, podendo ser estendida para 6 a 8\nsemanas. A dose inicial recomendada para tratamento de acromegalia pode variar de 60 mg a 120 mg. Os ajustes devem ser\nfeitos a intervalos trimestrais de acordo com a resposta clínica, eventos adversos e os níveis séricos de IGF-I. Após o controle\nda atividade da doença (normalização dos níveis de IGF-I), os controles podem ser espaçados, com frequência semestral ou\nanual. As aplicações devem ser feitas por profissional treinado e habilitado 88.\n       Cabergolina: as doses são gradativamente tituladas até atingir 2 a 3 mg/semana, por via oral, com controle mensal ou\nbimestral, observando-se a resposta clínica, os eventos adversos e os níveis séricos de IGF-I. Nos casos de controle da atividade\nda doença (normalização dos níveis de IGF-I), o monitoramento pode ser espaçado para frequência semestral ou anual.\n       Pasireotida: A dose inicial recomendada de pasireotida é de 40 mg, administrada por injeção intramuscular profunda a\ncada quatro semanas. A dose pode ser aumentada até um máximo de 60 mg em pacientes cujos níveis de IGF-I não estiverem\ntotalmente controlados depois de três meses de tratamento com pasireotida 40 mg. O tratamento de eventos adversos ou resposta\nexcessiva ao tratamento (IGF-I menor que o limite inferior da normalidade) pode exigir a redução temporária da dose de\npasireotida para 20 mg. A dose pode ser reduzida, temporária ou permanentemente, em decréscimos de 20 mg 89. Um estudo\nbrasileiro demonstrou que 40% dos pacientes em tratamento com pasireotida se beneficiaram com a redução de dose, após a qual\nos níveis de IGF-I apresentaram um leve aumento, mas permaneceram dentro da faixa normal após uma mediana de 39 meses\nnos respondedores precoces e 17 meses nos respondedores tardios 90.",
+      "char_count": 2754
+    },
+    {
+      "number": "6.4",
+      "title": "Critérios de interrupção",
+      "depth": 2,
+      "content": "Em casos particulares em que haja controle clínico do paciente com as doses mínimas de octreotida ou lanreotida, sem o\nuso concomitante de cabergolina, ou apenas com cabergolina, sem tumor ou com pequena lesão remanescente não invasiva,\npode-se reduzir a frequência de uso das doses dos análogos da somatostatina com posterior interrupção do tratamento e\nmonitoramento sequencial dos níveis de GH e IGF-I para confirmação do controle da doença ou possível recorrência.\n       As taxas de recorrência são altas, sendo frequentemente necessária a reintrodução do tratamento medicamentoso. Em\nmulheres pacientes que estiverem em tratamento e engravidarem, o tratamento medicamentoso com análogos da somatostatina\ndeve ser suspenso. O uso desses medicamentos como rotina não é recomendado e não deve ser utilizado sem orientação médica.\n       Para a pasireotida, o tratamento de suspeitas de reações adversas ou resposta excessiva ao tratamento (IGF-1 < limite\ninferior do normal) pode exigir a redução temporária de dose (redução temporária ou permanente em decréscimos de 20 mg).\nEste medicamento não deve ser utilizado por mulheres grávidas sem orientação médica89.\n\n\n\n\n                                                                                                                              11",
+      "char_count": 1298
+    },
+    {
+      "number": "6.5",
+      "title": "Benefícios esperados",
+      "depth": 2,
+      "content": " Melhora da sintomatologia clínica da acromegalia. Nos casos de gigantismo, controle do crescimento longitudinal\nexcessivo provocado pelo excesso de GH e IGF-I, com normalização da curva de crescimento;\n        Melhora/controle das comorbidades presentes;\n        Controle da hipersecreção hormonal, com normalização dos níveis séricos de IGF-I;\n        Controle total ou parcial do volume do adenoma hipofisário;\n        Redução da mortalidade associada à doença não controlada.",
+      "char_count": 484
+    },
+    {
+      "number": "7",
+      "title": "MONITORAMENTO",
+      "depth": 1,
+      "content": "Os pacientes com acromegalia devem manter acompanhamento por toda a vida, com avaliações clínica e laboratorial\ntrimestrais no primeiro ano e, após, anualmente. Essa periodicidade pode ser modificada de acordo com a resposta aos\ntratamentos, conforme resultados de exames laboratoriais. As comorbidades associadas (hipertensão, diabete melito,\ncardiomiopatia acromegálica) também devem ser avaliadas e acompanhadas no seguimento dos pacientes.\n       A avaliação da resposta ao tratamento depende da modalidade terapêutica adotada. Para avaliação da resposta ao\ntratamento dos pacientes submetidos ao tratamento cirúrgico, podem ser solicitadas dosagens séricas de IGF-I e GH após\nsobrecarga de glicose, 3 a 6 meses depois do procedimento. O nadir de GH pode ser influenciado pela idade, IMC, sexo e\nconcentração de estrogênio. No caso de indivíduo com diabete, devem ser realizadas dosagens de IGF-I e GH basal por método\nultrassensível sem sobrecarga de glicose40,51.\n       As recomendações dos consensos internacionais sugeriram inicialmente que a acromegalia poderia ser considerada\ncontrolada quando a dosagem de IGF-I estivesse dentro do nível normal para sexo e idade e o nadir de GH após sobrecarga de\nglicose, abaixo de 1 ng/mL1,91. Sugere-se que, no pós-operatório (3 a 6 meses após cirurgia), o ponto de corte considerado como\ncura na supressão do GH após teste oral de tolerância a glicose seja inferior a 0,4 ng/mL com ensaios ultrassensiveis 51.\n       Nos pacientes em uso de análogos da somatostatina ou agonista da dopamina, a dosagem de GH após sobrecarga de\nglicose não é útil para monitorar a resposta terapêutica. Nesses casos, dosagens de IGF-I e de GH devem ser efetuadas33. Para o\ntratamento com pasireotida, a adequada monitorização dos níveis séricos de glicose e hemoglobina glicada deve ser realizada.\n       No seguimento de pacientes em tratamento clínico, a concentração de IGF-I reflete a atividade da doença, porém sofre\nvariabilidade e influência de fatores pré-analíticos e analíticos. Os parâmetros são avaliados como variação acima do limite\nsuperior da normalidade (LSN), e são considerados controlados os pacientes que apresentarem valores normais ou, ainda que\nnão seja consenso, levemente aumentados (1,2 a 1,3 X LSN), de acordo com o cenário clínico. O GH basal, se usado no\nmonitoramento, é considerado normal se menor que 1 ng/mL51,92. Se houver discrepância entre as dosagens de GH e IGF-I, o\njulgamento clínico pode ser importante e norteará a conduta. Essa situação pode ocorrer em cerca de 25% dos pacientes e está\nassociada ao uso de ensaio ultrassensíveis de GH e tratamento com análogos de somatostatina 23,51,92,93.\n       Nos pacientes com doença controlada, esses exames devem ser repetidos trimestralmente no primeiro ano e, após,\nanualmente. Naqueles em que a doença não estiver controlada, a periodicidade dos exames deverá ser mantida no primeiro ano\ne, após esse período, dependerá do uso de novos tratamentos e da resposta a eles 1.\n       A avaliação com RM deve ser realizada no mínimo 3 meses depois da cirurgia para acompanhamento. Após o primeiro\nexame de seguimento, a periodicidade da avaliação por RM dependerá da resposta do paciente ao tratamento. Quando houver\nsinais clínicos ou laboratoriais de recorrência, a RM deverá ser realizada novamente 31.\n       Os principais eventos adversos dos análogos da somatostatina são desconforto e cólicas abdominais, que melhoram com\na manutenção do tratamento (em torno de 8 a 10 semanas após o início). Outra complicação descrita é o desenvolvimento de\nlitíase biliar em até 20% dos pacientes, raramente causando colecistite. Não há necessidade de realização de ultrassonografia\n\n\n                                                                                                                            12\n\ncomo avaliação de rotina para essa complicação. Há relato de casos de desenvolvimento de pancreatite 32,34 e de piora de estados\nhiperglicêmicos.\n       Algumas evidências sugerem que o uso de cabergolina pode ser relacionado ao desenvolvimento de doença valvar\ncardíaca e à possibilidade de desordens de impulsos 94,95. Contudo, elas são oriundas de estudos sobre o tratamento de doença de\nParkinson, em que as doses são mais elevadas e o tratamento mais prolongado do que para acromegalia. Nas doses empregadas\npara tratamento de prolactinomas, não foi encontrada essa associação 96,97.",
+      "char_count": 4410
+    },
+    {
+      "number": "8",
+      "title": "REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste Protocolo, a duração e a monitorização do\ntratamento, bem como para a verificação periódica das doses de medicamento (s) prescritas e dispensadas e da adequação de uso\ne do acompanhamento pós-tratamento. Pacientes com acromegalia devem ser atendidos em serviços especializados em\nendocrinologia, para seu adequado diagnóstico, inclusão no protocolo de tratamento e acompanhamento.\n       Pacientes com acromegalia devem ser avaliados periodicamente em relação à eficácia do tratamento e ao desenvolvimento\nde toxicidade aguda ou crônica, em serviços especializados de neurocirurgia com endocrinologia ou neuroendocrinologia. A\nexistência de centro de referência facilita a avaliação diagnóstica, o tratamento, o ajuste de doses conforme necessário e o controle\nde eventos adversos.\n       Em termos cirúrgicos, os melhores resultados e menores chances de complicações dependem da experiência do cirurgião\ne não da técnica utilizada (endoscopia ou microscopia), o que se observa em serviços em que apenas um ou dois neurocirurgiões\nsão responsáveis pelas cirurgias transesfenoidais de hipófise 65.\n       A busca pela excelência deve ser um objetivo contínuo dos profissionais e dos gestores de saúde, e é amplamente aceito\nque especialistas em doenças menos prevalentes costumam fornecer melhor padrão de atendimento aos pacientes. No caso dos\ntumores hipofisários, há consenso amplamente difundido, indicando que o melhor atendimento é fornecido por uma equipe\ninterdisciplinar composta por endocrinologistas dedicados e cirurgiões hipofisários experientes. Idealmente, essa equipe central\nprecisa, muitas vezes, ser apoiada por outras áreas do conhecimento, incluindo neurorradiologia, neuropatologia, radioterapia,\noftalmologia, otorrinolaringologia e enfermagem especializada 17,42,51,65.\n       Nesse contexto, a Pituitary Society elaborou um estudo com o objetivo de validar critérios propostos anteriormente por\nmeio da coleta e avaliação de atividade autorrelatada de vários centros hipofisários internacionais para a definição de Centros de\nExcelência em Tumores Hipofisários, visando contribuir para o melhor manejo dos pacientes e alcance de resultados terapêuticos\nsatisfatórios. Entre os principais pontos, foram destacados: presença de três neurocirurgiões hipofisários especializados e 100\nprocedimentos cirúrgicos por centro anualmente; complicações agudas pós-cirúrgicas devem ser preferencialmente\ninsignificantes ou inexistentes (aceitável taxa menor que 10%) e quatro endocrinologistas dedicados à doença da hipófise98.\n       Por essas razões, pacientes com acromegalia e gigantismo devem ser preferencialmente atendidos em serviços\nespecializados que tenham ao menos ambulatório específico de endocrinologia para atendimento de pacientes com doenças\nhipofisárias e hipotalâmicas, com acesso a equipe de neurocirurgia com experiência comprovada em cirurgias para tumores\nhipofisários (CID-10: D35.2), para seu adequado diagnóstico, tratamento e acompanhamento, pois isso tem comprovado impacto\nno custo-efetividade da abordagem da acromegalia/gigantismo52.\n       Deve-se verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica se encontram os medicamentos preconizados neste Protocolo.\n       Os estados e municípios deverão manter atualizadas as informações referentes aos registros de estoque, distribuição e\ndispensação do (s) medicamento (s) e encaminhar estas informações ao Ministério da Saúde via Base Nacional de Dados de\n\n\n\n\n                                                                                                                                  13\n\nAções e Serviços da Assistência Farmacêutica no âmbito do Sistema Único de Saúde (BNAFAR), conforme as normativas\nvigentes.",
+      "char_count": 3854
+    },
+    {
+      "number": "9",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE – TER",
+      "depth": 1,
+      "content": "Recomenda-se informar ao paciente, ou seu responsável legal, sobre os potenciais riscos, benefícios e efeitos adversos\nrelacionados ao uso dos medicamentos preconizados neste Protocolo, bem como sobre os critérios para interrupção do\ntratamento, levando-se em consideração as informações contidas no TER.",
+      "char_count": 304
+    },
+    {
+      "number": "10",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Melmed S. Medical progress: Acromegaly. N Engl J Med. dezembro de 2006;355(24):2558–73.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "2",
+      "title": "Melmed S. Acromegaly pathogenesis and treatment. J Clin Invest. 2009 Nov;119(11):3189-202.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3",
+      "title": "Fleseriu M, Langlois F, Lim DST, Varlamov E V, Melmed S. Acromegaly: pathogenesis, diagnosis, and management.",
+      "depth": 1,
+      "content": "Lancet Diabetes Endocrinol. 2022.",
+      "char_count": 33
+    },
+    {
+      "number": "4",
+      "title": "Gadelha MR, Kasuki L, Korbonits M. The genetic background of acromegaly. Pituitary. fevereiro de 2017;20(1):10–21.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "5",
+      "title": "WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International",
+      "depth": 1,
+      "content": "Agency for Research on Cancer; 2022. (WHO classification of tumours series, 5th ed.; vol. 10).\n6.      Ershadinia N, Tritos NA. Diagnosis and treatment of acromegaly: an update. In: Mayo Clinic Proceedings. Elsevier;\n        2022. p. 333–46.",
+      "char_count": 241
+    },
+    {
+      "number": "7",
+      "title": "Neto LV, Machado E de O, Luque RM, Taboada GF, Marcondes JB, Chimelli LMC, et al. Expression analysis of",
+      "depth": 1,
+      "content": "dopamine receptor subtypes in normal human pituitaries, nonfunctioning pituitary adenomas and somatotropinomas,\n        and the association between dopamine and somatostatin receptors with clinical response to octreotide-LAR in\n        acromegaly. J Clin Endocrinol Metab. junho de 2009;94(6):1931–7.",
+      "char_count": 300
+    },
+    {
+      "number": "8",
+      "title": "Lamback EB, Henriques DG, Vazquez-Borrego MC, de Azeredo Lima CH, Kasuki L, Luque RM, et al. Growth",
+      "depth": 1,
+      "content": "hormone-releasing hormone-secreting pulmonary neuroendocrine tumor associated with pituitary hyperplasia and\n        somatotropinoma. Vol. 65, Archives of endocrinology and metabolism. Brazil; 2021. p. 648–63.",
+      "char_count": 209
+    },
+    {
+      "number": "9",
+      "title": "Sotos JF. Overgrowth. Hormonal Causes. Clin Pediatr (Phila). novembro de 1996;35(11):579–90.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "10",
+      "title": "Caputo M, Ucciero A, Mele C, De Marchi L, Magnani C, Cena T, et al. Use of administrative health databases to estimate",
+      "depth": 1,
+      "content": "incidence and prevalence of acromegaly in Piedmont Region, Italy. J Endocrinol Invest. 2019;42:397–402.",
+      "char_count": 103
+    },
+    {
+      "number": "11",
+      "title": "Gatto F, Trifirò G, Lapi F, Cocchiara F, Campana C, Dell’Aquila C, et al. Epidemiology of acromegaly in Italy: analysis",
+      "depth": 1,
+      "content": "from a large longitudinal primary care database. Endocrine. 2018;61:533–41.\n12.     Dal J, Feldt-Rasmussen U, Andersen M, Kristensen LØ, Laurberg P, Pedersen L, et al. Acromegaly incidence,\n        prevalence, complications and long-term prognosis: a nationwide cohort study. Eur J Endocrinol. setembro de\n        2016;175(3):181–90.",
+      "char_count": 333
+    },
+    {
+      "number": "13",
+      "title": "Soares LF, Outuki G, Miksza DR, Crespigio J, da Silva Mattos AM, Mazzuco TL. Registro epidemiológico e avaliação",
+      "depth": 1,
+      "content": "clínico-laboratorial dos pacientes acromegálicos atendidos em um centro de referência regional. Biosaúde.\n        2017;19(1):12–25.",
+      "char_count": 131
+    },
+    {
+      "number": "14",
+      "title": "Eugster EA GMHAG. Pituitary gigantism [Internet]. UpToDate. 2023.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "15",
+      "title": "Rostomyan L, Daly AF, Petrossians P, Nachev E, Lila AR, Lecoq AL, et al. Clinical and genetic characterization of",
+      "depth": 1,
+      "content": "pituitary gigantism: an international collaborative study in 208 patients. Endocr Relat Cancer. outubro de\n        2015;22(5):745–57.\n\n\n                                                                                                                            14",
+      "char_count": 262
+    },
+    {
+      "number": "16",
+      "title": "Daly AF, Rostomyan L, Betea D, Bonneville JF, Villa C, Pellegata NS, et al. AIP-mutated acromegaly resistant to first-",
+      "depth": 1,
+      "content": "generation somatostatin analogs: long-term control with pasireotide LAR in two patients. Endocr Connect. abril de\n      2019;8(4):367–77.",
+      "char_count": 137
+    },
+    {
+      "number": "17",
+      "title": "Giustina A, Barkan A, Beckers A, Biermasz N, Biller BMK, Boguszewski C, et al. A Consensus on the Diagnosis and",
+      "depth": 1,
+      "content": "Treatment of Acromegaly Comorbidities: An Update. J Clin Endocrinol Metab. abril de 2020;105(4).",
+      "char_count": 96
+    },
+    {
+      "number": "18",
+      "title": "Kasuki L, Antunes X, Lamback EB, Gadelha MR. Acromegaly: Update on Management and Long-Term Morbidities.",
+      "depth": 1,
+      "content": "Endocrinol Metab Clin North Am. setembro de 2020;49(3):475–86.",
+      "char_count": 62
+    },
+    {
+      "number": "19",
+      "title": "Kasuki L, Maia B, Gadelha MR. Acromegaly and Colorectal Neoplasm: An Update. Front Endocrinol (Lausanne).",
+      "depth": 1,
+      "content": "2022;13:924952.",
+      "char_count": 15
+    },
+    {
+      "number": "20",
+      "title": "Gadelha MR, Kasuki L, Lim DST, Fleseriu M. Systemic Complications of Acromegaly and the Impact of the Current",
+      "depth": 1,
+      "content": "Treatment Landscape: An Update. Endocr Rev. fevereiro de 2019;40(1):268–332.",
+      "char_count": 76
+    },
+    {
+      "number": "21",
+      "title": "Gadelha MR, Kasuki L. Refractory somatotroph adenomas. Pituitary. junho de 2023;26(3):266–8.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "22",
+      "title": "Wildemberg LE, da Silva Camacho AH, Miranda RL, Elias PCL, de Castro Musolino NR, Nazato D, et al. Machine",
+      "depth": 1,
+      "content": "Learning-based Prediction Model for Treatment of Acromegaly With First-generation Somatostatin Receptor Ligands.\n      J Clin Endocrinol Metab. junho de 2021;106(7):2047–56.",
+      "char_count": 173
+    },
+    {
+      "number": "23",
+      "title": "Giustina A, Chanson P, Kleinberg D, Bronstein MD, Clemmons DR, Klibanski A, et al. Expert consensus document: A",
+      "depth": 1,
+      "content": "consensus on the medical treatment of acromegaly. Nat Rev Endocrinol. 2014 Apr;10(4):243-8.",
+      "char_count": 91
+    },
+    {
+      "number": "24",
+      "title": "Gatto F, Wildemberg LE, Ferone D, Gadelha MR. Routine Evaluation of Somatostatin Receptor Type 2 in Patients With",
+      "depth": 1,
+      "content": "Acromegaly: Do We Still Need More Evidence? Vol. 107, The Journal of clinical endocrinology and metabolism. United\n      States; 2022. p. e4382–3.",
+      "char_count": 146
+    },
+    {
+      "number": "25",
+      "title": "Diri H, Ozaslan E, Kurtsoy A, Bayram F. A single-center observational study assessing the predictive factors associated",
+      "depth": 1,
+      "content": "with the prognosis of acromegaly. Growth Hormone & IGF Research. 2020;55:101342.",
+      "char_count": 80
+    },
+    {
+      "number": "26",
+      "title": "Kauppinen-Makelin R, Sane T, Reunanen A, Valimaki MJ, Niskanen L, Markkanen H, et al. A nationwide survey of",
+      "depth": 1,
+      "content": "mortality in acromegaly. J Clin Endocrinol Metab. 2005 Jul;90(7):4081-6.",
+      "char_count": 72
+    },
+    {
+      "number": "27",
+      "title": "Holdaway IM, Rajasoorya RC, Gamble GD. Factors influencing mortality in acromegaly. J Clin Endocrinol Metab.",
+      "depth": 1,
+      "content": "fevereiro de 2004;89(2):667–74.",
+      "char_count": 31
+    },
+    {
+      "number": "28",
+      "title": "Bolfi F, Neves AF, Boguszewski CL, Nunes-Nogueira VS. Mortality in acromegaly decreased in the last decade: a",
+      "depth": 1,
+      "content": "systematic review and meta-analysis. Eur J Endocrinol. julho de 2018;179(1):59–71.",
+      "char_count": 82
+    },
+    {
+      "number": "29",
+      "title": "Bengtsson BA, Eden S, Ernest I, Oden A, Sjogren B. Epidemiology and long-term survival in acromegaly. A study of",
+      "depth": 1,
+      "content": "166 cases diagnosed between 1955 and 1984. Acta Med Scand. 1988;223(4):327-35.\n30.   BRASIL. Ministério da Saúde. Diretrizes Metodológicas: Elaboração de Diretrizes Clínicas [Internet]. Brasília - DF;\n      2020 [citado 23 de novembro de 2022]. Disponível em: http://editora.saude.gov.br.",
+      "char_count": 288
+    },
+    {
+      "number": "31",
+      "title": "Barkan A, Bronstein MD, Bruno OD, Cob A, Espinosa-de-los-Monteros AL, Gadelha MR, et al. Management of",
+      "depth": 1,
+      "content": "acromegaly in Latin America: expert panel recommendations. Pituitary. 2010 Jun;13(2):168- 75.\n32.   Melmed S, Colao A, Barkan A, Molitch M, Grossman AB, Kleinberg D, et al. Guidelines for acromegaly management:\n      an update. J Clin Endocrinol Metab. 2009 May;94(5):1509-17.",
+      "char_count": 276
+    },
+    {
+      "number": "33",
+      "title": "Vieira Neto L, Abucham J, et al. Recommendations of Neuroendocrinology Department from Brazilian Society of",
+      "depth": 1,
+      "content": "Endocrinology and Metabolism for diagnosis and treatment of acromegaly in Brazil. Arq Bras Endocrinol Metab.\n      2011;55:725–6.",
+      "char_count": 129
+    },
+    {
+      "number": "34",
+      "title": "Katznelson L, Laws ER, Jr., Melmed S, Molitch ME, Murad MH, Utz A, et al. Acromegaly: an endocrine society clinical",
+      "depth": 1,
+      "content": "practice guideline. J Clin Endocrinol Metab. 2014 Nov;99(11):3933-51.",
+      "char_count": 69
+    },
+    {
+      "number": "35",
+      "title": "Molitch ME. Clinical manifestations of acromegaly. Endocrinol Metab Clin North Am. 1992 Sep;21(3):597-614.",
+      "depth": 1,
+      "content": "15",
+      "char_count": 2
+    },
+    {
+      "number": "36",
+      "title": "Armeni E, Grossman A. The Spectrum of Familial Pituitary Neuroendocrine Tumors. Endocr Pathol. março de",
+      "depth": 1,
+      "content": "2023;34(1):57–78.",
+      "char_count": 17
+    },
+    {
+      "number": "37",
+      "title": "Daly AF, Yuan B, Fina F, Caberg JH, Trivellin G, Rostomyan L, et al. Somatic mosaicism underlies X-linked",
+      "depth": 1,
+      "content": "acrogigantism syndrome in sporadic male subjects. Endocr Relat Cancer. abril de 2016;23(4):221–33.",
+      "char_count": 98
+    },
+    {
+      "number": "38",
+      "title": "Jenkins PJ. Acromegaly and cancer. Horm Res. 2004;62 Suppl 1:108-15.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "39",
+      "title": "Correa LL, Balarini Lima GA, Cavallieri SA, Miranda LC, Gadelha MR. Prostatic disorders in acromegalic patients",
+      "depth": 1,
+      "content": "experience of a Brazilian center. Int Braz J Urol. 2013 May-Jun;39(3):393-401.",
+      "char_count": 78
+    },
+    {
+      "number": "40",
+      "title": "Fleseriu M, Biller BMK, Freda PU, Gadelha MR, Giustina A, Katznelson L, et al. A Pituitary Society update to",
+      "depth": 1,
+      "content": "acromegaly management guidelines. Pituitary. fevereiro de 2021;24(1):1–13.\n41.   Giustina A, Biermasz N, Casanueva FF, Fleseriu M, Mortini P, Strasburger C, van der Lely AJ, Wass J, Melmed S;\n      Acromegaly Consensus Group. Consensus on criteria for acromegaly diagnosis and remission. Pituitary. 2024\n      Feb;27(1):7-22.",
+      "char_count": 325
+    },
+    {
+      "number": "42",
+      "title": "Ogedegbe OJ, Cheema AY, Khan MA, Junaid SZS, Erebo JK, Ayirebi-Acquah E, et al. A Comprehensive Review of",
+      "depth": 1,
+      "content": "Four Clinical Practice Guidelines of Acromegaly. Cureus. setembro de 2022;14(9):e28722.",
+      "char_count": 87
+    },
+    {
+      "number": "43",
+      "title": "Dimaraki EV, Jaffe CA, DeMott-Friberg R, Chandler WF, Barkan AL. Acromegaly with apparently normal GH",
+      "depth": 1,
+      "content": "secretion: implications for diagnosis and follow-up. J Clin Endocrinol Metab. 2002 Aug;87(8):3537-42.",
+      "char_count": 101
+    },
+    {
+      "number": "44",
+      "title": "Freda PU, Reyes CM, Nuruzzaman AT, Sundeen RE, Bruce JN. Basal and glucose-suppressed GH levels less than 1",
+      "depth": 1,
+      "content": "microg/L in newly diagnosed acromegaly. Pituitary. 2003;6(4):175-80.",
+      "char_count": 68
+    },
+    {
+      "number": "45",
+      "title": "Mercado M, Espinosa de los Monteros AL, Sosa E, Cheng S, Mendoza V, Hernandez I, et al. Clinical-biochemical",
+      "depth": 1,
+      "content": "correlations in acromegaly at diagnosis and the real prevalence of biochemically discordant disease. Horm Res.\n      2004;62(6):293-9.",
+      "char_count": 134
+    },
+    {
+      "number": "46",
+      "title": "Rosario PW, Calsolari MR. Laboratory investigation of acromegaly: is basal or random GH > 0.4 µg/L in the presence",
+      "depth": 1,
+      "content": "of normal serum IGF-1 an important result? Arch Endocrinol Metab. fevereiro de 2015;59(1):54–8.\n47.   dos Santos MC, Nascimento GC, Nascimento AG, Carvalho VC, Lopes MH, Montenegro R, et al. Thyroid cancer in\n      patients with acromegaly: a case-control study. Pituitary. 2013 Mar;16(1):109-14.",
+      "char_count": 296
+    },
+    {
+      "number": "48",
+      "title": "Uchoa HB, Lima GA, Correa LL, Vidal AP, Cavallieri SA, Vaisman M, et al. Prevalence of thyroid diseases in patients",
+      "depth": 1,
+      "content": "with acromegaly: experience of a Brazilian center. Arq Bras Endocrinol Metabol. 2013 Dec;57(9):685-90.",
+      "char_count": 102
+    },
+    {
+      "number": "49",
+      "title": "Vieira Neto L, Abucham J, et al. Recommendations of Neuroendocrinology Department from Brazilian Society of",
+      "depth": 1,
+      "content": "Endocrinology and Metabolism for diagnosis and treatment of acromegaly in Brazil. Arq Bras Endocrinol Metab.\n      2011;55:725–6.",
+      "char_count": 129
+    },
+    {
+      "number": "50",
+      "title": "Abu Dabrh AM, Mohammed K, et al. Surgical interventions and medical treatments in treatment-naive patients with",
+      "depth": 1,
+      "content": "acromegaly: systematic review and meta-analysis. J Clin Endocrinol Metab. 2014 Nov;99(11):4003-14.",
+      "char_count": 98
+    },
+    {
+      "number": "51",
+      "title": "Giustina A, Barkhoudarian G, Beckers A, Ben-Shlomo A, Biermasz N, Biller B, et al. Multidisciplinary management of",
+      "depth": 1,
+      "content": "acromegaly: A consensus. Rev Endocr Metab Disord. dezembro de 2020;21(4):667–78.",
+      "char_count": 80
+    },
+    {
+      "number": "52",
+      "title": "Casanueva FF, Barkan AL, Buchfelder M, Klibanski A, Laws ER, Loeffler JS, et al. Criteria for the definition of Pituitary",
+      "depth": 1,
+      "content": "Tumor Centers of Excellence (PTCOE): A Pituitary Society Statement. Pituitary. outubro de 2017;20(5):489–98.",
+      "char_count": 108
+    },
+    {
+      "number": "53",
+      "title": "Buchfelder M, Schlaffer SM. The surgical treatment of acromegaly. Pituitary. fevereiro de 2017;20(1):76–83.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "54",
+      "title": "Taweesomboonyat C, Oearsakul T. Prognostic Factors of Acromegalic Patients with Growth Hormone-",
+      "depth": 1,
+      "content": "Secreting Pituitary Adenoma After Transsphenoidal Surgery. World Neurosurg. fevereiro de 2021;146:e1360–6.",
+      "char_count": 106
+    },
+    {
+      "number": "55",
+      "title": "Nomikos P, Buchfelder M, Fahlbusch R. The outcome of surgery in 668 patients with acromegaly using current criteria",
+      "depth": 1,
+      "content": "of biochemical “cure”. Eur J Endocrinol. 2005;152(3):379-87.\n\n\n\n\n                                                                                                                            16",
+      "char_count": 191
+    },
+    {
+      "number": "56",
+      "title": "Almeida JP, Ruiz-Treviño AS, et al. Reoperation for growth hormone-secreting pituitary adenomas: report on an",
+      "depth": 1,
+      "content": "endonasal endoscopic series with a systematic review and meta-analysis of the literature. J Neurosurg. 2018;129(2):404-\n      416.",
+      "char_count": 130
+    },
+    {
+      "number": "57",
+      "title": "Briceno V, Zaidi HA, et al. Efficacy of transsphenoidal surgery in achieving biochemical cure of growth hormone-",
+      "depth": 1,
+      "content": "secreting pituitary adenomas among patients with cavernous sinus invasion: a systematic review and meta-analysis.\n      Neurol Res. 2017;39(5):387-39.",
+      "char_count": 150
+    },
+    {
+      "number": "58",
+      "title": "Antunes X, Ventura N, Camilo GB, Wildemberg LE, Guasti A, Pereira PJM, et al. Predictors of surgical outcome and",
+      "depth": 1,
+      "content": "early criteria of remission in acromegaly. Endocrine. junho de 2018;60(3):415–22.",
+      "char_count": 81
+    },
+    {
+      "number": "59",
+      "title": "Boeving A, Borba LA, et al. [Outcome of surgical treatment for acromegaly performed by a single neurosurgeon and",
+      "depth": 1,
+      "content": "cumulative meta-analysis]. Arq Bras Endocrinol Metabol. 2006;50(5):884-92.",
+      "char_count": 74
+    },
+    {
+      "number": "60",
+      "title": "Barbosa ER, Zymberg ST, Santos R de P, Machado HR, Abucham J. [Hormonal control of pituitary adenomas by",
+      "depth": 1,
+      "content": "transsphenoidal surgery: results of the first five years of experience]. Arq Bras Endocrinol Metabol. fevereiro de\n      2011;55(1):16–28.",
+      "char_count": 138
+    },
+    {
+      "number": "61",
+      "title": "Gondim JA, Schops M, de Almeida JPC, de Albuquerque LAF, Gomes E, Ferraz T, et al. Endoscopic endonasal",
+      "depth": 1,
+      "content": "transsphenoidal surgery: surgical results of 228 pituitary adenomas treated in a pituitary center. Pituitary.\n      2010;13(1):68–77.",
+      "char_count": 133
+    },
+    {
+      "number": "62",
+      "title": "Jallad RS, Musolino NR, Kodaira S, Cescato VA, Bronstein MD. Does partial surgical tumour removal influence the",
+      "depth": 1,
+      "content": "response to octreotide-LAR in acromegalic patients previously resistant to the somatostatin analogue? Clin Endocrinol\n      (Oxf). agosto de 2007;67(2):310–5.",
+      "char_count": 158
+    },
+    {
+      "number": "63",
+      "title": "Colao A, Attanasio R, Pivonello R, Cappabianca P, Cavallo LM, Lasio G, et al. Partial surgical removal of growth",
+      "depth": 1,
+      "content": "hormone-secreting pituitary tumors enhances the response to somatostatin analogs in acromegaly. J Clin Endocrinol\n      Metab. janeiro de 2006;91(1):85–92.",
+      "char_count": 155
+    },
+    {
+      "number": "64",
+      "title": "Bray DP, Mannam S, Rindler RS, Quillin JW, Oyesiku NM. Surgery for acromegaly: Indications and goals. Front",
+      "depth": 1,
+      "content": "Endocrinol (Lausanne). 2022;13:924589.",
+      "char_count": 38
+    },
+    {
+      "number": "65",
+      "title": "Vieira Neto L, Abucham J, Araujo LA de, Boguszewski CL, Bronstein MD, Czepielewski M, et al. Recomendações do",
+      "depth": 1,
+      "content": "Departamento de Neuroendocrinologia da Sociedade Brasileira de Endocrinologia e Metabologia para o diagnóstico e\n      tratamento da acromegalia no Brasil. Vol. 55, Arquivos Brasileiros de Endocrinologia & Metabologia. scielo ; 2011.",
+      "char_count": 233
+    },
+    {
+      "number": "66",
+      "title": "Starnoni D, Daniel RT, Marino L, Pitteloud N, Levivier M, Messerer M. Surgical treatment of acromegaly according to",
+      "depth": 1,
+      "content": "the 2010 remission criteria:     systematic review and meta-analysis. Acta Neurochir (Wien). novembro de\n      2016;158(11):2109–21.",
+      "char_count": 132
+    },
+    {
+      "number": "67",
+      "title": "Jallad RS, Musolino NR, Salgado LR, Bronstein MD. Treatment of acromegaly: is there still a place for radiotherapy?",
+      "depth": 1,
+      "content": "Pituitary. 2007;10(1):53–9.",
+      "char_count": 27
+    },
+    {
+      "number": "68",
+      "title": "Erridge SC, Conkey DS, Stockton D, Strachan MWJ, Statham PFX, Whittle IR, et al. Radiotherapy for pituitary",
+      "depth": 1,
+      "content": "adenomas: long-term efficacy and toxicity. Radiother Oncol. dezembro de 2009;93(3):597–601.",
+      "char_count": 91
+    },
+    {
+      "number": "69",
+      "title": "Rowland NC, Aghi MK. Radiation treatment strategies for acromegaly. Neurosurg Focus. outubro de 2010;29(4):E12.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "70",
+      "title": "Loeffler JS, Shih HA. Radiation therapy in the management of pituitary adenomas. J Clin Endocrinol Metab. julho de",
+      "depth": 1,
+      "content": "2011;96(7):1992–2003.",
+      "char_count": 21
+    },
+    {
+      "number": "71",
+      "title": "Gheorghiu ML. Updates in outcomes of stereotactic radiation therapy in acromegaly. Pituitary. fevereiro de",
+      "depth": 1,
+      "content": "2017;20(1):154–68.",
+      "char_count": 18
+    },
+    {
+      "number": "72",
+      "title": "Abu Dabrh A, Asi N, Farah W, Mohammed K, Wang Z, Farah M, et al. Radiotherapy vs. Radiosurgery in Treating",
+      "depth": 1,
+      "content": "Patients with Acromegaly: Systematic Review and Meta-Analysis. Endocr Pract. março de 2015;1–33.\n\n\n\n\n                                                                                                                           17",
+      "char_count": 226
+    },
+    {
+      "number": "73",
+      "title": "Zheng Q, Huang Y, Lin W, Cai L, Wen J, Chen G. Comparing Stereotactic Radiosurgery and Fractionated Stereotactic",
+      "depth": 1,
+      "content": "Radiotherapy in Treating patients with Growth Hormone-Secreting Adenomas: A Systematic Review and Meta-\n      analysis. Endocr Pract. junho de 2020;",
+      "char_count": 148
+    },
+    {
+      "number": "74",
+      "title": "Amato G, Mazziotti G, Rotondi M, Iorio S, Doga M, Sorvillo F, et al. Long-term effects of lanreotide SR and octreotide",
+      "depth": 1,
+      "content": "LAR on tumour shrinkage and GH hypersecretion in patients with previously untreated acromegaly. Clin Endocrinol\n      (Oxf). janeiro de 2002;56(1):65–71.",
+      "char_count": 153
+    },
+    {
+      "number": "75",
+      "title": "Andersen M, Hansen TB, Bollerslev J, Bjerre P, Schrøder HD, Hagen C. Effect of 4 weeks of octreotide treatment on",
+      "depth": 1,
+      "content": "prolactin, thyroid stimulating hormone and thyroid hormones in acromegalic patients. A double blind placebo-controlled\n      cross-over study. J Endocrinol Invest. dezembro de 1995;18(11):840–6.",
+      "char_count": 194
+    },
+    {
+      "number": "76",
+      "title": "Andries M, Glintborg D, Kvistborg A, Hagen C, Andersen M. A 12-month randomized crossover study on the effects of",
+      "depth": 1,
+      "content": "lanreotide Autogel and octreotide long-acting repeatable on GH and IGF-l in patients with acromegaly. Clin Endocrinol\n      (Oxf). março de 2008;68(3):473–80.",
+      "char_count": 158
+    },
+    {
+      "number": "77",
+      "title": "Jenkins PJ, Akker S, Chew SL, Besser GM, Monson JP, Grossman AB. Optimal dosage interval for depot somatostatin",
+      "depth": 1,
+      "content": "analogue therapy in acromegaly requires individual titration. Clin Endocrinol (Oxf). dezembro de 2000;53(6):719–24.",
+      "char_count": 115
+    },
+    {
+      "number": "78",
+      "title": "Melmed S, Cook D, Schopohl J, Goth MI, Lam KSL, Marek J. Rapid and sustained reduction of serum growth hormone",
+      "depth": 1,
+      "content": "and insulin-like growth factor-1 in patients with acromegaly receiving lanreotide Autogel therapy: a randomized,\n      placebo-controlled, multicenter study with a 52 week open extension. Pituitary. 2010;13(1):18–28.",
+      "char_count": 216
+    },
+    {
+      "number": "79",
+      "title": "Sandret L, Maison P, Chanson P. Place of cabergoline in acromegaly: a meta-analysis. J Clin Endocrinol Metab. maio",
+      "depth": 1,
+      "content": "de 2011;96(5):1327–35.",
+      "char_count": 22
+    },
+    {
+      "number": "80",
+      "title": "Grasso LFS, Auriemma RS, Pivonello R, Colao A. Somatostatin analogs, cabergoline and pegvisomant: comparing the",
+      "depth": 1,
+      "content": "efficacy of medical treatment for acromegaly. Expert Rev Endocrinol Metab. janeiro de 2017;12(1):73–85.",
+      "char_count": 103
+    },
+    {
+      "number": "81",
+      "title": "Kizilgul M, Duger H, Nasiroglu NI, Sencar E, Hepsen S, Akhanli P, et al. Efficacy of cabergoline add-on therapy in",
+      "depth": 1,
+      "content": "patients with acromegaly resistance to somatostatin analogs treatment and the review of literature. Arch Endocrinol\n      Metab. maio de 2022;66(3):278–85.",
+      "char_count": 155
+    },
+    {
+      "number": "82",
+      "title": "Kasuki L, Dalmolin MD, Wildemberg LE, Gadelha MR. Treatment escape reduces the effectiveness of cabergoline",
+      "depth": 1,
+      "content": "during long-term treatment of acromegaly in monotherapy or in association with first-generation somatostatin receptor\n      ligands. Clin Endocrinol (Oxf). junho de 2018;88(6):889–95.",
+      "char_count": 183
+    },
+    {
+      "number": "83",
+      "title": "Gadelha MR, Bronstein MD, Brue T, Coculescu M, Fleseriu M, Guitelman M, et al. Pasireotide versus continued",
+      "depth": 1,
+      "content": "treatment with octreotide or lanreotide in patients with inadequately controlled acromegaly (PAOLA): a randomised,\n      phase 3 trial. Lancet Diabetes Endocrinol. novembro de 2014;2(11):875–84.",
+      "char_count": 194
+    },
+    {
+      "number": "84",
+      "title": "Gadelha M, Marques NV, Fialho C, Scaf C, Lamback E, Antunes X, et al. Long-term Efficacy and Safety of Pasireotide",
+      "depth": 1,
+      "content": "in Patients With Acromegaly: 14 Years of Single-Center Real-World Experience. J Clin Endocrinol Metab. novembro\n      de 2023;108(12):e1571–9.\n85.   Fleseriu M, Biller BMK, Freda PU, Gadelha MR, Giustina A, Katznelson L, Molitch ME, Samson SL, Strasburger CJ,\n      van der Lely AJ, Melmed S. A Pituitary Society update to acromegaly management guidelines. Pituitary. 2021\n      Feb;24(1):1-13. .",
+      "char_count": 396
+    },
+    {
+      "number": "86",
+      "title": "Katznelson L, Laws ER Jr, Melmed S, Molitch ME, Murad MH, Utz A, Wass JA; Endocrine Society. Acromegaly: an",
+      "depth": 1,
+      "content": "endocrine society clinical practice guideline. J Clin Endocrinol Metab. 2014 Nov;99(11):3933-51. .",
+      "char_count": 98
+    },
+    {
+      "number": "87",
+      "title": "Agência Nacional de Vigilância Sanitária (ANVISA). Acetato de octreotida (bula do medicamento). 2024.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "88",
+      "title": "Agência Nacional de Vigilância Sanitária (ANVISA). Lanreotida (bula do medicamento). 2024.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "89",
+      "title": "Agência Nacional de Vigilância Sanitária (ANVISA). Pasireotida (bula do medicamento). 2024.",
+      "depth": 1,
+      "content": "18",
+      "char_count": 2
+    },
+    {
+      "number": "90",
+      "title": "Marques NV, Wildemberg LEA, Gadelha MR. Long-term, real-world experience of pasireotide dose reduction in",
+      "depth": 1,
+      "content": "patients with acromegaly. Endocr Connect. agosto de 2023;12(10).",
+      "char_count": 64
+    },
+    {
+      "number": "91",
+      "title": "Giustina A, Chanson P, et al. A consensus on criteria for cure of acromegaly. J Clin Endocrinol Metab. 2010",
+      "depth": 1,
+      "content": "Jul;95(7):3141-8.",
+      "char_count": 17
+    },
+    {
+      "number": "92",
+      "title": "Brue T, Rahabi H, Barry A, Barlier A, Bertherat J, Borson-Chazot F, et al. Position statement on the diagnosis and",
+      "depth": 1,
+      "content": "management of acromegaly: the French National Diagnosis and Treatment Protocol (NDTP). Annales d’endocrinologie.\n      France; 2023.",
+      "char_count": 132
+    },
+    {
+      "number": "93",
+      "title": "Kanakis GA, Chrisoulidou A, , et al. The ongoing challenge of discrepant growth hormone and insulin-like growth factor",
+      "depth": 1,
+      "content": "I results in the evaluation of treated acromegalic patients: a systematic review and meta-analysis. Clin Endocrinol.\n      2016;85:681-688.",
+      "char_count": 139
+    },
+    {
+      "number": "94",
+      "title": "Barake M, Evins AE, Stoeckel L, Pachas GN, Nachtigall LB, Miller KK, et al. Investigation of impulsivity in patients",
+      "depth": 1,
+      "content": "on dopamine agonist therapy for hyperprolactinemia: a pilot study. Pituitary. abril de 2014;17(2):150–6.",
+      "char_count": 104
+    },
+    {
+      "number": "95",
+      "title": "Weintraub D, Koester J, Potenza MN, Siderowf AD, Stacy M, Voon V, et al. Impulse control disorders in Parkinson",
+      "depth": 1,
+      "content": "disease: a cross-sectional study of 3090 patients. Arch Neurol. maio de 2010;67(5):589–95.",
+      "char_count": 90
+    },
+    {
+      "number": "96",
+      "title": "Kars M, Delgado V, et al. Aortic valve calcification and mild tricuspid regurgitation but no clinical heart disease after 8",
+      "depth": 1,
+      "content": "years of dopamine agonist therapy for prolactinoma. Clin Endocrinol. 2016;85:681-688.",
+      "char_count": 85
+    },
+    {
+      "number": "97",
+      "title": "Vallette S, Serri K, Rivera J, Santagata P, Delorme S, Garfield N, et al. Long-term cabergoline therapy is not associated",
+      "depth": 1,
+      "content": "with valvular heart disease in patients with prolactinomas. Pituitary. 2009;12(3):153- 7.",
+      "char_count": 89
+    },
+    {
+      "number": "98",
+      "title": "Giustina A, Uygur MM, Frara S, Barkan A, Biermasz NR, Chanson P, et al. Pilot study to define criteria for Pituitary",
+      "depth": 1,
+      "content": "Tumors Centers of Excellence (PTCOE): results of an audit of leading international centers. Pituitary. outubro de\n      2023;26(5):583–96.\n\n\n\n\n                                                                                                                              19\n\n                               TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n                           OCTREOTIDA, LANREOTIDA, CABERGOLINA E PASIREOTIDA\n\n\n       Eu, ______________________________________________________________________________________ (nome\ndo (a) paciente), declaro ter sido informado (a) claramente sobre benefícios, riscos, contraindicações e principais eventos\nadversos relacionados ao uso de octreotida, lanreotida, cabergolina e pasireotida, indicadas para o tratamento da acromegalia.\n       Os     termos     médicos   foram    explicados   e   todas   as   dúvidas   foram   esclarecidas     pelo(a)   médico(a)\n_______________________________________________________________________________________________ (nome\ndo(a) médico(a) que prescreve).\n       Assim, declaro que fui claramente informado (a) de que o medicamento que passo a receber pode trazer os seguintes\nbenefícios:\n       - melhora dos sintomas e redução das complicações.\n       Fui também claramente informado (a) a respeito das seguintes contraindicações, potenciais eventos adversos e riscos:\n       - Os riscos do uso de octreotida, lanreotida, pasireotida e cabergolina para o bebê durante a gestação são improváveis;\nentretanto, o uso desses medicamentos como rotina não é recomendado e não deve ser utilizado sem orientação médica;\n       - eventos adversos mais comuns da octreotida: reações locais (dor ou sensação de picada, formigamento ou queimação\nno local da injeção, com vermelhidão e inchaço); náusea, vômitos, dor abdominal, gases, diarreia, fezes gordurosas; uso\nprolongado do medicamento: alopecia; formação de cálculos (pedras) na vesícula, problemas no fígado e pâncreas;\n       - eventos adversos mais comuns da lanreotida: dores de cabeça, cansaço, tonturas, diminuição dos batimentos do\ncoração, alteração do açúcar do sangue, falta de apetite, diarreia ou fezes moles, dor de barriga, enjoos, vômitos, problemas de\ndigestão, gases, pedras na vesícula, aumento da bilirrubina, reações no local da injeção; outros efeitos: reação alérgica na\npele/alopecia, queda de cabelos, agravamento do diabete, pancreatite aguda, presença de gordura nas fezes;\n       - eventos adversos mais comuns da cabergolina: náusea, dor abdominal, dor de cabeça, tontura, dor no estômago,\nazia/gastrite, fraqueza e cansaço, prisão de ventre, vômitos, dor no peito, vermelhidão, depressão e cãibras; raramente pode\nocasionar desmaios;\n       - eventos adversos mais comuns da pasireotida: diarreia, dor abdominal, alopecia, formação de cálculos (pedras) na\nvesícula, hiperglicemia e diabete melito.\n       - São medicamentos contraindicados em casos de hipersensibilidade (alergia) aos fármacos ou aos componentes da\nfórmula.\n       Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a devolvê-lo caso não\nqueira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que continuarei a ser atendido (a), inclusive em\ncaso de desistir de usar o medicamento.\n       Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas ao meu tratamento,\ndesde que assegurado o anonimato.\n\n\n       ( ) Sim ( ) Não\n\n\n       Meu tratamento constará do seguinte medicamento:\n       ( ) octreotida\n       ( ) lanreotida\n       ( ) cabergolina\n       ( ) pasireotida\n\n\n                                                                                                                              20\n\n  Local:                                                                       Data:\n  Nome do paciente\n  Cartão Nacional de Saúde:\n  Documento de identificação do responsável legal:\n\n\n                                   ______________________________________________________\n                                             Assinatura do paciente ou do responsável legal\n  Médico responsável:                                               CRM:                      UF:\n\n\n                                   ______________________________________________________\n                                                     Assinatura e carimbo do médico\n                                                         Data: _______________\nNota: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência Farmacêutica se encontram os\nmedicamentos preconizados neste Protocolo.\n\n\n\n\n                                                                                                                                          21\n\n                                                         APÊNDICE 1\n                            METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA",
+      "char_count": 4931
+    },
+    {
+      "number": "1",
+      "title": "Escopo e finalidade do Protocolo",
+      "depth": 1,
+      "content": "O presente apêndice consiste no documento de trabalho do grupo elaborador do Protocolo Clínico e Diretrizes\nTerapêuticas (PCDT) da Acromegalia, contendo a descrição da metodologia de busca de evidências científicas, as\nrecomendações e seus julgamentos (fundamentos para a tomada de decisão), tendo como objetivo embasar o texto do PCDT,\naumentar a sua transparência e prover considerações adicionais para profissionais da saúde, gestores e demais potenciais\ninteressados.\n       O grupo desenvolvedor desta diretriz foi composto por um painel de especialistas sob coordenação do Departamento de\nGestão e Incorporação de Tecnologias em Saúde da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-\nIndustrial da Saúde do Ministério da Saúde (DGITS/SECTICS/MS).\n       Todos os participantes do processo de elaboração do PCDT preencheram o formulário de Declaração de Conflitos de\nInteresse e confidencialidade, os quais foram enviados ao Ministério da Saúde para análise prévia à reunião de escopo. Os\ntrabalhos foram conduzidos considerando as Diretrizes Metodológicas para elaboração de PCDT.\n       A elaboração deste documento foi iniciada em 11 de julho de 2023 com a realização de uma reunião de escopo, a qual\ndefiniu as perguntas de pesquisa desse documento. Definiu-se que as recomendações diagnósticas, de tratamento ou\nacompanhamento que utilizassem tecnologias previamente disponibilizadas no SUS não demandariam questões de pesquisa\ndefinidas por serem práticas clínicas estabelecidas, exceto em casos de incertezas sobre seu uso, casos de desuso ou oportunidades\nde desinvestimento.\n       A dinâmica da reunião foi conduzida com base no PCDT publicado por meio da Portaria SAS/MS nº 1.149, de 11 de\nnovembro de 2015 e na estrutura de PCDT definida pela Portaria SAS/MS nº 375, de 10 de novembro de 2009.\n       Cada seção do PCDT foi discutida entre o Grupo Elaborador e demais participantes da reunião de escopo, com o objetivo\nprincipal de revisar as condutas diagnósticas e identificar tecnologias em saúde que poderiam ser consideradas nas\nrecomendações do Protocolo.\n       Em uma reunião de priorização de tecnologias, realizada no dia 31 de julho de 2023, foram estabelecidas as questões de\npesquisa relativas ao tratamento, referentes aos medicamentos pegvisomanto e pamoato de pasireotida.",
+      "char_count": 2329
+    },
+    {
+      "number": "2",
+      "title": "Equipe de elaboração e partes interessadas",
+      "depth": 1,
+      "content": "Colaboração externa\n       O Protocolo foi atualizado pelo UATS do Hospital Alemão Oswaldo Cruz.\n       Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas\n       A proposta de atualização do PCDT da Acromegalia foi apresentada na 122ª Reunião da Subcomissão Técnica de\nAvaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em 28 de janeiro de 2025. A reunião teve a presença de\nrepresentantes da Secretaria de Ciência, Tecnologia, Inovação e Complexo Econômico-Industrial da Saúde (SECTICS);\nSecretaria de Atenção Especializada em Saúde (SAES) e Secretaria de Vigilância em Saúde e Ambiente (SVSA). O PCDT foi\naprovado para avaliação da Conitec e a proposta foi apresentada aos membros do Comitê de PCDT da Conitec em sua 140ª\nReunião Ordinária, os quais recomendaram favoravelmente ao texto.\n\n\n\n\n                                                                                                                               22",
+      "char_count": 986
+    },
+    {
+      "number": "3",
+      "title": "Busca da evidência e recomendações",
+      "depth": 1,
+      "content": "O processo de desenvolvimento desse PCDT seguiu as recomendações da Diretriz Metodológica de Elaboração de\nDiretrizes Clínicas do Ministério da Saúde. As perguntas de pesquisa foram estruturadas segundo o acrônimo PICO (Figura A).\n\n\n       Figura A - Definição da questão de pesquisa estruturada de acordo com o acrônimo PICO.\n\n\n\n\n       Durante a reunião de escopo deste PCDT duas questões de pesquisa foram definidas.\n\n\n       QUESTÃO 1: A pasireotida é eficaz, efetiva e segura para o tratamento de adultos e adolescentes com\ngigantismo/acromegalia com tumor após cirurgia e sem resposta a análogos da somatostatina de primeira geração?\n       Recomendação: Adotou-se a deliberação da Conitec, em recomendar a incorporação no SUS do pamoato de pasireotida\npara o tratamento de pacientes com acromegalia, conforme Protocolo Clínico do Ministério da Saúde. conforme Relatório de\nRecomendação nº 904/2024, disponível em: https://www.gov.br/conitec/pt-br/midias/relatorios/2024/pamoato-de-pasireotida-\npara-o-tratamento-de-pacientes-com-acromegalia.\n       A estrutura PICO para esta pergunta foi:\n       População: 1. Pacientes com acromegalia, com tumor após cirurgia e sem resposta a análogos da somatostatina de primeira\ngeração; 2. Pacientes adolescentes com gigantismo/acromegalia, com tumor após cirurgia e sem a normalização de IGF-I após\nseis meses sem resposta aos análogos de somatostatina (ou otimização de dose ou associação com cabergolina) (portanto,\nindicação offlabel).\n       Intervenção: pasireotida em monoterapia\n       Comparador: tratamento padrão (lanreotida/octreotida/cabergolina) ou placebo\n       Desfechos: tamanho tumoral, controle níveis IGF-I, controle de níveis de GH, qualidade de vida e melhora de sintomas\n(apneia do sono, DM, HAS, sudorese, edema de tecidos moles e redução de características da acromegalia).\n       Desenhos de estudo: ECR, estudos observacionais comparativos e revisões sistemáticas com meta-análise\n       Métodos e resultados da busca:\n       Para responder essa pergunta, foi utilizada a síntese de evidências apresentada no Relatório de Recomendação n° 904/2024\nda Conitec. Não foi realizada uma busca adicional na literatura, uma vez que a busca presente no referido Relatório foi\nconsiderada recente.\n\n\n       QUESTÃO 2: O pegvisomanto, em monoterapia ou combinado com octreotida, lanreotida ou cabergolina, é eficaz,\nefetivo e seguro para o tratamento de adultos e adolescentes com gigantismo/acromegalia sem tumor ou com\nremanescentes tumorais que apresentaram resposta inadequada à cirurgia e para aqueles pacientes cujo tratamento\n\n\n                                                                                                                            23\n\nmedicamentoso apropriado com análogos da somatostatina não normalizou as concentrações séricas de IGF-1 ou não foi\ntolerado?\n      Recomendação: Adotou-se a deliberação da Conitec, em não recomendar a incorporação no SUS do pegvisomanto para\no tratamento de indivíduos com acromegalia. Conforme Relatório de Recomendação nº 903/2024, disponível em:\nhttps://www.gov.br/conitec/pt-br/midias/relatorios/2024/relatorio-de-recomendacao-no-903-pegvisomanto-para-o-tratamento-\nde-individuos-com-acromegalia\n      A estrutura PICO para esta pergunta foi:\n      População: i) pacientes adultos com acromegalia, sem tumor ou remanescentes tumorais que apresentaram resposta\ninadequada à cirurgia e para aqueles pacientes cujo tratamento médico apropriado com análogos da somatostatina não normalizou\nas concentrações séricas de IGF-I ou não foi tolerado. ii) pacientes adolescentes com gigantismo/acromegalia, sem tumor ou\nremanescentes tumorais, sem a normalização de IGF-I após 6 meses sem resposta aos análogos de somatostatina (otimização de\ndose ou associação com cabergolina).\n      Intervenção: i) pegvisomanto em monoterapia. ii) pegvisomanto combinado a octreotida, lanreotida ou cabergolina.\n      Comparador: tratamento padrão (octreotida/lanreotida/cabergolina) ou placebo\n      Desfechos: controle dos níveis IGF-I, controle de níveis de GH, segurança e qualidade de vida e melhora de sintomas\n(apneia do sono, DM, HAS, sudorese, edema de tecidos moles e redução de características da acromegalia).\n      Desenhos de estudo: ECR, estudos observacionais comparativos e revisões sistemáticas com meta-análise\n      Métodos e resultados da busca:\n      Para responder essa pergunta, foi utilizada a síntese de evidências apresentada no Relatório de Recomendação n° 903/2024\nda Conitec. Não foi realizada uma busca adicional na literatura, uma vez que a busca presente no referido Relatório foi\nconsiderada recente.\n\n\n\n\n                                                                                                                           24\n\n                                                               APÊNDICE 2\n                                      HISTÓRICO DE ALTERAÇÕES DO PROTOCOLO\n     Número do Relatório da                                                      Tecnologias avaliadas pela Conitec\ndiretriz clínica (Conitec) ou             Principais alterações        Incorporação ou alteração      Não incorporação ou não\n     Portaria de Publicação                                                  do uso no SUS                  alteração no SUS\n                                                                                                      Não       incorporação    de\n                                                                       Incorporação de pamoato de\n                                                                                                      pegvisomanto [Relatório de\n                                     Atualização do PCDT, com pasireotida           [Relatório   de\nRelatório de Recomendação nº                                                                          Recomendação              nº\n                                     inclusão      de   pamoato     de Recomendação nº 904/2024;\n1005/2025                                                                                             903/2024;           Portaria\n                                     pasireotida                       Portaria SECTICS/MS nº 25,\n                                                                                                      SECTICS/MS nº 23, de 17\n                                                                       de 21 de junho de 2024]\n                                                                                                      de junho de 2024]\n                                                                                                      Não       incorporação    de\nPortaria       Conjunta       SAS-\n                                                                                                      pegvisomanto      [Relatório\nSCTIE/MS nº 2, de 7 de janeiro\n                                     Atualização de conteúdo                        -                 Técnico      nº   348/2018;\nde      2019     [Relatório     de\n                                                                                                      Portaria SCTIE/MS nº 14,\nRecomendação nº 414/2019]\n                                                                                                      de 29 de março de 2018]\n                                                                                                      Não       incorporação    de\n                                                                                                      pegvisomanto      [Relatório\nPortaria SAS/MS nº 199, de 25\n                                     Atualização de conteúdo                        -                 Técnico      nº     18/2013;\nde fevereiro de 2013\n                                                                                                      Portaria SCTIE/MS nº 1, de\n                                                                                                      17 de janeiro de 2013]\nPortaria SAS/MS nº 471, de 23\n                                     Primeira versão do Protocolo                   -                               -\nde julho de 2002\n\n\n\n\n                                                                                                                                25",
+      "char_count": 8313
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": "O diagnóstico de acromegalia é feito a partir da suspeita clínica, por comprovação de excesso hormonal em exames\nlaboratoriais e por exames de imagem para determinação da causa de excesso de GH 31–33."
+    },
+    "inclusion_criteria": {
+      "number": "4",
+      "content": "São incluídos nesse PCDT as crianças, adolescentes e adultos com suspeita ou diagnóstico de acromegalia ou gigantismo\nconfirmado por manifestações clínicas, comprovação laboratorial de excesso hormonal e por exame de imagem com\nidentificação da causa da doença.\n       Para o tratamento com octreotida e lanreotida, o paciente também deve apresentar os seguintes critérios:\n       No tratamento primário: o paciente deve ter contraindicação ao tratamento cirúrgico ou ter baixa probabilidade de\nbenefício com a cirurgia (devido a tumores invasivos predominantemente de seios cavernosos), e não apresentar risco de perda\nvisual devido à extensão supra-selar do tumor.\n       No tratamento complementar: três meses após procedimento cirúrgico, o paciente que não apresente critérios laboratoriais\nde controle da doença (IGF-I elevado).\n       Para o tratamento com cabergolina, o paciente também deve apresentar:\n       No tratamento primário: pacientes com adenomas hipofisários coprodutores de prolactina e GH ou pacientes com tumores\nnão invasivos e com níveis pouco elevados de GH e IGF-I (menor do que 1,5 vezes o limite superior da normalidade para a idade\ndo paciente).\n       Tratamento complementar: pacientes que, três meses após uso regular de octreotida ou lanreotida, não apresentem\ncritérios laboratoriais de controle da doença, ou seja, redução nos níveis de GH e IGF-I, sem atingir os níveis de normalidade.\n       Para o tratamento com pasireotida, o paciente também deve apresentar idade a partir de 12 anos e exame de imagem que\nevidencie tumor remanescente após cirurgia no exame de imagem, sem resposta ao tratamento com octreotida ou lanreotida,\nassociado ou não à cabergolina.\n\n\n\n\n                                                                                                                                  5"
+    },
+    "exclusion_criteria": {
+      "number": "5",
+      "content": "Pacientes com intolerância, hipersensibilidade ou contraindicação aos medicamentos ou procedimentos preconizados\nneste Protocolo serão excluídos dos respectivos medicamentos ou procedimentos. Para o uso de pasireotida, serão excluídos\npacientes que apresentem diagnóstico de diabete melito não controlado (HbA1c superior a 8%)."
+    },
+    "treatment": {
+      "number": "6",
+      "content": "O tratamento da acromegalia pode envolver procedimentos cirúrgicos, radioterapia e terapia medicamentosa. A\nacromegalia deve ser acompanhada não só para o controle dos sintomas, mas também para a diminuição da mortalidade 23. Se\nnecessário, os pacientes também devem receber tratamento para as eventuais complicações decorrentes da acromegalia, como\nhipertensão arterial sistêmica, diabete melito e doenças cardíacas."
+    },
+    "monitoring": {
+      "number": "7",
+      "content": "Os pacientes com acromegalia devem manter acompanhamento por toda a vida, com avaliações clínica e laboratorial\ntrimestrais no primeiro ano e, após, anualmente. Essa periodicidade pode ser modificada de acordo com a resposta aos\ntratamentos, conforme resultados de exames laboratoriais. As comorbidades associadas (hipertensão, diabete melito,\ncardiomiopatia acromegálica) também devem ser avaliadas e acompanhadas no seguimento dos pacientes.\n       A avaliação da resposta ao tratamento depende da modalidade terapêutica adotada. Para avaliação da resposta ao\ntratamento dos pacientes submetidos ao tratamento cirúrgico, podem ser solicitadas dosagens séricas de IGF-I e GH após\nsobrecarga de glicose, 3 a 6 meses depois do procedimento. O nadir de GH pode ser influenciado pela idade, IMC, sexo e\nconcentração de estrogênio. No caso de indivíduo com diabete, devem ser realizadas dosagens de IGF-I e GH basal por método\nultrassensível sem sobrecarga de glicose40,51.\n       As recomendações dos consensos internacionais sugeriram inicialmente que a acromegalia poderia ser considerada\ncontrolada quando a dosagem de IGF-I estivesse dentro do nível normal para sexo e idade e o nadir de GH após sobrecarga de\nglicose, abaixo de 1 ng/mL1,91. Sugere-se que, no pós-operatório (3 a 6 meses após cirurgia), o ponto de corte considerado como\ncura na supressão do GH após teste oral de tolerância a glicose seja inferior a 0,4 ng/mL com ensaios ultrassensiveis 51.\n       Nos pacientes em uso de análogos da somatostatina ou agonista da dopamina, a dosagem de GH após sobrecarga de\nglicose não é útil para monitorar a resposta terapêutica. Nesses casos, dosagens de IGF-I e de GH devem ser efetuadas33. Para o\ntratamento com pasireotida, a adequada monitorização dos níveis séricos de glicose e hemoglobina glicada deve ser realizada.\n       No seguimento de pacientes em tratamento clínico, a concentração de IGF-I reflete a atividade da doença, porém sofre\nvariabilidade e influência de fatores pré-analíticos e analíticos. Os parâmetros são avaliados como variação acima do limite\nsuperior da normalidade (LSN), e são considerados controlados os pacientes que apresentarem valores normais ou, ainda que\nnão seja consenso, levemente aumentados (1,2 a 1,3 X LSN), de acordo com o cenário clínico. O GH basal, se usado no\nmonitoramento, é considerado normal se menor que 1 ng/mL51,92. Se houver discrepância entre as dosagens de GH e IGF-I, o\njulgamento clínico pode ser importante e norteará a conduta. Essa situação pode ocorrer em cerca de 25% dos pacientes e está\nassociada ao uso de ensaio ultrassensíveis de GH e tratamento com análogos de somatostatina 23,51,92,93.\n       Nos pacientes com doença controlada, esses exames devem ser repetidos trimestralmente no primeiro ano e, após,\nanualmente. Naqueles em que a doença não estiver controlada, a periodicidade dos exames deverá ser mantida no primeiro ano\ne, após esse período, dependerá do uso de novos tratamentos e da resposta a eles 1.\n       A avaliação com RM deve ser realizada no mínimo 3 meses depois da cirurgia para acompanhamento. Após o primeiro\nexame de seguimento, a periodicidade da avaliação por RM dependerá da resposta do paciente ao tratamento. Quando houver\nsinais clínicos ou laboratoriais de recorrência, a RM deverá ser realizada novamente 31.\n       Os principais eventos adversos dos análogos da somatostatina são desconforto e cólicas abdominais, que melhoram com\na manutenção do tratamento (em torno de 8 a 10 semanas após o início). Outra complicação descrita é o desenvolvimento de\nlitíase biliar em até 20% dos pacientes, raramente causando colecistite. Não há necessidade de realização de ultrassonografia\n\n\n                                                                                                                            12\n\ncomo avaliação de rotina para essa complicação. Há relato de casos de desenvolvimento de pancreatite 32,34 e de piora de estados\nhiperglicêmicos.\n       Algumas evidências sugerem que o uso de cabergolina pode ser relacionado ao desenvolvimento de doença valvar\ncardíaca e à possibilidade de desordens de impulsos 94,95. Contudo, elas são oriundas de estudos sobre o tratamento de doença de\nParkinson, em que as doses são mais elevadas e o tratamento mais prolongado do que para acromegalia. Nas doses empregadas\npara tratamento de prolactinomas, não foi encontrada essa associação 96,97."
+    },
+    "regulation": {
+      "number": "8",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste Protocolo, a duração e a monitorização do\ntratamento, bem como para a verificação periódica das doses de medicamento (s) prescritas e dispensadas e da adequação de uso\ne do acompanhamento pós-tratamento. Pacientes com acromegalia devem ser atendidos em serviços especializados em\nendocrinologia, para seu adequado diagnóstico, inclusão no protocolo de tratamento e acompanhamento.\n       Pacientes com acromegalia devem ser avaliados periodicamente em relação à eficácia do tratamento e ao desenvolvimento\nde toxicidade aguda ou crônica, em serviços especializados de neurocirurgia com endocrinologia ou neuroendocrinologia. A\nexistência de centro de referência facilita a avaliação diagnóstica, o tratamento, o ajuste de doses conforme necessário e o controle\nde eventos adversos.\n       Em termos cirúrgicos, os melhores resultados e menores chances de complicações dependem da experiência do cirurgião\ne não da técnica utilizada (endoscopia ou microscopia), o que se observa em serviços em que apenas um ou dois neurocirurgiões\nsão responsáveis pelas cirurgias transesfenoidais de hipófise 65.\n       A busca pela excelência deve ser um objetivo contínuo dos profissionais e dos gestores de saúde, e é amplamente aceito\nque especialistas em doenças menos prevalentes costumam fornecer melhor padrão de atendimento aos pacientes. No caso dos\ntumores hipofisários, há consenso amplamente difundido, indicando que o melhor atendimento é fornecido por uma equipe\ninterdisciplinar composta por endocrinologistas dedicados e cirurgiões hipofisários experientes. Idealmente, essa equipe central\nprecisa, muitas vezes, ser apoiada por outras áreas do conhecimento, incluindo neurorradiologia, neuropatologia, radioterapia,\noftalmologia, otorrinolaringologia e enfermagem especializada 17,42,51,65.\n       Nesse contexto, a Pituitary Society elaborou um estudo com o objetivo de validar critérios propostos anteriormente por\nmeio da coleta e avaliação de atividade autorrelatada de vários centros hipofisários internacionais para a definição de Centros de\nExcelência em Tumores Hipofisários, visando contribuir para o melhor manejo dos pacientes e alcance de resultados terapêuticos\nsatisfatórios. Entre os principais pontos, foram destacados: presença de três neurocirurgiões hipofisários especializados e 100\nprocedimentos cirúrgicos por centro anualmente; complicações agudas pós-cirúrgicas devem ser preferencialmente\ninsignificantes ou inexistentes (aceitável taxa menor que 10%) e quatro endocrinologistas dedicados à doença da hipófise98.\n       Por essas razões, pacientes com acromegalia e gigantismo devem ser preferencialmente atendidos em serviços\nespecializados que tenham ao menos ambulatório específico de endocrinologia para atendimento de pacientes com doenças\nhipofisárias e hipotalâmicas, com acesso a equipe de neurocirurgia com experiência comprovada em cirurgias para tumores\nhipofisários (CID-10: D35.2), para seu adequado diagnóstico, tratamento e acompanhamento, pois isso tem comprovado impacto\nno custo-efetividade da abordagem da acromegalia/gigantismo52.\n       Deve-se verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica se encontram os medicamentos preconizados neste Protocolo.\n       Os estados e municípios deverão manter atualizadas as informações referentes aos registros de estoque, distribuição e\ndispensação do (s) medicamento (s) e encaminhar estas informações ao Ministério da Saúde via Base Nacional de Dados de\n\n\n\n\n                                                                                                                                  13\n\nAções e Serviços da Assistência Farmacêutica no âmbito do Sistema Único de Saúde (BNAFAR), conforme as normativas\nvigentes."
+    }
+  },
+  "stats": {
+    "section_count": 115,
+    "char_count": 86236,
+    "depth1_count": 104
+  }
+}

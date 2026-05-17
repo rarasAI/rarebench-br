@@ -1,0 +1,419 @@
+{
+  "slug": "doenca-de-pompe",
+  "name_pt": "Doença de Pompe",
+  "icd10": "E74.0",
+  "orphanet": "ORPHA:365",
+  "omim": "232300",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/protocolo_uso/portaria-conjunta-pcdt-doena-de-pompe10-08-2020.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A doença de Pompe (DP), também conhecida como glicogenose tipo II ou\ndeficiência de maltase ácida é uma doença genética rara, de acometimento neuromuscular\nprogressivo e frequentemente fatal nas formas mais graves, causada por variantes\npatogênicas bialélicas no gene GAA, localizado no cromossomo 17q25.2-q25.3. Em\nconsequência, existe atividade deficiente da alfa glicosidase ácida (sinônimo: maltase\nácida), enzima lisossômica que libera glicose a partir do glicogênio, conforme a demanda\nde energia celular. A deficiência dessa enzima leva a um acúmulo de glicogênio dentro\ndos lisossomos e do citoplasma de múltiplos tecidos, incluindo a musculatura lisa,\nesquelética e cardíaca. Esse acúmulo acaba danificando o funcionamento celular e\ndestruindo as células, por hipertrofia e ruptura dos lisossomos1-6. Associa-se a esse\nprocesso fisiopatológico um acúmulo do material a ser processado pelas vias autofágicas7.\n     Mais de 600 variantes patogênicas já foram relatadas no gene GAA8. Como regra, a\natividade enzimática correlaciona-se com a idade de início e a taxa de progressão da\ndoença, sendo algumas variantes responsáveis por ausência de atividade enzimática e\nresultando na DP de início precoce, infantil ou clássica - a forma mais grave da doença.\nVárias combinações de variantes que resultem em alguma atividade enzimática causam\numa doença com início mais tardio e com progressão mais lenta, proporcional à atividade\nresidual da enzima1.\n     A DP pode ser classificada em grupos A, B, C e D de acordo com a idade do início\ndos sintomas, acometimento cardíaco e velocidade de progressão da doença. A forma\ncom início dos sintomas antes dos 12 meses de idade - grupo A - possui cardiomiopatia\nhipertrófica, afetando principalmente a parede ventricular esquerda posterior e o septo\ninterventricular, e inclui pacientes tipicamente classificados como tendo a DP infantil\nclássica. Foi originalmente descrita por Pompe em 1932, sendo causada pela deficiência\ncompleta de alfa glicosidase ácida e tipicamente associada a sintomas mais graves2. Pode\naparecer muito precocemente, ainda intra-útero ou, mais frequentemente, nos primeiros\n\nmeses de vida, entre 1,6 e 2 meses em média. Caracteriza-se por fraqueza muscular\ngeneralizada e cardiomegalia1. Na ausência de tratamento, a taxa de mortalidade é alta\naos 12 meses de vida9, 10.\n      Já o grupo B inclui pacientes cujo início dos sintomas ocorre também antes dos 12\nmeses de idade; no entanto, não têm cardiomiopatia hipertrófica, sendo esses pacientes\nfrequentemente classificados de DP infantil \"atípico\". Os grupos A e B são também\ndenominados de DP precoce1. O grupo C tem início dos sintomas após 12 meses de idade,\nmas ainda na infância, e mescla-se com os fenótipos que surgem até a adolescência\n(juvenil). As formas mais tardias de manifestação no adulto caracterizam o grupo D. Os\ngrupos C e D têm evolução mais lenta e têm como características clínicas principais a\nmiopatia, a insuficiência respiratória crônica, ausência de cardiomiopatia hipertrófica e\num variado espectro de sinais e sintomas11, sendo denominadas como DP tardia. A\napresentação mais comum dessa forma é a fraqueza muscular proximal do tipo de\ncinturas, de membros inferiores e de tronco; apresentações mais raras incluem síndrome\nda espinha rígida, fraqueza da musculatura respiratória ou facial, ptose palpebral (uni ou\nbilateral) e oftalmoplegia. Anormalidades eletrocardiográficas são comuns, incluindo\nbloqueio completo cardíaco, taquiarritmias supraventriculares e ventriculares10.\n      A DP pode aparecer tão tardiamente quanto na segunda ou até na sétima década de\nvida, com as mesmas características de fraqueza muscular descritas acima, como se fosse\numa    distrofia   muscular   ou    polimiosite.   Os   adultos    afetados   descrevem,\nretrospectivamente, sintomas como dificuldade em participar de esportes na infância ou\nfadiga e dificuldade para levantar, subir escadas ou caminhar, eventualmente podendo\nnão apresentar fraqueza12.\n      A incidência global da DP é estimada em 1/40.000, sendo de 1/138.000 para os\ngrupos A e B e de 1/57.000 para os grupos C e D. Influência étnica é identificada, pois a\nincidência da doença é maior entre afro-americanos (1/12.000) e chineses (1/40.000 a\n1/50.000)1, 3. Dados obtidos a partir de registro internacional de pacientes com DP,\nindependente da forma clínica, mostram que 53/763 (7%) pacientes são acompanhados\nna América Latina13. Atualmente há, no Brasil, em torno de 106 pacientes em tratamento\npela terapia de reposição enzimática (TRE) com DP14.\n      A identificação da doença em seu estágio inicial e o encaminhamento ágil e\nadequado para o atendimento especializado dão à Atenção Primária um caráter essencial\npara um melhor resultado terapêutico e prognóstico dos casos.\n\n         Este Protocolo visa a estabelecer os critérios diagnósticos e terapêuticos da doença\nde Pompe. A metodologia de busca e avaliação das evidências estão detalhadas no\nApêndice 1.",
+      "char_count": 4975
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E",
+      "depth": 1,
+      "content": "PROBLEMAS RELACIONADOS À SAÚDE (CID-10)\n- E 74.0 - Doença de depósito de glicogênio",
+      "char_count": 83
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "A confirmação do diagnóstico de DP envolve exames bioquímicos ou genéticos que\ndeverão ser realizados sempre que houver suspeita clínica oulaboratorial dessa doença. É\nimportante ressaltar que o diagnóstico precoce é fundamental e que, no Brasil, ainda\nocorre diagnóstico em estágio avançado da doença15.",
+      "char_count": 304
+    },
+    {
+      "number": "3.1",
+      "title": "Suspeita Diagnóstica",
+      "depth": 2,
+      "content": "3.1.1.         Suspeita de DP Precoce\n\n       A DP precoce deve ser suspeitada em indivíduos que apresentem pelo menos um dos\nseguintes sinais ou sintomas abaixo relacionados, especialmente se em combinação e\niniciados durante o primeiro ano de vida10, 11, 16:\n Hipotonia muscular importante, especialmente fraqueza muscular proximal em\n       membros superiores e inferiores e em tronco;\n atraso do desenvolvimento motor;\n insuficiência respiratória grave, avaliada clinicamente;\n cardiomiopatia hipertrófica;\n cardiomegalia;\n disfagia e distúrbios de deglutição;\n macroglossia;\n hepatomegalia;\n irmão de qualquer sexo com DP;\n níveis elevados de creatinoquinase (CK). A CK está uniformemente elevada na DP\n       Precoce, atingindo até 2000 UI/L;\n\n biópsia muscular com presença de vacúolos citoplasmáticos mostrando aumento da\n    atividade lisossomal à reação pela fosfatase ácida e aumento do conteúdo de glicogênio\n    pela coloração de ácido periódico de Schiff (PAS-positivo).",
+      "char_count": 995
+    },
+    {
+      "number": "3.1.2",
+      "title": "Suspeita de DP Tardia",
+      "depth": 3,
+      "content": "A DP tardia possui apresentação clínica distinta, devendo ser suspeitada em indivíduos\nque apresentem pelo menos um dos seguintes sinais ou sintomas abaixo relacionado,\nespecialmente se combinados e iniciados após 12 meses de idade1, 10, 11, 16, 17:\n Fraqueza muscular proximal progressiva, especialmente em tronco e membros\n    inferiores;\n levantar da posição em decúbito utilizando uma rotação lateral do corpo;\n sinal de Gowers;\n escápula alada, atrofia do músculo paraespinhal;\n síndrome da espinha rígida;\n fraqueza facial ou ptose palpebral (uni ou bilateral), oftalmoplegia;\n alterações      eletrocardiográficas     como      taquiarritimias        ventriculares      e\n    supraventriculares, síndrome Wolff–Parkinson–White;\n irmão de qualquer sexo com DP;\n progressão de sintomas respiratórios para insuficiência respiratória por fraqueza\n    muscular diafragmática e intercostal, desencadeados por infecção, cirurgias ou\n    aspiração;\n níveis elevados de creatinoquinase (CK): A CK está elevada na forma juvenil (grupo\n    C), podendo estar normal na DP Tardia (grupo D);\n níveis elevados de transaminases hepáticas [alanina aminotransferase ou transaminase\n    glutâmico pirúvica – (ALT/TGP) e aspartato aminotransferase ou transaminase\n    oxalacética   (AST/TGO)]      e   lactato   desidrogenase    (LDH),       com    a      gama\n    glutamiltransferase (gama GT) normal;\n eletromiografia (EMG) com características miopáticas6,               17\n                                                                            . O EMG deve\n    preferencialmente avaliar a musculatura paraespinhal ou esternocleidomastodeo11;\n biópsia muscular com presença de vacúolos citoplasmáticos mostrando aumento da\n    atividade lisossomal à reação pela fosfatase ácida e aumento do conteúdo de glicogênio\n    pela coloração de ácido periódico de Schiff (PAS-positivo)1, 6, 18;",
+      "char_count": 1892
+    },
+    {
+      "number": "3.2",
+      "title": "Diagnóstico Laboratorial",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.2.1",
+      "title": "Atividade da alfa glicosidade ácida",
+      "depth": 3,
+      "content": "O diagnóstico da DP pode ser suspeito medindo-se a atividade da alfa glicosidase\nácida em papel filtro nos pacientes com quadro clínico compatível19-21 e valores de\nreferência na população brasileira estão disponíveis21; porém, esse resultado deve ser\nconfirmado por meio da medida da enzima alfa glicosidase ácida em outro tecido, uma\nvez que a sensibilidade e especificidade do teste em papel filtro dependem, entre outros,\ndo método utilizado e de condições de transporte e armazenamento1. É na cultura de\nfibroblastos de pele que há maior atividade enzimática e é este o tecido considerado\n“padrão-ouro” para o diagnóstico. Os linfócitos purificados também são utilizados1.\nDevido ao fato de que os ensaios enzimáticos também apresentam limitações para\ndiscriminar entre pseudodeficiência, heterozigotos e homozigotos/heterozigotos\ncompostos afetados, a análise genética pode ser indicada para estabelecer o diagnóstico22.",
+      "char_count": 926
+    },
+    {
+      "number": "3.2.2",
+      "title": "Teste genético",
+      "depth": 3,
+      "content": "A análise do gene GAA não é sempre necessária, mas está principalmente indicada\nnas seguintes situações: atividade enzimática próxima ao normal e quadro clínico\nsuspeito; suspeita de pseudodeficiência22; aconselhamento genético; investigação de\nirmãos de pacientes cujas variantes patogênicas já tenham sido identificadas23. Além\ndisso, o genótipo pode auxiliar na predição do quadro clinico associado e na ocorrência\nde eventos adversos à TRE24.\n         Entre os pacientes com DP Precoce, por exemplo, o status do material imunológico\ncom reatividade cruzada (CRIM) é um importante preditor de resposta à TRE e de\nmortalidade e pode ser predito a partir do genótipo do paciente. Nos pacientes\nidentificados como tendo status CRIM negativo (CRIM-), nenhuma proteína GAA é\nsintetizada. Assim, a alfa-alglicosidase é reconhecida como uma proteína estranha pelo\nsistema imunológico nesses pacientes, resultando no desenvolvimento de altos títulos de\nanticorpos neutralizantes que tornam a TRE ineficaz, com maior chance de eventos\nadversos10. Um estudo que analisou as variantes do gene GAA em 243 pacientes com DP\nprecoce mostrou que a maioria dos pacientes CRIM- eram homozigotos ou heterozigotos\ncompostos para variantes sem sentido oucom alteração da fase de leitura, resultando em\ncódons de parada prematuros ou deleções com vários éxons e, consequentemente, em\n\n       falta de produção da proteína. Por outro lado, a maioria dos pacientes CRIM+ apresentou\n       1 ou 2 variantes de tipo missense ou deleção que não alterava a fase de leitura10, 25. A\n       determinação do CRIM é disponível como pesquisa em centros internacionais. Na pratica\n       clínica, usa-se o genótipo para sua predição.",
+      "char_count": 1702
+    },
+    {
+      "number": "4",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "depth": 1,
+      "content": "Serão incluídos neste Protocolo todos os pacientes com DP precoce (grupos A e B) ou\n       tardia (grupos C e D) que apresentarem pelo menos um dos sinais ou sintomas descritos\n       no item 3.1 (Suspeita Clínica), E confirmação do diagnóstico de acordo com um dos\n       critérios abaixo relacionados:\n        Atividade da enzima alfa glicosidase ácida <10% do limite inferior dos valores de\n              referência em fibroblastos ou leucócitos, com atividade da enzima de referência,\n              avaliada na mesma amostra e pelo mesmo método, apresentando valores normais; OU\n        Presença de variantes patogênicas em homozigose ou heterozigose composta no gene\n              GAA6.",
+      "char_count": 693
+    },
+    {
+      "number": "4.1",
+      "title": "Critérios de Inclusão para TRE",
+      "depth": 2,
+      "content": "Poderão fazer uso de alfa-alglicosidase todos os indivíduos com diagnóstico de DP\n       (conforme item 3) do tipo precoce (início dos sintomas até 12 meses de idade).",
+      "char_count": 167
+    },
+    {
+      "number": "5",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "depth": 1,
+      "content": "Serão excluídos deste Protocolo os pacientes sem o diagnóstico confirmatório de\n       DP.\n\n\n\n5.1.             Critérios de Exclusão para TRE\n\n              Serão excluídos do tratamento específico com alfa-alglicosidase os pacientes que se\n       apresentarem nas seguintes situações:\n        Apresentarem a forma DP tardia;\n        Condição médica irreversível e que implique em sobrevida provavelmente inferior a 6\n              meses, como resultado da DP ou de outra doença associada, em acordo entre mais de\n\n       um especialista e atestada por laudo médico;\n Idade acima de 18 anos e que, após serem informados sobre os potenciais riscos e\n       benefícios associados ao tratamento com alfa-alglicosidase, recusarem-se a serem\n       tratados;\n Histórico de falha de adesão, desde que previamente inseridos, sem sucesso, em ação\n       educativa específica para melhora de adesão, ou seja, pacientes que, mesmo após essa\n       intervenção, não comparecerem a pelo menos 50% do número de consultas ou de\n       avaliações previstas em um ano.",
+      "char_count": 1056
+    },
+    {
+      "number": "6",
+      "title": "TRATAMENTO",
+      "depth": 1,
+      "content": "6.1.         Tratamento de suporte\n\n           O tratamento de suporte deve ser oferecido a todo paciente com DP, independente\nda forma clinica, idade ou estagio da doença.\n           O paciente deve ser acompanhado por equipe multidisciplinar experiente já que a\ndoença é multissistêmica1,11,17 e deve ser dirigido predominantemente para as\nmanifestações respiratórias. As sessões de fisioterapia motora, pela fraqueza muscular,\ndeverão ser igualmente indicadas, e para cirurgia de alterações articulares secundárias ao\nacometimento muscular, as equipes de ortopedia e fisiatria deverão ser consultadas.\n           A fim de diminuir as exacerbações respiratórias, imunização com vacina contra\ninfluenza e doença pneumocócica está indicada. Além disso, quando ocorrerem, devem\nreceber tratamento o mais precocemente possível, para, assim, diminuir riscos de\ncomplicações. Por fim, comorbidades como asma (tratamento estabelecido em PCDT\nespecífico)26 e cardiopatia também devem ser tratadas adequadamente, com vistas a\nminimizar seu impacto na doença de base17. Por apresentarem dificuldade para tossir,\nmanobras de remoção das secreções, tanto manuais quanto por aspiração, podem ser\nutilizadas11.\n           Com vistas a preservar e otimizar a função muscular, prevenindo ou minimizando\ncomplicações secundárias e aumentando o benefício da TRE, a reabilitação deve incluir\nfisioterapia motora e respiratória, além conduta nutricional e de acompanhamento com as\ndemais especialidades acima citadas11, 17. Inexistem diretrizes específicas para o\nfortalecimento muscular ou exercícios terapêuticos para indivíduos com DP.\n           Exercício aeróbico submáximo parece melhorar força e função muscular por\naumentar o clearance do glicogênio acumulado17, devendo sempre ser indicado e\n\nprogramado por um profissional de reabilitação com experiencia na prática dessas\natividades e na DP. Deve-se iniciar com intensidade leve, permitindo períodos de\nrepouso, com aumento gradual até a intensidade moderada, atingindo níveis aeróbicos até\n60%-70% do esforço máximo, 3 a 5 dias por semana11,17. Uma vez que exercícios podem\nlevar os pacientes à descompensação pulmonar, uma avaliação prévia por pneumologista\né recomendada17.\n\n\nContraturas musculares e deformidades dos membros\n       Um programa preventivo de alongamentos diários deve ser iniciado precocemente\ne fazer parte da rotina do paciente, com vistas a prevenir e lentificar o desenvolvimento\nde contraturas musculares ou deformidades. Quando iniciados antes das alterações\niniciarem, são mais efetivos, uma vez que são menos dolorosos11, 17. Órteses podem ser\nutilizadas como dispositivos corretivos complementares, já que o posicionamento correto\ndo paciente tanto em pé quanto na cadeira de rodas auxilia a prevenir dor crônica, assim\ncomo lesões de pele e escaras11, 17, podendo ainda apresentar impacto positivo sobre a\nfunção cardíaca, respiratória e motora dos pacientes quando adequadamente indicada.\n\n\nDeformidades da coluna\n       Pacientes com DP podem desenvolver escoliose grave devido à fraqueza e à\natrofia muscular. Até o momento, permanece como melhor opção para o tratamento da\nescoliose o tratamento cirúrgico, similar ao que é empregado em outras doenças\nneuromusculares. Nestas doenças, o tratamento é indicado para pacientes com ângulo de\nCobb entre 30 e 40 graus; recomenda-se que o mesmo critério seja usado em pacientes\ncom DP. É essencial que haja monitoramento da função respiratória, avaliando-se o risco\npré-operatório; nos pacientes de maior risco, preconiza-se o uso noturno de suporte\nventilatório para minimizar o risco da cirurgia. No pós-operatório, torna-se necessário o\nuso agressivo de ventilação mecânica, de modo a diminuir a morbidade. Além disso, após\na cirurgia, deve-se fazer uso precoce de fisioterapia, mobilização (quando houver\nestabilidade do quadro clínico), controle da dor e higiene pulmonar. Não há comprovação\nde que o reparo cirúrgico das deformidades espinhais melhore a função pulmonar; ao\ninvés disso, deve-se ter como o objetivo a melhora da postura sentada, o que permitirá o\nuso efetivo de cadeira de rodas, beneficiando a qualidade de vida do paciente17.\n\n\nOsteopenia e Osteoporose\n\n       Devido à presença de redução da densidade mineral óssea, preconiza-se a\navaliação sistemática do equilíbrio e do risco de queda desses pacientes, com vistas a\nreduzir a ocorrência de fraturas. Uso de equipamentos de auxílio da marcha, como\nbengalas ou andadores também são recomendáveis. Suplementos de vitamina D e\ncarbonato de cálcio devem ser utilizados quando houver alteração na densitometria\nóssea11, 17. O tratamento de osteoporose deve seguir o PCDT da Osteoporose, do\nMinistério da Saúde27.\n\n\nDistúrbios de sono\n       Durante o sono, pode ser ofertado oxigênio suplementar em casos de hipóxia,\nporém acompanhamento com com oximetria de pulso está indicado11, 17. A avaliação\npneumológica é necessária para o adequado controle das complicações associadas.\n\n\nInsuficiência respiratória\n       Deve-se evitar intubação orotraqueal temporária para procedimentos sempre que\npossível, em vistas da dificuldade de reverter necessidade de ventilação mecânica nesses\npacientes1. Entretanto, suporte ventilatório pode ser necessário, conforme indicação\nclínica1, preferencialmente instalado de forma precoce a fim de prevenir quadro de\ninsuficiência ventilatória crônica, o qual aumenta o risco de morte. Eventualmente,\nsobretudo em quadros de exacerbação infecciosa aguda, pode também ser necessário o\nsuporte ventilatório invasivo. A ventilação, quando indicada, deve ser realizada por uma\nequipe com experiência em suporte ventilatório de pacientes com doenças\nneuromusculares e eles devem ser extubados assim que possível. É importante sempre\nexcluir atelectasias como causa da insuficiência ventilatória, especialmente em crianças1.\n\n\nDisfagia\n       O acompanhamento com fonoaudiólogo é essencial para avaliar o risco de\naspiração, com realização de fluoroscopia conforme indicação médica, podendo ser\nnecessária a gastrostomia em alguns casos graves1,11,17. A gastrostomia percutânea\nendoscópica (GPE) é um procedimento que visa a proporcionar acesso prolongado aos\nalimentos para pacientes que são incapazes de manter uma ingesta alimentar adequada ou\numa energia calórica adequada. A GPE é indicada para pacientes com doença grave,\ndisfagia, risco de aspiração, perda de peso (> 10% em um ano) ou FVC <40%. A\ngastrostomia envolve, muitas vezes, a anestesia geral, que limita seu uso em pacientes\n\ncom DP (ver Anestesia/Cirurgia) e precisa ser muito bem indicada. A principal indicação\nde GPE na prática clínica diária é para a nutrição enteral para pacientes com DP e\nimportante disfagia11.\n\n\nAnestesia/Cirurgia\n       A equipe médica deve estar atenta para uma série de recomendações quando\nindicar uma cirurgia para pacientes com DP, pois o aumento do risco de complicações\nenvolvendo anestesia é reconhecido1, 11. Pacientes com doenças neuromusculares em\ngeral devido ao seu metabolismo podem ter um risco maior de eventos adversos a\nanestésicos, especialmente à combinação de halotano e succinilcolina.\n       Considerar os seguintes aspectos para procedimentos cirúrgicos na DP (todos os\ngrupos de pacientes com DP):\n Realizar procedimentos anestésicos somente quando necessário;\n combinar todos os procedimentos cirúrgicos de forma simultânea que requeiram\n  anestesia para reduzir o risco de exposição ao anestésico;\n evitar a intubação traqueal e, se indicado, certifique-se de que é realizado por um\n  profissional experiente;\n fazer uma supervisão intra-operatória rigorosa;\n usar agentes inalatórios em pacientes não graves;\n evitar agentes despolarizantes devido ao risco de hipercalemia;\n monitorar o volume de fluido circulante;\n realizar procedimentos cirúrgicos em hospitais com profissionais experientes no\n  tratamento da DP.\n\n\nAconselhamento genético\n       Por se tratar de doença genética, com risco de recorrência aumentado, a família e\no paciente devem ser inseridos, assim que possível, em processo de aconselhamento\ngenético a ser coordenado por profissional habilitado, usualmente médicos geneticistas.\n\n\nOutras condições clínicas\n       Uma vez que a fraqueza muscular pode levar a dificuldades na fonação, e\nconsequentemente levar a maior esforço respiratório, adequada avaliação e tratamento\ndessas condições devem fazer parte do cuidado dos pacientes com DP. Além disso,\n\ndesnutrição é uma comorbidade frequentemente presente e também pode contribuir para\npiora da mobilidade e da fraqueza muscular. Para o suporte nutricional e alimentar, é\nimportante assegurar 30% do aporte calórico total em proteínas, especialmente na forma\ntardia da doença, e deve ser realizado com o apoio de nutricionista com experiência em\ndoenças metabólicas1, 10, 11, 17.",
+      "char_count": 8802
+    },
+    {
+      "number": "6.2",
+      "title": "Tratamento medicamentoso",
+      "depth": 2,
+      "content": "A prevenção primária das manifestações clínicas e o tratamento das manifestações\njá estabelecidas na DP são realizados com a TRE para a forma precoce, administrando-se\nao paciente uma maltase ácida recombinante humana (alfa-alglicosidase) produzida em\ncélulas de ovário de hamsters chinês (CHO)1,             11\n                                                              . O tratamento é indicado\nindependentemente da necessidade ou não de suporte ventilatório para todos os pacientes\nque apresentem pelo menos uma das manifestações clínicas encontradas em 3.1 Suspeita\nDiagnóstica e conforme os critérios de inclusão para TRE (sub-item 4.1).\n         Alguns estudos já avaliaram o benefício de associar exercício físico à TRE, ainda\nsem evidência suficiente para indicar sua associação28, 29. O uso de pré-medicação pode\nser considerado mesmo na ausência de reações à infusão, especialmente nos casos mais\ngraves1.",
+      "char_count": 918
+    },
+    {
+      "number": "6.2.1",
+      "title": "Fármaco",
+      "depth": 3,
+      "content": "- Alfa-alglicosidase ácida: frasco-ampola com 50 mg de pó liofilizado",
+      "char_count": 69
+    },
+    {
+      "number": "6.2.2",
+      "title": "Esquema de Administração",
+      "depth": 3,
+      "content": "- Alfa-alglicosidase: 20 mg/kg, via intravenosa, a cada 15 dias.\n\n\n         Cada frasco deve ser reconstituído com 10,3 mL de água para injeção\n(concentração final de 5 mg/mL) e, após, diluído em solução de cloreto de sódio 0,9 %\naté uma concentração final entre 0,5 mg e 4 mg/mL. A administração deve ser lenta, por\nmeio de bomba de infusão IV. Iniciar com uma taxa de infusão de 1 mg/kg/hora e\naumentar gradualmente para 2 mg/kg/hora a cada 30 minutos até o máximo de 7\nmg/kg/hora1.\n         Monitorizar a infusão a cada 15 minutos, especialmente em relação ao sistema\n\ncardiorespiratório, avaliando a ausculta respiratória, as frequências respiratória e cardíaca\ne a pressão arterial antes e durante a infusão1. A infusão deve ser feita em ambiente\nhospitalar ou ambulatorial. Infusões domiciliares podem ser consideradas após 6 meses\nde tratamento sem intercorrências.",
+      "char_count": 872
+    },
+    {
+      "number": "6.2.3",
+      "title": "Tempo de Tratamento – Critérios de Interrupção",
+      "depth": 3,
+      "content": "O tempo de tratamento não é pré-determinado, mas, a princípio, devido às\ncaracterísticas da doença e à ausência de tratamento específico alternativo, deve ser\nmantido por toda a vida do paciente. A TRE deve ser interrompida na ocorrência de pelo\nmenos uma das seguintes situações1, 10, 30, 31:\na) Em pacientes que iniciarão tratamento ou que estão em tratamento há menos de um\n    ano: quando não houver redução da massa do VE após um ano de tratamento em pelo\n    menos 62 g/m² ou de 4 pontos (escore Z) ou que desenvolverem aumento de massa de\n    VE após início do tratamento, quando este não estava presente;\nb) em pacientes que estão em tratamento há mais de um ano: quando houver aumento de\n    massa de VE em relação ao exame realizado no mês 12 após início do tratamento;\nc) pacientes que desenvolverem condição irreversível que implique em morte iminente,\n    cujo prognóstico não se alterará devido ao uso da TRE, como resultado da DP ou de\n    outra doença associada, em acordo entre mais de um especialista e atestada por laudo\n    médico;\nd) pacientes que não apresentarem pelo menos 50% de adesão ao número de infusões\n    previstas em um ano; ou ao número de consultas previstas em um ano; ou ao número\n    de avaliações previstas em um ano com o médico responsável pelo seguimento do\n    paciente, desde que previamente inseridos, sem sucesso, em programa específico para\n    melhora de adesão, ou seja, pacientes que mesmo após o programa não comparecerem\n    a pelo menos 50% do número de infusões, consultas ou de avaliações previstas em um\n    ano;\ne) pacientes que apresentarem hipersensibilidade ou reação adversa grave (choque\n    anafilático, risco de óbito) ao uso da alfa-alglicosidase, que não podem ser controlados\n    com segurança utilizando medidas terapêuticas e preventivas apropriadas;\nf) pacientes com idade > 18 anos e que, após devidamente informados sobre os riscos e\n    benefícios de sua decisão, optarem por não mais se submeterem ao tratamento com\n    TRE com alfa-alglicosidase.\n\n     Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, aos\npais/paciente ou aos responsáveis quando a TRE estiver sendo considerada e antes de\niniciá-la. Durante o acompanhamento clínico do paciente em TRE, os parâmetros de\nresposta terapêutica à TRE deverão ser avaliados periodicamente e discutidos com os\npais/paciente ou responsáveis. No caso de interrupção por falha de adesão, paciente e\nfamiliares deverão ser inseridos em programa específico para melhora de adesão, e\npoderão retornar ao tratamento caso haja comprometimento explícito de seguimento das\nrecomendações e prescrições médicas.\n\n\nEventos adversos\n     A alfa-alglicosidase é segura como TRE em pacientes com DP precoce, uma vez que\na maioria dos eventos adversos (EA), apesar de frequente, é leve à moderada, resolvidos\ncom tratamentos sintomáticos ou com redução da velocidade de infusão ou pausa. Os EA\nmais comuns são urticaria ou rash cutâneo, febre, alterações nos sinais vitais\n(dessaturação, alterações em pressão arterial ou frequência cardíaca) e broncoespasmo.",
+      "char_count": 3095
+    },
+    {
+      "number": "6.2.4",
+      "title": "Benefícios Esperados",
+      "depth": 3,
+      "content": "Em pacientes com DP precoce, a TRE reduz a massa de VE, com benefício na\ncardiomiopatia, e aumenta o tempo para início de ventilação. Além disso, a TRE aumenta\na sobrevida dos pacientes em tratamento.",
+      "char_count": 200
+    },
+    {
+      "number": "6.2.5",
+      "title": "Casos Especiais",
+      "depth": 3,
+      "content": "Os pacientes que já estiverem recebendo TRE no momento da implementação\ndeste Protocolo deverão ser reavaliados em relação aos critérios de inclusão ou exclusão,\npara decisão sobre a continuidade ou suspensão do medicamento.",
+      "char_count": 224
+    },
+    {
+      "number": "7",
+      "title": "MONITORAMENTO",
+      "depth": 1,
+      "content": "Devido à heterogeneidade clínica, alguns pacientes com DP não conseguirão\nexecutar todos testes preconizados, sendo estes realizados na medida do possível e\nconforme indicação para avaliação da gravidade do paciente, assim como padrão motor,\nrespiratório e funcional. Além da avaliação já realizada para auxílio diagnóstico, pode-se\n\nproceder ainda à avaliação complementar (tabelas 1 e 2)1. Para as avaliações cuja\nperiodicidade não está estabelecida nessa Tabela, a periodicidade das avaliações é\ndeterminada conforme a avaliação clínica semestral ou indicação específica se houver\nintercorrências.",
+      "char_count": 600
+    },
+    {
+      "number": "8",
+      "title": "REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste\nProtocolo, a duração e a monitorização do tratamento bem como a verificação periódica\ndas doses prescritas e dispensadas e a adequação de uso do medicamento.\n      O tratamento da DP deve ser feito por equipe em serviços especializados, para fins\nde diagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle\nda doença exige experiência e familiaridade com manifestações clínicas associadas,\nconvém que o médico responsável tenha experiência e seja devidamente qualificado.\n      Para a administração de medicamentos biológicos intravenosos, é essencial o\natendimento centralizado, para maior racionalidade do seu uso e avaliação da sua\nefetividade. A infusão deve ser feita em ambiente hospitalar ou ambulatorial. Infusões\ndomiciliares podem ser consideradas após seis meses de tratamento sem verificação de\nintercorrências.\n      Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente\nem qual componente da Assistência Farmacêutica se encontra o medicamento\npreconizado neste Protocolo.\n\n                                                                   Diagnóstico: clínico e laboratorial\n                  Paciente com diagnóstico de\n                       Doença de Pompe\n\n                                                                       Critérios de inclusão:\n                                                                       ü Atividade da enzima alfa glicosidade ácida\n                   Início dos tratamentos de                             <10% do limite inferior dos valores de\n                                                                         referência em fibroblastos ou leucócitos,\n                            suporte                                      com atividade da enzima de referência,\n                                                                         avaliada na mesma amostra e pelo mesmo\n                                                                         método, apresentando valores normais; ou\n                                                                       ü Presença de mutações patogênicas em\n                                                                         homozigose ou heterozigose composta no\n                  Possui critérios de inclusão                           gene GAA\n                      para uso de TRE?                                 ü Início dos sintomas até 12 meses de idade\n     Não                                                Sim\n\n\n                                                                                      Critérios de exclusão:\n                                                                                      üPacientes DP tardia;\nExclusão do uso                                  Possui critérios de\n                          Sim                                                         üCondição médica\n     de TRE                                          exclusão?\n                                                                                        irreversível e que implique\n                                                                                        em sobrevida inferior a 6\n                                                                                        meses;\n                                                        Não                           üRecusa de tratamento com\n                                                                                        TRE;\n                                                                                      üHistórico de falha de\n                                         Início da Alfa-alglicosidase                   adesão.\n                                                    (TRE)\n\n\n\n\n                                                  Houve resposta\n                          Sim                      terapêutica*?                    Não\n\n\n\n\n               Manter o tratamento e                                     Interromper tratamento com\n             reavaliar resposta a cada 6                                 TRE e manter tratamentos de\n                        meses.                                                    suporte.\n\n\n  *1. Redução da massa do VE após um ano de tratamento em pelo menos 62 g/m² ou de 4 pontos (escore Z) ou\n  aumento de massa de VE após início do tratamento, quando esta não estava presente; 2. Desenvolvimento de\n  condição irreversível que implique em morte iminente, cujo prognóstico não se alterará devido ao uso da TRE, como\n  resultado da DP ou de outra doença associada; 3. Falta de adesão ao tratamento; ou 4. Hipersensibilidade ou reação\n  adversa grave (choque anafilático, risco de óbito) ao uso da TRE.\n\n\n\n\n                   Figura 1 - Fuxograma de Tratamento da Doença de Pompe\n\nTabela 1 - Programa mínimo de avaliações para seguimento clínico dos pacientes com\nDP Precoce, em tratamento específico ou não.1\n\n\n Avaliações                                  Avaliação      A cada 6     Anualmente*\n                                              Inicial       meses*\n Atividade enzimática                           X\n História médica                                 X              X\n Genotipagem                                     X\n Revisão do número de infusões                                  X\n realizadas no período\n Determinação       da adesão ao                 X              X\n acompanhamento/tratamento\n Peso / Altura / Estado nutricional              X              X\n Pressão Arterial$                               X              X\n Exame Neurológico**                             X              X\n Audiometria                                     X\n Avaliação de disfagia                           X                             X\n Radiografia de tórax e coluna                   X\n Ecocardiograma                                  X                             X\n Eletrocardiograma                               X\n Polissonografia                                 X\n Avaliação com Pneumologista                     X                             X\n*Para pacientes em TRE. As demais avaliações devem ser realizadas em períodos\ndeterminados pelo médico assistente. $A partir de 3 anos ** A força deve ser avaliada por\ndinamometria.\n\n\n\n\nTabela 2 - Programa mínimo de avaliações para seguimento clínico dos pacientes com\nDP Tardia, em tratamento de suporte.1\n Avaliações                                Avaliação     A cada 6 Anualmente\n                                            Inicial       meses\n Atividade enzimática                          X\n\n História médica                                   X              X\n Genotipagem                                       X\n Determinação    da     adesão          ao         X              X\n acompanhamento/tratamento\n Peso / Altura / Estado nutricional                X              X\n Pressão Arterial$                                 X              X\n Exame Neurológico**                               X              X\n Audiometria                                       X\n Avaliação de disfagia                             X                            X\n Densitometria óssea***                            X\n Radiografia de tórax e coluna                     X\n Ecocardiograma                                    X\n Eletrocardiograma                                 X                            X\n Espirometria (a partir de 6 anos)                 X\n Polissonografia                                   X\n Avaliação com pneumologista                       X                            X\nAs demais avaliações devem ser realizadas em períodos determinados pelo médico\nassistente. $A partir de 3 anos ** A força deve ser avaliada por dinamometria. ***A cada\n2 anos para pacientes com mais de 10 anos de idade.",
+      "char_count": 7822
+    },
+    {
+      "number": "9",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE",
+      "depth": 1,
+      "content": "Deve-se informar ao paciente, ou seu responsável legal, sobre os potenciais riscos,\nbenefícios e efeitos adversos relacionados ao uso do medicamento preconizado neste\nPCDT, bem como os critérios para interrupção do tratamento, levando-se em\nconsideração as informações contidas no TER.",
+      "char_count": 285
+    },
+    {
+      "number": "10",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Llerena JC, Horovitz DM, Marie SK, Porta G, Giugliani R, Rojas MV, et al. The",
+      "depth": 1,
+      "content": "Brazilian consensus on the management of Pompe disease. J Pediatr. 2009;155(4\nSuppl):S47-56.",
+      "char_count": 92
+    },
+    {
+      "number": "2",
+      "title": "Levine JC, Kishnani PS, Chen YT, Herlong JR, Li JS. Cardiac remodeling after",
+      "depth": 1,
+      "content": "enzyme replacement therapy with acid alpha-glucosidase for infants with Pompe disease.\nPediatr Cardiol. 2008;29(6):1033-42.",
+      "char_count": 123
+    },
+    {
+      "number": "3",
+      "title": "Slonim AE, Bulone L, Goldberg T, Minikes J, Slonim E, Galanko J, et al.",
+      "depth": 1,
+      "content": "Modification of the natural history of adult-onset acid maltase deficiency by nutrition and\nexercise therapy. Muscle Nerve. 2007;35(1):70-7.",
+      "char_count": 140
+    },
+    {
+      "number": "4",
+      "title": "Geel TM, McLaughlin PM, de Leij LF, Ruiters MH, Niezen-Koning KE. Pompe",
+      "depth": 1,
+      "content": "disease: current state of treatment modalities and animal models. Mol Genet Metab.\n2007;92(4):299-307.",
+      "char_count": 102
+    },
+    {
+      "number": "5",
+      "title": "Winchester B, Bali D, Bodamer OA, Caillaud C, Christensen E, Cooper A, et al.",
+      "depth": 1,
+      "content": "Methods for a prompt and reliable laboratory diagnosis of Pompe disease: report from an\ninternational consensus meeting. Mol Genet Metab. 2008;93(3):275-81.",
+      "char_count": 156
+    },
+    {
+      "number": "6",
+      "title": "Bembi B, Cerini E, Danesino C, Donati MA, Gasperini S, Morandi L, et al.",
+      "depth": 1,
+      "content": "Diagnosis of glycogenosis type II. Neurology. 2008;71(23 Suppl 2):S4-11.",
+      "char_count": 72
+    },
+    {
+      "number": "7",
+      "title": "Nascimbeni AC, Fanin M, Masiero E, Angelini C, Sandri M. The role of",
+      "depth": 1,
+      "content": "autophagy in the pathogenesis of glycogen storage disease type II (GSDII). Cell Death\nDiffer. 2012;19(10):1698-708.\n8.      The      Human          Gene      Mutation     Database       [Available      from:\nhttp://www.hgmd.cf.ac.uk/ac/index.php.",
+      "char_count": 246
+    },
+    {
+      "number": "9",
+      "title": "Kishnani PS, Hwu WL, Mandel H, Nicolino M, Yong F, Corzo D, et al. A",
+      "depth": 1,
+      "content": "retrospective, multinational, multicenter study on the natural history of infantile-onset\nPompe disease. J Pediatr. 2006;148(5):671-6.",
+      "char_count": 134
+    },
+    {
+      "number": "10",
+      "title": "Tarnopolsky M, Katzberg H, Petrof BJ, Sirrs S, Sarnat HB, Myers K, et al. Pompe",
+      "depth": 1,
+      "content": "Disease: Diagnosis and Management. Evidence-Based Guidelines from a Canadian\nExpert Panel. Can J Neurol Sci. 2016;43(4):472-85.",
+      "char_count": 127
+    },
+    {
+      "number": "11",
+      "title": "Llerena Junior JC, Nascimento OJ, Oliveira AS, Dourado Junior ME, Marrone",
+      "depth": 1,
+      "content": "CD, Siqueira HH, et al. Guidelines for the diagnosis, treatment and clinical monitoring of\npatients with juvenile and adult Pompe disease. Arq Neuropsiquiatr. 2016;74(2):166-76.",
+      "char_count": 177
+    },
+    {
+      "number": "12",
+      "title": "Marrone CD, Rodrigues T. Late-Onset Pompe Disease (Juvenile-Onset Form)",
+      "depth": 1,
+      "content": "with Elevated CK, Fatigue, and Muscular Pain After Exercise, Without Weakness. J\nNeuromuscul Dis. 2015;2(s1):S25.",
+      "char_count": 113
+    },
+    {
+      "number": "13",
+      "title": "Martins AM, Kerstenezky M, Linares A, Politei J, Kohan R, Ospina S, et al. Utility",
+      "depth": 1,
+      "content": "of rare disease registries in latin america. JIMD Rep. 2011;1:111-5.",
+      "char_count": 68
+    },
+    {
+      "number": "14",
+      "title": "Llerena JC. Comunicação pessoal. 2018.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "15",
+      "title": "Sixel BS, Silva LD, Cavalcanti NC, Penque GM, Lisboa S, Horovitz DD, et al.",
+      "depth": 1,
+      "content": "Respiratory manifestations in late-onset Pompe disease: a case series conducted in Brazil.\nJ Bras Pneumol. 2017;43(1):54-9.",
+      "char_count": 123
+    },
+    {
+      "number": "16",
+      "title": "Bhengu L, Davidson A, du Toit P, Els C, Gerntholtz T, Govendrageloo K, et al.",
+      "depth": 1,
+      "content": "Diagnosis and management of Pompe disease. S Afr Med J. 2014;104(4):273-4.",
+      "char_count": 74
+    },
+    {
+      "number": "17",
+      "title": "Cupler EJ, Berger KI, Leshner RT, Wolfe GI, Han JJ, Barohn RJ, et al. Consensus",
+      "depth": 1,
+      "content": "treatment recommendations for late-onset Pompe disease. Muscle Nerve.\n2012;45(3):319-33.",
+      "char_count": 88
+    },
+    {
+      "number": "18",
+      "title": "Werneck LC, Lorenzoni PJ, Kay CS, Scola RH. Muscle biopsy in Pompe disease.",
+      "depth": 1,
+      "content": "Arq Neuropsiquiatr. 2013;71(5):284-9.",
+      "char_count": 37
+    },
+    {
+      "number": "19",
+      "title": "Castilhos CD, Mezzalira J, Goldim MP, Daitx VV, Garcia CaS, Andrade CV, et",
+      "depth": 1,
+      "content": "al. Determination of the lysosomal hydrolase activity in blood collected on filter paper,\nan alternative to screen high risk populations. Gene. 2014;536(2):344-7.",
+      "char_count": 162
+    },
+    {
+      "number": "20",
+      "title": "Brand GD, Matos HC, Cruz GC, Fontes NoC, Buzzi M, Brum JM. Diagnosing",
+      "depth": 1,
+      "content": "lysosomal storage diseases in a Brazilian non-newborn population by tandem mass\nspectrometry. Clinics (Sao Paulo). 2013;68(11):1469-73.",
+      "char_count": 135
+    },
+    {
+      "number": "21",
+      "title": "Müller KB, Rodrigues MD, Pereira VG, Martins AM, D'Almeida V. Reference",
+      "depth": 1,
+      "content": "values for lysosomal enzymes activities using dried blood spots samples - a Brazilian\nexperience. Diagn Pathol. 2010;5:65.",
+      "char_count": 122
+    },
+    {
+      "number": "22",
+      "title": "Bravo H, Neto EC, Schulte J, Pereira J, Filho CS, Bittencourt F, et al. Investigation",
+      "depth": 1,
+      "content": "of newborns with abnormal results in a newborn screening program for four lysosomal\nstorage diseases in Brazil. Mol Genet Metab Rep. 2017;12:92-7.",
+      "char_count": 146
+    },
+    {
+      "number": "23",
+      "title": "Grzesiuk AK, Shinjo SM, da Silva R, Machado M, Galera MF, Marie SK.",
+      "depth": 1,
+      "content": "Homozygotic intronic GAA mutation in three siblings with late-onset Pompe's disease.\nArq Neuropsiquiatr. 2010;68(2):194-7.",
+      "char_count": 122
+    },
+    {
+      "number": "24",
+      "title": "Kroos M, Pomponio RJ, van Vliet L, Palmer RE, Phipps M, Van der Helm R, et",
+      "depth": 1,
+      "content": "al. Update of the Pompe disease mutation database with 107 sequence variants and a\nformat for severity rating. Hum Mutat. 2008;29(6):E13-26.",
+      "char_count": 140
+    },
+    {
+      "number": "25",
+      "title": "Bali DS, Goldstein JL, Banugaria S, Dai J, Mackey J, Rehder C, et al. Predicting",
+      "depth": 1,
+      "content": "cross-reactive immunological material (CRIM) status in Pompe disease using GAA\nmutations: lessons learned from 10 years of clinical laboratory testing experience. Am J\nMed Genet C Semin Med Genet. 2012;160C(1):40-9.",
+      "char_count": 215
+    },
+    {
+      "number": "26",
+      "title": "Saúde           Md.          Asma.            In:         Conitec,             editor.",
+      "depth": 1,
+      "content": "http://portalarquivos2.saude.gov.br/images/pdf/2014/julho/22/PT-SAS-N---1317-\nalterado-pela-603-de-21-de-julho-de-2014.pdf2013.\n27.     Saúde Md. PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS:\nOSTEOPOROSE.2014                    08/09/2019.                Available                from:\nhttp://portalarquivos.saude.gov.br/images/pdf/2014/abril/02/pcdt-osteoporose-2014.pdf.",
+      "char_count": 371
+    },
+    {
+      "number": "28",
+      "title": "Terzis G, Krase A, Papadimas G, Papadopoulos C, Kavouras SA, Manta P. Effects",
+      "depth": 1,
+      "content": "of exercise training during infusion on late-onset Pompe disease patients receiving\nenzyme replacement therapy. Mol Genet Metab. 2012;107(4):669-73.",
+      "char_count": 148
+    },
+    {
+      "number": "29",
+      "title": "Silva RM, Mendes CS, Aranda CC, Curiati MA, Rand MH, Kyosen SO, et al.",
+      "depth": 1,
+      "content": "Effects of Exercise Training on Functional Capacity and Quality of Life in a Patient with\nLate-Onset Pompe Disease Receiving Enzyme Replacement Therapy. J Neuromuscul\nDis. 2015;2(s1):S33.",
+      "char_count": 187
+    },
+    {
+      "number": "30",
+      "title": "Giugliani R, Federhen A, Muñoz Rojas MV, Vieira TA, Artigalás O, Pinto LL, et",
+      "depth": 1,
+      "content": "al. [Enzyme replacement therapy for mucopolysaccharidoses I, II and VI:\nrecommendations from a group of Brazilian F experts]. Rev Assoc Med Bras (1992).\n2010;56(3):271-7.\n31.     van der Ploeg AT, Kruijshaar ME, Toscano A, Laforêt P, Angelini C, Lachmann\nRH, et al. European consensus for starting and stopping enzyme replacement therapy in\nadult patients with Pompe disease: a 10-year experience. Eur J Neurol. 2017;24(6):768-\ne31.\n\n                   TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n\n                                  ALFA-ALGLICOSIDASE\n\n\n        Eu,____________________________________ (nome do(a) paciente ou seu\nresponsável), declaro ter sido informado(a) claramente sobre benefícios, riscos,\ncontraindicações e principais efeitos adversos relacionados ao uso de alfa-alglicosidase,\nindicados para o tratamento da doença de Pompe precoce.\n        Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas\npelo médico ______________________________________________ (nome do médico\nque prescreve).\n        Assim, declaro que fui claramente informado(a) de que os medicamentos que\npasso a receber podem trazer os seguintes benefícios:\n- melhora dos sintomas da doença, como tempo para início de ventilação mecânica,\ncardiomiopatia e sobrevida;\n        Fui também claramente informado (a) a respeito das seguintes contraindicações,\npotenciais efeitos adversos e riscos:\n- medicamento classificado na gestação como fator de risco C (estudos em animais não\nmostraram anormalidades; o medicamento deve ser prescrito com cautela);\n- efeitos adversos da alfa-alglicosidase: aqueles relatados em dois ou mais estudos foram\ncalafrios, hipertermia, sintomas gripais, prurido generalizado, broncoespasmo, reações\nurticariformes e dessaturação.\n- contraindicação em casos de hipersensibilidade (alergia) ao fármaco ou aos\ncomponentes da fórmula.\n        Estou ciente de que este medicamento somente pode ser utilizado por mim,\ncomprometendo-me a devolvê-lo caso não queira ou não possa utilizá-lo ou se o\ntratamento for interrompido. Sei também que continuarei a ser atendido(a), inclusive em\ncaso de desistir de usar o medicamento.\n        Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de\ninformações relativas ao meu tratamento, desde que assegurado o anonimato. ( ) Sim (\n) Não\n\n\n Local:                                                         Data:\n Nome do paciente:\n Cartão Nacional do SUS:\n\n Nome do responsável legal:\n Documento de identificação do responsável legal:\n Assinatura do paciente ou do responsável legal:\n Médico:                                            CRM:                   RS:\n\n                        ______________________________\n                          Assinatura e carimbo do médico\n                                       Data:\n\n       Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente\nem qual componente da Assistência Farmacêutica se encontra o medicamento\npreconizado neste Protocolo.\n\n                                    APÊNDICE 1\n\n\n           METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA",
+      "char_count": 3100
+    },
+    {
+      "number": "1",
+      "title": "Escopo e finalidade do Protocolo",
+      "depth": 1,
+      "content": "Inicialmente, foi realizada uma reunião de escopo com o Comitê Gestor e o Grupo\nElaborador dia 12 de dezembro de 2016, no Hospital Alemão Oswaldo Cruz (HAOC),\nquando foram estabelecidas as perguntas de pesquisa para a elaboração do PCDT de\ndoença de Pompe.\n     Essa reunião presencial contou com a presença de seis membros do Grupo\nElaborador, sendo um especialista e cinco metodologistas, além de um representante da\nSociedade de Genética Médica, três representantes de organização de pacientes, cinco\nespecialistas em genética e neurologia e dois representantes do Comitê Gestor.\n     A dinâmica da reunião foi conduzida com base na estrutura de PCDT definida pela\nPortaria n° 375/SAS/MS, de 10 de novembro de 2009. Cada seção do PCDT foi discutida\nentre os integrantes do Grupo Elaborador com o objetivo de revisar as condutas\ndiagnóstico-terapêuticas e identificar as tecnologias que poderiam ser consideradas no\nProtocolo.\n     Foi estabelecido que as condutas diagnósticas, de tratamento ou acompanhamento\nque utilizassem tecnologias previamente disponibilizadas no SUS não teriam questões de\npesquisa definidas por se tratar de práticas clínicas estabelecidas, exceto em casos de\nincertezas atuais sobre seu uso, casos de desuso ou oportunidade de desinvestimento.",
+      "char_count": 1272
+    },
+    {
+      "number": "2",
+      "title": "Equipe de elaboração e partes interessadas",
+      "depth": 1,
+      "content": "Além dos representantes do Departamento de Gestão e Incorporação de\nTecnologias em Saúde do Ministério da Saúde (DGITIS/SCTIE/MS), houve a\nparticipação na elaboração deste Protocolo de metodologistas do HAOC e especialistas\nno tema.\n     Todos os participantes do Grupo Elaborador preencheram os respectivos\nformulários de Declaração de Conflitos de Interesse, que foram enviados ao Ministério\nda Saúde, como parte dos resultados do trabalho.\n\n\nAvaliação da Subcomissão Técnica de Protocolos Clínicos e Diretrizes Terapêuticas\n\n       A versão preliminar do texto foi pautada na 77º Reunião da Subcomissão Técnica\nde Protocolos Clínicos e Diretrizes Terapêuticas, realizada no dia 11 de fevereiro de 2020.\nParticiparam desta reunião representantes do Departamento de Gestão e Incorporação de\nTecnologias e Inovação em Saúde (DGITIS), do Departamento de Assistência\nFarmacêutica e Insumos Estratégicos (DAF) e do Departamento de Ciência e Tecnologia\n(DECIT), da Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em\nSaúde, bem como representantes do Departamento de Doenças de Condições Crônicas e\nInfecções Sexualmente Transmissíveis (DCCI), da Secretaria de Vigilância em Saúde.\nAlém das contribuições recebidas durante a reunião, o documento foi revisado por áreas\ntécnicas da Secretaria de Atenção Especializada à Saúde (SAES/MS) e, após a realização\ndos ajustes e correções apontados pelos membros da Subcomissão Técnica de PCDT, o\ndocumento foi encaminhado para a apreciação do Plenário da Conitec.\n\n\nConsulta pública\n\n   O PCDT teve apreciação inicial na 86.ª Reunião Ordinária da Conitec, realizada nos\n dias 04 e 05 de março de 2020, ocasião em que os membros presentes emitiram\n deliberação favorável à proposta de PCDT e recomendaram que o texto fosse submetido\n à consulta pública para o recebimento de contribuições da sociedade.\n   A Consulta Pública nº 13/2020 foi realizada entre os dias 26 de março e 14 de abril\n de 2020. Foram recebidas 328 contribuições no total, sendo 319 de pessoa física e nove\n de pessoa jurídica. Estas contribuições foram analisadas de modo quantitativo e\n qualitativo, e os resultados apresentados à 88º Reunião da Conitec, no dia 04 de junho\n de 2020.\n   O conteúdo integral da consulta pública se encontra disponível na página da\n CONITEC em:\nhttp://conitec.gov.br/images/Consultas/Contribuicoes/2020/CP_CONITEC_13_2020_P\nCDT_Pompe.pdf .",
+      "char_count": 2398
+    },
+    {
+      "number": "3",
+      "title": "Busca da evidência e recomendações",
+      "depth": 1,
+      "content": "Com o objetivo de nortear a busca da literatura, foi formulada a pergunta estruturada,\n de acordo com o acrônimo PICO (População, intervenção, comparador e outcomes -\n desfechos), conforme a Tabela A. Os desfechos foram definidos a priori com base na\n\n sua importância, de acordo com a opinião dos especialistas participantes na reunião de\n escopo para a elaboração do PCDT da DP.\n\n\n Pergunta de Pesquisa: O uso da alfa-alglicosidase é eficaz e seguro como TRE em\n pacientes com DP?\n\n\n       Tabela A - Pergunta de pesquisa estruturada de acordo com o acrônimo PICO\n\n População        Pacientes com DP precoce e tardia.\n\n Intervenção Alfa-alglicosidase (em monoterapia).\n\n Comparador Placebo ou cuidados de suporte.\n\n                  Forma precoce: Qualidade de vida, sobrevida, tempo para início de\n                  ventilação, distúrbio de deglutição, cardiomiopatia, função miocárdica,\n                  desenvolvimento neuropsicomotor e segurança.\n Desfechos\n                  Forma tardia: Qualidade de vida, capacidade funcional, sobrevida,\n                  tempo em ventilação, avaliação de força em membros superiores,\n                  qualidade do sono, distúrbio da deglutição e segurança.\n\n\n       Os estudos selecionados e a avaliação das evidências estão descritos no Relatório\nde     Recomendação      nº   481   de   outubro/2019      (28)   e   disponível   no   link\nhttp://conitec.gov.br/images/Relatorios/2019/Relatorio_AlfaAlglicosidase_Pompe.pdf .",
+      "char_count": 1472
+    },
+    {
+      "number": "4",
+      "title": "Elaboração do PCDT",
+      "depth": 1,
+      "content": "Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o\nsítio eletrônico da Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec)\npara a identificação das tecnologias disponíveis no Brasil e tecnologias demandadas ou\nrecentemente incorporadas para o tratamento da DP. Foi também realizada busca por\ndiretrizes nacionais e internacionais a respeito da doença.\n     Não foram encontradas tecnologias disponíveis, já incorporadas ou em avaliação.\n     As seguintes bases de diretrizes foram consultadas:\n- NICE guidelines (http://www.nice.org.uk/guidance/published?type=CG);\n- National Library of Australia – http://webarchive.nla.gov.au/gov/;\n- Diretrizes Associação Médica Brasileira (AMB);\n- Pubmed/Medline.\n\n    As diretrizes localizadas foram as seguintes:\n- Llerena JC, Horovitz DM, Marie SK, Porta G, Giugliani R, Rojas MV, et al. The\n    Brazilian consensus on the management of Pompe disease. J Pediatr. 2009;155(4\n    Suppl):S47-56.\n- van der Ploeg AT, Kruijshaar ME, Toscano A, Laforêt P, Angelini C, Lachmann RH,\n    et al.; European Pompe Consortium. European consensus for starting and stopping\n    enzyme replacement therapy in adult patients with Pompe disease: a 10-year\n    experience. Eur J Neurol. 2017 Jun;24(6):768-e31.\n- Tarnopolsky M, Katzberg H, Petrof BJ, Sirrs S, Sarnat HB, Myers K, et al. Pompe\n    Disease: Diagnosis and Management. Evidence-Based Guidelines from a Canadian\n    Expert Panel. Can J Neurol Sci. 2016 Jul;43(4):472-85.\n- L Bhengu, A Davidson, P du Toit, C Els, T Gerntholtz, K Govendrageloo, et al.;\n    Lysosomal Storage Disease Medical Advisory Board, South Africa. Diagnosis and\n    Management of Pompe Disease. S Afr Med J. 2014 Apr;104(4):273-4.\n\n\n    Para a elaboração dos critérios diagnósticos, foram utilizados guidelines internacionais\nelaborados por diferentes grupos de especialistas, que são utilizados como consenso nos\ndiversos centros de referência para DP.\n    Para a avaliação de interrupção de tratamento, foi utilizada a seguinte estratégia de\nbusca: “glycogen storage disease type II AND interruption”, sendo apenas um resultado\nencontrado (An individually, modified approach to desensitize infants and young children\nwith Pompe disease, and significant reactions to alglucosidase alfa infusions). A base de\ndados buscada foi Medline/PubMed, e a referência encontrada não respondia à pergunta\ndefinida na reunião de escopo, sendo utilizados os guidelines internacionais acima citados\npara responder à questão.\n    Para a elaboração dos demais itens do PCDT foram utilizadas as buscas, resultados,\nrecomendações e referências constantes no Relatório de Recomendação da Conitec para\na   TRE     com      alfa-   alglicosidase   no   tratamento   da   DP,    disponível   em\nhttp://conitec.gov.br/images/Relatorios/2019/Relatorio_AlfaAlglicosidase_Pompe.pdf .",
+      "char_count": 2852
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": "A confirmação do diagnóstico de DP envolve exames bioquímicos ou genéticos que\ndeverão ser realizados sempre que houver suspeita clínica oulaboratorial dessa doença. É\nimportante ressaltar que o diagnóstico precoce é fundamental e que, no Brasil, ainda\nocorre diagnóstico em estágio avançado da doença15."
+    },
+    "inclusion_criteria": {
+      "number": "4",
+      "content": "Serão incluídos neste Protocolo todos os pacientes com DP precoce (grupos A e B) ou\n       tardia (grupos C e D) que apresentarem pelo menos um dos sinais ou sintomas descritos\n       no item 3.1 (Suspeita Clínica), E confirmação do diagnóstico de acordo com um dos\n       critérios abaixo relacionados:\n        Atividade da enzima alfa glicosidase ácida <10% do limite inferior dos valores de\n              referência em fibroblastos ou leucócitos, com atividade da enzima de referência,\n              avaliada na mesma amostra e pelo mesmo método, apresentando valores normais; OU\n        Presença de variantes patogênicas em homozigose ou heterozigose composta no gene\n              GAA6."
+    },
+    "exclusion_criteria": {
+      "number": "5",
+      "content": "Serão excluídos deste Protocolo os pacientes sem o diagnóstico confirmatório de\n       DP.\n\n\n\n5.1.             Critérios de Exclusão para TRE\n\n              Serão excluídos do tratamento específico com alfa-alglicosidase os pacientes que se\n       apresentarem nas seguintes situações:\n        Apresentarem a forma DP tardia;\n        Condição médica irreversível e que implique em sobrevida provavelmente inferior a 6\n              meses, como resultado da DP ou de outra doença associada, em acordo entre mais de\n\n       um especialista e atestada por laudo médico;\n Idade acima de 18 anos e que, após serem informados sobre os potenciais riscos e\n       benefícios associados ao tratamento com alfa-alglicosidase, recusarem-se a serem\n       tratados;\n Histórico de falha de adesão, desde que previamente inseridos, sem sucesso, em ação\n       educativa específica para melhora de adesão, ou seja, pacientes que, mesmo após essa\n       intervenção, não comparecerem a pelo menos 50% do número de consultas ou de\n       avaliações previstas em um ano."
+    },
+    "treatment": {
+      "number": "6",
+      "content": "6.1.         Tratamento de suporte\n\n           O tratamento de suporte deve ser oferecido a todo paciente com DP, independente\nda forma clinica, idade ou estagio da doença.\n           O paciente deve ser acompanhado por equipe multidisciplinar experiente já que a\ndoença é multissistêmica1,11,17 e deve ser dirigido predominantemente para as\nmanifestações respiratórias. As sessões de fisioterapia motora, pela fraqueza muscular,\ndeverão ser igualmente indicadas, e para cirurgia de alterações articulares secundárias ao\nacometimento muscular, as equipes de ortopedia e fisiatria deverão ser consultadas.\n           A fim de diminuir as exacerbações respiratórias, imunização com vacina contra\ninfluenza e doença pneumocócica está indicada. Além disso, quando ocorrerem, devem\nreceber tratamento o mais precocemente possível, para, assim, diminuir riscos de\ncomplicações. Por fim, comorbidades como asma (tratamento estabelecido em PCDT\nespecífico)26 e cardiopatia também devem ser tratadas adequadamente, com vistas a\nminimizar seu impacto na doença de base17. Por apresentarem dificuldade para tossir,\nmanobras de remoção das secreções, tanto manuais quanto por aspiração, podem ser\nutilizadas11.\n           Com vistas a preservar e otimizar a função muscular, prevenindo ou minimizando\ncomplicações secundárias e aumentando o benefício da TRE, a reabilitação deve incluir\nfisioterapia motora e respiratória, além conduta nutricional e de acompanhamento com as\ndemais especialidades acima citadas11, 17. Inexistem diretrizes específicas para o\nfortalecimento muscular ou exercícios terapêuticos para indivíduos com DP.\n           Exercício aeróbico submáximo parece melhorar força e função muscular por\naumentar o clearance do glicogênio acumulado17, devendo sempre ser indicado e\n\nprogramado por um profissional de reabilitação com experiencia na prática dessas\natividades e na DP. Deve-se iniciar com intensidade leve, permitindo períodos de\nrepouso, com aumento gradual até a intensidade moderada, atingindo níveis aeróbicos até\n60%-70% do esforço máximo, 3 a 5 dias por semana11,17. Uma vez que exercícios podem\nlevar os pacientes à descompensação pulmonar, uma avaliação prévia por pneumologista\né recomendada17.\n\n\nContraturas musculares e deformidades dos membros\n       Um programa preventivo de alongamentos diários deve ser iniciado precocemente\ne fazer parte da rotina do paciente, com vistas a prevenir e lentificar o desenvolvimento\nde contraturas musculares ou deformidades. Quando iniciados antes das alterações\niniciarem, são mais efetivos, uma vez que são menos dolorosos11, 17. Órteses podem ser\nutilizadas como dispositivos corretivos complementares, já que o posicionamento correto\ndo paciente tanto em pé quanto na cadeira de rodas auxilia a prevenir dor crônica, assim\ncomo lesões de pele e escaras11, 17, podendo ainda apresentar impacto positivo sobre a\nfunção cardíaca, respiratória e motora dos pacientes quando adequadamente indicada.\n\n\nDeformidades da coluna\n       Pacientes com DP podem desenvolver escoliose grave devido à fraqueza e à\natrofia muscular. Até o momento, permanece como melhor opção para o tratamento da\nescoliose o tratamento cirúrgico, similar ao que é empregado em outras doenças\nneuromusculares. Nestas doenças, o tratamento é indicado para pacientes com ângulo de\nCobb entre 30 e 40 graus; recomenda-se que o mesmo critério seja usado em pacientes\ncom DP. É essencial que haja monitoramento da função respiratória, avaliando-se o risco\npré-operatório; nos pacientes de maior risco, preconiza-se o uso noturno de suporte\nventilatório para minimizar o risco da cirurgia. No pós-operatório, torna-se necessário o\nuso agressivo de ventilação mecânica, de modo a diminuir a morbidade. Além disso, após\na cirurgia, deve-se fazer uso precoce de fisioterapia, mobilização (quando houver\nestabilidade do quadro clínico), controle da dor e higiene pulmonar. Não há comprovação\nde que o reparo cirúrgico das deformidades espinhais melhore a função pulmonar; ao\ninvés disso, deve-se ter como o objetivo a melhora da postura sentada, o que permitirá o\nuso efetivo de cadeira de rodas, beneficiando a qualidade de vida do paciente17.\n\n\nOsteopenia e Osteoporose\n\n       Devido à presença de redução da densidade mineral óssea, preconiza-se a\navaliação sistemática do equilíbrio e do risco de queda desses pacientes, com vistas a\nreduzir a ocorrência de fraturas. Uso de equipamentos de auxílio da marcha, como\nbengalas ou andadores também são recomendáveis. Suplementos de vitamina D e\ncarbonato de cálcio devem ser utilizados quando houver alteração na densitometria\nóssea11, 17. O tratamento de osteoporose deve seguir o PCDT da Osteoporose, do\nMinistério da Saúde27.\n\n\nDistúrbios de sono\n       Durante o sono, pode ser ofertado oxigênio suplementar em casos de hipóxia,\nporém acompanhamento com com oximetria de pulso está indicado11, 17. A avaliação\npneumológica é necessária para o adequado controle das complicações associadas.\n\n\nInsuficiência respiratória\n       Deve-se evitar intubação orotraqueal temporária para procedimentos sempre que\npossível, em vistas da dificuldade de reverter necessidade de ventilação mecânica nesses\npacientes1. Entretanto, suporte ventilatório pode ser necessário, conforme indicação\nclínica1, preferencialmente instalado de forma precoce a fim de prevenir quadro de\ninsuficiência ventilatória crônica, o qual aumenta o risco de morte. Eventualmente,\nsobretudo em quadros de exacerbação infecciosa aguda, pode também ser necessário o\nsuporte ventilatório invasivo. A ventilação, quando indicada, deve ser realizada por uma\nequipe com experiência em suporte ventilatório de pacientes com doenças\nneuromusculares e eles devem ser extubados assim que possível. É importante sempre\nexcluir atelectasias como causa da insuficiência ventilatória, especialmente em crianças1.\n\n\nDisfagia\n       O acompanhamento com fonoaudiólogo é essencial para avaliar o risco de\naspiração, com realização de fluoroscopia conforme indicação médica, podendo ser\nnecessária a gastrostomia em alguns casos graves1,11,17. A gastrostomia percutânea\nendoscópica (GPE) é um procedimento que visa a proporcionar acesso prolongado aos\nalimentos para pacientes que são incapazes de manter uma ingesta alimentar adequada ou\numa energia calórica adequada. A GPE é indicada para pacientes com doença grave,\ndisfagia, risco de aspiração, perda de peso (> 10% em um ano) ou FVC <40%. A\ngastrostomia envolve, muitas vezes, a anestesia geral, que limita seu uso em pacientes\n\ncom DP (ver Anestesia/Cirurgia) e precisa ser muito bem indicada. A principal indicação\nde GPE na prática clínica diária é para a nutrição enteral para pacientes com DP e\nimportante disfagia11.\n\n\nAnestesia/Cirurgia\n       A equipe médica deve estar atenta para uma série de recomendações quando\nindicar uma cirurgia para pacientes com DP, pois o aumento do risco de complicações\nenvolvendo anestesia é reconhecido1, 11. Pacientes com doenças neuromusculares em\ngeral devido ao seu metabolismo podem ter um risco maior de eventos adversos a\nanestésicos, especialmente à combinação de halotano e succinilcolina.\n       Considerar os seguintes aspectos para procedimentos cirúrgicos na DP (todos os\ngrupos de pacientes com DP):\n Realizar procedimentos anestésicos somente quando necessário;\n combinar todos os procedimentos cirúrgicos de forma simultânea que requeiram\n  anestesia para reduzir o risco de exposição ao anestésico;\n evitar a intubação traqueal e, se indicado, certifique-se de que é realizado por um\n  profissional experiente;\n fazer uma supervisão intra-operatória rigorosa;\n usar agentes inalatórios em pacientes não graves;\n evitar agentes despolarizantes devido ao risco de hipercalemia;\n monitorar o volume de fluido circulante;\n realizar procedimentos cirúrgicos em hospitais com profissionais experientes no\n  tratamento da DP.\n\n\nAconselhamento genético\n       Por se tratar de doença genética, com risco de recorrência aumentado, a família e\no paciente devem ser inseridos, assim que possível, em processo de aconselhamento\ngenético a ser coordenado por profissional habilitado, usualmente médicos geneticistas.\n\n\nOutras condições clínicas\n       Uma vez que a fraqueza muscular pode levar a dificuldades na fonação, e\nconsequentemente levar a maior esforço respiratório, adequada avaliação e tratamento\ndessas condições devem fazer parte do cuidado dos pacientes com DP. Além disso,\n\ndesnutrição é uma comorbidade frequentemente presente e também pode contribuir para\npiora da mobilidade e da fraqueza muscular. Para o suporte nutricional e alimentar, é\nimportante assegurar 30% do aporte calórico total em proteínas, especialmente na forma\ntardia da doença, e deve ser realizado com o apoio de nutricionista com experiência em\ndoenças metabólicas1, 10, 11, 17."
+    },
+    "monitoring": {
+      "number": "7",
+      "content": "Devido à heterogeneidade clínica, alguns pacientes com DP não conseguirão\nexecutar todos testes preconizados, sendo estes realizados na medida do possível e\nconforme indicação para avaliação da gravidade do paciente, assim como padrão motor,\nrespiratório e funcional. Além da avaliação já realizada para auxílio diagnóstico, pode-se\n\nproceder ainda à avaliação complementar (tabelas 1 e 2)1. Para as avaliações cuja\nperiodicidade não está estabelecida nessa Tabela, a periodicidade das avaliações é\ndeterminada conforme a avaliação clínica semestral ou indicação específica se houver\nintercorrências."
+    },
+    "regulation": {
+      "number": "8",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste\nProtocolo, a duração e a monitorização do tratamento bem como a verificação periódica\ndas doses prescritas e dispensadas e a adequação de uso do medicamento.\n      O tratamento da DP deve ser feito por equipe em serviços especializados, para fins\nde diagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle\nda doença exige experiência e familiaridade com manifestações clínicas associadas,\nconvém que o médico responsável tenha experiência e seja devidamente qualificado.\n      Para a administração de medicamentos biológicos intravenosos, é essencial o\natendimento centralizado, para maior racionalidade do seu uso e avaliação da sua\nefetividade. A infusão deve ser feita em ambiente hospitalar ou ambulatorial. Infusões\ndomiciliares podem ser consideradas após seis meses de tratamento sem verificação de\nintercorrências.\n      Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente\nem qual componente da Assistência Farmacêutica se encontra o medicamento\npreconizado neste Protocolo.\n\n                                                                   Diagnóstico: clínico e laboratorial\n                  Paciente com diagnóstico de\n                       Doença de Pompe\n\n                                                                       Critérios de inclusão:\n                                                                       ü Atividade da enzima alfa glicosidade ácida\n                   Início dos tratamentos de                             <10% do limite inferior dos valores de\n                                                                         referência em fibroblastos ou leucócitos,\n                            suporte                                      com atividade da enzima de referência,\n                                                                         avaliada na mesma amostra e pelo mesmo\n                                                                         método, apresentando valores normais; ou\n                                                                       ü Presença de mutações patogênicas em\n                                                                         homozigose ou heterozigose composta no\n                  Possui critérios de inclusão                           gene GAA\n                      para uso de TRE?                                 ü Início dos sintomas até 12 meses de idade\n     Não                                                Sim\n\n\n                                                                                      Critérios de exclusão:\n                                                                                      üPacientes DP tardia;\nExclusão do uso                                  Possui critérios de\n                          Sim                                                         üCondição médica\n     de TRE                                          exclusão?\n                                                                                        irreversível e que implique\n                                                                                        em sobrevida inferior a 6\n                                                                                        meses;\n                                                        Não                           üRecusa de tratamento com\n                                                                                        TRE;\n                                                                                      üHistórico de falha de\n                                         Início da Alfa-alglicosidase                   adesão.\n                                                    (TRE)\n\n\n\n\n                                                  Houve resposta\n                          Sim                      terapêutica*?                    Não\n\n\n\n\n               Manter o tratamento e                                     Interromper tratamento com\n             reavaliar resposta a cada 6                                 TRE e manter tratamentos de\n                        meses.                                                    suporte.\n\n\n  *1. Redução da massa do VE após um ano de tratamento em pelo menos 62 g/m² ou de 4 pontos (escore Z) ou\n  aumento de massa de VE após início do tratamento, quando esta não estava presente; 2. Desenvolvimento de\n  condição irreversível que implique em morte iminente, cujo prognóstico não se alterará devido ao uso da TRE, como\n  resultado da DP ou de outra doença associada; 3. Falta de adesão ao tratamento; ou 4. Hipersensibilidade ou reação\n  adversa grave (choque anafilático, risco de óbito) ao uso da TRE.\n\n\n\n\n                   Figura 1 - Fuxograma de Tratamento da Doença de Pompe\n\nTabela 1 - Programa mínimo de avaliações para seguimento clínico dos pacientes com\nDP Precoce, em tratamento específico ou não.1\n\n\n Avaliações                                  Avaliação      A cada 6     Anualmente*\n                                              Inicial       meses*\n Atividade enzimática                           X\n História médica                                 X              X\n Genotipagem                                     X\n Revisão do número de infusões                                  X\n realizadas no período\n Determinação       da adesão ao                 X              X\n acompanhamento/tratamento\n Peso / Altura / Estado nutricional              X              X\n Pressão Arterial$                               X              X\n Exame Neurológico**                             X              X\n Audiometria                                     X\n Avaliação de disfagia                           X                             X\n Radiografia de tórax e coluna                   X\n Ecocardiograma                                  X                             X\n Eletrocardiograma                               X\n Polissonografia                                 X\n Avaliação com Pneumologista                     X                             X\n*Para pacientes em TRE. As demais avaliações devem ser realizadas em períodos\ndeterminados pelo médico assistente. $A partir de 3 anos ** A força deve ser avaliada por\ndinamometria.\n\n\n\n\nTabela 2 - Programa mínimo de avaliações para seguimento clínico dos pacientes com\nDP Tardia, em tratamento de suporte.1\n Avaliações                                Avaliação     A cada 6 Anualmente\n                                            Inicial       meses\n Atividade enzimática                          X\n\n História médica                                   X              X\n Genotipagem                                       X\n Determinação    da     adesão          ao         X              X\n acompanhamento/tratamento\n Peso / Altura / Estado nutricional                X              X\n Pressão Arterial$                                 X              X\n Exame Neurológico**                               X              X\n Audiometria                                       X\n Avaliação de disfagia                             X                            X\n Densitometria óssea***                            X\n Radiografia de tórax e coluna                     X\n Ecocardiograma                                    X\n Eletrocardiograma                                 X                            X\n Espirometria (a partir de 6 anos)                 X\n Polissonografia                                   X\n Avaliação com pneumologista                       X                            X\nAs demais avaliações devem ser realizadas em períodos determinados pelo médico\nassistente. $A partir de 3 anos ** A força deve ser avaliada por dinamometria. ***A cada\n2 anos para pacientes com mais de 10 anos de idade."
+    }
+  },
+  "stats": {
+    "section_count": 54,
+    "char_count": 57091,
+    "depth1_count": 42
+  }
+}

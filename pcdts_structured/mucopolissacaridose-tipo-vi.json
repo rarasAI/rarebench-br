@@ -1,0 +1,647 @@
+{
+  "slug": "mucopolissacaridose-tipo-vi",
+  "name_pt": "Mucopolissacaridose tipo VI",
+  "icd10": "E76.2",
+  "orphanet": "ORPHA:583",
+  "omim": "253200",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt_mucopolissacaridosetipovi.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A Mucopolissacaridose Tipo VI (MPS VI), ou Síndrome Maroteaux-Lamy, é uma doença genética\nrara, de herança autossômica recessiva, causada pela atividade deficiente da enzima N-acetilgalactosamina-\n4-sulfatase ou arilsulfatase B (ASB), responsável pela degradação do glicosaminoglicano (GAGs) dermatan\nsulfato (DS), resultando no acúmulo desse componente nos lisossomos de múltiplos tecidos do corpo (1).\n        A MPS VI é uma doença heterogênea e progressiva (2). Pacientes com a forma rapidamente\nprogressiva frequentemente desenvolvem baixa estatura, alterações faciais grosseiras, anormalidades\nesqueléticas e nas articulações, compressão da medula espinhal, comprometimento da função pulmonar e\ncardiovascular, alterações oculares, infecções respiratórias, otites de repetição e mortalidade precoce no\ninício da fase adulta, geralmente por insuficiência cardiopulmonar. Nas formas com progressão lenta, as\nmorbidades também podem ser significativas com mortalidade em torno da terceira a quinta década de vida\n(3).\n        A incidência é variável, descrita como 1 a cada 43.261 a 1 a cada 1 milhão de nascidos vivos (4-10),\ndados possivelmente subestimados por não haver rotina de rastreio populacional (11). Apesar de a\nincidência de nascimentos não estar disponível para o Brasil, investigação diagnóstica realizada em\nlaboratório de referência de Porto Alegre, Rio Grande do Sul, com amostras de alto risco de diversas regiões\nbrasileiras, mostrou que 19% dos pacientes identificados apresentavam MPS VI (12), enquanto que outro\nestudo do mesmo grupo referiu diagnóstico de 238 casos de MPS VI entre 1982 e 2015 (13). Apesar de não\nhaver grupo étnico no qual a MPS VI seja mais prevalente, a ocorrência de endogamia parece explicar a\nalta prevalência da doença no norte de Portugal e algumas áreas do Brasil (14). Ainda, segundo pesquisa\nrealizada pelo demandante da tecnologia com base em unidades comercializadas, estima-se que no Brasil\nhá 183 pacientes. (15)\n        Inexiste tratamento curativo para a MPS VI. Este PCDT visa definir critérios de diagnóstico,\nacompanhamento e tratamento de pacientes com MPS VI, incluindo terapia de reposição enzimática (TRE)\nintravenosa (IV) com galsulfase e transplante de células-tronco hematopoiéticas (TCTH).\n        A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento ágil e\nadequado para o atendimento especializado dão à Atenção Básica um caráter essencial para um melhor\nresultado terapêutico e prognóstico dos casos.\n        Este PCDT visa a definir critérios de diagnóstico, acompanhamento e tratamento, incluindo terapia\nde reposição enzimática intravenosa (TRE IV) com galsulfase e o TCTH, de pacientes com MPS VI. A\nmetodologia de busca e avaliação das evidências estão detalhadas no Apêndice 3.",
+      "char_count": 2794
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À",
+      "depth": 1,
+      "content": "SAÚDE (CID-10)\n\n       - E76.2 Outras Mucopolissacaridoses",
+      "char_count": 58
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "A confirmação do diagnóstico de MPS VI envolve exames bioquímicos ou genéticos que deverão\nser realizados sempre que houver suspeita clínica dessa doença.",
+      "char_count": 154
+    },
+    {
+      "number": "3.1",
+      "title": "SUSPEITA DIAGNÓSTICA",
+      "depth": 2,
+      "content": "O diagnóstico de MPS VI deve ser suspeitado em indivíduos que apresentarem pelo menos um dos\nseguintes sinais e sintomas abaixo relacionados, especialmente naqueles que tiverem a combinação de pelo\nmenos dois deles (4):\n       - Características faciais sugestivas de doença lisossômica (face de “depósito”);\n       - Infecções respiratórias superiores precoces e de repetição, incluindo otite média, excluídas outras\ncausas mais frequentes;\n       - Perda auditiva;\n       - Diminuição da velocidade de crescimento;\n       - Hepatoesplenomegalia, excluídas outras causas mais frequentes;\n       - Hérnias;\n       - Alterações esqueléticas ou articulares típicas [disostose múltipla, giba, limitação da amplitude de\nmovimento (AM) das articulações];\n       - Mãos em garra;\n       - Achados oculares característicos (opacificação bilateral da córnea);\n       - Irmão de qualquer sexo com MPS VI.\n       Como os achados clínicos variam de acordo com a gravidade da doença, os sinais e sintomas por si\nsó, não são diagnósticos.",
+      "char_count": 1024
+    },
+    {
+      "number": "3.2",
+      "title": "DIAGNÓSTICO LABORATORIAL",
+      "depth": 2,
+      "content": "A confirmação do diagnóstico de MPS VI pode envolver métodos bioquímicos ou genéticos.",
+      "char_count": 86
+    },
+    {
+      "number": "3.2.1",
+      "title": "Atividade da ASB",
+      "depth": 3,
+      "content": "A redução ou ausência de atividade da ASB em fibroblastos, leucócitos ou sangue impregnado em\npapel-filtro sugere fortemente o diagnóstico de MPS VI, mas não é suficiente para confirmá-lo como único\nteste, devido à possibilidade de ocorrência de deficiência múltipla de sulfatase, outro erro inato do\nmetabolismo (4, 16). Por isto, a atividade de pelo menos outra sulfatase (arilsulfatase A, arilsulfatase B,\nheparan N-sulfatase ou iduronato-sulfatase) deve estar normal.\n       A medida da atividade enzimática em gotas de sangue impregnadas em papel-filtro tem a vantagem\nda facilidade de transporte e manipulação, mas deve ser considerada como método de triagem, devido aos\ncasos de falso-positivos associados.",
+      "char_count": 713
+    },
+    {
+      "number": "3.2.2",
+      "title": "Teste genético",
+      "depth": 3,
+      "content": "A presença de duas mutações patogênicas bialélicas no gene ASB também confirma o diagnóstico.\nA análise do gene ASB permite a detecção das mutações que provocam a doença e, consequentemente, o\ndiagnóstico genético e a detecção de heterozigotos, facilitando o aconselhamento genético individual e\nfamiliar (4). Já foram descritas 207 mutações no gene ASB (17).",
+      "char_count": 359
+    },
+    {
+      "number": "3.2.3",
+      "title": "Associação genótipo-fenótipo clínico",
+      "depth": 3,
+      "content": "A maior importância dos estudos de genótipo-fenótipo é a identificação, em idade precoce, daqueles\nindivíduos que apresentarão a forma grave da doença. Apesar de não estar estabelecida para todas as\nmutações já descritas, para algumas mutações há uma clara associação entre genótipo-fenótipo (14). A\nmutação p.Y210C, por exemplo, parece associar-se a um fenótipo mais brando (4), enquanto que a\nhomozigose para mutações do tipo “sem sentido” leva a fenótipos mais graves.",
+      "char_count": 471
+    },
+    {
+      "number": "4",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "depth": 1,
+      "content": "Serão incluídos neste PCDT todos os pacientes que apresentarem pelo menos um dos sinais ou\nsintomas descritos no item 3.1 (Suspeita Clínica) deste Protocolo e tiverem o diagnóstico de MPS VI\nconfirmado de acordo com um dos critérios abaixo relacionados (4). Estes também são os critérios para\ninício do tratamento com galsulfase, ou seja:\n          Atividade da enzima ASB < 10% do limite inferior dos valores de referência em fibroblastos ou\n           leucócitos E atividade de pelo menos outra sulfatase (arilsulfatase A, arilsulfatase B, heparan N-\n           sulfatase ou iduronato-sulfatase) avaliada na mesma amostra e pelo mesmo método, apresentando\n           valores normais E presença de níveis aumentados de GAGs totais na urina ou de excreção\n           aumentada de DS; OU\n          Atividade da enzima ASB < 10% do limite inferior dos valores de referência em fibroblastos,\n           leucócitos ou em papel-filtro E atividade de pelo menos outra sulfatase (arilsulfatase A,\n           arilsulfatase B, heparan N-sulfatase ou iduronato-sulfatase) avaliada na mesma amostra e pelo\n           mesmo método, apresentando valores normais, E presença de mutações patogênicas em\n           homozigoze ou heterozigoze composta no gene ASB.\n          Os pacientes que já estiverem em uso de galsulfase quando da publicação deste PCDT deverão ser\nreavaliados para verificação dos critérios de inclusão. Caso não preencham os critérios, a reposição da\nenzima deve ser imediatamente suspensa.",
+      "char_count": 1498
+    },
+    {
+      "number": "4.1",
+      "title": "CRITÉRIOS DE INCLUSÃO PARA TERAPIA DE REPOSIÇÃO ENZIMÁTICA (TER)",
+      "depth": 2,
+      "content": "Poderão fazer uso de galsulfase todos os indivíduos com diagnóstico de MPS VI realizado de acordo\ncom o item 3 deste PCDT (4) E:\n     a)    que tenham idade entre 0 a 6 anos de idade;\n           OU\n     b) que tenham idade igual ou superior a 7 anos E\n           b.1) sejam ambulantes e capazes de percorrer, sem ajuda, pelo menos 5 metros nos 6 primeiros\n           minutos do Teste da Caminhada de 6 minutos (TC6M); OU\n           b.2) sejam capazes de realizar espirometria.",
+      "char_count": 476
+    },
+    {
+      "number": "4.2",
+      "title": "CRITÉRIOS DE INCLUSÃO PARA TRANSPLANTE DE CÉLULAS-TRONCO HEMATOPOÉTICAS",
+      "depth": 2,
+      "content": "(TCTH)\n          Serão elegíveis para o transplante de células-tronco hematopoéticas (TCTH) alogênico (TCTH-AL)\naparentado (TCTH-AL-AP) ou não aparentado (TCTH-AL-NAP):\n            - Os pacientes com diagnóstico de MPS VI e com fatores de risco para pior evolução da doença;\n                    - com doador de células-tronco hematopoéticas (CTH) identificado;\n           - em condições clínicas para o transplante; e\n           - em idade compatível com o TCTH-AL, conforme o vigente Regulamento Técnico do Sistema\nNacional de Transplantes e as idades mínima e máxima atribuídas as respectivos procedimentos na Tabela\nde Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS.\n\n\n           O tipo (aparentado ou não aparentado) e subtipo (mieloablativo ou não mieloablativo) do TCTH\ndependerão da idade e das condições clínicas do paciente, cabendo à equipe transplantadora defini-los.",
+      "char_count": 907
+    },
+    {
+      "number": "5",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "5.1",
+      "title": "CRITÉRIOS DE EXCLUSÃO PARA TRE",
+      "depth": 2,
+      "content": "Serão excluídos do tratamento com galsulfase os pacientes que se enquadrarem nas seguintes\nsituações:\n          Condição médica irreversível e que implique em sobrevida provavelmente < 6 meses como\n           resultado da MPS VI ou de outra doença associada, em acordo entre mais de um especialista;\n          Pacientes com idade > 18 anos que, após serem informados sobre os potenciais riscos e benefícios\n           associados ao tratamento com galsulfase, recusarem-se a serem tratados;\n          Pacientes com histórico de falha de adesão, desde que previamente inseridos, sem sucesso, em\n           programa específico para melhora de adesão, ou seja, pacientes que, mesmo após o programa, não\n           comparecerem a pelo menos 50% do número de consultas ou de avaliações previstas em um ano.",
+      "char_count": 803
+    },
+    {
+      "number": "5.2",
+      "title": "CRITÉRIOS DE EXCLUSÃO PARA TRANSPLANTE DE CÉLULAS-TRONCO HEMATOPOÉTICAS",
+      "depth": 2,
+      "content": "(TCTH)\n          - Pacientes com diagnóstico de MPS VI sem condições clínicas para o TCTH-AL;\n          - Pacientes em idade incompatível para o TCTH-AL, conforme o vigente Regulamento Técnico do\nSistema Nacional de Transplantes e as idades mínima e máxima atribuídas as respectivos procedimentos\nna Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS; ou\n          - Pacientes sem doador de células-tronco hematopéticas (CTH) identificado.",
+      "char_count": 474
+    },
+    {
+      "number": "6",
+      "title": "TRATAMENTO",
+      "depth": 1,
+      "content": "O tratamento clínico dos pacientes com MPS VI envolve equipe multidisciplinar (1, 4, 18, 19) e\ninclui intervenções não específicas, realizadas no nível do fenótipo clínico (como cirurgias para correção\n\ndas alterações esqueléticas), e específicas, realizadas no nível da proteína mutante (como a TRE IV) (4,\n20). Outras condutas, como uso de inibidores de síntese de substrato, terapia oral, terapia com\nnanopartículas e terapia gênica, estão ainda em fase de desenvolvimento (21).",
+      "char_count": 481
+    },
+    {
+      "number": "6.1",
+      "title": "TRATAMENTO GERAL",
+      "depth": 2,
+      "content": "O paciente com MPS VI tem uma doença crônica, progressiva e multissistêmica e rotineiramente\nrequer cuidados urgentes por equipe multiprofissional que inclua fonoaudiólogos, fisioterapeutas,\nterapeutas ocupacionais, equipe de enfermagem e diferentes especialidades médicas (4). É crucial que um\nmédico cuide continuamente do paciente, monitorando a evolução da doença, fornecendo orientação à\nfamília, encaminhando o paciente para especialistas conforme necessário e coordenando o atendimento ao\npaciente como um todo, idealmente em um centro de referência.\n       Além disso, é importante que os pacientes e as famílias sejam orientados sobre sua doença e\npossíveis complicações e riscos, também por meio de um relatório escrito. Os pacientes também devem ser\ninformados de que, em caso de emergência, o médico assistente deve ser informado da doença e receber\numa cópia do relatório médico. (4) Os pacientes com MPS VI podem desenvolver sintomas neurológicos\nsecundários a compressão medular (4). Dessa forma, um neurocirurgião poderá fazer parte da equipe\nmultidisciplinar de acompanhamento desses pacientes. (4)\n       As principais manifestações clínicas da MPS VI e suas opções de tratamento de suporte e\nsintomáticos podem ser encontradas no Apêndice 1. É importante frisar que nem todos os pacientes\napresentarão todas as manifestações citadas, as quais costumam ser mais frequentes e mais graves nos\npacientes com a forma grave da doença. Da mesma forma, nem todos os pacientes necessitarão ser\nsubmetidos a todas as formas de tratamento.",
+      "char_count": 1547
+    },
+    {
+      "number": "6.1.1",
+      "title": "Tratamento ortopédico",
+      "depth": 3,
+      "content": "Pacientes com MPS VI têm comprometimento ósseo significativo (1, 4, 22) e requerem fisioterapia\nmotora dinâmica, cujo objetivo principal é a prevenção ou estabilização de deformidades osteoarticulares,\nmantendo a amplitude de movimento. A fisioterapia, associada ou não a medicação analgésica, deve se\nconcentrar em massoterapia para ajudar o relaxamento de todos os músculos, enfatizando o antebraço e o\npunho, por causa da síndrome do túnel do carpo, além de manobras e manipulações de todas as articulações\ncom movimentos lentos para não causar dor, de acordo com os critérios da técnica de mobilização\nmiofascial (4).\n       Além disso, equipamentos de auxílio da marcha ou cadeira de rodas podem aumentar a mobilidade\ne aliviar a dor; contudo, esforços na medida de postergar ao máximo a utilização dos mesmos devem ser\nfeitos para manter esses pacientes móveis por maior tempo possível, uma vez que a sua qualidade de vida\nreduz drasticamente ao se tornarem dependentes de cadeira de rodas (4).",
+      "char_count": 1000
+    },
+    {
+      "number": "6.1.2",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "As manifestações respiratórias são as principais causas de morbimortalidade e podem ocorrer por\ncausas obstrutivas ou restritivas (4). Entre os objetivos do tratamento clínico está o melhor controle das\ninfecções recorrentes de via aérea. Normalmente, solução salina é usada para eliminar crostas e secreções.\n\nAntibióticos são utilizados para o tratamento de exacerbações respiratórias agudas de origem bacteriana,\ncomo otite média aguda ou tonsilite, conforme indicação clínica e a critério médico. Corticosteroides\nsistêmicos por breves períodos podem ajudar a reduzir o edema e facilitar a drenagem de secreções,\nconforme indicação clínica e a critério médico. Os medicamentos para asma devem ser administrados\nconforme PCDT específico para essa condição clínica (23). Pacientes podem, ainda, se beneficiar de\nterapias de suporte, como imunizações regulares para influenza e pneumococo (4), seguindo o calendário\nobrigatório de vacinação.\n       Fisioterapia respiratória visa melhorar função pulmonar, ventilação e biomecânica respiratória,\nprejudicadas na MPS VI. Estão indicadas as manobras de higiene brônquica descritas na literatura, como\nvibrocompressão, drenagem postural, tosse controlada por manobra de aceleração do fluxo expiratório,\nnebulização e aspiração nasotraqueal com material estéril e descartável. Orientação para cuidadores e\nmembros da família é de vital importância, porque a fisioterapia respiratória deve ser realizada diariamente.\n(4)",
+      "char_count": 1465
+    },
+    {
+      "number": "6.1.3",
+      "title": "Tratamento oftalmológico",
+      "depth": 3,
+      "content": "A opacificação na córnea e as alterações de refração (astigmatismo, miopia e hipermetropia) são\ncomuns na MPS VI, podendo levar à diminuição da acuidade visual e fotossensibilidade (4, 24). Lentes\ncorretivas devem ser prescritas para corrigir erros de refração (4). O transplante de córnea pode melhorar\nnotavelmente a visão (4), embora possa ocorrer opacificação na córnea transplantada como já relatado para\nMPS IV-A (25).",
+      "char_count": 424
+    },
+    {
+      "number": "6.1.4",
+      "title": "Tratamento cirúrgico",
+      "depth": 3,
+      "content": "A MPS VI pode evoluir com complicações neurológicas, como hidrocefalia comunicante e\ncompressão medular, além de síndrome do túnel do carpo e hidrocefalia (4, 26, 27); porém, os sinais\nclássicos de hipertensão intracraniana geralmente estão ausentes, evoluindo de forma insidiosa, e os\nsintomas são difíceis de distinguir de danos primários ao cérebro (4). A maioria dos casos de compressão\nmedular apresenta tetraparesia espástica, mas paraparesia espástica ou hemiparesia também podem ocorrer.\n(28)\n       Cirurgia de coluna tóraco-lombar para correção da cifose pode ser uma alternativa quando a\ndeformidade progride (29-32). Há relatos que sugerem que os pacientes com MPS VI que realizam cirurgia\nda coluna vertebral aumentam risco de grandes complicações, incluindo infarto da medula espinhal e\ninstabilidade da coluna vertebral (29). Assim, cirurgias de coluna devem ter avaliações periódicas de\nmonitorização com neurofisiologia. Seguimento com ressonância cerebral ao diagnóstico e durante o\nseguimento a cada 2 a 3 anos é recomendado e imagens da coluna devem ser obtidas na presença de novos\nsintomas (26). Eventualmente esses pacientes necessitam de cirurgias corretivas devido a deformidades\nósseas diversas, incluindo a região do quadril e joelhos (4, 22).\n       Com relação ao tratamento cirúrgico das manifestações clínicas nas vias aéreas, os procedimentos\ncirúrgicos mais frequentes incluem adenotonsilectomia, cirurgia de cornetos nasais e traqueostomia (4).\nComo o bloqueio das vias aéreas em MPS é multifatorial, os resultados da adenotonsilectomia variam, mas\na melhora a médio prazo na qualidade respiratória é percebida na maioria dos casos. Com relação ao\n\ntratamento da perda auditiva, quando decorrente de causas condutivas e por infecções respiratórias\nfrequentes requer inserção de tubos de ventilação de longa duração, porém nem sempre é resolutivo.\n       A cirurgia das vias aéreas pode ser complicada pela macroglossia, abertura limitada da boca,\nmargem cirúrgica restrita e instabilidade da coluna cervical, dificultando a visualização do campo cirúrgico.\nHiperextensão no pescoço nesses pacientes pode causar compressão medular aguda. Uma alternativa de\nrealização de adenoidectomia quando o acesso pela abertura oral está comprometido é a cirurgia\nendoscópica por via nasal (33). A traqueostomia definitiva ou temporária pode ser realizada antes de outras\ncirurgias para facilitar o controle das vias aéreas, se o suporte ventilatório for inefetivo ou em pacientes\ncom obstrução de via aérea também quando acordados. A traqueostomia deve ser evitada sempre que\npossível, devido a dificuldades na técnica cirúrgica, endurecimento da traqueia, alterações anatômicas\nsignificativas como pescoço curto, e possibilidade de complicações pós-operatórias, como traqueíte,\npneumonia recorrente e bloqueio da traqueostomia por secreções espessas. Assim, como as complicações\nsão frequentes neste procedimento, sugere-se a realização apenas em centros com experiência nesses\npacientes (4). Os desafios da gestão de uma traqueostomia nesses pacientes, associados à dificuldade de\naceitação pelo paciente e pela família, também devem ser levados em consideração.\n       O tratamento cirúrgico das manifestações oftalmológicas consiste, quando necessário, em correção\ndo estrabismo, do aumento da pressão intraocular, além do transplante de córnea já mencionado. Além\ndisso, quando há aumento da pressão intracraniana, a drenagem ventrículo-peritoneal pode evitar atrofia do\nnervo ótico e perda de visão, além da descompressão cirúrgica deste nervo, quando indicada. (4)\n       Muitos pacientes com MPS apresentam risco anestésico elevado devido à obstrução das vias aéreas\nsuperiores. Avaliação pré-operatória para avaliação dos riscos sempre está indicada (4), uma vez que a\ndificuldade na intubação pode ser fatal (34). Idealmente as cirurgias devem ser realizadas em centros de\nreferência com experiência em MPS, sendo fundamental a presença de anestesista experiente em intubação\ndifícil para a realização desses procedimentos, pois a necessidade de acompanhar a intubação com\nfibroscopia é frequente. As máscaras laríngeas podem ser usadas para o tratamento das vias aéreas por\nperíodos curtos ou para facilitar a intubação de fibra óptica (34-36). Os tubos endotraqueais podem precisar\nser menores do que o previsto para a idade e o tamanho de um paciente com MPS VI. Pacientes geralmente\napresentam obstrução pós-operatória das vias aéreas, e as observações hospitalares durante a noite não são\nincomuns. A consciência da possibilidade de traqueostomia pós-operatória é importante para todas as partes\nenvolvidas. Quando possível, os procedimentos que exigem anestesia geral devem ser evitados, para\nminimizar o risco.",
+      "char_count": 4749
+    },
+    {
+      "number": "6.2",
+      "title": "TRATAMENTO ESPECÍFICO",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "6.2.1",
+      "title": "TRANSPLANTE DE CÉLULAS TRONCO-HEMATOPOIÉTICAS (TCTH)",
+      "depth": 3,
+      "content": "As evidências atualmente disponíveis sugerem que existem benefícios da realização de TCTH em\nindivíduos com MPS VI, especialmente naqueles em idade precoce. (37-39) Desta forma, indivíduos com\nMPS VI que tenham até 6 anos de idade, deverão ser encaminhados a centros transplantadores de referência,\na fim de ser verificada a possibilidade de realização de TCTH.",
+      "char_count": 361
+    },
+    {
+      "number": "6.2.2",
+      "title": "TERAPIA DE REPOSIÇÃO ENZIMÁTICA (TRE)",
+      "depth": 3,
+      "content": "A galsulfase, ASB recombinante, é uma enzima produzida em células de ovário de hamster chinês\n(Chinese hamster ovary cells - CHO) e trata-se do fármaco disponível para o tratamento específico da MPS\nVI (20). A galsulfase foi considerada segura nos estudos incluídos, com eventos adversos leves na maioria\ndos casos e facilmente tratáveis (40, 41) e eficaz para melhora na distância percorrida no teste da caminhada\ndos 6 minutos (TC6M), melhora na função pulmonar e redução de GAGs. (42)",
+      "char_count": 487
+    },
+    {
+      "number": "6.3",
+      "title": "CASOS ESPECIAIS",
+      "depth": 2,
+      "content": "A galsulfase é considerada classe B para uso na gestação e aleitamento. A evidência científica\napontada na literatura para tratamento de gestantes com MPS VI é limitada a série de casos: há relato na\nliteratura de manutenção de uso da galsulfase durante a gestação com desfechos positivos para mãe e recém-\nnascido (43). De forma geral, recomenda-se que o tratamento com TRE não seja iniciado durante a gestação,\nespecialmente durante o primeiro trimestre, e que, se já iniciado, seja mantido durante a gravidez.\n         Da mesma forma, caso estejam em uso de glicocorticoides e anti-histamínicos, considerar a\ninterrupção da TRE, especialmente no primeiro trimestre.\n       Casos associados à não redução de GAGs urinários devem ser avaliados de forma individualizada.\nQuando houver reação à infusão mediada por IgE, deve ser discutida a possibilidade a tolerização.",
+      "char_count": 868
+    },
+    {
+      "number": "6.4",
+      "title": "FÁRMACO",
+      "depth": 2,
+      "content": "- Galsulfase: 1 mg/ml solução injetável.",
+      "char_count": 40
+    },
+    {
+      "number": "6.5",
+      "title": "ESQUEMA DE ADMINISTRAÇÃO",
+      "depth": 2,
+      "content": "A dose recomendada para a galsulfase é de 1 mg/kg de peso corporal, administrada uma vez por\nsemana por infusão IV. O uso de antipiréticos ou anti-histamínicos é recomendado 30 a 60 minutos antes\ndo início da infusão (4). A infusão deve ser feita em ambiente hospitalar ou ambulatorial.\n       O volume total da infusão é determinado pelo peso corporal do paciente e deve ser infundido ao\nlongo de 4 horas. Pacientes com 20 kg ou menos devem receber um volume total de 100 ml. Pacientes com\nmais de 20 kg devem receber um volume total de 250 ml. A taxa de infusão inicial deve ser de 6 ml por\nhora durante a primeira hora. Se a infusão for bem tolerada, a velocidade de infusão pode ser aumentada\npara 80 ml por hora durante as restantes 3 horas. O tempo de infusão pode ser prolongado até 20 horas se\nocorrerem reações à infusão. (43)",
+      "char_count": 835
+    },
+    {
+      "number": "6.6",
+      "title": "RISCOS E BENEFÍCIOS ESPERADOS",
+      "depth": 2,
+      "content": "A galsulfase é considerada um medicamento seguro. Os seus principais benefícios são a melhora no\nteste de caminhada de 6 e de 12 minutos e redução nos níveis de GAGs urinários.\n       O desfecho primário do ECR existente foi a distância no TC12M, desfechos secundários incluíram\nTC6M, teste de subida de escada em 3 minutos (3MSC), capacidade vital forçada (CVF) e nível de GAGs\nurinário. Não foram avaliadas redução de mortalidade ou qualidade de vida. (41)\n       Após 24 semanas, os pacientes que receberam galsulfase caminharam em média 92 metros a mais\nno TC12M (IC 95% 11 a 172 metros; p = 0,025), 53 metros no TC6M (IC95% 14 a 90 metros; p = 0,007)\n\ne subiram 5,7 degraus de escadas por minuto a mais no 3MSC (IC 95% -0,1 a 11,5 degraus de escadas por\nminuto; p = 0,053) do que os pacientes que receberam placebo. A melhora contínua foi observada durante\no estudo de extensão de 24 semanas. O declínio dos níveis de GAGs urinários na semana 24 no grupo\ngalsulfase foi -227 ± 18 μg/mg (p <0,001) a mais que no grupo placebo. (41)\n       Estudo observacional do registro de MPS VI mostrou ainda benefício da TRE após 10 anos de\ntratamento na função pulmonar medida por espirometria, sendo que a melhora geral na CVF foi de 30%\n(p<0,0001), a melhora nos menores de 13 anos foi de 67% (p=0,0002) e nos maiores de 13 anos de 13%\n(p=0,011). (44) Em outro estudo observacional do registro de MPS VI, houve um aumento médio de 45\nmetros na distância percorrida em 6 minutos e uma média da redução de GAGs de 64% (85% no grupo\ncom valores maiores ao baseline; 44% no grupo com valores menores ao baseline) (42).\n       Em relação aos eventos adversos, um paciente no grupo intervenção apresentou evento adverso\ngrave: um episódio de apneia com necessidade de traqueostomia de emergência. Entre os 19 pacientes do\ngrupo de galsulfase, os eventos adversos mais frequentes ou mais relevantes clinicamente foram os\nseguintes: 17 casos de mialgia, sete casos de pirexia, seis de dispneia, quatro de dor torácica, três casos de\nedema localizado, um caso de dor no local da infusão, um caso de conjuntivite. (41)",
+      "char_count": 2103
+    },
+    {
+      "number": "7",
+      "title": "TEMPO DE TRATAMENTO – CRITÉRIOS DE INTERRUPÇÃO",
+      "depth": 1,
+      "content": "Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, ao paciente ou\naos pais ou responsáveis quando a TRE estiver sendo considerada e antes de iniciá-la. Durante o\nacompanhamento do paciente com TRE, os parâmetros de resposta terapêutica deverão ser avaliados\nperiodicamente e discutidos com os pais, paciente ou responsáveis. No caso de interrupção por falha de\nadesão, o paciente e parentes deverão ser inseridos em programa de incentivo à adesão, e o paciente poderá\nretornar ao tratamento, caso haja comprometimento explícito de seguimento das recomendações médicas.\nO tempo de tratamento não pode ser pré-determinado, devendo ser mantido enquanto indicado e dele o\ndoente se beneficie.\n       O tempo de tratamento não pode ser pré-determinado, devendo ser mantido enquanto indicado e\ndele o doente se beneficie.\n       Para fins deste PCDT, a TRE deve ser interrompida nas seguintes situações (45, 46):\n       a) Pacientes que não apresentarem melhora após 6 meses de tratamento em pelo menos uma das\nseguintes manifestações clínicas que comprovadamente respondem ao tratamento com TRE: TC6M\n(melhora definida como o aumento da distância percorrida, em relação ao período basal, de pelo menos\n45m); OU níveis basais de GAGs urinários (melhora definida como a redução dos níveis urinários de GAGs\nem pelo menos 60% em relação aos níveis basais); OU função pulmonar medida por espirometria (melhora\ndefinida como aumento da CVF ou do VEF1, na ausência de uso concomitante de broncodilatador, em pelo\nmenos 10% em relação aos níveis basais).\n       b) Pacientes que desenvolverem condição irreversível que implique em morte iminente, cujo\nprognóstico não se alterará devido ao uso da TRE, como resultado da MPS VI ou de outra doença associada,\nem acordo entre mais de um especialista.\n       c) Pacientes que não apresentarem pelo menos 50% de adesão ao número de infusões previstas em\num ano, ou ao número de consultas previstas em um ano, ou ao número de avaliações previstas em um ano\n\ncom o médico responsável pelo seguimento do paciente, desde que previamente inseridos, sem sucesso, em\nprograma específico para melhora de adesão, ou seja, pacientes que, mesmo após o programa, não\ncomparecerem a pelo menos 50% do número de infusões, consultas ou avaliações previstas em um ano.\n       d) Pacientes que apresentarem hipersensibilidade ou reação adversa grave (choque anafilático, risco\nde óbito) ao uso da galsulfase, que não podem ser controladas com segurança utilizando medidas\nterapêuticas e preventivas apropriadas.\n       e) Pacientes com idade > 18 anos que, após serem devidamente informados sobre os riscos e\nbenefícios de sua decisão, optarem por não mais se submeterem ao tratamento com TRE IV com galsulfase.",
+      "char_count": 2758
+    },
+    {
+      "number": "8",
+      "title": "MONITORIZAÇÃO",
+      "depth": 1,
+      "content": "Os pacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve\nrealizar anamnese completa em cada visita e coletar dados de altura (em pé ou em decúbito dorsal, e, no\ncaso de restrições nos membros inferiores, por segmento), peso e perímetro cefálico, de preferência usando\no mesmo instrumento, devidamente calibrado. O exame físico deve ser completo e incluir sinais vitais\n(temperatura, frequência cardíaca, frequência respiratória e pressão arterial), bem como medidas para\nquantificação do tamanho do fígado (por hepatimetria). A avaliação do desenvolvimento sexual deve ser\nrealizada em adolescentes, de acordo com os critérios de Tanner (47, 48). Nas visitas, dados sobre todas as\navaliações realizadas desde o último agendamento devem ser obtidos e os testes necessários devem ser\nsolicitados, incluindo avaliação por especialistas em neurologia, otorrinolaringologia, ortopedia,\noftalmologia, cardiologia e pneumologia, conforme indicação clínica e a critério do médico assistente.\n       As avaliações de rotina devem ser realizadas semestralmente pelo médico assistente com vacinas,\norientação dietética, exames e conselhos preventivos. (4) Os pacientes e seus familiares devem ter acesso\nao aconselhamento genético.\n       O Apêndice 2 apresenta as avaliações consideradas mínimas para o acompanhamento de pacientes\ncom MPS VI. São definidos períodos mínimos apenas para aquelas avaliações que têm por objetivo detectar\na eficácia e segurança da TRE; para as demais, a periodicidade de avaliações fica a critério do médico\nassistente. Alguns componentes das avaliações específicas serão discutidos a seguir.\n       Sugere-se que todos os pacientes sejam encaminhados para ortopedista com experiência em MPS\nao diagnóstico. Para fins de diagnóstico e acompanhamento (conforme indicação clínica), devem ser\nrealizadas radiografias do crânio (perfil), coluna vertebral (anteroposterior, lateral neutra e em\nflexão/extensão, incluindo região cervical), tórax (anteroposterior e lateral), coxofemoral (posteroanterior)\ne ambas as mãos. (49) Sobre-exposição à radiação deve ser evitada. Avaliação radiológica do quadril e\nmembros inferiores devem focar na presença de displasia de quadril progressiva. (50)\n       A avaliação da coluna deve focar na presença de estenose, instabilidade ou compressão medular.\nCom o objetivo de detectar precocemente essas alterações, é recomendada avaliação neurológica, que pode\nrevelar hiperreflexia, hipertonia, sintomas piramidais ou déficits proprioceptivos (51).\n       A análise de GAGs urinários pode ser quantitativa, por uso do método espectrofotométrico descrito\npor De Jong et al. (52), ou permitir a identificação do tipo de GAG que está sendo excretado em quantidade\naumentada na urina (por cromatografia ou eletroforese ou espectrometria de massa em tandem de GAGs).\n\n(4, 52, 53) A quantificação de GAGs urinários é utilizada para diagnóstico e, também, monitorização do\ntratamento específico da MPS VI, uma vez que, na vigência de tratamento, ocorre diminuição da excreção\ndessas moléculas (4, 54).\n\n\n       Como parte da avaliação do tratamento, os seguintes itens devem ser respeitados:\n         − Monitorar os resultados dos transplantes por meio de estudo observacional original.\n         − Monitorar o uso, a adesão, a indicação e os resultados da TRE com galsulfase. Por meio desse\nmonitoramento, será possível estabelecer grupos de pacientes que são de fato beneficiados e reavaliar a\nincorporação do medicamento a médio prazo.",
+      "char_count": 3520
+    },
+    {
+      "number": "9",
+      "title": "REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e a\nmonitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a\nadequação de uso do medicamento.\n       O tratamento da MPS VI deve ser feito por equipe em serviços especializados, para fins de\ndiagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige\nexperiência e familiaridade com manifestações clínicas associadas, convém que o médico responsável tenha\nexperiência e seja treinado nessa atividade.\n       Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual\ncomponente da Assistência Farmacêutica no SUS se encontra o medicamento preconizado neste Protocolo.\n       Para a administração de medicamentos biológicos intravenosos, é essencial o atendimento\ncentralizado, para maior racionalidade do uso e avaliação da efetividade dos medicamentos. A infusão deve\nser feita em ambiente hospitalar.\n       Para a autorização do TCTH alogênico não aparentado de medula óssea, de sangue periférico ou de\nsangue de cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no\nRegistro Nacional de Receptores de Medula Óssea ou outros precursores hematopoéticos\n(REREME/INCA/MS), e devem ser observadas as normas técnicas e operacionais do Sistema Nacional de\nTransplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem\ncontinuar sendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta\ndo hospital transplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a\ncontinuidade da assistência e acompanhamento. A comunicação entre os hospitais deve ser mantida de\nmodo que o hospital solicitante conte, sempre que necessário, com a orientação do hospital transplantador\ne este, com as informações atualizadas sobre a evolução dos transplantados.\n       Os resultados de todos os casos MPS VI submetidos a TCTH mieloablativo halogênico aparentado\nou não aparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical deverão ter sua\nevolução registrada no REREME a cada três meses até completar pelo menos 1 (um) ano da realização do\ntransplante.",
+      "char_count": 2309
+    },
+    {
+      "number": "10",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE - TER",
+      "depth": 1,
+      "content": "Deve-se informar ao paciente, ou seu responsável legal, sobre os potenciais riscos, benefícios e\nefeitos adversos relacionados ao uso do medicamento preconizado neste PCDT, bem como critérios para\ninterrupção do tratamento, levando-se em consideração as informações contidas no TER.\n       Para o esclarecimento sobre os riscos e benefícios do transplante de células-tronco hematopoéticas\nalogênico, adotam-se as normas preconizadas no âmbito do Sistema Nacional de Transplantes.",
+      "char_count": 479
+    },
+    {
+      "number": "11",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "MJ NE. The Mucopolysaccharidoses. The Online Metabolic and Molecular Bases of Inherited",
+      "depth": 1,
+      "content": "Disease.",
+      "char_count": 8
+    },
+    {
+      "number": "2",
+      "title": "Spranger JW, Koch F, McKusick VA, Natzschka J, Wiedemann HR, Zellweger H.",
+      "depth": 1,
+      "content": "Mucopolysaccharidosis VI (Maroteaux-Lamy's disease). Helv Paediatr Acta. 1970;25(4):337-62.\n3.        Giugliani R, Herber S, Lapagesse L, de Pinto C, Baldo G. Therapy for mucopolysaccharidosis VI:\n(Maroteaux-Lamy syndrome) present status and prospects. Pediatr Endocrinol Rev. 2014;12 Suppl 1:152-\n8.",
+      "char_count": 300
+    },
+    {
+      "number": "4",
+      "title": "Giugliani R, Harmatz P, Wraith JE. Management guidelines for mucopolysaccharidosis VI.",
+      "depth": 1,
+      "content": "Pediatrics. 2007;120(2):405-18.",
+      "char_count": 31
+    },
+    {
+      "number": "5",
+      "title": "Lowry RB, Applegarth DA, Toone JR, MacDonald E, Thunem NY. An update on the frequency",
+      "depth": 1,
+      "content": "of mucopolysaccharide syndromes in British Columbia. Hum Genet. 1990;85(3):389-90.",
+      "char_count": 82
+    },
+    {
+      "number": "6",
+      "title": "Meikle PJ, Hopwood JJ, Clague AE, Carey WF. Prevalence of lysosomal storage disorders.",
+      "depth": 1,
+      "content": "JAMA. 1999;281(3):249-54.",
+      "char_count": 25
+    },
+    {
+      "number": "7",
+      "title": "Nelson J. Incidence of the mucopolysaccharidoses in Northern Ireland. Hum Genet.",
+      "depth": 1,
+      "content": "1997;101(3):355-8.",
+      "char_count": 18
+    },
+    {
+      "number": "8",
+      "title": "Baehner F, Schmiedeskamp C, Krummenauer F, Miebach E, Bajbouj M, Whybra C, et al.",
+      "depth": 1,
+      "content": "Cumulative incidence rates of the mucopolysaccharidoses in Germany. J Inherit Metab Dis.\n2005;28(6):1011-7.",
+      "char_count": 107
+    },
+    {
+      "number": "9",
+      "title": "Pinto R, Caseiro C, Lemos M, Lopes L, Fontes A, Ribeiro H, et al. Prevalence of lysosomal storage",
+      "depth": 1,
+      "content": "diseases in Portugal. Eur J Hum Genet. 2004;12(2):87-92.",
+      "char_count": 56
+    },
+    {
+      "number": "10",
+      "title": "Poorthuis BJ, Wevers RA, Kleijer WJ, Groener JE, de Jong JG, van Weely S, et al. The frequency",
+      "depth": 1,
+      "content": "of lysosomal storage diseases in The Netherlands. Hum Genet. 1999;105(1-2):151-6.",
+      "char_count": 81
+    },
+    {
+      "number": "11",
+      "title": "Valayannopoulos V, Nicely H, Harmatz P, Turbeville S. Mucopolysaccharidosis VI. Orphanet J",
+      "depth": 1,
+      "content": "Rare Dis. 2010;5:5.",
+      "char_count": 19
+    },
+    {
+      "number": "12",
+      "title": "Coelho JC, Wajner M, Burin MG, Vargas CR, Giugliani R. Selective screening of 10,000 high-",
+      "depth": 1,
+      "content": "risk Brazilian patients for the detection of inborn errors of metabolism. Eur J Pediatr. 1997;156(8):650-4.",
+      "char_count": 107
+    },
+    {
+      "number": "13",
+      "title": "Giugliani R, Federhen A, Michelin-Tirelli K, Riegel M, Burin M. Relative frequency and",
+      "depth": 1,
+      "content": "estimated minimal frequency of Lysosomal Storage Diseases in Brazil: Report from a Reference\nLaboratory. Genet Mol Biol. 2017;40(1):31-9.",
+      "char_count": 137
+    },
+    {
+      "number": "14",
+      "title": "Karageorgos L, Brooks DA, Pollard A, Melville EL, Hein LK, Clements PR, et al. Mutational",
+      "depth": 1,
+      "content": "analysis of 105 mucopolysaccharidosis type VI patients. Hum Mutat. 2007;28(9):897-903.",
+      "char_count": 86
+    },
+    {
+      "number": "15",
+      "title": "Brasil C-M-. Galsulfase para o tratamento da",
+      "depth": 1,
+      "content": "mucopolissacaridose tipo VI2018.",
+      "char_count": 32
+    },
+    {
+      "number": "16",
+      "title": "Dierks T, Dickmanns A, Preusser-Kunze A, Schmidt B, Mariappan M, von Figura K, et al.",
+      "depth": 1,
+      "content": "Molecular basis for multiple sulfatase deficiency and mechanism for formylglycine generation of the\nhuman formylglycine-generating enzyme. Cell. 2005;121(4):541-52.",
+      "char_count": 164
+    },
+    {
+      "number": "17",
+      "title": "Human Gene Mutation Database: http://www.hgmd.cf.ac.uk/ac/index.php; [",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "18",
+      "title": "Pastores GM. Musculoskeletal complications encountered in the lysosomal storage disorders. Best",
+      "depth": 1,
+      "content": "Pract Res Clin Rheumatol. 2008;22(5):937-47.\n19.       Turra GS, Schwartz IV. Evaluation of orofacial motricity in patients with mucopolysaccharidosis:\na cross-sectional study. J Pediatr (Rio J). 2009;85(3):254-60.",
+      "char_count": 214
+    },
+    {
+      "number": "20",
+      "title": "Schwartz IV, Souza CF, Giugliani R. Treatment of inborn errors of metabolism. J Pediatr (Rio J).",
+      "depth": 1,
+      "content": "2008;84(4 Suppl):S8-19.",
+      "char_count": 23
+    },
+    {
+      "number": "21",
+      "title": "Giugliani R, Federhen A, Vairo F, Vanzella C, Pasqualim G, da Silva LM, et al. Emerging drugs",
+      "depth": 1,
+      "content": "for the treatment of mucopolysaccharidoses. Expert Opin Emerg Drugs. 2016;21(1):9-26.",
+      "char_count": 85
+    },
+    {
+      "number": "22",
+      "title": "White KK. Orthopaedic aspects of mucopolysaccharidoses. Rheumatology (Oxford). 2011;50",
+      "depth": 1,
+      "content": "Suppl 5:v26-33.",
+      "char_count": 15
+    },
+    {
+      "number": "23",
+      "title": "Saúde               Md.              Asma.            In:            Conitec,              editor.",
+      "depth": 1,
+      "content": "http://portalarquivos2.saude.gov.br/images/pdf/2014/julho/22/PT-SAS-N---1317-alterado-pela-603-de-\n21-de-julho-de-2014.pdf2013.",
+      "char_count": 127
+    },
+    {
+      "number": "24",
+      "title": "Ashworth JL, Biswas S, Wraith E, Lloyd IC. The ocular features of the mucopolysaccharidoses.",
+      "depth": 1,
+      "content": "Eye (Lond). 2006;20(5):553-63.",
+      "char_count": 30
+    },
+    {
+      "number": "25",
+      "title": "Käsmann-Kellner B, Weindler J, Pfau B, Ruprecht KW. Ocular changes in mucopolysaccharidosis",
+      "depth": 1,
+      "content": "IV A (Morquio A syndrome) and long-term results of perforating keratoplasty. Ophthalmologica.\n1999;213(3):200-5.",
+      "char_count": 112
+    },
+    {
+      "number": "26",
+      "title": "Reichert R, Campos LG, Vairo F, de Souza CF, Pérez JA, Duarte J, et al. Neuroimaging Findings",
+      "depth": 1,
+      "content": "in Patients with Mucopolysaccharidosis: What You Really Need to Know. Radiographics.\n2016;36(5):1448-62.",
+      "char_count": 104
+    },
+    {
+      "number": "27",
+      "title": "Azevedo AC, Schwartz IV, Kalakun L, Brustolin S, Burin MG, Beheregaray AP, et al. Clinical",
+      "depth": 1,
+      "content": "and biochemical study of 28 patients with mucopolysaccharidosis type VI. Clin Genet. 2004;66(3):208-13.",
+      "char_count": 103
+    },
+    {
+      "number": "28",
+      "title": "Kachur E, Del Maestro R. Mucopolysaccharidoses and spinal cord compression: case report and",
+      "depth": 1,
+      "content": "review of the literature with implications of bone marrow transplantation. Neurosurgery. 2000;47(1):223-\n8; discussion 8-9.",
+      "char_count": 123
+    },
+    {
+      "number": "29",
+      "title": "Williams N, Cundy P, Eastwood D. Surgical Management of Thoracolumbar Kyphosis in Patients",
+      "depth": 1,
+      "content": "with Mucopolysaccharidosis: A Systematic Review. Spine (Phila Pa 1976). 2017.",
+      "char_count": 77
+    },
+    {
+      "number": "30",
+      "title": "Roberts SB, Dryden R, Tsirikos AI. Thoracolumbar kyphosis in patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses: clinical outcomes and predictive radiographic factors for progression of deformity.\nBone Joint J. 2016;98-B(2):229-37.",
+      "char_count": 141
+    },
+    {
+      "number": "31",
+      "title": "Dalvie SS, Noordeen MH, Vellodi A. Anterior instrumented fusion for thoracolumbar kyphosis in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis. Spine (Phila Pa 1976). 2001;26(23):E539-41.",
+      "char_count": 66
+    },
+    {
+      "number": "32",
+      "title": "Bekmez S, Demirkiran HG, Dede O, Ismayilov V, Yazici M. Surgical Management of Progressive",
+      "depth": 1,
+      "content": "Thoracolumbar Kyphosis in Mucopolysaccharidosis: Is a Posterior-only Approach Safe and Effective? J\nPediatr Orthop. 2018;38(7):354-9.",
+      "char_count": 133
+    },
+    {
+      "number": "33",
+      "title": "Nayak DR, Balakrishnan R, Murthy KD. An endoscopic approach to the deviated nasal septum--",
+      "depth": 1,
+      "content": "a preliminary study. J Laryngol Otol. 1998;112(10):934-9.",
+      "char_count": 57
+    },
+    {
+      "number": "34",
+      "title": "Shinhar SY, Zablocki H, Madgy DN. Airway management in mucopolysaccharide storage",
+      "depth": 1,
+      "content": "disorders. Arch Otolaryngol Head Neck Surg. 2004;130(2):233-7.",
+      "char_count": 62
+    },
+    {
+      "number": "35",
+      "title": "Brain AI. The laryngeal mask--a new concept in airway management. Br J Anaesth.",
+      "depth": 1,
+      "content": "1983;55(8):801-5.",
+      "char_count": 17
+    },
+    {
+      "number": "36",
+      "title": "Walker RW, Allen DL, Rothera MR. A fibreoptic intubation technique for children with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses using the laryngeal mask airway. Paediatr Anaesth. 1997;7(5):421-6.",
+      "char_count": 89
+    },
+    {
+      "number": "37",
+      "title": "Hoogerbrugge PM, Brouwer OF, Bordigoni P, Ringden O, Kapaun P, Ortega JJ, et al. Allogeneic",
+      "depth": 1,
+      "content": "bone marrow transplantation for lysosomal storage diseases. The European Group for Bone Marrow\nTransplantation. Lancet. 1995;345(8962):1398-402.",
+      "char_count": 144
+    },
+    {
+      "number": "38",
+      "title": "Krivit W. Allogeneic stem cell transplantation for the treatment of lysosomal and peroxisomal",
+      "depth": 1,
+      "content": "metabolic diseases. Springer Semin Immunopathol. 2004;26(1-2):119-32.",
+      "char_count": 69
+    },
+    {
+      "number": "39",
+      "title": "Herskhovitz E, Young E, Rainer J, Hall CM, Lidchi V, Chong K, et al. Bone marrow",
+      "depth": 1,
+      "content": "transplantation for Maroteaux-Lamy syndrome (MPS VI): long-term follow-up. J Inherit Metab Dis.\n1999;22(1):50-62.",
+      "char_count": 113
+    },
+    {
+      "number": "40",
+      "title": "Gomes DF, Gallo LG, Leite BF, Silva RB, da Silva EN. Clinical effectiveness of enzyme",
+      "depth": 1,
+      "content": "replacement therapy with galsulfase in mucopolysaccharidosis type VI treatment: Systematic review. J\nInherit Metab Dis. 2019;42(1):66-76.",
+      "char_count": 137
+    },
+    {
+      "number": "41",
+      "title": "Harmatz P, Giugliani R, Schwartz I, Guffon N, Teles EL, Miranda MC, et al. Enzyme replacement",
+      "depth": 1,
+      "content": "therapy for mucopolysaccharidosis VI: a phase 3, randomized, double-blind, placebo-controlled,\nmultinational study of recombinant human N-acetylgalactosamine 4-sulfatase (recombinant human\narylsulfatase B or rhASB) and follow-on, open-label extension study. J Pediatr. 2006;148(4):533-9.",
+      "char_count": 287
+    },
+    {
+      "number": "42",
+      "title": "Harmatz PR, Lampe C, Parini R, Sharma R, Teles EL, Johnson J, et al. Enzyme replacement",
+      "depth": 1,
+      "content": "therapy outcomes across the disease spectrum: Findings from the mucopolysaccharidosis VI Clinical\nSurveillance Program. J Inherit Metab Dis. 2019;42(3):519-26.",
+      "char_count": 159
+    },
+    {
+      "number": "43",
+      "title": "Inc. BP. Prescribing Information Naglazyme https://www.naglazyme.com/2019 [",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "44",
+      "title": "Giugliani R, Lampe C, Guffon N, Ketteridge D, Leão-Teles E, Wraith JE, et al. Natural history",
+      "depth": 1,
+      "content": "and galsulfase treatment in mucopolysaccharidosis VI (MPS VI, Maroteaux-Lamy syndrome)--10-year\nfollow-up of patients who previously participated in an MPS VI Survey Study. Am J Med Genet A.\n2014;164A(8):1953-64.",
+      "char_count": 212
+    },
+    {
+      "number": "45",
+      "title": "Giugliani R, Federhen A, Muñoz Rojas MV, Vieira TA, Artigalás O, Pinto LL, et al. [Enzyme",
+      "depth": 1,
+      "content": "replacement therapy for mucopolysaccharidoses I, II and VI: recommendations from a group of Brazilian\nF experts]. Rev Assoc Med Bras (1992). 2010;56(3):271-7.",
+      "char_count": 158
+    },
+    {
+      "number": "46",
+      "title": "Brunelli MJ, Atallah Á, da Silva EM. Enzyme replacement therapy with galsulfase for",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type VI. Cochrane Database Syst Rev. 2016;3:CD009806.",
+      "char_count": 75
+    },
+    {
+      "number": "47",
+      "title": "Marshall WA, Tanner JM. Variations in pattern of pubertal changes in girls. Arch Dis Child.",
+      "depth": 1,
+      "content": "1969;44(235):291-303.",
+      "char_count": 21
+    },
+    {
+      "number": "48",
+      "title": "Marshall WA, Tanner JM. Variations in the pattern of pubertal changes in boys. Arch Dis Child.",
+      "depth": 1,
+      "content": "1970;45(239):13-23.",
+      "char_count": 19
+    },
+    {
+      "number": "49",
+      "title": "Garcia P, Sousa SB, Ling TP, Conceição M, Seabra J, White KK, et al. Skeletal complications in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis VI patients: Case reports. J Pediatr Rehabil Med. 2010;3(1):63-9.",
+      "char_count": 87
+    },
+    {
+      "number": "50",
+      "title": "Oussoren E, Bessems JHJM, Pollet V, van der Meijden JC, van der Giessen LJ, Plug I, et al. A",
+      "depth": 1,
+      "content": "long term follow-up study of the development of hip disease in Mucopolysaccharidosis type VI. Mol Genet\nMetab. 2017;121(3):241-51.",
+      "char_count": 130
+    },
+    {
+      "number": "51",
+      "title": "Horovitz DD, Magalhães TeS, Pena e Costa A, Carelli LE, Souza e Silva D, de Linhares e Riello",
+      "depth": 1,
+      "content": "AP, et al. Spinal cord compression in young children with type VI mucopolysaccharidosis. Mol Genet\nMetab. 2011;104(3):295-300.\n52.       de Jong JG, Hasselman JJ, van Landeghem AA, Vader HL, Wevers RA. The spot test is not a\nreliable screening procedure for mucopolysaccharidoses. Clin Chem. 1991;37(4):572-5.",
+      "char_count": 309
+    },
+    {
+      "number": "53",
+      "title": "Auray-Blais C, Lavoie P, Tomatsu S, Valayannopoulos V, Mitchell JJ, Raiman J, et al. UPLC-",
+      "depth": 1,
+      "content": "MS/MS detection of disaccharides derived from glycosaminoglycans as biomarkers of\nmucopolysaccharidoses. Anal Chim Acta. 2016;936:139-48.",
+      "char_count": 137
+    },
+    {
+      "number": "54",
+      "title": "Swiedler SJ, Beck M, Bajbouj M, Giugliani R, Schwartz I, Harmatz P, et al. Threshold effect of",
+      "depth": 1,
+      "content": "urinary glycosaminoglycans and the walk test as indicators of disease progression in a survey of subjects\nwith Mucopolysaccharidosis VI (Maroteaux-Lamy syndrome). Am J Med Genet A. 2005;134A(2):144-50.\n\n                                  TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n                                                 GALSULFASE\n\n\n\n\n            Eu,____________________________________________________               (nome   do(a)   paciente),\ndeclaro ter sido informado(a) claramente sobre benefícios, riscos, contraindicações e principais efeitos\nadversos relacionados ao uso de galsulfase, indicada para o tratamento da mucopolissacaridose tipo VI.\n            Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas pelo médico\n_______________________________________________(nome do médico que prescreve).\n            Assim, declaro que fui claramente informado(a) de que o medicamento que passo a receber podem\ntrazer os seguintes benefícios:\n            - melhora dos sintomas da doença, como melhora no teste de caminhada em 12 minutos, melhora\nda função pulmonar e redução dos glicosaminoglicanos (GAGs) urinários.\n            Fui também claramente informado(a) a respeito das seguintes contraindicações, potenciais efeitos\nadversos e riscos:\n            - medicamento classificado na gestação como fator de risco B (estudos em animais não mostraram\nanormalidades, embora estudos em mulheres não tenham sido feitos; o medicamento deve ser prescrito com\ncautela);\n            - efeitos adversos da galsulfase: aqueles relatados em dois ou mais estudos foram problemas na\npele, coceiras na pele e febre.\n            - contraindicação em casos de hipersensibilidade (alergia) ao fármaco ou aos componentes da\nfórmula.\n            Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a\ndevolvê-lo caso não queira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que\ncontinuarei a ser atendido(a), inclusive se desistir de usar o medicamento.\n            Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas\nao meu tratamento, desde que assegurado o anonimato. (        ) Sim       (   ) Não\n\n\n   Local:                                                             Data:\n   Nome do paciente:\n   Cartão Nacional do SUS:\n   Nome do responsável legal:\n   Documento de identificação do responsável legal:\n   Assinatura do paciente ou do responsável legal\n\n\n   Médico:                                                   CRM:                      RS:\n\n\n\n\n                                     ______________________________\n                                       Assinatura e carimbo do médico\n\n                                             Data:\n\n\n\n   NOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual\ncomponente da Assistência Farmacêutica no SUS se encontra o medicamento preconizado neste\nProtocolo.\n\n                                                       APÊNDICE 1\n\n\n               PRINCIPAIS MANIFESTAÇÕES CLÍNICAS DA MPS VI E OPÇÕES DE TRATAMENTOS DE\n                                            SUPORTE E SINTOMÁTICOS\n\n\nÓrgão/sistema                        Manifestação clínica                              Avaliação/tratamento\n  Sistema nervoso                     Compressão medular                                 Cirurgia, fisioterapia\n     periférico\n\n       Olhos                       Acuidade visual diminuída                           Avaliação oftalmológica\n\n                                    Opacificação de córnea                   Transplante de córnea (em casos específicos)\n\n    Vias aéreas              Síndrome da apneia obstrutiva do sono                Amigdalectomia, adenoidectomia,\n                                                                                           oxigenioterapia\n\n                                                                                    Avaliação funcional pulmonar\n\n                              Infecções de repetição, hipersecreção                        Farmacoterapia\n\n                                  Doença pulmonar restritiva                                 Fisioterapia\n\n Tecido conjuntivo                          Hérnias                                            Cirurgia\n\n    Articulações                        Dor, contraturas                           Fisioterapia, terapia ocupacional\n\n                                                                                           Farmacoterapia\n\n       Ossos                  Geno valgo, luxação de quadril                              Correção cirúrgica\n\n      Orelhas                             Hipoacusia                             Próteses (em casos específicos)\n\n                                       Otites de repetição                             Farmacoterapia, cirurgia\n\n  Gastrointestinal                          Diarreia                                    Orientação nutricional\n\n                            Ganho inadequado ou excessivo de peso                       Orientação nutricional\n\n                                      Distúrbio deglutição                         Farmacoterapia, fonoaudiologia\n\n                                                                                       Cirurgia (gastrostomia)\n\n  Bucomaxilofacial               Mal oclusão, dentição anômala                                 Cirurgia\n\n                                                                                        Aparelho ortodôntico\n\n   Cardiovascular         Valvulopatias, cardiomiopatia, insuficiência                 Farmacoterapia, cirurgia\n                                            cardíaca\n\n\n\n         Fonte: Elaborado a partir de Giugliani R, Harmatz P, Wraith JE. Management guidelines for\n         mucopolysaccharidosis VI. Pediatrics. 2007;120(2):405-18.al (4).\n\n                                        APÊNDICE 2\n\n\n             PROGRAMA MÍNIMO DE AVALIAÇÕES PARA SEGUIMENTO CLÍNICO\n DOS PACIENTES COM MPS VI SOB TERAPIA DE REPOSIÇÃO ENZIMÁTICA OU NÃO (4)\n\n\n\n\nAvaliações                                               Avaliação   A cada 6   A cada 12\n                                                          inicial     meses       meses\nAtividade enzimática                                        X           X*\n\nGAGs urinários                                              X          X**\n\nHistória médica                                             X           X\n\nAconselhamento Genético                                     X\n\nRevisão do número de infusões realizadas no período***                  X\n\nDeterminação da adesão ao acompanhamento/tratamento**       X           X\n\nPeso/altura                                                 X           X\n\nPressão arterial                                            X           X\n\nHepatimetria (exame físico)                                 X           X\n\nQuestionário de qualidade de vida validado                  X                     X**\n\nAVALIAÇÃO NEUROLÓGICA\n\n- Exame neurológico                                         X\n\n- RNM do crânio                                             X\n\n- RNM da coluna                                             X\n\n- Velocidade de condução do nervo mediano                   X\n\n- Avaliação do neurodesenvolvimento                         X\n\nAVALIAÇÃO OFTALMOLÓGICA (acuidade visual, retina,           X\ncórnea)\nAUDIOMETRIA                                                 X\n\nAVALIAÇÃO FUNCIONAL\n\n- Ecocardiograma                                            X\n\n - Eletrocardiograma                                                            X\n\n - TC12M**                                                                      X                 X\n\n - CVF/VEF1 (espirometria)**                                                    X                 X          X\n\n - Polissonografia                                                              X\n\n AVALIAÇÃO DA MOBILIDADE ARTICULAR                                              X\n\n RAIO-X ÓSSEO                                                                   X\n\n*Para pacientes que fizeram transplante de células-tronco hematopoiéticas. **Para pacientes que fizeram\ntransplante de células-tronco hematoipoiéticas ou estão em terapia de reposição enzimática, quando capazes\nde realizar a avaliação. ***Para pacientes em terapia de reposição enzimática. As demais avaliações,\nincluindo as avaliações indicadas somente no período basal (iniciais) devem ser realizadas em períodos\ndeterminados pelo médico assistente. GAGs = glicosaminoglicanos; RNM = ressonância magnética;\nTC12M = teste de caminhada em 12 minutos; CVF = capacidade vital forçada; VEF1 = volume expiratório\nforçado no primeiro segundo.\nFonte: Elaborado a partir de Giugliani R, Harmatz P, Wraith JE. Management guidelines for\nmucopolysaccharidosis VI. Pediatrics. 2007;120(2):405-18.al (4).\n\n                                                                                APÊNDICE 3\n                                         METODOLOGIA DE BUSCA E AVALIAÇÃO DE LITERATURA",
+      "char_count": 9090
+    },
+    {
+      "number": "1",
+      "title": "POLÍTICA NACIONAL DE ATENÇÃO INTEGRAL ÀS PESSOAS COM DOENÇAS RARAS",
+      "depth": 1,
+      "content": "A Política Nacional de Atenção Integral às Pessoas com Doenças Raras foi publicada em 12 de\nfevereiro de 2014 por meio da Portaria GM/MS nº 199, de 30 de janeiro de 20141, que, além de instituir a\nreferida política, também aprovou as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no\nSistema Único de Saúde - SUS e instituiu incentivos financeiros de custeio.\n              Essa Política tem como objetivo reduzir a mortalidade e a incapacidade causadas por essas\ndoenças, bem como contribuir para a melhoria da qualidade de vida das pessoas com doenças raras. Está\norganizada no conceito das Redes de Atenção à Saúde (RAS), considerando-se todos os pontos de atenção,\nbem como os sistemas logísticos e de apoio necessários para garantir a oferta de ações de promoção,\ndetecção precoce, diagnóstico, tratamento e cuidados paliativos, de forma oportuna, para as pessoas com\ndoenças raras.\n              A Política utiliza como definição de doença rara a estabelecida pela Organização Mundial da\nSaúde, isto é, “aquela doença que afeta até 65 pessoas em cada 100.000 indivíduos, ou seja, 1,3 pessoas\npara cada 2.000 indivíduos”, conforme estabelecido nas diretrizes citadas acima.\n              Como não seria possível organizar as diretrizes abordando as doenças raras de forma individual,\ndevido ao grande número de doenças, as diretrizes políticas foram organizadas na forma de eixos\nestruturantes, que permitem classificar as doenças raras de acordo com suas características comuns, com a\nfinalidade de maximizar os benefícios aos usuários.\n              Dessa forma, as doenças raras foram classificadas em dois eixos: a) Doenças raras de origem\ngenética, com três grupos: 1 - Anomalias congênitas ou de manifestação tardia, 2 - Deficiência intelectual,\n3 - Erros inatos do metabolismo; b) Doenças Raras de origem não genética, com os seguintes grupos de\ncausas: 1 - Infecciosas, 2 - Inflamatórias, 3 - Autoimunes, 4 - Outras doenças raras não genéticas.\n              Para a implantação e implementação dessa política foram incorporados, inicialmente, quinze\nexames na Tabela de Procedimentos, Medicamentos, Órteses, Próteses de Materiais Especiais do SUS,\nabrangendo biologia molecular, citogenética e imunoensaios, além do aconselhamento genético.\n           Os princípios e diretrizes daquela Portaria, expressos no artigo 6º, inciso VI, visam a garantir a\nincorporação e o uso de tecnologias voltadas para a promoção, prevenção e cuidado integral na RAS,\nincluindo tratamento medicamentoso e fórmulas nutricionais, quando indicados no âmbito do SUS, que\ndevem ser resultado das recomendações formuladas por órgãos governamentais a partir do processo de\navaliação e aprovação pela Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC) e\nelaboração dos Protocolos Clínicos e Diretrizes Terapêuticas (PCDT).\n              Para viabilizar as definições e implementação da Política, a Coordenação de Média e Alta\nComplexidade (CGMAC), juntamente com a CONITEC, organizou um encontro com especialistas que\natuam na área de doenças raras em todo o País, abarcando os dois eixos da Política e seus respectivos grupos\nsupracitados. O “Painel de Especialistas”, realizado nos dias 19 e 20 de maio de 2014, objetivou estabelecer\ncritérios e prioridades para a elaboração de PCDTs para a implementação da Política Nacional de Atenção\n\n1\n Republicada para consolidar as alterações introduzidas pela Portaria nº 981/GM/MS, de 20 de maio de 2014, publicada no Diário Oficial da União nº 95, de 21 de maio de 2014,\nSeção 1, página 44.\n\nIntegral às Pessoas com Doenças Raras no SUS. Entre as doenças elencadas para elaboração de PCDT\npriorizados, está a mucopolissacaridose tipo VI (MPS VI).",
+      "char_count": 3709
+    },
+    {
+      "number": "2",
+      "title": "REUNIÃO DE ESCOPO",
+      "depth": 1,
+      "content": "A fim de dar continuidade ao processo de elaboração do PCDT, foi realizada uma reunião de escopo\ncom o comitê gestor e elaborador deste PCDT, realizada dia 25 de fevereiro de 2019, no Hospital Alemão\nOswaldo Cruz (HAOC), quando foram estabelecidas as seguintes perguntas de pesquisa para elaboração\ndeste PCDT:\n       - A galsulfase é eficaz para os seguintes desfechos: sobrevida, qualidade de vida, número de\ninfecções de vias respiratórias, cardiopatia, eventos adversos, doença óssea, doença ocular?\n       - A galsulfase é segura em gestantes e pacientes em aleitamento materno?\n       - Quais são os critérios para interrupção de tratamento com galsulfase?\n       - Até qual idade o TCTH é efetivo?",
+      "char_count": 704
+    },
+    {
+      "number": "3",
+      "title": "BUSCAS NA LITERATURA",
+      "depth": 1,
+      "content": "Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o sítio da\nCONITEC para a identificação das tecnologias disponíveis no Brasil e tecnologias demandadas ou\nrecentemente incorporadas para o tratamento da MPS 1. Foi também realizada busca por diretrizes\nnacionais e internacionais a respeito da doença.\n       Não foram encontradas tecnologias disponíveis, já incorporadas ou em avaliação.\n       As seguintes bases de protocolos e diretrizes foram consultadas:\n         -   NICE guidelines (http://www.nice.org.uk/guidance/published?type=CG);\n         -   National Library of Australia – http://webarchive.nla.gov.au/gov/;\n         -   Diretrizes da Associação Médica Brasileira (AMB).\n         -   PCDT MS\n         -   PubMed/MEDLINE\n       As diretrizes localizadas foram as seguintes:\n       - Terapia de reposição enzimática para as mucopolissacaridoses I, II e VI: recomendações de um\ngrupo de especialistas brasileiros. Giugliani R, et al. Rev Assoc Med Bras. 2010; 56(3): 257-77.\n       - Mucopolysaccharidosis I, II, and VI: Brief review and guidelines for treatment. Giugliani R, et al.\nGenet Mol Biol. 2010; 33(4): 589-604.\n       - Giugliani R, Harmatz P, Wraith JE. Management guidelines for mucopolysaccharidosis VI.\nPediatrics. 2007;120(2):405-18.\n       Após a reunião de escopo, ficou estabelecido que o PCDT se destina a crianças e adultos com MPS\nVI, de ambos os sexos, e tem por objetivo revisar práticas diagnósticas e terapêuticas e incorporar as\nrecomendações referentes ao tratamento medicamentoso com a terapia de reposição enzimática com\ngalsulfase e ao tratamento com TCTH.\n       Para a elaboração dos critérios diagnósticos e para a avaliação das situações especiais de gestação e\naleitamento foram utilizadas diretrizes internacionais elaboradas por diferentes grupos de especialistas, que\nsão utilizadas como consenso nos diversos centros de referência.\n\n       Para avaliação de interrupção de tratamento, foi utilizada a seguinte estratégia de busca:\n“(mucopolysaccharidosis type vi OR Maroteaux-Lamy syndrome) AND interruption”, sendo apenas um\nresultado encontrado, a revisão sistemática da Cochrane listada abaixo. A base de dados buscada foi\nMEDLINE/PubMed e a referência encontradas não respondia à pergunta definida na reunião de escopo,\nsendo utilizadas as diretrizes internacionais acima citadas para responder à questão.\n       - Brunelli MJ, Atallah ÁN, da Silva EMK. Enzyme replacement therapy with galsulfase for\nmucopolysaccharidosis type VI. Cochrane Database of Systematic Reviews 2016, Issue 3.\n       Para a elaboração dos demais itens do PCDT, foram utilizadas as buscas, resultados recomendações\ne referências constantes no relatório de recomendação da galsulfase como terapia de reposição enzimática\nno            tratamento            da            MPS              VI,            disponível         em\nhttp://conitec.gov.br/images/Relatorios/2018/Recomendacao/Relatorio_Galsulfase_MPS_VI.pdf",
+      "char_count": 2969
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": "A confirmação do diagnóstico de MPS VI envolve exames bioquímicos ou genéticos que deverão\nser realizados sempre que houver suspeita clínica dessa doença."
+    },
+    "inclusion_criteria": {
+      "number": "4",
+      "content": "Serão incluídos neste PCDT todos os pacientes que apresentarem pelo menos um dos sinais ou\nsintomas descritos no item 3.1 (Suspeita Clínica) deste Protocolo e tiverem o diagnóstico de MPS VI\nconfirmado de acordo com um dos critérios abaixo relacionados (4). Estes também são os critérios para\ninício do tratamento com galsulfase, ou seja:\n          Atividade da enzima ASB < 10% do limite inferior dos valores de referência em fibroblastos ou\n           leucócitos E atividade de pelo menos outra sulfatase (arilsulfatase A, arilsulfatase B, heparan N-\n           sulfatase ou iduronato-sulfatase) avaliada na mesma amostra e pelo mesmo método, apresentando\n           valores normais E presença de níveis aumentados de GAGs totais na urina ou de excreção\n           aumentada de DS; OU\n          Atividade da enzima ASB < 10% do limite inferior dos valores de referência em fibroblastos,\n           leucócitos ou em papel-filtro E atividade de pelo menos outra sulfatase (arilsulfatase A,\n           arilsulfatase B, heparan N-sulfatase ou iduronato-sulfatase) avaliada na mesma amostra e pelo\n           mesmo método, apresentando valores normais, E presença de mutações patogênicas em\n           homozigoze ou heterozigoze composta no gene ASB.\n          Os pacientes que já estiverem em uso de galsulfase quando da publicação deste PCDT deverão ser\nreavaliados para verificação dos critérios de inclusão. Caso não preencham os critérios, a reposição da\nenzima deve ser imediatamente suspensa."
+    },
+    "exclusion_criteria": {
+      "number": "5",
+      "content": ""
+    },
+    "treatment": {
+      "number": "6",
+      "content": "O tratamento clínico dos pacientes com MPS VI envolve equipe multidisciplinar (1, 4, 18, 19) e\ninclui intervenções não específicas, realizadas no nível do fenótipo clínico (como cirurgias para correção\n\ndas alterações esqueléticas), e específicas, realizadas no nível da proteína mutante (como a TRE IV) (4,\n20). Outras condutas, como uso de inibidores de síntese de substrato, terapia oral, terapia com\nnanopartículas e terapia gênica, estão ainda em fase de desenvolvimento (21)."
+    },
+    "monitoring": {
+      "number": "8",
+      "content": "Os pacientes devem ter a resposta terapêutica e os eventos adversos monitorados. O médico deve\nrealizar anamnese completa em cada visita e coletar dados de altura (em pé ou em decúbito dorsal, e, no\ncaso de restrições nos membros inferiores, por segmento), peso e perímetro cefálico, de preferência usando\no mesmo instrumento, devidamente calibrado. O exame físico deve ser completo e incluir sinais vitais\n(temperatura, frequência cardíaca, frequência respiratória e pressão arterial), bem como medidas para\nquantificação do tamanho do fígado (por hepatimetria). A avaliação do desenvolvimento sexual deve ser\nrealizada em adolescentes, de acordo com os critérios de Tanner (47, 48). Nas visitas, dados sobre todas as\navaliações realizadas desde o último agendamento devem ser obtidos e os testes necessários devem ser\nsolicitados, incluindo avaliação por especialistas em neurologia, otorrinolaringologia, ortopedia,\noftalmologia, cardiologia e pneumologia, conforme indicação clínica e a critério do médico assistente.\n       As avaliações de rotina devem ser realizadas semestralmente pelo médico assistente com vacinas,\norientação dietética, exames e conselhos preventivos. (4) Os pacientes e seus familiares devem ter acesso\nao aconselhamento genético.\n       O Apêndice 2 apresenta as avaliações consideradas mínimas para o acompanhamento de pacientes\ncom MPS VI. São definidos períodos mínimos apenas para aquelas avaliações que têm por objetivo detectar\na eficácia e segurança da TRE; para as demais, a periodicidade de avaliações fica a critério do médico\nassistente. Alguns componentes das avaliações específicas serão discutidos a seguir.\n       Sugere-se que todos os pacientes sejam encaminhados para ortopedista com experiência em MPS\nao diagnóstico. Para fins de diagnóstico e acompanhamento (conforme indicação clínica), devem ser\nrealizadas radiografias do crânio (perfil), coluna vertebral (anteroposterior, lateral neutra e em\nflexão/extensão, incluindo região cervical), tórax (anteroposterior e lateral), coxofemoral (posteroanterior)\ne ambas as mãos. (49) Sobre-exposição à radiação deve ser evitada. Avaliação radiológica do quadril e\nmembros inferiores devem focar na presença de displasia de quadril progressiva. (50)\n       A avaliação da coluna deve focar na presença de estenose, instabilidade ou compressão medular.\nCom o objetivo de detectar precocemente essas alterações, é recomendada avaliação neurológica, que pode\nrevelar hiperreflexia, hipertonia, sintomas piramidais ou déficits proprioceptivos (51).\n       A análise de GAGs urinários pode ser quantitativa, por uso do método espectrofotométrico descrito\npor De Jong et al. (52), ou permitir a identificação do tipo de GAG que está sendo excretado em quantidade\naumentada na urina (por cromatografia ou eletroforese ou espectrometria de massa em tandem de GAGs).\n\n(4, 52, 53) A quantificação de GAGs urinários é utilizada para diagnóstico e, também, monitorização do\ntratamento específico da MPS VI, uma vez que, na vigência de tratamento, ocorre diminuição da excreção\ndessas moléculas (4, 54).\n\n\n       Como parte da avaliação do tratamento, os seguintes itens devem ser respeitados:\n         − Monitorar os resultados dos transplantes por meio de estudo observacional original.\n         − Monitorar o uso, a adesão, a indicação e os resultados da TRE com galsulfase. Por meio desse\nmonitoramento, será possível estabelecer grupos de pacientes que são de fato beneficiados e reavaliar a\nincorporação do medicamento a médio prazo."
+    },
+    "regulation": {
+      "number": "9",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e a\nmonitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a\nadequação de uso do medicamento.\n       O tratamento da MPS VI deve ser feito por equipe em serviços especializados, para fins de\ndiagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle da doença exige\nexperiência e familiaridade com manifestações clínicas associadas, convém que o médico responsável tenha\nexperiência e seja treinado nessa atividade.\n       Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual\ncomponente da Assistência Farmacêutica no SUS se encontra o medicamento preconizado neste Protocolo.\n       Para a administração de medicamentos biológicos intravenosos, é essencial o atendimento\ncentralizado, para maior racionalidade do uso e avaliação da efetividade dos medicamentos. A infusão deve\nser feita em ambiente hospitalar.\n       Para a autorização do TCTH alogênico não aparentado de medula óssea, de sangue periférico ou de\nsangue de cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no\nRegistro Nacional de Receptores de Medula Óssea ou outros precursores hematopoéticos\n(REREME/INCA/MS), e devem ser observadas as normas técnicas e operacionais do Sistema Nacional de\nTransplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem\ncontinuar sendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta\ndo hospital transplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a\ncontinuidade da assistência e acompanhamento. A comunicação entre os hospitais deve ser mantida de\nmodo que o hospital solicitante conte, sempre que necessário, com a orientação do hospital transplantador\ne este, com as informações atualizadas sobre a evolução dos transplantados.\n       Os resultados de todos os casos MPS VI submetidos a TCTH mieloablativo halogênico aparentado\nou não aparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical deverão ter sua\nevolução registrada no REREME a cada três meses até completar pelo menos 1 (um) ano da realização do\ntransplante."
+    },
+    "special_cases": {
+      "number": "6.3",
+      "content": "A galsulfase é considerada classe B para uso na gestação e aleitamento. A evidência científica\napontada na literatura para tratamento de gestantes com MPS VI é limitada a série de casos: há relato na\nliteratura de manutenção de uso da galsulfase durante a gestação com desfechos positivos para mãe e recém-\nnascido (43). De forma geral, recomenda-se que o tratamento com TRE não seja iniciado durante a gestação,\nespecialmente durante o primeiro trimestre, e que, se já iniciado, seja mantido durante a gravidez.\n         Da mesma forma, caso estejam em uso de glicocorticoides e anti-histamínicos, considerar a\ninterrupção da TRE, especialmente no primeiro trimestre.\n       Casos associados à não redução de GAGs urinários devem ser avaliados de forma individualizada.\nQuando houver reação à infusão mediada por IgE, deve ser discutida a possibilidade a tolerização."
+    }
+  },
+  "stats": {
+    "section_count": 86,
+    "char_count": 64756,
+    "depth1_count": 65
+  }
+}

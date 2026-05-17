@@ -1,0 +1,1298 @@
+{
+  "slug": "esclerose-lateral-amiotrofica",
+  "name_pt": "Esclerose Lateral Amiotrófica",
+  "icd10": "G12.2",
+  "orphanet": "ORPHA:803",
+  "omim": "105400",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/portaria_conjunta_pcdt_ela.pdf",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A esclerose lateral amiotrófica (ELA) é uma doença do neurônio motor (DNM)\ne uma das principais doenças neurodegenerativas ao lado das doenças de Parkinson e\nAlzheimer. Sua incidência na população é heterogênea e varia de 0,73 a 1,89 casos\npor 100.000 pessoas ao ano no sul da Ásia e no norte da Europa, respectivamente 1\n(PMID: 27185810) 2,3. A idade é o fator preditivo mais importante para a sua\nocorrência, sendo mais prevalente nos pacientes entre 55 e 75 anos de idade 4. Trata-\nse de uma doença progressiva que envolve a degeneração do sistema motor em\nvários níveis: bulbar, cervical, torácico e lombar5.\n                                         , frequente\n\n\n                             -\n\nespinhal5.\n\n\n                                                                                , boca,\ngarga\n                      , tais como aqueles dos membros (superiores e inferiores),\ntronco, pescoço, bem como do diafragma6.\n        Acredita-se que, por ocasião do primeiro sintoma de ELA, mais de 80% dos\nneurônios motores já tenham sido perdidos7. Mais de 90% dos casos são esporádicos\ne a maior parte dos casos familiares apresenta herança autossômica dominante, com\nvários genes e mutações já identificados8,9. A sobrevida média da ELA é de 3 a 5 anos.\nNa ausência da ventilação mecânica prolongada, a porcentagem de sobreviventes em\n10 anos é de 8% a 16%10, podendo chegar a 15 anos ou mais com a ajuda do suporte\nventilatório11.\n        O quadro clínico da ELA reflete a perda de neurônios motores localizados no\ncórtex (NMS) e núcleos do tronco encefálico ou corno anterior da medula cervical\ntorácica e lombossacra (NMI).\n        A Tabela 1 traz os principais achados clínicos relacionados à perda de\nneurônios motores superiores e inferiores nessas regiões.\n\n             Tabela 1 - Achados clínicos relacionados à perda de NMS e NMI12.\n                 Neurônio motor superior (NMS)           Neurônio motor inferior (NMI)\n Bulbar          Incontinência emocional (choro e riso   Disartria flácida\n                 incontroláveis)                         Disfagia\n                 Disartria espástica                     Atrofia e fasciculações da\n                 Disfagia (especialmente fase oral)      língua\n                 Hiperreflexia (masseter, orbicular da\n\n                boca, refluxo nauseoso exacerbado)\n\n\n\n Espinhal       Hiperreflexia tendinosa                 Fraqueza\n                Espasticidade                           Atrofia muscular\n                Sinal de Babinsky                       Fasciculações\n                Redução da agilidade                    Câimbras\n\n       Além dos sinais e sintomas diretamente causados pela perda neuronal, os\npacientes apresentam uma série de achados clínicos indiretamente relacionados à\ndoença, como alterações psicológicas e do sono, constipação, sialorreia,\nespessamento de secreções mucosas, sintomas de hipoventilação crônica e dor. A\ndisfunção sensitiva (perda de sensibilidade) é incompatível com o diagnóstico de ELA,\na não ser que faça parte de um distúrbio subjacente. Apesar de exames cognitivos\ndetalhados poderem mostrar anormalidades em até 50% dos pacientes, quadros de\ndemência propriamente dita são incomuns. Quando ocorre, tendem a ser semelhante\nà demência frontotemporal13.\n       A identificação de fatores de risco e da doença em seu estágio inicial e o\nencaminhamento ágil e adequado para o atendimento especializado dão à Atenção\nBásica um caráter essencial para um melhor resultado terapêutico e prognóstico dos\ncasos.\n       Este Protocolo visa a estabelecer os critérios diagnósticos e terapêuticos da\nesclerose lateral amiotrófica. A metodologia de busca e avaliação das evidências\nestão detalhadas no Apêndice 1.",
+      "char_count": 3722
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS",
+      "depth": 1,
+      "content": "RELACIONADOS À SAÚDE (CID-10)\n\n       G12.2 Doença do neurônio motor",
+      "char_count": 68
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Clínico",
+      "depth": 2,
+      "content": "O diagnóstico da ELA é evidente nos pacientes com longa evolução da doença\ne sinais e sintomas generalizados. O diagnóstico precoce da doença, quando o\npaciente tem apenas sintomas focais em uma ou duas regiões (bulbar, membro\nsuperior, tronco ou membro inferior), pode ser difícil e dependerá da presença de\nsinais em outras regiões afetadas e de várias investigações seriadas14,15. O tempo\nmédio do início dos sintomas até a confirmação diagnóstica é de aproximadamente\n10 a 13 meses16. O diagnóstico da ELA é feito com base na presença de sinais de\nacometimento do NMI e NMS concomitantes em diferentes regiões. Os critérios de El\nEscorial revisados classificam os diagnósticos em várias categorias17:\n        ELA DEFINITIVA\n    - Sinais de NMS e NMI em três regiões (bulbar, cervical, torácica ou\n        lombossacral).\n\n       ELA PROVÁVEL\n\n   - Sinais de NMS e NMI em duas regiões (bulbar, cervical, torácica ou\nlombossacral) com algum sinal de NMS rostral aos sinais de NMI.\n\n       ELA PROVÁVEL COM SUPORTE LABORATORIAL\n    - Sinais de NMS e NMS em uma região ou sinais de NMS, em uma ou mais\nregiões, associados à evidência de desnervação aguda na eletroneuromiografia\n(ENMG) em dois ou mais segmentos.\n\n       ELA POSSÍVEL\n   -   Sinais de NMS e NMI em uma região somente.\n\n      ELA SUSPEITA\n      - Sinais de NMI em uma ou mais regiões (bulbar, cervical, torácica ou\nlombossacral).\n      - Sinais de NMS em uma ou mais regiões (bulbar, cervical, torácica ou\nlombossacral).\n      - Em todas as modalidades deve haver evidência de progressão da doença e\nausência de sinais sensitivos (a não ser que faça parte de um distúrbio subjacente).",
+      "char_count": 1648
+    },
+    {
+      "number": "3.2",
+      "title": "Exames complementares",
+      "depth": 2,
+      "content": "Deverão ser realizados exames complementares para auxiliar no\n   diagnóstico da ELA e na exclusão de outras doenças sistêmicas que possam\n   mimetizá-la. Para o correto diagnóstico, todo o paciente com suspeita de ELA\n   deve possuir os seguintes exames complementares com resultados compatíveis\n   com essa doença18:\n           - ENMG de quatro membros com presença de desnervação em mais de um\n   segmento e neurocondução motora e sensitiva normais (exceto quando houver\n   uma polineuropatia associada);\n           -         hemograma           completo,         ureia,        creatinina,\n   aminotransferases/transaminases (ALT/TGP e AST/TGO) séricas e tempo de\n   protrombina devem estar dentro da normalidade.\n           Além, podem, em casos especiais e a critério do médico assistente, ser\n   solicitados os respectivos exames:\n           - Ressonância magnética (RM) de encéfalo e junção crânio-cervical, que\n   não deve mostrar lesão estrutural que expliquem os sintomas;\n           - proteína C-reativa e eletroforese de proteínas séricas, cujo resultado\n   deve estar dentro da normalidade.",
+      "char_count": 1102
+    },
+    {
+      "number": "3.3",
+      "title": "Diagnóstico diferencial",
+      "depth": 2,
+      "content": "Nos estágios iniciais da doença, em que podem haver sinais mínimos de\ndisfunção dos NMS e NMI, a ELA pode ser confundida com uma série de outras\ndoenças ou condições, reclamando diagnósticos diferenciais (Tabela 219).\n\n                      Tabela 2 - Diagnóstico diferencial da ELA\n                        Bulbar            Espinhal\n\n Neurônio motor          Doença             Adrenomieloneuropatia\n superior                cerebrovascula     Ataxia espino-cerebelar\n                         r                  Deficiência de hexosaminidase A\n                         Esclerose          Deficiência de vitamina B12 ou cobre\n                         múltipla           Doença cerebrovascular\n                         Irradiação do      Esclerose múltipla\n                         sistema            Hipertireoidismo\n                         nervoso central    Infecção por HIV, HTLV, Sífilis\n                                            Irradiação do sistema nervoso\n                                            central\n                                            Latirismo\n                                            Malformação de Arnold-Chiari\n                                            Mielopatia (compressiva, pós-radiação,\n                                            inflamatória, tumoral)\n                                            Paraparesia espástica hereditária\n Neurônio motor          Miastenia          Hipertireoidismo\n inferior                gravis             Hiperparatireoidismo\n                         Seringobulbia      Intoxicação por metais pesados\n                         Distrofia óculo-   Deficiência de hexosaminidase A\n                         faríngea           Fasciculações benignas\n                                            Atrofia monomélica\n                                            Atrofia muscular espinhal\n                                            Neuropatia motora multifocal com\n                                            bloqueio de condução\n                                            Polineuropatia inflamatória\n                                            desmielinizante crônica\n                                            Miopatia inflamatória\n                                            Doença de Pompe",
+      "char_count": 2258
+    },
+    {
+      "number": "4",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "depth": 1,
+      "content": "Serão incluídos neste Protocolo os pacientes que apresentarem os critérios\ndiagnósticos para ELA definitiva, ELA provável ou ELA provável com suporte\nlaboratorial, avaliados por médico especialista em neurologia e com laudo médico\ndetalhado. Também serão incluídos os pacientes que apresentarem ELA suspeita\npelos critérios de El Escorial revisados e se incluam entre os Casos Especiais (ver o\nitem 6).",
+      "char_count": 402
+    },
+    {
+      "number": "5",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "depth": 1,
+      "content": "Serão excluídos deste Protocolo os pacientes que apresentarem uma das\nseguintes condições: ELA possível ou suspeita pelos critérios de El Escorial que não se\nenquadram nos Casos Especiais (vide item 6).",
+      "char_count": 202
+    },
+    {
+      "number": "6",
+      "title": "CASOS ESPECIAIS",
+      "depth": 1,
+      "content": "Quando o paciente tiver um familiar de primeiro grau afetado pela ELA, o\nexame genético focado nas alterações mais prevalentes na população brasileira é\nindicado, bem como o aconselhamento genético18,20.\n\n        Pacientes com doenças do neurônio motor e ELA suspeita pelos critérios de El\nEscorial revisados– atrofia muscular progressiva (AMP), esclerose lateral primária\n(ELP), paralisia bulbar progressiva (PBP) e atrofia muscular bulboespinhal (doença de\nKennedy) – também devem ser tratados, visto que podem se beneficiar do\ntratamento específico com riluzol e demais medidas terapêuticas preconizadas neste\nProtocolo21.",
+      "char_count": 625
+    },
+    {
+      "number": "6.1",
+      "title": "Atrofia muscular progressiva (AMP)",
+      "depth": 2,
+      "content": "-\n                                                  , envolvendo, progressivamente,\nmembros inferiores e região bulbar. Inexistem\n\n                                                                    se distinguir sob\ncritérios puramente c                                                            post\n                                                                            21\nmortem, pela                                                                   .",
+      "char_count": 462
+    },
+    {
+      "number": "6.2",
+      "title": "Esclerose lateral primária (ELP)",
+      "depth": 2,
+      "content": "-\n                            a de acometimento de qualquer outra parte do sistema\nnervoso exceto os tratos córtico-bulbar e córtico-espinhal. Inexiste       , pelo\nmenos nas etapas iniciais da doença, de acomet\n                    , do NMI. Clinicame                    -\n\n                               (quadro pseudobulbar)21.",
+      "char_count": 329
+    },
+    {
+      "number": "6.3",
+      "title": "Paralisia bulbar progressiva (PBP)",
+      "depth": 2,
+      "content": "A PBP, relacionada a ac                                                          ,\ncaracteriza-se por compromet\n                                                                                     ,\nacompanhando-se de fraqueza, atrofia e fascic                      . Comprometimento\n                                                          . Associadamente, sinais de\n                                                              21\nac                                                               .",
+      "char_count": 501
+    },
+    {
+      "number": "6.4",
+      "title": "Atrofia muscular bulboespinhal (doença de Kennedy)",
+      "depth": 2,
+      "content": "Os principais aspectos que diferenciam a doença de Kennedy da ELA são a\nquase exclusividade da ocorrência entre homens\n\n                                                                                        ,\ndiabete melito e doenças da tireoide\n\n                  . Cerca de 1 entre 25 pacientes i\n                                 21\n                                    .",
+      "char_count": 373
+    },
+    {
+      "number": "7",
+      "title": "TRATAMENTO",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "7.1",
+      "title": "Tratamento não medicamentoso",
+      "depth": 2,
+      "content": "Entre todas as condutas terapêuticas não medicamentosas, o suporte\nventilatório não invasivo, nas suas várias modalidades, é a que mais aumenta a\nsobrevida e a qualidade de vida do paciente com ELA, sendo inclusive possivelmente\n\nsuperior ao uso de riluzol22. Outra prática com benefícios prováveis no aumento da\nsobrevida e da qualidade de vida é o treinamento muscular inspiratório23. Exercícios\nfísicos de leve intensidade parecem ser benéficos e não prejudiciais como se\nacreditava anteriormente24. Inexistem evidências suficientes para a recomendação do\nuso de equipamentos com interfaces cérebro-computador25 ou estimulação\nmagnética transcraniana repetitiva26 que possam atenuar os sinais e sintomas\nmotores da doença. Da mesma forma, a suplementação de creatina parece não\nauxiliar os pacientes com ELA27.",
+      "char_count": 813
+    },
+    {
+      "number": "7.1.1",
+      "title": "Suporte ventilatório",
+      "depth": 3,
+      "content": "A principal causa de morte por ELA é a insuficiência respiratória28. A fraqueza\nmuscular acomete a musculatura respiratória, tendo como consequência a ventilação\ninadequada dos pulmões (hipoventilação), que causa aumento dos níveis de dióxido de\ncarbono (PaCO2) no sangue, caracterizando a hipercapnia. Esta fraqueza leva a uma\nrespiração cada vez mais superficial e rápida com sintomas crônicos de hipoventilação\nalveolar. Os sinais de hipoventilação ocorrem durante o sono REM, e em uma fase\nmais avançada da doença manifestam-se no período diurno. A fraqueza da\nmusculatura expiratória combinada com inadequadas insuflações dos pulmões impede\na eficácia da tosse e limpeza de vias aéreas, alterando a resistência das vias aéreas e\naumentando o risco de desenvolvimento de atelectasias e pneumonia. A fraqueza da\nmusculatura bulbar (musculatura de orofaringe e laringe) pode afetar a habilidade da\nfala, deglutição e limpeza de secreções de vias aéreas aumentando a possibilidade de\naspirações e, consequentemente, quadros de infecções respiratórias. Há evidência de\nque o percentual da capacidade vital lenta se correlaciona moderadamente com\nprogressão funcional da doença medida pela ALS Functional Rating Scale: r de Pearson\n= 0,55 (p = 0,0001)29.",
+      "char_count": 1253
+    },
+    {
+      "number": "7.1.1.1",
+      "title": "Empilhamento de ar",
+      "depth": 4,
+      "content": "A terapia de hiperinsuflação manual é um método para a prevenção ou\ntratamento das microatelectasias ou atelectasias, proporcionando melhora da\ncomplacência pulmonar, da caixa torácica e auxiliando no aumento do fluxo da tosse.\nQuando os pacientes perdem a capacidade espontânea para insuflar os pulmões até a\ncapacidade máxima, é necessária assistência. Estudos recomendam iniciar a terapia\ncom empilhamento de ar o mais precoce possível, antes da capacidade vital atingir\n70% do previsto.30\n        Para pacientes com comprometimento da musculatura bulbar foi\ndemonstrada a importância de realizar a insuflação passiva dos pulmões por meio de\nreanimador manual, mesmo que tenham comprometimento grave da função glótica e\nda musculatura de inervação bulbar. Os pacientes com capacidade vital baixa são os\nque mais obtêm benefícios com a técnica de insuflação, com um aumento\nsignificativo do volume corrente. O exercício de empilhamento de ar melhora a\nefetividade da tosse, aumenta a intensidade da voz, melhora ou aumenta a\ncomplacência pulmonar e evita as microatelectasias30.",
+      "char_count": 1080
+    },
+    {
+      "number": "7.1.1.2",
+      "title": "Ventilação mecânica não invasiva",
+      "depth": 4,
+      "content": "A redução da força muscular inspiratória, que resulta em ventilação alveolar\nineficaz, e a fraqueza dos músculos expiratórios, que leva a uma remoção ineficaz de\nsecreções, são causas de insuficiência respiratória crônica, que é potencialmente\nfatal. Os benefícios da ventilação mecânica (VM) são: a resolução dos sinais e\nsintomas de hipoventilação noturna (má qualidade do sono, cefaleia matinal,\n\nhiperssonolência diurna, fadiga, ortopneia), a melhora das trocas gasosas, o aumento\ndo fluxo de ar, a melhora ou manutenção da complacência pulmonar, a redução dos\nquadros de infecções respiratórias, o aumento da sobrevida e a melhora da qualidade\nde vida28.\n        As diretrizes atuais da Academia Americana de Neurologia sugerem iniciar\nsuporte ventilatório em situações de capacidade vital abaixo de 50% do previsto31. A\nAmerican Thoracic Society recomenda que sejam seguidos os seguintes critérios:\nsintomas de hipoventilação, hipercapnia (>45 mmHg), dessaturação de oxigênio no\nperíodo noturno com índices menores que 88% por 5 minutos consecutivos, pressão\ninspiratória máxima (PImáx) menor que 60 cmH20 e capacidade vital forçada (CVF)\nmenor que 50% do predito32.\n        Na prática clínica, os sinais e sintomas de hipoventilação alveolar são\nsoberanos para a indicação da ventilação.\n        Recomenda-se inicialmente a ventilação noturna por meio de ventiladores\npressóricos de dois níveis de pressão e frequência respiratória, conhecidos como\nsuporte ventilatório. Com a evolução da doença, os pacientes passam a fazer uso da\nventilação em alguns períodos diurnos. Os equipamentos disponíveis no mercado têm\na classificação de uso e aprovação da ANVISA de acordo com o dependência\nventilatória e número de horas de uso33.\n        Um aspecto a ser considerado é que em situações de intercorrência, como\nintervenções cirúrgicas, gastrostomia endoscópica e outros, os pacientes com\nDNM/ELA que estejam intubados não necessariamente devem ser\ntraqueostomizados. Há a possibilidade de manter os pacientes em ventilação\nmecânica não invasiva desde que sejam submetidos ao protocolo de extubação 34.",
+      "char_count": 2105
+    },
+    {
+      "number": "7.1.1.3",
+      "title": "Ventilação mecânica invasiva",
+      "depth": 4,
+      "content": "Os pacientes com DNM/ELA, principalmente os com comprometimento da\nmusculatura de inervação bulbar, com quadro de moderado a grave, podem\napresentar sialorreia excessiva, disfagia grave com broncoaspiração e consequentes\ninfecções pulmonares de repetição. Nestes casos, há indicação de traqueostomia que\nvai prolongar a sobrevida do paciente e melhorar a qualidade de sua vida. Ventilação\nmecânica invasiva por meio de traqueostomia deve, obrigatoriamente, ser feita\nutilizando traqueostomia com cuff de alto volume e baixa pressão, supra cuff e\nendocânula. Esta medida é fundamental para a segurança do paciente no domicilio,\numa vez que a cânula plástica sem endocânula pode ocasionar aumento silencioso da\nresistência, insuficiência respiratória e até morte. Recomenda-se que a ventilação\ninvasiva seja feita exclusivamente por meio de ventiladores classificados como de\nsuporte à vida18.",
+      "char_count": 891
+    },
+    {
+      "number": "7.1.1.4",
+      "title": "Remoção das Secreções",
+      "depth": 4,
+      "content": "As secreções brônquicas associam-se ao desenvolvimento de insuficiência\nrespiratória aguda, especialmente em pacientes com DNM/ELA. São responsáveis por\nquadros emergenciais, muitas vezes seguido de intubação e, posteriormente,\ntraqueostomia, processos que podem ser evitados ou postergados, se as secreções\nforem controladas adequadamente18.\n        Para auxiliar na eliminação da secreção é necessário fazer inalação com soro\nfisiológico a 0,9% de 2 a 3 vezes ao dia com o objetivo de fluidificação das secreções.\nApós a fluidificação, é preciso remover a secreção, por meio de medidas de higiene\nbrônquica, evitando, assim, quadros de infecção pulmonar18.",
+      "char_count": 658
+    },
+    {
+      "number": "7.1.2",
+      "title": "Suporte nutricional",
+      "depth": 3,
+      "content": "As alterações nutricionais e a deficiente ingestão alimentar desenvolvem-se\ncom a progressão da ELA, tendo como consequências perda de peso e alteração da\ncomposição corporal. As causas da depleção nutricional são múltiplas e incluem a\ningestão inadequada de nutrientes, principalmente pelo quadro de disfagia,\ninapetência, dificuldade de alimentar-se, depressão e hipermetabolismo18.\n       A piora do estado nutricional tem implicações diretas no tempo de evolução\nda doença. Há evidências que associam a perda de peso, redução do índice de massa\ncorporal (IMC) e de massa muscular com a menor sobrevida em pacientes com ELA.\nEm estudo recente, postulou-se que a diminuição de 10% do peso corporal\naumentaria em 45% o risco de morte nessa população35. Para o IMC, a redução de 1\nkg/m2 estaria associado a um aumento de 20% desse risco36.\n       O quadro de disfagia é inerente à piora do estado nutricional e ao aumento do\nrisco de desidratação nessa população. Em 17% a 30% dos pacientes com ELA os\nmúsculos bulbares são os primeiramente afetados; além disso, com a progressão da\ndoença, a maior parte dos pacientes desenvolve os sintomas bulbares que resultam\nem disfagia progressiva com dificuldade na ingestão de alimentos e líquidos 37–39.\n       A orientação nutricional por profissional habilitado, portanto, deve ser\nprecoce, com adaptações apropriadas na dieta, objetivando-se aumentar a gordura\ncorporal e                                         hidratação e o hábito intestinal\nadequados. Diante do desenvolvimento da ELA, a via oral torna-se ineficiente para\nsuprir as necessidades nutricionais com indícios clínicos de aspiração e necessidade\nde modificação de consistência. Logo, uma via alternativa de alimentação pode ser\nconsiderada18.",
+      "char_count": 1754
+    },
+    {
+      "number": "7.1.2.1",
+      "title": "Via alternativa de alimentação: Gastrostomia endoscópica",
+      "depth": 4,
+      "content": "percutânea (GEP)\n        A GEP representa uma opção no tratamento sintomático proporcionando\nnutrição adequada e contribui para a manutenção do peso corporal. Além disso, é\numa alternativa para a administração de líquidos e medicamentos, permitindo ainda a\nnutrição por via oral, quando possível. A GEP já se revelou superior à gastrostomia\nradiológica percutânea quanto a complicações relacionadas à inserção da sonda de\ngastrostomia, sendo a modalidade de escolha40.\n        Segundo o Consenso Europeu para o tratamento de doenças neurológicas, a\nGEP deve ser discutida em estágio inicial da doença, em intervalos regulares à medida\nque a ELA progride e de acordo com a evolução da segurança e eficácia da\ndeglutição41. A detecção de disfagia, longa duração das refeições, perda de peso,\nfunção respiratória deficiente, risco de asfixia e desejo dos pacientes devem orientar\na decisão de indicação da gastrostomia42.\n        Os critérios de indicação GEP consideram o monitoramento clínico baseado\nnos indicadores de avaliação multidisciplinar, que incluem: avaliação nutricional,\nenfatizando a queda de 10% do peso corporal nos últimos três meses, presença de\ndisfagia moderada e avaliação da função respiratória, destacando a medida da\ncapacidade vital forçada (CVF) em torno de 50% do predito. A indicação do\nprocedimento deve acontecer na presença de um ou mais critérios associados 43. A\nmedida de CVF seria a variável de escolha para o êxito do procedimento, pois, na\n\npresença de valores inferiores a 50% do predito, existem riscos de hipóxia durante o\nprocedimento44–46.\n        Durante a realização da GEP, sobretudo nos pacientes com paralisia bulbar\nprogressiva, recomenda-se o uso concomitante de VNI, objetivando-se maior\nsegurança, uma vez que a sedação pode ocasionar apneia e fraqueza em região\norofaríngea, favorecendo a intubação traqueal e consequente traqueostomia. Há\nevidência de que o uso de ventilação mecânica não invasiva usada antes, durante e\ndepois a GEP pode reduzir taxas de complicações respiratórias em pacientes com\nELA47.\n        Um estudo de coorte, prospectivo, longitudinal e multicêntrico com 330\ndoentes de ELA avaliou a mortalidade em 30 dias após a gastrostomia por três\ntécnicas diferentes (grupos): endoscópica percutânea, inserção radiológica e por via\noral guiada por exame de imagem. Os autores encontraram que a gastrostomia evitou\na perda de peso na metade dos pacientes e levou ao ganho de peso em 25% dos\nanalisados. Os três grupos apresentaram mortalidade similar de aproximadamente\n3%, não havendo diferença estatisticamente significativa entre eles48.\n        A sobrevida também parece ser afetada com a indicação tardia da\ngastrostomia. Os pacientes com perda de peso maior de 5 kg, no momento da\ninserção da GEP, apresentaram sobrevida de 15,3 meses quando comparada com 21,5\nmeses do grupo com perda menor do peso corporal49. A qualidade de vida dos\npacientes é outro ponto de destaque: a alimentação assistida por GEP demonstrou\nestabilizar ou aumentar o peso corporal, aumentar a sobrevida e melhorar a\nqualidade de vida42,49–52.",
+      "char_count": 3090
+    },
+    {
+      "number": "7.1.3",
+      "title": "Suporte de mobilidade e acessibilidade",
+      "depth": 3,
+      "content": "A fisioterapia motora tem o objetivo de otimizar as funções motoras do\npaciente, minimizando ou mesmo prevenindo as contraturas, deformidades, dores\narticulares e encurtamentos musculares, pressão por longos tempos em decúbitos,\ncompressões nervosas e mesmo quedas, ao maximar a força muscular, a mobilidade, a\nfuncionalidade e a autonomia para as atividades de vida diária do paciente 18.\n        Complicações secundárias a imobilidade, como constipação intestinal, edema,\natelectasias, dores localizadas ou generalizadas, também são possíveis de ser\namenizadas com o tratamento. Por isso, a cada etapa, é importante que avaliações\nsejam realizadas para adequar a conduta terapêutica18.\n        É importante que seja feita a correta prescrição de exercícios, sejam eles\nmovimentos ativos, ativo-assistidos ou passivos, sem gerar fadiga no paciente. Deve\nser ainda aplicado um programa de conservação de energia, em meio à rotina do\npaciente, pois exercícios excessivos e com carga podem levar à fadiga e à maior\nprogressão da doença, com aumento da degeneração neuronal, segundo estudos. Por\neste motivo, não são recomendados exercícios com qualquer tipo de resistência ou\nmesmo uso de estimulação elétrica funcional18.\n        Além dos exercícios, outras medidas que auxiliam o paciente: uso de ergonomia\npara melhoria de funções, avaliação de acessibilidade e possibilidades de\ndeslocamento, avaliação das atividades de vida diária e treinamento de novos meios\nde realizá-las, entre outros18.\n        Outro recurso bastante utilizado são as órteses, dispositivos que têm por\nobjetivo apoiar, auxiliar e proteger o sistema locomotor. Podem ser utilizadas para\n\nimobilização, mobilização, correção, alívio e estabilização de uma parte do corpo.\nDesta forma, é possível utilizar a órtese para corrigir a postura e o movimento, ou\nmesmo devolver funções perdidas, dentro da proposta de trabalho de Reabilitação\nNeurofuncional18.\n        Em Neurologia, as órteses podem ser utilizadas para compensar as funções do\ncorpo perdidas e são prescritas por um fisioterapeuta, terapeuta ocupacional ou\nmédico após avaliação detalhada da funcionalidade, força muscular e flexibilidade do\npaciente. O tempo e a forma de uso dependem do tipo de doença e do quadro clínico\nde cada paciente18.\n        Durante a progressão da doença, havendo piora da função de marcha e\nequilíbrio, o paciente com ELA pode necessitar da prescrição e adaptação de cadeiras\nde rodas para garantir-lhe melhora postural, prevenção de quedas e maior autonomia,\ncom ganhos de deslocamento18.\n        No Brasil, desde 1993 o Sistema Único de Saúde (SUS) dá acesso a órtese AFO\n(ankle foot orthesis) a todos os cidadãos que dela precisarem. E, em 2013, incluiu-se\ncadeira de rodas e adaptação postural em cadeiras de rodas, na Tabela de\nProcedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais (OPME) do\nSUS.",
+      "char_count": 2880
+    },
+    {
+      "number": "7.1.4",
+      "title": "Suporte de comunicação",
+      "depth": 3,
+      "content": "Sabendo-se que, no decorrer da doença, disfagia, hipersialorreia, disfonia,\ndisartria e laringoespasmo são muito frequentes, a atuação do fonoaudiológico é\nnecessária desde o início do tratamento. Objetiva-se a promoção de cuidados que\nauxiliem o paciente a se adaptar a cada etapa de progressão da doença 53.\n        A fraqueza dos músculos orofaciais e laríngeos, em conjunto com a alteração de\nrespiração, pode fazer com que o paciente com ELA apresente redução da\ninteligibilidade e compreensibilidade da sua produção fonoarticulatória, pela presença\nde um quadro de disartria combinado ou não com um quadro de disfonia. Tais\nalterações ocorrem em 80% a 95% dos pacientes com ELA, em algum momento\ndurante a progressão da doença54.\n        Na medida em que esta produção se torna mais deficitária, os interlocutores\npassam a ter mais dificuldade em compreender a mensagem e a tendência do paciente\né a de se isolar, por falta de comunicação. Há um declínio da fala natural e a\nconsequente necessidade de indicação de um recurso de Comunicação Suplementar e\nAlternativa (CSA)55.\n        Esta indicação deve ser feita pelo fonoaudiólogo e a adaptação ao acesso ao\ndispositivo, pelo terapeuta ocupacional. É importante que seja feita uma avaliação\nclínica por uma equipe especializada, a fim de que a indicação do recurso de\ncomunicação seja individualizada e mais assertiva às necessidades e às possibilidades\nmotoras e cognitivas do paciente56.\n        A indicação, a escolha e o sucesso da implantação do recurso de comunicação\ndependem de uma série de fatores, tais como: quadro clínico motor, a partir do qual é\nfeita a definição do melhor dispositivo de acesso ao equipamento/recurso de\ncomunicação; usabilidade; treino funcional da comunicação em diferentes contextos;\ntreinamento da família e cuidadores para uso do recurso; e, por fim, a presença de\neventuais comprometimentos de cognição e de linguagem, que comprometam o\nsucesso desta terapêutica57.\n\n        A perda da comunicação efetiva é considerada um dos piores aspectos da\ndoença e pode levar o paciente a apresentar dificuldades no âmbito psicológico, com\nrepercussão no campo emocional, laboral, social e familiar – com consequente piora\nda sua qualidade de vida e, inclusive, com redução da sua sobrevida58.\n        Existe evidência que mais de 50% dos pacientes com Doença do Neurônio\nMotor tenham alterações em sua função cognitiva, variando desde uma alteração leve\naté um franco quadro de demência frontotemporal. Tais alterações têm uma grande\nimplicação na comunicação, no comportamento, no cuidado, nas tomadas de decisões,\nna sinalização dos sintomas, na adesão e na aceitação dos cuidados e das condutas\nclínicas definidas pela equipe59.\n        Por este motivo, a indicação de uma avaliação e terapia fonoaudiológica, desde\nos primeiros sintomas bulbares, é essencial, seja em âmbito terapêutico ambulatorial\nou domiciliar; uma vez que o fonoaudiólogo reconhecerá eventuais alterações de\ncognição e linguagem e também disponibilizará ao paciente técnicas que melhorem a\nsua produção fonoarticulatória, garantindo a ele que se mantenha comunicativo em\nseu meio, apesar da dificuldade ou mesmo da ausência de fala60.",
+      "char_count": 3196
+    },
+    {
+      "number": "7.1.5",
+      "title": "Suporte multidisciplinar",
+      "depth": 3,
+      "content": "Alguns estudos comprovaram que há maior sobrevida de pessoas com ELA\ntratadas por uma equipe especializada quando comparadas com os pacientes tratados\npor uma equipe geral de reabilitação não especializada na área61.\n        Isto se deve ao fato de a equipe especializada compreender e promover a\nnecessária integração entre todas as áreas, mantendo o paciente, de forma ativa, no\ncentro de todas as decisões. Portanto, o suporte multidisciplinar especializado tem\nsido apontado como um dos principais fatores de melhoria de qualidade de vida,\nmelhora de saúde mental, funcionamento social e aumento da sobrevida dos\npacientes com diagnóstico de Esclerose Lateral Amiotrófica. Este acompanhamento\npode se dar no âmbito ambulatorial, na rede de atendimento de reabilitação oferecido\npelo SUS, ou em ambiente hospitalar, durante uma eventual internação do paciente,\nou ainda em ambiente domiciliar, no âmbito do Programa de Atendimento Domiciliar\n     U “            C ” 62.\n        Terapia de dignidade, uma forma de psicoterapia breve, parece reduzir\nsintomas de depressão e ansiedade tanto em pacientes com DNM assim como na sua\nfamília e cuidadores63.\n        A combinação de todas as intervenções terapêuticas não medicamentosas\npropostas pela equipe multidisciplinar especializada, somadas ao tratamento\nmedicamentoso, permitem uma visão do tratamento como um todo, integrado, o que,\npor sua vez, possibilita promover a alta hospitalar do paciente e melhorar a sua\nhabilidade para realizar as atividades de vida diária, garantindo-lhe maior autonomia,\nfuncionalidade e qualidade de vida, além de aumentar a sua sobrevida.\n        As emoções vividas se não forem faladas, ou seja, se não saírem pela boca,\nsairão pelo corpo, manifestando-se como sintomas ou manifestações psicossomáticas.\nAntes que isso venha acontecer, o apoio emocional tem a possibilidade de evitá-los.\nEssa é uma das razões de psicólogos fazerem parte de uma equipe multiprofissional,\ndando suporte psicológico não só ao paciente com ELA, mas também para a sua\nfamília, cuidador e para a própria equipe de saúde encarregada pelo atendimento e\n\nacompanhamento do paciente 64. A depressão tem uma correlação direta com a\nmortalidade de pacientes com ELA. Quanto mais grave, menor a sobrevida 65.",
+      "char_count": 2267
+    },
+    {
+      "number": "7.1.6",
+      "title": "Atendimento domiciliar",
+      "depth": 3,
+      "content": "C\n                            - -                                                    .\nEles                                                                       o para as\natividades tanto fora\n                 dado pelo                            -                           ,\nespecialmente por propiciar um custo menor e com melhores resultados\n                                   . A missão do atendimento domiciliar deve ser a\nmelhora da qualidade de vida, sobrevida, independência e autonomia e conforto\npsicológico.",
+      "char_count": 520
+    },
+    {
+      "number": "7.2",
+      "title": "Tratamento específico",
+      "depth": 2,
+      "content": "Várias terapias modificadoras da doença têm sido testadas em ensaios\nclínicos66–85, mas apenas um medicamento – o riluzol – comprovou-se eficaz, além de\nser o único tratamento específico registrado pela ANVISA até o momento 86–88.\n        Bensimon et al.89 publicaram o primeiro estudo duplo-cego randomizado\navaliando o papel do riluzol no tratamento da ELA. Após 573 dias, 58% dos pacientes\ndo grupo placebo estavam vivos, em contraste com 74% do grupo riluzol. O subgrupo\nmais beneficiado apresentava doença em nível bulbar na fase inicial, com um\naumento de sobrevida de aproximadamente 2-3 meses. Um estudo publicado dois\nanos mais tarde, envolvendo centros americanos e um número maior de pacientes,\nconfirmou esses achados90. Especula-se a respeito dos efeitos neuroprotetores do\nriluzol, porém, mais estudos são necessários para definir o caráter preventivo do\nfármaco91.\n        São contraindicações ao uso de riluzol neste PCDT:\n        - Insuficiência renal ou hepática;\n        - outra doença grave ou incapacitante, incurável ou potencialmente fatal;\n        - outras formas de doenças do corno anterior medular;\n        - demência, distúrbios visuais, autonômicos, esfincterianos;\n        - gravidez ou amamentação;\n        - ventilação assistida;\n        - hipersensibilidade ao medicamento.\n\n         A terapia celular ainda não possui comprovação de eficácia, tendo apenas\nquatro ensaios clínicos sobre o tema em andamento92. O lítio já se provou ineficaz na\nredução de progressão de ELA, segundo resultado de revisão sistemática93, embora\npossa haver resposta diferenciada favorecendo pacientes com ELA genótipo UNC13A,\nsegundo análises de subgrupo de três ECR94. Visto que essa hipótese ainda não foi\ndevidamente testada em estudo clínico randomizado, este PCDT não preconiza o uso\nde lítio para tratamento de ELA ou DNM.\n         Uma revisão sistemática da Cochrane que estudou o uso de moduladores\nGABA (e.g., gabapentina e baclofeno) concluiu que esses não são eficazes para\nredução da progressão da doença95.",
+      "char_count": 2031
+    },
+    {
+      "number": "7.2.1",
+      "title": "Fármaco",
+      "depth": 3,
+      "content": "Riluzol: comprimidos de 50 mg.",
+      "char_count": 30
+    },
+    {
+      "number": "7.2.2",
+      "title": "Esquema de administração",
+      "depth": 3,
+      "content": "01 comprimido de 50 mg, por via oral, a cada 12 horas, 1 hora antes ou 2 horas\napós as refeições.",
+      "char_count": 97
+    },
+    {
+      "number": "7.2.3",
+      "title": "Tempo de tratamento",
+      "depth": 3,
+      "content": "O tempo de tratamento não pode ser pré-determinado e depende da\ntolerabilidade do paciente ao medicamento.",
+      "char_count": 106
+    },
+    {
+      "number": "7.2.4",
+      "title": "Benefícios esperados66",
+      "depth": 3,
+      "content": "- Leve melhora de sintomas bulbares e da função dos membros;\n       - aumento da sobrevida.",
+      "char_count": 91
+    },
+    {
+      "number": "7.3",
+      "title": "Tratamento medicamentoso sintomático",
+      "depth": 2,
+      "content": "Na ausência de um tratamento curativo, as intervenções sintomáticas e\ncuidados de suporte permanecem a pedra angular do cuidado ao paciente com ELA.\nTodos os esforços devem ser feitos para melhorar-lhe a qualidade de vida e auxiliá-lo\na manter a autonomia durante todo o tempo possível. Nos estágios iniciais da ELA, o\nfoco se concentra na maximização da função, promovendo a independência e\ntratando os sintomas que se apresentem. Com a progressão da doença, o cuidador\ntambém deve receber atenção e tratamento. O envolvimento de equipe\nmultidisciplinar e a adoção de cuidados paliativos o mais precocemente possível são\ncruciais para se alcançar esses objetivos, melhorando os cuidados gerais, bem como\naumentando a sobrevida do paciente.\n        Numa doença progressiva e devastadora como a ELA, devem-se seguir os\nprincípios básicos do cuidado: paciente bem informado, respeito à autonomia,\ndisponibilizar equipe multidisciplinar, atenção ao tempo apropriado para decisões\nespeciais e manutenção da esperança.\n        O estadiamento clínico da doença torna-se importante nas tomadas de\ndecisões, inclusive quanto ao tratamento. Uma forma prática de realizá-la é utilizando\no estadiamento do King’s College96. Como a doença se inicia focal, numa determinada\nregião, e depois progride, pode-se estadiar segundo as regiões acometidas (Quadro\n1). Existe uma correlação entre a progressão da doença e a escala, podendo ser\ncalculado o tempo do início até chegar a cada estágio. Por exemplo, o uso de sonda\npara alimentação ocorreu após 27,3 meses e a ventilação não invasiva após 30,3\nmeses97. A escala também possibilita estimar a qualidade de vida dos pacientes à\nmedida que ela declina com progressão da doença. Por fim, a escala oferece a\npossibilidade de estimar o custo real da doença, que aumenta com a progressão da\ndoença.\n\n                    Quadro 1 - Escala de estadiamento do King’s College96\n\n          Estágio                       Definição\n        Estágio 1     Uma região funcionalmente acometida (sintoma\n                      inicial).\n\n        Estágio 2    Duas regiões funcionalmente acometidas.\n        Estágio 3    Três regiões funcionalmente acometidas.\n        Estágio 4    Qualquer dos estágios acima mais:\n                     necessidade de gastrostomia (4A);\n                     ventilação não invasiva (4B).\n        Estágio 5    Morte.\n\n\n        O atendimento multidisciplinar especializado prolonga a sobrevida de 7 a 24\nmeses98–100. Esse modelo de atendimento, tendo no centro o paciente e sua família,\nintegra médicos (neurologista, pneumologista e gastroenterologista) enfermeiros,\nnutricionistas, fisioterapeutas, terapeutas ocupacionais, psicólogos, fonoaudiólogos,\nassistentes sociais, com ação antecipatória e proativa, para obter os melhores\ncuidados. Na Tabela 3, encontram-se os medicamentos e outras medidas terapêuticas,\nconforme as situações apresentadas pelos pacientes, sem medicamentos ou\nintervenções não registrados pela ANVISA. Deve-se ressaltar que, para o alívio da\ndispneia, há notória escassez de evidências que suportem o uso de benzodiazepínicos\nconforme concluiu revisão sistemática da Cochrane101.\n\n               Tabela 3 - Medicamentos e outras medidas terapêuticas, conforme as situações apresentadas pelos pacientes.\n\nSituação       Medicamentos             Medicament       Outros tratamentos               Comentários\n               1ª linha                 os         2ª\n                                        linha\nFasciculações Carbamazepina     100-200 Clonazepam       -                              Ocorre na fase inicial da doença e raramente\n              mg 2x dia, VO.            0,5   a     2                                   incomoda. Não há necessidade de tratamento,\n                                        mg/dia, VO.                                     na maioria das vezes.\nEspasticidad                            Diazepam (5-     Fisioterapia e hidroterapia em Efeitos adversos dos medicamentos: fadiga e\ne (vide o                               10 mg/dia).      piscina aquecida (32 a 34 °C). náusea.\nPCDT       de\nespasticidad\ne102)\nSialorreia    Amitriptilina 25 a 75       Butilbrometo Aspirações.                        EA associado a anticolinérgico: sedação,\n              mg/dia, VO ou               de                                              obstipação, fadiga, impotência, retenção\n              Nortriptilina 10 a 100      escopolamin                                     urinária, visão turva, taquicardia, hipotensão\n              mg/dia, VO.                 a 10 mg                                         ortostática e tontura. Contraindicações:\n                                          6/6h, VO.                                       glaucoma, hipertrofia benigna da próstata ou\n                                                                                          distúrbios cardíacos de condução.\nLaringoespas   Ranitidina 150 mg 2x/dia, -               Mudança rápida da parte          Ocorre por fechamento súbito das cordas vocais\nmo             VO        Metoclopramida                  superior do corpo (sentado),     resultando em apneia, é curta duração e é\n               solução oral 4 mg/mL, 50                  respiração através do nariz,     seguido de pânico. Precipitantes: contato de\n               gotas, VO.                                engolir    repetidamente  e      líquido (saliva) na laringe, fumo, álcool, refluxo\n                                                         respirando lentamente, com       gástrico, alimentos picantes.\n                                                         expiração pela boca.\n\nSaliva                                 Cloridrato de     Umidificar o ar. Aumentar a A saliva espessa pode ser indicador de\nespessa/                               propranolol       ingesta de líquidos (incluindo, desidratação.\nsecreção                               10mg              sucos de mamão ou abacaxi) e\nbrônquica                              2xdia/VO.         reduzir cafeína, leite ou\n                                       Nebulizar         álcool).      Técnicas       de\n                                       com solução       empilhamento de ar.\n                                       salina      e\n                                       ipratrópio\n                                       0,25 mg/mL,\n                                       40 gotas 3 a\n                                       4x dia.\nDor           Dipirona, paracetamol ou Paracetamol       Massagem;      calor    local; Múltiplas causas (rigidez articular; pressão\n              ibuprofeno.              +     codeína.    movimentos           passivos; cutânea em única área; neuropática; cãibras).\n                                       Morfina.          mudança de decúbito. TENS.\n                                                         Cama hospitalar.\nLabilidade    Antidepressivos tricíclicos:               -                              EA dos ISRS: disfunção sexual, acatisia, distúrbio\nemocional     Amitriptilina         25-75                                               do sono e ansiedade.\n              mg/dia,       VO          ou\n              Nortriptilina       10-100\n              mg/dia, VO.\n              ISRS:\n              Fluoxetina 10-30 mg/dia,\n              VO.\nConstipação   Lactulose 15 a 30ml/dia, Supositório       Hidratação. Dieta rica em          Causas: mobilidade reduzida, redução da\n              VO.                          retal    de   fibras, frutas, vegetais.          ingesta de líquidos/alimentos, efeitos colaterais\n                                           glicerol      (por      exemplo,        mamão,   de medicamentos. EA da lactulona: distensão\n                                           72mg.         tamarindo, laranja, ameixa,        abdominal, diarreia, flatulência e náusea.\n                                           Enema    de   manga, folhas em geral).\n\n                                         glicerol 120 Remoção        manual      caso\n                                         mg/mL          impactação fecal (fecaloma).\n                                         solução retal.\n\n\n\nDepressão     Amitriptilina      25-75                 Suporte psicológico para o A escolha do antidepressivo será segundo os\n              mg/dia,       VO      ou                 paciente e sua família. Práticas sintomas associados.\n              Nortriptilina     10-100                 integrativas     como          a\n              mg/dia, VO ou                            meditação, massoterapia, por\n              Fluoxetina 10-30 mg/dia,                 exemplo.\n              VO.\nInsônia       Amitriptilina 12,5 a 75                  Cama hospitalar.   Colchão Comum. Causas: depressão, ansiedade,\n              mg/dia, VO.                              pneumático. VNI.            hipoventilação noturna, dificuldade de se mover\n                                                                                   na cama, dor.\nAnsiedade    Diazepam 2,5 a 10 mg Clonazepam     Psicoterapia.            Práticas Os benzodiazepínicos apresentam risco de\n             12/12 h, VO.           0,5-2mg,   à integrativas       como         a agravar a insuficiência respiratória, provocar\n                                    noite, VO.   meditação, massoterapia, por tolerância e sintomas de abstinência.\n                                                 exemplo.\n       103\nFadiga       -                      -            Fisioterapia motora.              Descartar causas secundárias: insuficiência\n                                                                                   respiratória, desnutrição, anemia, efeitos\n                                                                                   adversos de       medicamentos e          outras\n                                                                                   comorbidades.\nFrequência/u Amitriptilina  12,5-75 -            Evitar cafeína e álcool.          Não ocorre na fase inicial da doença. Alguns\nrgência      mg/dia, VO.                                                           pacientes precisam urinar a cada 1-2 horas. Para\nurinária.                                                                          pacientes com muita fraqueza, transferi-lo ao\n                                                                                   banheiro frequentemente pode ser difícil e\n                                                                                   demorado. Observar EA da oxibutinina e\n                                                                                   amitriptilina.\n\nSaúde bucal   Digliconato de clorexidina -   Escovação dos dentes e língua      Motivos para manter a saúde bucal: evitar ou\n              0,12%     solução    bucal     com escova macia. Utilizar         reduzir mau hálito, doenças na gengiva e\n              12/12h, nos pacientes em       raspador        de       língua,   pneumonia; maximizar o prazer associado a\n              ventilação        invasiva     especialmente      na     língua   mastigar alimentos e beber líquidos;\n              (traqueostomizados).           saburrosa. Substituir a escova     ajudar a gerenciar a saliva.\n                                             a cada 3-4 meses. Numa fase        Visitas regulares com o dentista.\n                                             da doença pode ser necessária\n                                             utilizar adaptadores na escova\n                                             (exemplo, os engrossadores de\n                                             cabo). Uso de fio dental.\n                                             Massagear as gengivas com\n                                             gaze umedecida em pacientes\n                                             que não mastigam. Umidificar\n                                             a boca durante o uso de VNI.\nEdema    nos -                           -   Elevação das pernas (cadeira       Evitar diuréticos. No edema assimétrico, pensar\npés                                          de rodas reclinável com            em TVP)\n                                             elevação das pernas acima do\n                                             nível do coração e cama\n                                             hospitalar).     Movimentação\n                                             passiva várias vezes ao dia.\nPrevenção     Fisioterapia, elevação das -   -                                  Não há trabalhos que demonstrem benefícios\nde TVP        pernas        e      meias                                        com uso de anticoagulação para prevenção de\n              compressivas.                                                     TVP.\nTratamento    Morfina (2,5 a 5,0 mg a -      Considerar, com a família,\nda fase final cada 4h) e clorpromazina       internamento hospitalar ou\nde vida em para dispneia.                    não.\nELA           Midazolam             para\n              ansiedade.\n\n               Analgésicos para dor.\n               Oxigênio para hypoxemia.\n\n\n\nVO: por via oral. ISRS: inibidores seletivos da recaptação da serotonina. EA: efeitos adversos. AINE: anti-inflamatório não esteroidal. TENS:\nestimulação elétrica nervosa transcutânea. VNI: ventilação noturna não invasiva. TVP: trombose venosa profunda.",
+      "char_count": 13410
+    },
+    {
+      "number": "8",
+      "title": "MONITORAMENTO",
+      "depth": 1,
+      "content": "O acompanhamento em longo prazo deverá ser realizado por\nneurologista104,105. Os seguintes exames devem ser realizados: hemograma, plaquetas\ne enzimas hepáticas antes de se iniciar o tratamento, no primeiro, no segundo, nos\n3º, 6º, 9º e 12º meses e, após, quando indicado(s).\n        Os pacientes devem ser reavaliados a cada 3 ou 4 meses ou conforme\norientação médica. O riluzol deve ser administrado até que o paciente não mais o\ntolere ou o momento em que necessitar de uso de ventilação mecânica 86. Cabe\nsalientar que o efeito nocebo é frequente nos pacientes com DNM, haja vista a\nelevada incidência de efeitos adversos nos grupos placebo conforme resultado de\nmeta-análise de ECR: 78,3% (IS-95%: 74,3% a 82,0%)106.",
+      "char_count": 721
+    },
+    {
+      "number": "8.1",
+      "title": "Critérios para suspensão do tratamento",
+      "depth": 2,
+      "content": "- Quando a dosagem de aminotransferase/transaminase estiver cinco vezes\nacima do limite superior da normalidade107;\n        - Quando ocorrer citotopenia: leucócitos totais abaixo de 3.000/mm3,\nneutrófilos abaixo de 1.500/mm3, plaquetas abaixo de 100.000/mm3 ou hemoglobina\ninferior a 10 g/dL107.",
+      "char_count": 295
+    },
+    {
+      "number": "9",
+      "title": "REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste\nProtocolo, a duração e a monitorização do tratamento, bem como a verificação\nperiódica das doses prescritas e dispensadas, da adequação de uso do medicamento e\ndo acompanhamento pós-tratamento.\n        Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente\nem qual componente da Assistência Farmacêutica se encontram os medicamento\npreconizados neste Protocolo.\n        Devido as peculiaridades da doença, pacientes com ELA devem ter uma\ncarteirinha pessoal contendo informações relevantes quanto aos cuidados que devem\nser oferecidos em procedimentos em Salas de Emergência ou em procedimentos\ncirúrgicos. Bloqueadores neuromusculares despolarizantes, como halotano e\nsuccinilcolina, são contra-indicados em pacientes com ELA por causa do risco de\nliberação intensa de potássio 108.",
+      "char_count": 878
+    },
+    {
+      "number": "10",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Marin B, Boumédiene F, Logroscino G, et al. Variation in worldwide incidence of",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis: a meta-analysis. Int J Epidemiol 2017;46(1):57–74.",
+      "char_count": 81
+    },
+    {
+      "number": "2",
+      "title": "Chancellor AM, Warlow CP. Adult onset motor neuron disease: worldwide",
+      "depth": 1,
+      "content": "mortality, incidence and distribution since 1950. J Neurol Neurosurg Psychiatry\n      1992;55(12):1106–15.",
+      "char_count": 106
+    },
+    {
+      "number": "3",
+      "title": "Cronin S, Hardiman O, Traynor BJ. Ethnic variation in the incidence of ALS: a",
+      "depth": 1,
+      "content": "systematic review. Neurology 2007;68(13):1002–7.",
+      "char_count": 48
+    },
+    {
+      "number": "4",
+      "title": "Phukan J, Hardiman O. The management of amyotrophic lateral sclerosis. J",
+      "depth": 1,
+      "content": "Neurol 2009;256(2):176–86.",
+      "char_count": 26
+    },
+    {
+      "number": "5",
+      "title": "Mitchell JD, Borasio GD. Amyotrophic lateral sclerosis. Lancet",
+      "depth": 1,
+      "content": "2007;369(9578):2031–41.",
+      "char_count": 23
+    },
+    {
+      "number": "6",
+      "title": "Oliveira ASB, Pereira RDB. Amyotrophic lateral sclerosis (ALS): three letters that",
+      "depth": 1,
+      "content": "’      F                              2 9 67 3 7 –82.",
+      "char_count": 53
+    },
+    {
+      "number": "7",
+      "title": "Mitsumoto H, Rabkin JG. Palliative care for patients with amyotrophic lateral",
+      "depth": 1,
+      "content": "“                w                             ”J      2 7 298 2 2 7–\n      16.",
+      "char_count": 79
+    },
+    {
+      "number": "8",
+      "title": "Andersen PM. Amyotrophic lateral sclerosis associated with mutations in the",
+      "depth": 1,
+      "content": "CuZn superoxide dismutase gene. Curr Neurol Neurosci Rep 2006;6(1):37–46.",
+      "char_count": 73
+    },
+    {
+      "number": "9",
+      "title": "Zou Z-Y, Zhou Z-R, Che C-H, Liu C-Y, He R-L, Huang H-P. Genetic epidemiology of",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis: a systematic review and meta-analysis. J Neurol\n      Neurosurg Psychiatry 2017;88(7):540–9.",
+      "char_count": 123
+    },
+    {
+      "number": "10",
+      "title": "Riviere M, Meininger V, Zeisser P, Munsat T. An analysis of extended survival in",
+      "depth": 1,
+      "content": "patients with amyotrophic lateral sclerosis treated with riluzole. Arch Neurol\n      1998;55(4):526–8.\n11.   Hayashi H, Oppenheimer EA. ALS patients on TPPV: totally locked-in state,\n      neurologic findings and ethical implications. Neurology 2003;61(1):135–7.",
+      "char_count": 262
+    },
+    {
+      "number": "12",
+      "title": "Kiernan MC, Vucic S, Cheah BC, et al. Amyotrophic lateral sclerosis. Lancet",
+      "depth": 1,
+      "content": "2011;377(9769):942–55.",
+      "char_count": 22
+    },
+    {
+      "number": "13",
+      "title": "Couratier P, Corcia P, Lautrette G, Nicol M, Marin B. ALS and frontotemporal",
+      "depth": 1,
+      "content": "dementia belong to a common disease spectrum. Rev Neurol (Paris)\n      2017;173(5):273–9.",
+      "char_count": 89
+    },
+    {
+      "number": "14",
+      "title": "Wilbourn AJ. Clinical neurophysiology in the diagnosis of amyotrophic lateral",
+      "depth": 1,
+      "content": "sclerosis: the Lambert and the El Escorial criteria. J Neurol Sci 1998;160 Suppl\n      1:S25-29.",
+      "char_count": 96
+    },
+    {
+      "number": "15",
+      "title": "Meininger V. Getting the diagnosis right: beyond El Escorial. J Neurol 1999;246",
+      "depth": 1,
+      "content": "Suppl 3:III10-12.",
+      "char_count": 17
+    },
+    {
+      "number": "16",
+      "title": "Chiò A. ISIS Survey: an international study on the diagnostic process and its",
+      "depth": 1,
+      "content": "implications in amyotrophic lateral sclerosis. J Neurol 1999;246 Suppl 3:III1-5.",
+      "char_count": 80
+    },
+    {
+      "number": "17",
+      "title": "Brooks BR, Miller RG, Swash M, Munsat TL, World Federation of Neurology",
+      "depth": 1,
+      "content": "Research Group on Motor Neuron Diseases. El Escorial revisited: revised criteria\n      for the diagnosis of amyotrophic lateral sclerosis. Amyotroph Lateral Scler Other\n      Motor Neuron Disord 2000;1(5):293–9.",
+      "char_count": 211
+    },
+    {
+      "number": "18",
+      "title": "Andersen PM, Abrahams S, Borasio GD, et al. EFNS guidelines on the Clinical",
+      "depth": 1,
+      "content": "Management of Amyotrophic Lateral Sclerosis (MALS) – revised report of an\n      EFNS task force. European Journal of Neurology 2012;19(3):360–75.",
+      "char_count": 145
+    },
+    {
+      "number": "19",
+      "title": "Baek WS, Desai NP. ALS: pitfalls in the diagnosis. Pract Neurol 2007;7(2):74–81.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "20",
+      "title": "Da Silva ANR, Pereira GRC, Moreira LGA, Rocha CF, De Mesquita JF. SOD1 in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis development - in silico analysis and molecular\n      dynamics of A4F and A4V variants. J Cell Biochem 2019;120(10):17822–30.",
+      "char_count": 154
+    },
+    {
+      "number": "21",
+      "title": "Swash M, Desai J. Motor neuron disease: classification and nomenclature.",
+      "depth": 1,
+      "content": "Amyotroph Lateral Scler Other Motor Neuron Disord 2000;1(2):105–12.",
+      "char_count": 67
+    },
+    {
+      "number": "22",
+      "title": "Piepers S, van den Berg J-P, Kalmijn S, et al. Effect of non-invasive ventilation on",
+      "depth": 1,
+      "content": "survival, quality of life, respiratory function and cognition: a review of the\n      literature. Amyotroph Lateral Scler 2006;7(4):195–200.",
+      "char_count": 139
+    },
+    {
+      "number": "23",
+      "title": "Eidenberger M, Nowotny S. Inspiratory muscle training in patients with",
+      "depth": 1,
+      "content": "Amyotrophic Lateral Sclerosis: A systematic review. NeuroRehabilitation\n      2014;35(3):349–61.",
+      "char_count": 96
+    },
+    {
+      "number": "24",
+      "title": "Payne C, Wiffen PJ, Martin S. Interventions for fatigue and weight loss in adults",
+      "depth": 1,
+      "content": "with advanced progressive illness. Cochrane Database Syst Rev\n      2012;1:CD008427.",
+      "char_count": 84
+    },
+    {
+      "number": "25",
+      "title": "Marchetti M, Priftis K. Brain-computer interfaces in amyotrophic lateral",
+      "depth": 1,
+      "content": "sclerosis: A metanalysis. Clin Neurophysiol 2015;126(6):1255–63.",
+      "char_count": 64
+    },
+    {
+      "number": "26",
+      "title": "Guo J, Zhou M, Yang M, Zhu C, He L. Repetitive transcranial magnetic stimulation",
+      "depth": 1,
+      "content": "for the treatment of amyotrophic lateral sclerosis or motor neuron disease.\n      Cochrane Database Syst Rev 2011;(9):CD008554.",
+      "char_count": 127
+    },
+    {
+      "number": "27",
+      "title": "Pastula DM, Moore DH, Bedlack RS. Creatine for amyotrophic lateral",
+      "depth": 1,
+      "content": "sclerosis/motor     neuron      disease.    Cochrane       Database      Syst   Rev\n      2010;(6):CD005225.",
+      "char_count": 108
+    },
+    {
+      "number": "28",
+      "title": "Radunovic A, Annane D, Rafiq M, Brassington R, Mustfa N. Mechanical",
+      "depth": 1,
+      "content": "ventilation for amyotrophic lateral sclerosis/motor neuron disease. Cochrane\n      Database of Systematic Reviews [Internet] 2017;(10). Available from:\n      http://dx.doi.org/10.1002/14651858.CD004427.pub4",
+      "char_count": 206
+    },
+    {
+      "number": "29",
+      "title": "Jackson C., De Carvalho M., Genge A., Heiman-Patterson T., Shefner J.",
+      "depth": 1,
+      "content": "Correlations between slow vital capacity and measures of respiratory function\n      on the ALSFRS-R. Amyotrophic Lateral Scler Frontotemporal Degener\n      2017;18((Jackson C., jacksonce@uthscsa.edu) University of Texas Health Science\n      Center, San Antonio, TX, United States):275–6.",
+      "char_count": 287
+    },
+    {
+      "number": "30",
+      "title": "Sarmento A, Resqueti V, Dourado-Júnior M, et al. Effects of Air Stacking",
+      "depth": 1,
+      "content": "Maneuver on Cough Peak Flow and Chest Wall Compartmental Volumes of\n      Subjects With Amyotrophic Lateral Sclerosis. Archives of Physical Medicine and\n      Rehabilitation 2017;98(11):2237-2246.e1.",
+      "char_count": 199
+    },
+    {
+      "number": "31",
+      "title": "Miller RG, Rosenberg JA, Gelinas DF, et al. Practice parameter: the care of the",
+      "depth": 1,
+      "content": "patient with amyotrophic lateral sclerosis (an evidence-based review): report of\n      the Quality Standards Subcommittee of the American Academy of Neurology:\n      ALS Practice Parameters Task Force. Neurology 1999;52(7):1311–23.",
+      "char_count": 231
+    },
+    {
+      "number": "32",
+      "title": "American Thoracic Society/European Respiratory Society. ATS/ERS Statement on",
+      "depth": 1,
+      "content": "respiratory muscle testing. Am J Respir Crit Care Med 2002;166(4):518–624.\n33.   Ministério da Saúde [Internet]. [cited 2019 Sep 6];Available from:\n      http://bvsms.saude.gov.br/bvs/saudelegis/sas/2008/prt0370_04_07_2008.html",
+      "char_count": 227
+    },
+    {
+      "number": "34",
+      "title": "Bach JR, Gonçalves MR, Hamdani I, Winck JC. Extubation of patients with",
+      "depth": 1,
+      "content": "neuromuscular weakness: a new management paradigm. Chest\n      2010;137(5):1033–9.",
+      "char_count": 82
+    },
+    {
+      "number": "35",
+      "title": "Jawaid A, Murthy SB, Wilson AM, et al. A decrease in body mass index is",
+      "depth": 1,
+      "content": "associated with faster progression of motor symptoms and shorter survival in\n      ALS. Amyotroph Lateral Scler 2010;11(6):542–8.",
+      "char_count": 129
+    },
+    {
+      "number": "36",
+      "title": "Marin B, Desport JC, Kajeu P, et al. Alteration of nutritional status at diagnosis is",
+      "depth": 1,
+      "content": "a prognostic factor for survival of amyotrophic lateral sclerosis patients. J Neurol\n      Neurosurg Psychiatry 2011;82(6):628–34.",
+      "char_count": 130
+    },
+    {
+      "number": "37",
+      "title": "Gubbay SS, Kahana E, Zilber N, Cooper G, Pintov S, Leibowitz Y. Amyotrophic",
+      "depth": 1,
+      "content": "lateral sclerosis. A study of its presentation and prognosis. J Neurol\n      1985;232(5):295–300.\n38.   Mitsumoto H, Chad DA, Pioro EP. Amyotrophic lateral sclerosis. Philadelphia:\n      Davis; 1998.",
+      "char_count": 199
+    },
+    {
+      "number": "39",
+      "title": "Calia L, Annes M. Afecções neurológicas periféricas. In: Reabilitação em doenças",
+      "depth": 1,
+      "content": "neurológicas: guia terapêutico prático. São Paulo: Atheneu; 2003.",
+      "char_count": 65
+    },
+    {
+      "number": "40",
+      "title": "Strijbos D., Keszthelyi D., Bogie R.M.M., et al. A Systematic Review and Meta-",
+      "depth": 1,
+      "content": "Analysis on Outcomes and Complications of Percutaneous Endoscopic Versus\n      Radiologic Gastrostomy for Enteral Feeding. J Clin Gastroenterol\n      2018;52(9):753–64.",
+      "char_count": 168
+    },
+    {
+      "number": "41",
+      "title": "Burgos R, Bretón I, Cereda E, et al. ESPEN guideline clinical nutrition in",
+      "depth": 1,
+      "content": "neurology. Clin Nutr 2018;37(1):354–96.",
+      "char_count": 39
+    },
+    {
+      "number": "42",
+      "title": "Chiò A, Finocchiaro E, Meineri P, Bottacchi E, Schiffer D. Safety and factors",
+      "depth": 1,
+      "content": "related to survival after percutaneous endoscopic gastrostomy in ALS. ALS\n      Percutaneous       Endoscopic      Gastrostomy     Study     Group.     Neurology\n      1999;53(5):1123–5.",
+      "char_count": 186
+    },
+    {
+      "number": "43",
+      "title": "Silani V. Nutrition in ALS. European ALS Health profile study 2000;9:1–3.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "44",
+      "title": "Mathus-Vliegen LM, Louwerse LS, Merkus MP, Tytgat GN, Vianney de Jong JM.",
+      "depth": 1,
+      "content": "Percutaneous endoscopic gastrostomy in patients with amyotrophic lateral\n      sclerosis and impaired pulmonary function. Gastrointest Endosc\n      1994;40(4):463–9.",
+      "char_count": 165
+    },
+    {
+      "number": "45",
+      "title": "Albert SM, Murphy PL, Del Bene M, Rowland LP, Mitsumoto H. Incidence and",
+      "depth": 1,
+      "content": "predictors of PEG placement in ALS/MND. J Neurol Sci 2001;191(1–2):115–9.",
+      "char_count": 73
+    },
+    {
+      "number": "46",
+      "title": "Mitsumoto H, Davidson M, Moore D, et al. Percutaneous endoscopic",
+      "depth": 1,
+      "content": "gastrostomy (PEG) in patients with ALS and bulbar dysfunction. Amyotroph\n      Lateral Scler Other Motor Neuron Disord 2003;4(3):177–85.",
+      "char_count": 136
+    },
+    {
+      "number": "47",
+      "title": "Banfi P, Volpato E, Valota C, et al. Use of Noninvasive Ventilation During Feeding",
+      "depth": 1,
+      "content": "Tube Placement. Respir Care 2017;62(11):1474–84.",
+      "char_count": 48
+    },
+    {
+      "number": "48",
+      "title": "ProGas Study Group. Gastrostomy in patients with amyotrophic lateral sclerosis",
+      "depth": 1,
+      "content": "(ProGas): a prospective cohort study. Lancet Neurol 2015;14(7):702–9.",
+      "char_count": 69
+    },
+    {
+      "number": "49",
+      "title": "Dorst J, Dupuis L, Petri S, et al. Percutaneous endoscopic gastrostomy in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis: a prospective observational study. J Neurol\n      2015;262(4):849–58.",
+      "char_count": 100
+    },
+    {
+      "number": "50",
+      "title": "Spataro R, Ficano L, Piccoli F, La Bella V. Percutaneous endoscopic gastrostomy",
+      "depth": 1,
+      "content": "in amyotrophic lateral sclerosis: effect on survival. J Neurol Sci 2011;304(1–\n      2):44–8.",
+      "char_count": 93
+    },
+    {
+      "number": "51",
+      "title": "Langmore SE, Kasarskis EJ, Manca ML, Olney RK. Enteral tube feeding for",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis/motor neuron disease. Cochrane Database Syst\n      Rev 2006;(4):CD004030.",
+      "char_count": 103
+    },
+    {
+      "number": "52",
+      "title": "Miller RG, Rosenberg JA, Gelinas DF, et al. Practice parameter: The care of the",
+      "depth": 1,
+      "content": "patient with amyotrophic lateral sclerosis (An evidence-based review). Muscle\n      Nerve 1999;22(8):1104–18.",
+      "char_count": 109
+    },
+    {
+      "number": "53",
+      "title": "Oda AL. Intervenção Fonoaudiológica nas Disfagias Orofaríngeas nas Doenças",
+      "depth": 1,
+      "content": "Neuromusculares. In: Reabilitação em Doenças Neuromusculares (Guia\n      Terapêutico). São Paulo, SP: Atheneu Ltda;",
+      "char_count": 115
+    },
+    {
+      "number": "54",
+      "title": "Makkonen T, Ruottinen H, Puhto R, Helminen M, Palmio J. Speech deterioration",
+      "depth": 1,
+      "content": "in amyotrophic lateral sclerosis (ALS) after manifestation of bulbar symptoms.\n      International Journal of Language & Communication Disorders 2018;53(2):385–\n      92.",
+      "char_count": 170
+    },
+    {
+      "number": "55",
+      "title": "Beukelman D, Fager S, Nordness A. Communication Support for People with ALS.",
+      "depth": 1,
+      "content": "Neurology Research International 2011;2011:1–6.",
+      "char_count": 47
+    },
+    {
+      "number": "56",
+      "title": "Neto LL, Constantini AC, Chun RYS. Communication vulnerable in patients with",
+      "depth": 1,
+      "content": "Amyotrophic Lateral Sclerosis: A systematic review. NRE 2017;40(4):561–8.",
+      "char_count": 73
+    },
+    {
+      "number": "57",
+      "title": "Londral A, Pinto A, Pinto S, Azevedo L, De Carvalho M. Quality of life in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis patients and caregivers: Impact of assistive\n      communication from early stages: Communication and QoL in ALS. Muscle\n      Nerve 2015;52(6):933–41.",
+      "char_count": 181
+    },
+    {
+      "number": "58",
+      "title": "McNaughton D, Giambalvo F, Kohler K, Nazareth G, Caron J, Fager S.",
+      "depth": 1,
+      "content": "“                                 C                   C W         Y      V    ”\n      Key Practices in AAC Assessment and Intervention as Described by Persons with\n      Amyotrophic Lateral Sclerosis. Semin Speech Lang 2018;39(5):399–415.",
+      "char_count": 238
+    },
+    {
+      "number": "59",
+      "title": "Mccluskey L. Ethical issues in states of impaired communication with intact",
+      "depth": 1,
+      "content": "consciousness and language. In: Bernat JL, Beresford RH, editors. Ethical and\n      legal issues in neurology. Edinburgh: Elsevier; 2013.",
+      "char_count": 137
+    },
+    {
+      "number": "60",
+      "title": "Pattee GL, Plowman EK, (Focht) Garand KL, et al. Provisional best practices",
+      "depth": 1,
+      "content": "guidelines for the evaluation of bulbar dysfunction in amyotrophic lateral\n      sclerosis. Muscle Nerve 2019;59(5):531–6.",
+      "char_count": 122
+    },
+    {
+      "number": "61",
+      "title": "Lavernhe S, Antoine J-C, Court-Fortune I, et al. Home care organization impacts",
+      "depth": 1,
+      "content": "patient management and survival in ALS. Amyotrophic Lateral Sclerosis and\n      Frontotemporal Degeneration 2017;18(7–8):562–8.",
+      "char_count": 127
+    },
+    {
+      "number": "62",
+      "title": "Amaral N, Cunha M, Labronici R, Oliveira A, Gabbai A. Assistência Domiciliar à",
+      "depth": 1,
+      "content": "Saúde (Home Health Care): sua História e sua Relevância para o Sistema de\n      Saúde Atual. Rev Neurociências 2001;9(3):111–7.",
+      "char_count": 127
+    },
+    {
+      "number": "63",
+      "title": "Martínez García M., Belar A., Arantzamendi M., Carrasco J.M., Centeno C.",
+      "depth": 1,
+      "content": "Dignity therapy in palliative care: A comprehensive systematic review of the\n      literature. Palliative Med 2016;30(6):NP209.",
+      "char_count": 127
+    },
+    {
+      "number": "64",
+      "title": "Abreu-Filho A, Oliveira A, Silva H. PSYCHOLOGY AND SOCIAL ASPECTS OF",
+      "depth": 1,
+      "content": "AMYOTROPHIC LATERAL SCLEROSIS: REVIEW. Psic, Saúde & Doenças\n      2019;20(1):88–100.",
+      "char_count": 85
+    },
+    {
+      "number": "65",
+      "title": "Thakore NJ, Pioro EP. Depression in ALS in a large self-reporting cohort.",
+      "depth": 1,
+      "content": "Neurology 2016;86(11):1031–8.",
+      "char_count": 29
+    },
+    {
+      "number": "66",
+      "title": "Miller RG, Mitchell JD, Moore DH. Riluzole for amyotrophic lateral sclerosis",
+      "depth": 1,
+      "content": "(ALS)/motor neuron disease (MND). Cochrane Database Syst Rev\n      2012;(3):CD001447.",
+      "char_count": 85
+    },
+    {
+      "number": "67",
+      "title": "Mitchell JD, Wokke JH, Borasio GD. Recombinant human insulin-like growth",
+      "depth": 1,
+      "content": "factor I (rhIGF-I) for amyotrophic lateral sclerosis/motor neuron disease.\n      Cochrane Database Syst Rev 2002;(3):CD002064.",
+      "char_count": 126
+    },
+    {
+      "number": "68",
+      "title": "Bongioanni P, Reali C, Sogos V. Ciliary neurotrophic factor (CNTF) for",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis/motor neuron disease. Cochrane Database Syst\n      Rev 2004;(3):CD004302.",
+      "char_count": 103
+    },
+    {
+      "number": "69",
+      "title": "A controlled trial of recombinant methionyl human BDNF in ALS: The BDNF",
+      "depth": 1,
+      "content": "Study Group (Phase III). Neurology 1999;52(7):1427–33.",
+      "char_count": 54
+    },
+    {
+      "number": "70",
+      "title": "Ochs G, Penn RD, York M, et al. A phase I/II trial of recombinant methionyl",
+      "depth": 1,
+      "content": "human brain derived neurotrophic factor administered by intrathecal infusion to\n      patients with amyotrophic lateral sclerosis. Amyotroph Lateral Scler Other\n      Motor Neuron Disord 2000;1(3):201–6.",
+      "char_count": 203
+    },
+    {
+      "number": "71",
+      "title": "Meininger V, Bensimon G, Bradley WR, et al. Efficacy and safety of xaliproden in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis: results of two phase III trials. Amyotroph Lateral\n      Scler Other Motor Neuron Disord 2004;5(2):107–17.\n72.   de Paulis T. ONO-2506. Ono. Curr Opin Investig Drugs 2003;4(7):863–7.",
+      "char_count": 213
+    },
+    {
+      "number": "73",
+      "title": "Gordon PH, Moore DH, Gelinas DF, et al. Placebo-controlled phase I/II studies of",
+      "depth": 1,
+      "content": "minocycline in amyotrophic lateral sclerosis. Neurology 2004;62(10):1845–7.",
+      "char_count": 75
+    },
+    {
+      "number": "74",
+      "title": "Pontieri FE, Ricci A, Pellicano C, Benincasa D, Buttarelli FR. Minocycline in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis: a pilot study. Neurol Sci 2005;26(4):285–7.",
+      "char_count": 74
+    },
+    {
+      "number": "75",
+      "title": "Ryberg H, Askmark H, Persson LI. A double-blind randomized clinical trial in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis using lamotrigine: effects on CSF glutamate,\n      aspartate, branched-chain amino acid levels and clinical parameters. Acta\n      Neurol Scand 2003;108(1):1–8.",
+      "char_count": 190
+    },
+    {
+      "number": "76",
+      "title": "Gordon PH, Doorish C, Montes J, et al. Randomized controlled phase II trial of",
+      "depth": 1,
+      "content": "glatiramer acetate in ALS. Neurology 2006;66(7):1117–9.",
+      "char_count": 55
+    },
+    {
+      "number": "77",
+      "title": "Orrell RW. AEOL-10150 (Aeolus). Curr Opin Investig Drugs 2006;7(1):70–80.",
+      "depth": 1,
+      "content": "78.   Meininger V, Asselain B, Guillet P, et al. Pentoxifylline in ALS: a double-blind,\n      randomized, multicenter, placebo-controlled trial. Neurology 2006;66(1):88–92.",
+      "char_count": 172
+    },
+    {
+      "number": "79",
+      "title": "Groeneveld GJ, Veldink JH, van der Tweel I, et al. A randomized sequential trial",
+      "depth": 1,
+      "content": "of creatine in amyotrophic lateral sclerosis. Ann Neurol 2003;53(4):437–45.",
+      "char_count": 75
+    },
+    {
+      "number": "80",
+      "title": "Desnuelle C, Dib M, Garrel C, Favier A. A double-blind, placebo-controlled",
+      "depth": 1,
+      "content": "randomized clinical trial of alpha-tocopherol (vitamin E) in the treatment of\n      amyotrophic lateral sclerosis. ALS riluzole-tocopherol Study Group. Amyotroph\n      Lateral Scler Other Motor Neuron Disord 2001;2(1):9–18.",
+      "char_count": 223
+    },
+    {
+      "number": "81",
+      "title": "Cudkowicz ME, Shefner JM, Schoenfeld DA, et al. A randomized, placebo-",
+      "depth": 1,
+      "content": "controlled trial of topiramate in amyotrophic lateral sclerosis. Neurology\n      2003;61(4):456–64.",
+      "char_count": 99
+    },
+    {
+      "number": "82",
+      "title": "Miller RG, Moore DH, Gelinas DF, et al. Phase III randomized trial of gabapentin",
+      "depth": 1,
+      "content": "in patients with amyotrophic lateral sclerosis. Neurology 2001;56(7):843–8.",
+      "char_count": 75
+    },
+    {
+      "number": "83",
+      "title": "Beghi E, Chiò A, Inghilleri M, et al. A randomized controlled trial of recombinant",
+      "depth": 1,
+      "content": "interferon beta-1a in ALS. Italian Amyotrophic Lateral Sclerosis Study Group.\n      Neurology 2000;54(2):469–74.",
+      "char_count": 112
+    },
+    {
+      "number": "84",
+      "title": "Beauverd M, Mitchell JD, Wokke JHJ, Borasio GD. Recombinant human insulin-",
+      "depth": 1,
+      "content": "like growth factor I (rhIGF-I) for the treatment of amyotrophic lateral\n      sclerosis/motor     neuron      disease.     Cochrane      Database     Syst   Rev\n      2012;11:CD002064.",
+      "char_count": 184
+    },
+    {
+      "number": "85",
+      "title": "Cudkowicz ME, van den Berg LH, Shefner JM, et al. Dexpramipexole versus",
+      "depth": 1,
+      "content": "placebo for patients with amyotrophic lateral sclerosis (EMPOWER): a\n      randomised, double-blind, phase 3 trial. Lancet Neurol 2013;12(11):1059–67.",
+      "char_count": 150
+    },
+    {
+      "number": "86",
+      "title": "Morren JA, Galvez-Jimenez N. Current and prospective disease-modifying",
+      "depth": 1,
+      "content": "therapies for amyotrophic lateral sclerosis. Expert Opin Investig Drugs\n      2012;21(3):297–320.",
+      "char_count": 97
+    },
+    {
+      "number": "87",
+      "title": "Disease-modifying treatment of amyotrophic lateral sclerosis - UpToDate",
+      "depth": 1,
+      "content": "[Internet].        [cited         2018         Jul        8];Available       from:\n      https://www.uptodate.com/contents/disease-modifying-treatment-of-\n      amyotrophic-lateral-\n      sclerosis?search=Disease%20modifying%20treatment%20of%20amyotrophic%2\n\n     0lateral%20sclerosis&source=search_result&selectedTitle=1~150&usage_type=\n     default&display_rank=1",
+      "char_count": 365
+    },
+    {
+      "number": "88",
+      "title": "Consultas - Agência Nacional de Vigilância Sanitária [Internet]. [cited 2018 Jul",
+      "depth": 1,
+      "content": "9];Available from: https://consultas.anvisa.gov.br/#/medicamentos/",
+      "char_count": 66
+    },
+    {
+      "number": "89",
+      "title": "Bensimon G, Lacomblez L, Meininger V. A controlled trial of riluzole in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis. ALS/Riluzole Study Group. N Engl J Med\n     1994;330(9):585–91.",
+      "char_count": 94
+    },
+    {
+      "number": "90",
+      "title": "Lacomblez L, Bensimon G, Leigh PN, Guillet P, Meininger V. Dose-ranging study",
+      "depth": 1,
+      "content": "of riluzole in amyotrophic lateral sclerosis. Amyotrophic Lateral\n     Sclerosis/Riluzole Study Group II. Lancet 1996;347(9013):1425–31.",
+      "char_count": 136
+    },
+    {
+      "number": "91",
+      "title": "Liu J, Wang L-N. The efficacy and safety of riluzole for neurodegenerative",
+      "depth": 1,
+      "content": "movement disorders: a systematic review with meta-analysis. Drug Deliv\n     2018;25(1):43–8.",
+      "char_count": 92
+    },
+    {
+      "number": "92",
+      "title": "Abdul Wahid SF, Law ZK, Ismail NA, Azman Ali R, Lai NM. Cell-based therapies for",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis/motor neuron disease. Cochrane Database Syst\n     Rev 2016;11:CD011742.",
+      "char_count": 101
+    },
+    {
+      "number": "93",
+      "title": "Gamez J, Salvado M, Martinez de la Ossa A, Badia M. Lithium for treatment of",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis: much ado about nothing. Neurologia\n     2016;31(8):550–61.\n94. van Eijk RPA, Jones AR, Sproviero W, et al. Meta-analysis of pharmacogenetic\n     interactions in amyotrophic lateral sclerosis clinical trials. Neurology\n     2017;89(18):1915–22.\n95.                  R                    ’                   R              H\n     aminobutyric acid (GABA) modulators for amyotrophic lateral sclerosis/motor\n     neuron disease. Cochrane Database Syst Rev 2017;1:CD006049.",
+      "char_count": 499
+    },
+    {
+      "number": "96",
+      "title": "Roche JC, Rojas-Garcia R, Scott KM, et al. A proposed staging system for",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis. Brain 2012;135(3):847–52.",
+      "char_count": 56
+    },
+    {
+      "number": "97",
+      "title": "Corcia P, Beltran S, Lautrette G, Bakkouche S, Couratier P. Staging amyotrophic",
+      "depth": 1,
+      "content": "lateral sclerosis: A new focus on progression. Rev Neurol (Paris)\n     2019;175(5):277–82.",
+      "char_count": 90
+    },
+    {
+      "number": "98",
+      "title": "Rooney J, Byrne S, Heverin M, et al. A multidisciplinary clinic approach improves",
+      "depth": 1,
+      "content": "survival in ALS: a comparative study of ALS in Ireland and Northern Ireland.\n     Journal of Neurology, Neurosurgery & Psychiatry 2015;86(5):496–501.",
+      "char_count": 149
+    },
+    {
+      "number": "99",
+      "title": "Traynor BJ. Effect of a multidisciplinary amyotrophic lateral sclerosis (ALS) clinic",
+      "depth": 1,
+      "content": "on ALS survival: a population based study, 1996-2000. Journal of Neurology,\n     Neurosurgery & Psychiatry 2003;74(9):1258–61.\n100. Hogden A, Foley G, Henderson R, James N, Aoun S. Amyotrophic lateral sclerosis:\n     improving care with a multidisciplinary approach. JMDH 2017;Volume 10:205–\n     15.",
+      "char_count": 300
+    },
+    {
+      "number": "101",
+      "title": "Simon S.T., Higginson I.J., Booth S., Harding R., Weingärtner V., Bausewein C.",
+      "depth": 1,
+      "content": "Benzodiazepines for the relief of breathlessness in advanced malignant and non-\n     malignant diseases in adults. Cochrane Database Syst Rev [Internet]\n     2016;2016(10).                            Available                           from:\n     http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n     d=L612808856",
+      "char_count": 336
+    },
+    {
+      "number": "102",
+      "title": "Protocolo Clínico e Diretrizes Terapêuticas: Espasticidade. [Internet]. [cited 2018",
+      "depth": 1,
+      "content": "Jul                               9];Available                                from:\n\n       http://portalarquivos2.saude.gov.br/images/pdf/2017/junho/01/MINUTA-de-\n       Portaria-SAS-PCDT-Espasticidade-19-05-2017.pdf",
+      "char_count": 217
+    },
+    {
+      "number": "103",
+      "title": "Gibbons C, Pagnini F, Friede T, Young CA. Treatment of fatigue in amyotrophic",
+      "depth": 1,
+      "content": "lateral sclerosis/motor neuron disease. Cochrane Database Syst Rev\n       2018;1:CD011005.\n104.   Drug Result Page - MICROMEDEX [Internet]. [cited 2018 Jul 8];Available from:\n       https://www.micromedexsolutions.com/micromedex2/librarian/CS/A52C48/ND\n       _PR/evidencexpert/ND_P/evidencexpert/DUPLICATIONSHIELDSYNC/B3C9F8/ND\n       _PG/evidencexpert/ND_B/evidencexpert/ND_AppProduct/evidencexpert/ND_T\n       /evidencexpert/PFActionId/evidencexpert.IntermediateToDocumentLink?docId=\n       1680&contentSetId=31&title=RILUZOLE&servicesTitle=RILUZOLE#",
+      "char_count": 553
+    },
+    {
+      "number": "105",
+      "title": "United States Pharmacopeial Convention. USP DI. Englewood CO: Micromedix",
+      "depth": 1,
+      "content": "Inc.; 2000.",
+      "char_count": 11
+    },
+    {
+      "number": "106",
+      "title": "Shafiq F, Mitsikostas D-D, Zis P. Nocebo in motor neuron disease: systematic",
+      "depth": 1,
+      "content": "review and meta-analysis of placebo-controlled clinical trials. Amyotroph Lateral\n       Scler Frontotemporal Degener 2017;18(7–8):576–82.",
+      "char_count": 138
+    },
+    {
+      "number": "107",
+      "title": "Riluzole: Drug information - UpToDate [Internet]. [cited 2019 Nov 26];Available",
+      "depth": 1,
+      "content": "from:                          https://www.uptodate.com/contents/riluzole-drug-\n       information?search=riluzole&source=panel_search_result&selectedTitle=1~15&\n       usage_type=panel&kp_tab=drug_general&display_rank=1#F218354",
+      "char_count": 228
+    },
+    {
+      "number": "108",
+      "title": "Prabhakar A, Owen CP, Kaye AD. Anesthetic management of the patient with",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis. J Anesth 2013;27(6):909–18.",
+      "char_count": 58
+    },
+    {
+      "number": "109",
+      "title": "Zhang J, Wang B, Li R, Ge L, Chen K-H, Tian J. Does antimicrobial lock solution",
+      "depth": 1,
+      "content": "reduce catheter-related infections in hemodialysis patients with central venous\n       catheters? A Bayesian network meta-analysis. Int Urol Nephrol 2017;49(4):701–\n       16.",
+      "char_count": 175
+    },
+    {
+      "number": "110",
+      "title": "Luo L, Song Z, Li X, et al. Efficacy and safety of edaravone in treatment of",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis-a systematic review and meta-analysis. Neurol Sci\n       2019;40(2):235–41.",
+      "char_count": 105
+    },
+    {
+      "number": "111",
+      "title": "Elshafay A, Hieu TH, Doheim MF, et al. Efficacy and Safety of Valproic Acid for",
+      "depth": 1,
+      "content": "Spinal Muscular Atrophy: A Systematic Review and Meta-Analysis. CNS Drugs\n       2019;33(3):239–50.",
+      "char_count": 99
+    },
+    {
+      "number": "112",
+      "title": "Srinivas S, Wali AR, Pham MH. Efficacy of riluzole in the treatment of spinal cord",
+      "depth": 1,
+      "content": "injury: a systematic review of the literature. Neurosurg Focus 2019;46(3):E6.",
+      "char_count": 77
+    },
+    {
+      "number": "113",
+      "title": "Simonds AK. Home Mechanical Ventilation: An Overview. Ann Am Thorac Soc",
+      "depth": 1,
+      "content": "2016;13(11):2035–44.",
+      "char_count": 20
+    },
+    {
+      "number": "114",
+      "title": "Au K, Lam D, Garg N, et al. Improving skills retention after advanced structured",
+      "depth": 1,
+      "content": "resuscitation training: A systematic review of randomized controlled trials.\n       Resuscitation 2019;138:284–96.",
+      "char_count": 114
+    },
+    {
+      "number": "115",
+      "title": "Zhou C, Ma G, Li X, et al. Is minimally invasive esophagectomy effective for",
+      "depth": 1,
+      "content": "preventing anastomotic leakages after esophagectomy for cancer? A systematic\n       review and meta-analysis. World J Surg Oncol 2015;13:269.",
+      "char_count": 141
+    },
+    {
+      "number": "116",
+      "title": "Zis P, Mitsikostas D-D. Nocebo Responses in Brain Diseases: A Systematic Review",
+      "depth": 1,
+      "content": "of the Current Literature. Int Rev Neurobiol 2018;139:443–62.",
+      "char_count": 61
+    },
+    {
+      "number": "117",
+      "title": "Sridharan K, Sivaramakrishnan G. Pharmacological interventions for treating",
+      "depth": 1,
+      "content": "sialorrhea associated with neurological disorders: A mixed treatment network\n       meta-analysis of randomized controlled trials. J Clin Neurosci 2018;51:12–7.",
+      "char_count": 160
+    },
+    {
+      "number": "118",
+      "title": "Bartels B, Montes J, van der Pol WL, de Groot JF. Physical exercise training for",
+      "depth": 1,
+      "content": "type 3 spinal muscular atrophy. Cochrane Database Syst Rev 2019;3:CD012120.",
+      "char_count": 75
+    },
+    {
+      "number": "119",
+      "title": "Ferreira GD, Costa ACC, Plentz RDM, Coronel CC, Sbruzzi G. Respiratory training",
+      "depth": 1,
+      "content": "improved ventilatory function and respiratory muscle strength in patients with\n     multiple sclerosis and lateral amyotrophic sclerosis: systematic review and\n     meta-analysis. Physiotherapy 2016;102(3):221–8.",
+      "char_count": 212
+    },
+    {
+      "number": "120",
+      "title": "Ng L, Khan F, Young CA, Galea M. Symptomatic treatments for amyotrophic",
+      "depth": 1,
+      "content": "lateral sclerosis/motor neuron disease. Cochrane Database Syst Rev\n     2017;1:CD011776.",
+      "char_count": 88
+    },
+    {
+      "number": "121",
+      "title": "Donnino MW, Andersen LW, Berg KM, et al. Temperature Management After",
+      "depth": 1,
+      "content": "Cardiac Arrest: An Advisory Statement by the Advanced Life Support Task Force\n     of the International Liaison Committee on Resuscitation and the American Heart\n     Association Emergency Cardiovascular Care Committee and the Council on\n     Cardiopulmonary, Critical Care, Perioperative and Resuscitation. Circulation\n     2015;132(25):2448–56.",
+      "char_count": 346
+    },
+    {
+      "number": "122",
+      "title": "Bezdjian A, Kraaijenga VJC, Ramekers D, et al. Towards Clinical Application of",
+      "depth": 1,
+      "content": "Neurotrophic Factors to the Auditory Nerve; Assessment of Safety and Efficacy\n     by a Systematic Review of Neurotrophic Treatments in Humans. Int J Mol Sci\n     2016;17(12).",
+      "char_count": 175
+    },
+    {
+      "number": "123",
+      "title": "Sweegers MG, Buffart LM. [Training to improve quality of life and physical",
+      "depth": 1,
+      "content": "functioning in cancer; which type of training, for which patient, and at which\n     moment?]. Ned Tijdschr Geneeskd 2018;162:D2443.",
+      "char_count": 131
+    },
+    {
+      "number": "124",
+      "title": "Hobson EV, Baird WO, Cooper CL, Mawson S, Shaw PJ, Mcdermott CJ. Using",
+      "depth": 1,
+      "content": "technology to improve access to specialist care in amyotrophic lateral sclerosis:\n     A systematic review. Amyotroph Lateral Scler Frontotemporal Degener\n     2016;17(5–6):313–24.",
+      "char_count": 180
+    },
+    {
+      "number": "125",
+      "title": "Fernández-Tenorio E., Serrano-Muñoz D., Avendaño-Coy J., Gómez-Soriano J.",
+      "depth": 1,
+      "content": "Estimulación eléctrica nerviosa transcutánea como tratamiento de la\n     espasticidad: una revisión sistemática. Neurologia [Internet] 2016;Available\n     from:\n     http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n     d=L613366742",
+      "char_count": 255
+    },
+    {
+      "number": "126",
+      "title": "Ozlem N. A comparison of the results of peg and nasogastric tube feeding. Surg",
+      "depth": 1,
+      "content": "Endosc Interv Tech 2017;31(2):S84.",
+      "char_count": 34
+    },
+    {
+      "number": "127",
+      "title": "Lim K., See Y.M., Lee J. A systematic review of the effectiveness of medical",
+      "depth": 1,
+      "content": "cannabis for psychiatric, movement and neurodegenerative disorders. Clin\n     Psychopharmacol Neurosci 2017;15(4):301–12.",
+      "char_count": 121
+    },
+    {
+      "number": "128",
+      "title": "Petrov D., Mansfield C., Moussy A., Hermine O. ALS clinical trials review: 20",
+      "depth": 1,
+      "content": "years of failure. Are we any closer to registering a new treatment? Front Aging\n     Neurosci          [Internet]        2017;9(MAR).          Available        from:\n     http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n     d=L615245857",
+      "char_count": 260
+    },
+    {
+      "number": "129",
+      "title": "Conway Z.J., Silburn P.A., Thevathasan W., Maley K.O., Naughton G.A., Cole M.H.",
+      "depth": 1,
+      "content": "Alternate Subthalamic Nucleus Deep Brain Stimulation Parameters to Manage\n                                    ’                       R    w          -analysis.\n     Mov Disord Clin Pract 2019;6(1):17–26.",
+      "char_count": 204
+    },
+    {
+      "number": "130",
+      "title": "Shoesmith C., Benstead T., Chum M., et al. Canadian ALS best practice",
+      "depth": 1,
+      "content": "recommendations. Amyotrophic Lateral Scler Frontotemporal Degener\n     2017;18((Shoesmith C., christen.shoesmith@lhsc.on.ca; Chum M.) London\n     Health Sciences Centre, London, ON, Canada):305.",
+      "char_count": 194
+    },
+    {
+      "number": "131",
+      "title": "Farag J., Reebye R., Ganzert C., Mills P. Casting as an adjunct to botulinum",
+      "depth": 1,
+      "content": "neurotoxin injection for limb spasticity in adults: A systematic review. Toxicon\n     2018;156((Farag J.; Reebye R.; Mills P., patricia.mills@vch.ca) Department of\n     Medicine, University of British Columbia, Vancouver, BC, Canada):S31–2.",
+      "char_count": 240
+    },
+    {
+      "number": "132",
+      "title": "Abdul Wahid S.F., Law Z.K., Lai N.M., Ismail N.A., Azman Ali R. Cell-based",
+      "depth": 1,
+      "content": "therapies for amyotrophic lateral sclerosis/motor neuron disease. Cochrane\n     Database       Syst   Rev       [Internet]    2015;2015(6).    Available    from:\n     http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n     d=L620562495",
+      "char_count": 256
+    },
+    {
+      "number": "133",
+      "title": "Sharma A., Sane H., Paranjape A., et al. Cellular therapy slows down disease",
+      "depth": 1,
+      "content": "progression in amyotrophic lateral sclerosis. Amyotrophic Lateral Scler\n     Frontotemporal Degener 2016;17((Sharma A., amrutap.neurogen@gmail.com;\n     Sane H.; Paranjape A.; Sawant D.; Inamdar S.; Gokulchandran N.; Badhe P.)\n     NeuroGen Brain and Spine Institute, Navi Mumbai, Maharashtra, India):243–4.",
+      "char_count": 307
+    },
+    {
+      "number": "134",
+      "title": "Maguire C., Mcdermott C., Hind D., Radunovic A., Shaw P.J. Diaphragm pacing",
+      "depth": 1,
+      "content": "systems for amyotrophic lateral sclerosis / motor neuron disease. Cochrane\n     Database       Syst   Rev      [Internet]    2014;2014(11).    Available    from:\n     http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n     d=L620559851",
+      "char_count": 256
+    },
+    {
+      "number": "135",
+      "title": "Le Pimpec-Barthes F., Legras A., Arame A., et al. Diaphragm pacing: The state of",
+      "depth": 1,
+      "content": "the art. J Thorac Dis 2016;8((Le Pimpec-Barthes F., francoise.lepimpec-\n     barthes@aphp.fr; Legras A.; Arame A.; Pricopi C.; Badia A.) Department of\n     Thoracic Surgery and Lung Transplantation, Assistance Publique-Hôpitaux de\n     Paris, Hopital Europeen Georges Pompidou, Paris, France):S376–86.",
+      "char_count": 301
+    },
+    {
+      "number": "136",
+      "title": "Golby R., Fabros M., Poirier B., Yousefi M., Cashman N. Incidence of ALS in",
+      "depth": 1,
+      "content": "British Columbia, Canada: A 5-year retrospective study. Amyotrophic Lateral\n     Scler Frontotemporal Degener 2015;16((Golby R., rgolby@gmail.com) University\n     of British Columbia, Faculty of Medicine, Vancouver, BC, Canada):147–8.",
+      "char_count": 234
+    },
+    {
+      "number": "137",
+      "title": "Serramontmany E., Alonso C., Gámez J., et al. Level of evidence and degree of",
+      "depth": 1,
+      "content": "recommendation of intravenous immunoglobulin in auto-immune neurological\n     diseases. Euro J Hosp Pharm Sci Pra 2018;25((Serramontmany E.; Alonso C.;\n                               V       ’H       U         H\n     Barcelona, Spain):A103.",
+      "char_count": 240
+    },
+    {
+      "number": "138",
+      "title": "Van Eijk R.P.A., Jones A.R., Sproviero W., et al. Meta-analysis of",
+      "depth": 1,
+      "content": "pharmacogenetic interactions in amyotrophic lateral sclerosis clinical trials.\n     Amyotrophic Lateral Scler Frontotemporal Degener 2017;18((Van Eijk R.P.A.,\n     r.p.a.vaneijk-2@umcutrecht.nl; Diekstra F.P.; Van Rheenen W.; Eijkemans M.J.C.;\n     Veldink J.H.; Van Den Berg L.H.; Van Es M.A.) University Medical Centre Utrecht,\n     Utrecht, Netherlands):21–2.",
+      "char_count": 362
+    },
+    {
+      "number": "139",
+      "title": "Takei K., Takahashi F., Liu S., Tsuda K., Palumbo J. Onset of detectable effect of",
+      "depth": 1,
+      "content": "edaravone: A post-hoc analysis. Amyotrophic Lateral Scler Frontotemporal\n     Degener 2017;18((Takei K., wendy_agnese@mt-pharma-us.com; Liu S.; Tsuda K.;\n\n       Palumbo J.) Mitsubishi Tanabe Pharma Development America, Inc., Jersey City,\n       NJ, United States):235.",
+      "char_count": 269
+    },
+    {
+      "number": "140",
+      "title": "Buscemi V., Marsden J., Dawes H., et al. Physical activity interventions and",
+      "depth": 1,
+      "content": "therapeutic exercise in rare neurological disorders: A protocol for a scoping\n       review. J Neuromusc Dis 2019;6((Buscemi V., valentina.buscemi@nhs.net;\n       Ramdharry G.) UCLH Queen Square Institute of Neurology, London, United\n       Kingdom):S98.",
+      "char_count": 254
+    },
+    {
+      "number": "141",
+      "title": "Laiwala R.C., Glover J.A., Srinivasan S. Post-stroke pseudobulbar affect-dowe",
+      "depth": 1,
+      "content": "know enough? Am J Geriatr Psychiatry 2016;24(3):S110.",
+      "char_count": 53
+    },
+    {
+      "number": "142",
+      "title": "Velez-Nandayapa L. The risk of depression, euphoric mood and sedation with",
+      "depth": 1,
+      "content": "the use of dextromethorphan in different indications. Results from a systematic\n       review and meta-analysis of randomised clinical trials. Pharmacoepidemiol Drug\n       Saf 2016;25((Velez-Nandayapa L.) Pharmacovigilance, Drug Safety Research Unit\n       (DSRU), Southampton, United Kingdom):590–1.",
+      "char_count": 301
+    },
+    {
+      "number": "143",
+      "title": "Velez-Nandayapa L. The risk of dizziness with the use of dextromethorphan in",
+      "depth": 1,
+      "content": "different indications; Not a rare risk as described in label. Results from a\n       systematic review and meta-analysis of randomised clinical trials.\n       Pharmacoepidemiol Drug Saf 2016;25((Velez-Nandayapa L.) Pharmacovigilance,\n       Drug Safety Research Unit (DSRU), Southampton, United Kingdom):591.",
+      "char_count": 307
+    },
+    {
+      "number": "144",
+      "title": "Young C.A., Gibbons C., Pagnini F., Friede T. Treatment for fatigue in",
+      "depth": 1,
+      "content": "amyotrophic lateral sclerosis/motor neuron disease (ALS/MND). Cochrane\n       Database        Syst      Rev     [Internet]   2014;2014(3).      Available    from:\n       http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n       d=L620560147",
+      "char_count": 261
+    },
+    {
+      "number": "145",
+      "title": "Velez-Nandayapa L. Unintended central nervous system risks with",
+      "depth": 1,
+      "content": "dextromethorphan in different indications. Preliminary results; systematic\n       review and meta-analysis of randomised clinical trials. Drug Saf\n       2015;38(10):1038–9.",
+      "char_count": 173
+    },
+    {
+      "number": "146",
+      "title": "D S, D K, R.M.M B, et al. A Systematic Review and Meta-Analysis on Outcomes",
+      "depth": 1,
+      "content": "and Complications of Percutaneous Endoscopic Versus Radiologic Gastrostomy\n       for Enteral Feeding. J Clin Gastroenterol 2018;52(9):753–64.",
+      "char_count": 142
+    },
+    {
+      "number": "147",
+      "title": "S.T S, I.J H, S B, R H, V W, C B. Benzodiazepines for the relief of breathlessness in",
+      "depth": 1,
+      "content": "advanced malignant and non-malignant diseases in adults. Cochrane Database\n       Syst         Rev         [Internet]       2016;2016(10).       Available       from:\n       http://www.embase.com/search/results?subaction=viewrecord&from=export&i\n       d=L612808856 U2 - L612808856",
+      "char_count": 281
+    },
+    {
+      "number": "148",
+      "title": "C J, M DC, A G, T H-P, J S. Correlations between slow vital capacity and measures",
+      "depth": 1,
+      "content": "of respiratory function on the ALSFRS-R. Amyotrophic Lateral Scler\n       Frontotemporal Degener 2017;18:275–6.",
+      "char_count": 111
+    },
+    {
+      "number": "149",
+      "title": "M MG, A B, M A, J.M C, C C. Dignity therapy in palliative care: A comprehensive",
+      "depth": 1,
+      "content": "systematic review of the literature. Palliative Med 2016;30(6):NP209.\n\n               TERMO DE ESCLARECIMENTO E RESPONSABILIDADE - TER\n                                       RILUZOL\n       Eu,____________________________________________________________\n(nome do(a) paciente), declaro ter sido informado(a) claramente sobre os benefícios,\nriscos, contraindicações e principais efeitos adversos relacionados ao uso do\nmedicamento riluzol, indicado para o tratamento da esclerose lateral amiotrófica.\n\n      Os termos médicos me foram explicados e todas as minhas dúvidas foram\nresolvidas pelo médico __________________________________ (nome do médico\nque prescreve).\n\n     Assim declaro que:\n\n      Fui claramente informado(a) de que o medicamento que passo a receber pode\ntrazer as seguintes melhorias:\n     - leve melhora de sintomas da doença;\n     - aumento da sobrevida.\n\n     Fui também claramente informado(a) a respeito das seguintes contraindicações,\npotenciais efeitos adversos e riscos:\n     - não se sabe ao certo os riscos do uso deste medicamento na gravidez,\nportanto, caso engravide, devo avisar imediatamente ao meu médico;\n     - os efeitos adversos incluem fraqueza, sono, náuseas, vômitos, diarreia, dor\nna barriga, formigamentos, alteração nas enzimas do fígado, dor de cabeça, aumento\ndos batimentos do coração, diminuição das células brancas (diminuição das defesas) e\nvermelhas (anemia) do sangue;\n     -     contraindicado em pacientes com hipersensibilidade ao riluzol ou aos\ncomponentes da fórmula e aqueles com problemas no fígado.\n\n      Estou ciente de que este medicamento somente pode ser utilizado por mim,\ncomprometendo-me a devolvê-lo caso não queira ou não possa utilizá-lo ou se o\ntratamento for interrompido. Sei também que continuarei a ser assistido, inclusive se\ndesistir de usar o medicamento.\n\n      Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazer uso de\ninformações relativas ao meu tratamento, desde que assegurado o anonimato. (       )\nSim     ( ) Não\n\n\n\n  Local:                                        Data:\n\n  Nome do paciente:\n\n  Cartão Nacional de Saúde:\n\n  Nome do responsável legal:\n\n  Documento de identificação do responsável legal:\n\n  _____________________________________ Assinatura do paciente ou do\n  responsável legal\n\n  Médico                     CRM:        UF:\n  Responsável:\n\n  ___________________________\n  Assinatura e carimbo do médico\n  Data:\n\nNOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente\nem qual componente da Assistência Farmacêutica se encontra o medicamento\npreconizado neste Protocolo.\n\n                                   APÊNDICE 1\n               METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA",
+      "char_count": 2717
+    },
+    {
+      "number": "1",
+      "title": "Escopo e finalidade do Protocolo",
+      "depth": 1,
+      "content": "A revisão do Protocolo Clínico e Diretrizes Terapêuticas (PCDT) da Esclerose\nLateral Amiotrófica iniciou-se com a reunião presencial para delimitação do escopo. O\nobjetivo desta reunião foi a discussão sobre a atualização do referido PCDT.\n            Uma reunião presencial para revisão do escopo do Protocolo Clínico e\nDiretrizes Terapêuticas (PCDT) foi conduzida e contou com a presença de oito\nmembros do Grupo Elaborador, sendo três dos quais especialistas e representantes da\nsociedade médica e três metodologistas, e quatro representantes do Comitê Gestor.\n            A dinâmica da reunião realizada em 21/03/2019 foi conduzida com base no\nPCDT vigente (Portaria nº 1.151/SAS/MS, de 12 de novembro de 2015) e na estrutura\nde PCDT definida pela Portaria n° 375/SAS/MS, de 10 de novembro de 2009. Cada\nseção do PCDT foi discutida entre o Grupo Elaborador com o objetivo de revisar as\ncondutas clínicas e identificar as tecnologias que poderiam ser consideradas no\nProtocolo.\n            Como não foram elencadas novas questões de pesquisa para a revisão do\nPCDT, a relatoria do texto foi distribuída entre os médicos especialistas. Esses\nprofissionais foram orientados a referenciar as recomendações com base nos estudos\npivotais, meta-análises e diretrizes atuais que consolidam a prática clínica e a atualizar\nos dados epidemiológicos descritos no PCDT vigente.",
+      "char_count": 1369
+    },
+    {
+      "number": "2",
+      "title": "Equipe de elaboração e partes interessadas",
+      "depth": 1,
+      "content": "Além dos representantes do Ministério da Saúde do Departamento de\nGestão e Incorporação de Tecnologias em Saúde do Ministério da Saúde\n(DGITIS/SCTIE/MS), houve a participação na elaboração deste Protocolo de\nmetodologistas do Hospital Alemão Oswal Cruz (HAOC)/Proadi-SUS e especialistas no\ntema.\n           Todos os participantes do Grupo Elaborador preencheram os respectivos\nformulários de Declaração de Conflitos de Interesse, que foram enviados ao Ministério\nda Saúde, como parte dos resultados do trabalho.\n\n           Avaliação da Subcomissão Técnica de Protocolos Clínicos e Diretrizes\nTerapêuticas\n           Foi apresentado a primeira versão do PCDT à reunião da Subcomissão\nTécnica de Protocolos Clínicos e Diretrizes Terapêuticas da Conitec, realizado no mês\nde junho de 2019, e, após a análise e realização dos ajustes e correções apontadas, foi\ndecidido por unanimidade pautar o tema na reunião na 87ª Reunião Ordinária da\nConitec, agendada para 03 e 04 de junho de 2020.\n\n           Consulta pública\n           A Consulta Pública nº 72 do PCDT foi feita entre os dias 16/12/2019 a\n16/01/2020. Foram recebidas 593 contribuições no total e salienta-se que todas foram\nanalisadas e feito o resumo da análise das contribuições recebidas. O conteúdo\nintegral das contribuições se encontra disponível na página da CONITEC em:\n\n http://conitec.gov.br/images/Consultas/Relatorios/2019/Relatorio_PCDT_Esclerose_L\n ateral_Amiotrofica.pdf .",
+      "char_count": 1443
+    },
+    {
+      "number": "3",
+      "title": "Busca da evidência e recomendações",
+      "depth": 1,
+      "content": "Para auxiliar na atualização do PCDT, foram realizadas buscas na literatura\n  nas bases de dados Medline via Pubmed e Embase, limitando os resultados para\n  revisões sistemáticas de ensaios clínicos randomizados (ECR) e meta-análises de ECR,\n  usando filtros validados da Cochrane Collaboration, publicados desde 31/08/2015,\n  conforme o Quadro A. Foram incluídos nove estudos conforme Figura A.\n                                Quadro A - Estratégia de busca\n             ((ALS[All Fields] OR \"amyotrophic lateral sclerosis\"[MeSH Terms] OR\n             (\"amyotrophic lateral sclerosis\"[MeSH Terms] OR (\"amyotrophic\"[All Fields]\n             AND \"lateral\"[All Fields] AND \"sclerosis\"[All Fields]) OR \"amyotrophic lateral\n             sclerosis\"[All Fields]) OR \"motor neuron disease\"[MeSH Terms] OR (\"motor\n             neuron disease\"[MeSH Terms] OR (\"motor\"[All Fields] AND \"neuron\"[All\n             Fields] AND \"disease\"[All Fields]) OR \"motor neuron disease\"[All Fields])) AND\n             ((\"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields]\nMedline      OR \"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields]) OR (\"drug\n   via       therapy\"[Subheading] OR (\"drug\"[All Fields] AND \"therapy\"[All Fields]) OR\nPubMed       \"drug therapy\"[All Fields] OR \"drug therapy\"[MeSH Terms] OR (\"drug\"[All\n             Fields] AND \"therapy\"[All Fields])) OR (\"therapy\"[Subheading] OR\n             \"therapy\"[All Fields] OR \"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All\n             Fields]) OR (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields]) OR\n             \"therapeutics\"[MeSH Terms])) AND (randomized controlled trial[pt] OR\n             controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR \"clinical\n             trials as topic\"[MeSH Terms:noexp] OR randomly[tiab] OR trial[ti] NOT\n             (\"animals\"[MeSH Terms] NOT \"humans\"[MeSH Terms])) AND ((systematic[sb]\n             OR Meta-Analysis[ptyp]) AND (\"2015/08/31\"[PDAT] : \"3000/12/31\"[PDAT]))\n             ('crossover procedure':de OR 'double-blind procedure':de OR 'randomized\n             controlled trial':de OR 'single-blind procedure':de OR random*:de,ab,ti OR\n             factorial*:de,ab,ti OR crossover*:de,ab,ti OR ((cross NEXT/1 over*):de,ab,ti)\n             OR placebo*:de,ab,ti OR ((doubl* NEAR/1 blind*):de,ab,ti) OR ((singl* NEAR/1\n             blind*):de,ab,ti)     OR      assign*:de,ab,ti   OR     allocat*:de,ab,ti    OR\nEmbase       volunteer*:de,ab,ti) AND ('amyotrophic lateral sclerosis'/exp OR 'amyotrophic\n             lateral sclerosis' OR 'motor neuron disease'/exp OR 'motor neuron disease')\n             AND (('treatment'/exp OR treatment OR 'drug therapy'/exp OR 'drug therapy'\n             OR 'therapy'/exp OR 'therapy' OR 'drug'/exp OR drug) AND ('therapy'/exp OR\n             therapy) OR 'therapy'/exp OR therapy OR 'therapeutics'/exp OR therapeutics)\n             AND [31-8-2015]/sd AND ([systematic review]/lim OR [meta analysis]/lim)\n             AND [embase]/lim NOT ([embase]/lim AND [medline]/lim)\n\nFigura A – Fluxograma de seleção dos estudos",
+      "char_count": 3092
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": ""
+    },
+    "inclusion_criteria": {
+      "number": "4",
+      "content": "Serão incluídos neste Protocolo os pacientes que apresentarem os critérios\ndiagnósticos para ELA definitiva, ELA provável ou ELA provável com suporte\nlaboratorial, avaliados por médico especialista em neurologia e com laudo médico\ndetalhado. Também serão incluídos os pacientes que apresentarem ELA suspeita\npelos critérios de El Escorial revisados e se incluam entre os Casos Especiais (ver o\nitem 6)."
+    },
+    "exclusion_criteria": {
+      "number": "5",
+      "content": "Serão excluídos deste Protocolo os pacientes que apresentarem uma das\nseguintes condições: ELA possível ou suspeita pelos critérios de El Escorial que não se\nenquadram nos Casos Especiais (vide item 6)."
+    },
+    "special_cases": {
+      "number": "6",
+      "content": "Quando o paciente tiver um familiar de primeiro grau afetado pela ELA, o\nexame genético focado nas alterações mais prevalentes na população brasileira é\nindicado, bem como o aconselhamento genético18,20.\n\n        Pacientes com doenças do neurônio motor e ELA suspeita pelos critérios de El\nEscorial revisados– atrofia muscular progressiva (AMP), esclerose lateral primária\n(ELP), paralisia bulbar progressiva (PBP) e atrofia muscular bulboespinhal (doença de\nKennedy) – também devem ser tratados, visto que podem se beneficiar do\ntratamento específico com riluzol e demais medidas terapêuticas preconizadas neste\nProtocolo21."
+    },
+    "treatment": {
+      "number": "7",
+      "content": ""
+    },
+    "monitoring": {
+      "number": "8",
+      "content": "O acompanhamento em longo prazo deverá ser realizado por\nneurologista104,105. Os seguintes exames devem ser realizados: hemograma, plaquetas\ne enzimas hepáticas antes de se iniciar o tratamento, no primeiro, no segundo, nos\n3º, 6º, 9º e 12º meses e, após, quando indicado(s).\n        Os pacientes devem ser reavaliados a cada 3 ou 4 meses ou conforme\norientação médica. O riluzol deve ser administrado até que o paciente não mais o\ntolere ou o momento em que necessitar de uso de ventilação mecânica 86. Cabe\nsalientar que o efeito nocebo é frequente nos pacientes com DNM, haja vista a\nelevada incidência de efeitos adversos nos grupos placebo conforme resultado de\nmeta-análise de ECR: 78,3% (IS-95%: 74,3% a 82,0%)106."
+    },
+    "regulation": {
+      "number": "9",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste\nProtocolo, a duração e a monitorização do tratamento, bem como a verificação\nperiódica das doses prescritas e dispensadas, da adequação de uso do medicamento e\ndo acompanhamento pós-tratamento.\n        Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente\nem qual componente da Assistência Farmacêutica se encontram os medicamento\npreconizados neste Protocolo.\n        Devido as peculiaridades da doença, pacientes com ELA devem ter uma\ncarteirinha pessoal contendo informações relevantes quanto aos cuidados que devem\nser oferecidos em procedimentos em Salas de Emergência ou em procedimentos\ncirúrgicos. Bloqueadores neuromusculares despolarizantes, como halotano e\nsuccinilcolina, são contra-indicados em pacientes com ELA por causa do risco de\nliberação intensa de potássio 108."
+    }
+  },
+  "stats": {
+    "section_count": 179,
+    "char_count": 96590,
+    "depth1_count": 153
+  }
+}

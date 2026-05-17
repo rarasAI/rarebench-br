@@ -1,0 +1,613 @@
+{
+  "slug": "amiloidoses-transtirretina",
+  "name_pt": "Amiloidoses Associadas à Transtirretina (PAF Andrade)",
+  "icd10": "E85.1",
+  "orphanet": "ORPHA:85451",
+  "omim": "105210",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/AmiloidosesAssociadasaTranstirretina.pdf",
+  "sections": [
+    {
+      "number": "3.1",
+      "title": "Diagnóstico Clínico",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.1.1",
+      "title": "Polineuropatia amiloide associada à transtirretina (ATTR-PN)",
+      "depth": 3,
+      "content": "A ocorrência de polineuropatia sensitivo-motora progressiva periférica e pelo menos um dos sintomas a seguir é sugestiva\nde ATTR-PN16:\n       - histórico familiar de neuropatia;\n       - disfunção autonômica precoce: disfunção erétil ou hipotensão postural, por exemplo;\n       - envolvimento cardíaco: cardiomiopatia, hipertrofia, bloqueio atrioventricular e arritmia;\n       - alterações gastrointestinais: diarreia, constipação com episódios de alternância e perda de peso inexplicada;\n       - síndrome do túnel do carpo bilateral, especialmente se outros membros da família também a apresentarem;\n\n        - anormalidades renais (albuminúria ou azotemia leve, por exemplo); ou\n        - opacidade do vítreo.\n        Rápida progressão da doença e falha à resposta ao tratamento com imunomoduladores são sinais adicionais16.\nRecomenda-se, também, a avaliação dos escores neurológicos funcionais por meio do polyneuropathy disability score (PND) e\navaliação sensitivo-motora pelo neuropathy impairmet score (NIS)37.\n        A confirmação do diagnóstico da forma selvagem inclui os sinais e sintomas, além de exames complementares e a\nconfirmação da forma hereditária (familiar) é a presença de variante patogênica no gene TTR acompanhada de sintomatologia\ncompatível16,37-39.",
+      "char_count": 1277
+    },
+    {
+      "number": "3.1.2",
+      "title": "Cardiomiopatia amiloide associada à transtirretina (ATTR-CM)",
+      "depth": 3,
+      "content": "A ocorrência de manifestações de insuficiência cardíaca, combinada com os sintomas a seguir, é sugestiva de ATTR-\nCM17:\n        - Insuficiência cardíaca de fração de ejeção preservada (ICFEp), particularmente em homens idosos (acima de 65 anos);\n        - Bloqueio atrioventricular (AV) inexplicado com implante prévio de marca-passo;\n        - Miocardiopatia hipertrófica iniciada tardiamente (após 60 anos) com padrão assimétrico;\n        - Estenose aórtica e pacientes idosos (acima de 65 anos) com baixo fluxo/baixo gradiente;\n        - Síndrome do túnel do carpo bilateral, estenose do canal vertebral, ruptura do tendão do bíceps;\n        - Polineuropatia sensorial-motora não explicada, como parestesia, dor neuropática, fraqueza;\n        - Disfunção autonômica, com hipotensão postural, diarreia pós-prandial alternando com constipação, disfunção erétil;\n        - Opacidade vítrea e alterações pupilares;\n        - História familiar de polineuropatia ou miocardiopatia.\n\n\n        A confirmação do diagnóstico da forma selvagem inclui os sinais e sintomas, além de exames complementares e a\nconfirmação da forma hereditária (familiar) é a presença de variante patogênica no gene TTR acompanhada de sintomatologia\ncompatível16,37-39.",
+      "char_count": 1240
+    },
+    {
+      "number": "3.2",
+      "title": "Diagnóstico laboratorial",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.2.1",
+      "title": "Polineuropatia amiloide associada à transtirretina (ATTR-PN)",
+      "depth": 3,
+      "content": "Para constatação do depósito amiloide, recomenda-se a realização da biópsia do órgão afetado, especialmente de glândula\nsalivar ou tecido adiposo (pele e partes moles), por serem menos invasivas ou biópsia de nervo ou reto (ânus e canal anal),\nquando necessário. Todos os tecidos obtidos devem ser corados com vermelho-congo e examinados ao microscópio de\npolarização. É importante ressaltar que resultados negativos não descartam a amiloidose e que a biópsia é recomendável para\ndeterminar o início da doença16.",
+      "char_count": 512
+    },
+    {
+      "number": "3.2.2",
+      "title": "Cardiomiopatia amiloide associada à transtirretina (ATTR-CM)",
+      "depth": 3,
+      "content": "O diagnóstico laboratorial da cardiomiopatia amiloidótica pode também incluir marcadores de insuficiência cardíaca\ncomo o peptídeo natriurético cerebral (BNP, do inglês brain natriuretic peptide) ou o NT-próBNP (porção N-terminal do\nprecursor de BNP) e os níveis de troponina17.\n        Além disso, pode-se incluir o monitoramento da proteinúria e função renal (ureia, creatinina, ácido úrico, taxa de filtração\nglomerular, proteína em urina de 24 horas)16,38.",
+      "char_count": 460
+    },
+    {
+      "number": "3.3",
+      "title": "Diagnóstico genético",
+      "depth": 2,
+      "content": "O diagnóstico da variante patogênica que confirma a ATTR-PN ou ATTR-CM na forma hereditária (familiar) é feito por\nmeio de testes de DNA, como o sequenciamento completo do gene TTR com identificação de mutação por sequenciamento por\namplicon até 500 pares de bases, que devem ser utilizados no diagnóstico de pacientes pré-sintomáticos e sintomáticos4,16.\n        O diagnóstico genético tem um papel de destaque na ATTR hereditária, devendo ser usado para detecção de portadores\nassintomáticos, com adequado aconselhamento genético e para confirmação de casos suspeitos, com ou sem história familiar 16.",
+      "char_count": 603
+    },
+    {
+      "number": "3.4",
+      "title": "Exames complementares",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.4.1",
+      "title": "Polineuropatia amiloide associada à transtirretina (ATTR-PN)",
+      "depth": 3,
+      "content": "Devem ser realizados exames complementares, como a eletromiografia com estudos de condução nervosa 16,38.",
+      "char_count": 105
+    },
+    {
+      "number": "3.4.2",
+      "title": "Cardiomiopatia amiloide associada à transtirretina (ATTR-CM)",
+      "depth": 3,
+      "content": "A avaliação cardíaca deve incluir eletrocardiograma, ecocardiografia transtorácica, dosagem de troponina e, em alguns\ncasos, ressonância magnética de coração, cintilografia cardíaca com pirofosfato (ou outro marcador específico para a TTR) e\nmonitoramento pelo sistema Holter37.",
+      "char_count": 278
+    },
+    {
+      "number": "3.5",
+      "title": "Diagnóstico diferencial",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.5.1",
+      "title": "Polineuropatia amiloide associada à transtirretina (ATTR-PN)",
+      "depth": 3,
+      "content": "O diagnóstico diferencial é feito com outras polineuropatias que afetem, predominantemente, fibras de pequeno calibre\nem nervos periféricos, tais como, hanseníase e diabetes, que são as mais importantes. De fato, qualquer neuropatia de caráter\naxonal crônico pode ser confundida com a ATTR-PN, principalmente quando não há história familiar evidente ou quando o\ninício é tardio4,6,26,27.\n        Uma das fontes de diagnóstico incorreto mais comum para a ATTR-PN são as polineuropatias desmielinizantes\ninflamatórias crônicas (PDIC)4,16. Apesar das PDIC serem, geralmente, caracterizadas por uma neuropatia sensitivo-motora\nprimariamente desmielinizante, uma vez que um extenso dano axonal comprimento-dependente está presente, características\neletrofisiológicas de ATTR-PN podem se assemelhar às observadas para PDIC, devido ao dano axonal na condução mais rápida\nou à desmielinização secundária. Além disso, níveis da proteína TTR no líquido cefalorraquidiano podem estar elevadas em\npacientes com ATTR-PN, embora de forma menos acentuada na PDIC. Em muitos casos, uma biópsia negativa contribui para o\ndiagnóstico errado. Uma forma importante de considerar ATTR-PN como diagnóstico em um paciente inicialmente classificado\ncomo PDIC é a falta de resposta aos tratamentos imunomoduladores e/ou imunossupressores16.\n        Por fim, torna-se fundamental diferenciar a forma hereditária daquela ligada ao depósito de imunoglobulina de cadeia\nleve e doença hematológica (denominada amiloidose subtipo AL), cujo tratamento é muito diferente2,4,16. O diagnóstico\nequivocado pode acontecer devido à ocorrência de gamopatia monoclonal em pacientes idosos ou imunomarcação falsa de\ndepósitos amiloides16. A investigação das cadeias leves monoclonais de imunoglobulinas inicia-se pela realização de eletroforese\ncom imunofixação no sangue e na urina e a dosagem da relação das cadeias leves livres (kappa/lambda). Em caso positivo, é\nnecessária a biópsia tecidual para confirmar o depósito de proteína amiloide (cadeia leve) e a elaboração da estratégia terapêutica\nespecífica17.",
+      "char_count": 2071
+    },
+    {
+      "number": "3.5.2",
+      "title": "Cardiomiopatia amiloide associada à transtirretina (ATTR-CM)",
+      "depth": 3,
+      "content": "Da mesma forma que para ATTR-PN, na ATTR-CM é fundamental diferenciar a forma hereditária (familiar) daquela\nligada ao depósito de imunoglobulina de cadeia leve e doença hematológica (denominada amiloidose subtipo AL) 17.\n        Para a ATTR-CM, outros diagnósticos diferenciais importantes devem ser realizados com cardiomiopatias hipertróficas\nsarcoméricas como Doença de Fabry e Doença de Pompe, ambas com tratamento específico disponível 38.",
+      "char_count": 445
+    },
+    {
+      "number": "3.6",
+      "title": "Classificação clínica",
+      "depth": 2,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "3.6.1",
+      "title": "Polineuropatia amiloide associada à transtirretina (ATTR-PN)",
+      "depth": 3,
+      "content": "Após o diagnóstico, o estágio da neuropatia e a extensão sistêmica da doença devem ser determinados, de forma a guiar\no curso de tratamento16. Os estágios de gravidade da ATTR-PN são determinados pela incapacidade de deambulação do paciente\ne o grau de assistência necessário. São utilizadas duas classificações: uma clássica em três estágios, proposta por Coutinho et\nal.40 e o escore de incapacidade da neuropatia periférica modificado (mPND da sigla em inglês modified peripheral neuropathy\ndisability score )26 (Quadro 1).\n\n\nQuadro 1 - Estágio da ATTR-PN de acordo com a gravidade dos sintomas.\n\n Estágios de Coutinho                                                                  Estágios mPND\n Estágio I (estágio inicial): neuropatia sensorial e motora limitada aos               Estágio   I:   distúrbios   sensoriais,   mas\n membros inferiores. Comprometimento motor leve. Deambulação sem                       capacidade de locomoção preservada (sem\n auxílio.                                                                              comprometimento motor).\n                                                                                       Estágio II: dificuldade para andar, mas não há\n                                                                                       necessidade de auxílio para marcha.\n Estágio II (estágio intermediário): é necessário auxílio para marcha. A               Estágio IIIa: é necessária uma bengala ou\n neuropatia progride para membros superiores e tronco. Amiotrofia em                   muleta para caminhar.\n membros superiores e inferiores. Comprometimento motor moderado.                      Estágio IIIb: são necessárias duas bengalas,\n                                                                                       duas muletas ou um andador para caminhar.\n Estágio III (estágio avançado): estágio terminal, acamado ou em cadeira de            Estágio IV: paciente confinado a uma cadeira\n rodas. Neuropatia sensorial, motora e autonômica grave em todos os                    de rodas ou cama.\n membros.",
+      "char_count": 2074
+    },
+    {
+      "number": "3.6.2",
+      "title": "Cardiomiopatia amiloide associada à transtirretina (ATTR-CM)",
+      "depth": 3,
+      "content": "Os pacientes com insuficiência cardíaca são acompanhados de acordo com a classificação da New York Heart Association\n(NYHA). Essa classificação auxilia na definição terapêutica e na avaliação da resposta ao tratamento, contribuindo para otimizar\no atendimento clínico41 (Quadro 2).\n\n\nQuadro 2 – Classificação funcional da New York Heart Association (NYHA).\n\n    Classe NYHA                                                            Descrição\n            I              Sem limitações para realização de atividade física. Atividades habituais não causam dispneia, cansaço,\n                           palpitações.\n            II             Discreta limitação para realização de atividade física. Atividades habituais causam dispneia, cansaço,\n                           palpitações.\n\n   Classe NYHA                                                        Descrição\n          III           Importante limitação para realização de atividade física. Atividades de intensidades inferiores causam\n                        dispneia, cansaço, palpitações.\n         IV             Limitações para realização de qualquer atividade física. Sintomas de insuficiência cardíaca podem\n                        ocorrer em repouso.\n\n\n       CRITÉRIOS DE INCLUSÃO\n\n\n       Serão incluídos nesse PCDT pacientes de ambos os sexos, maiores de 18 anos de idade, com diagnóstico confirmado de\namiloidose associada à TTR, independentemente das suas manifestações clínicas e do estágio da doença.\n       Adicionalmente, para uso de tafamidis meglumina 20 mg, os pacientes devem apresentar polineuropatia amiloidótica\nhereditária (familiar) sintomática (CID-10 E85.1) em estágio inicial (estágio I de Coutinho) e não terem sido submetidos à\ntransplante hepático.\n       Adicionalmente, para uso de tafamidis 61 mg, os pacientes devem apresentar cardiomiopatia associada à TTR (selvagem\nou hereditária), classe NYHA II ou III e idade acima de 60 anos.\n       Serão elegíveis para o transplante os pacientes com doador identificado; em condições clínicas para o transplante; e em\nidade compatível com o transplante hepático, conforme o vigente Regulamento Técnico do Sistema Nacional de Transplantes 42\ne as idades mínima e máxima atribuídas aos respectivos procedimentos na Tabela de Procedimentos, Medicamentos, Órteses,\nPróteses e Materiais Especiais do SUS.\n\n\n       CRITÉRIOS DE EXCLUSÃO\n\n\n       Pacientes que apresentem intolerância, hipersensibilidade ou contraindicação a medicamento neste Protocolo deverão ser\nexcluídos ao uso do respectivo medicamento preconizado.\n       Em relação ao uso de tafamidis, adicionalmente, serão excluídas gestantes e lactantes.\n       O uso concomitante de tafamidis 20 mg e tafamidis 61 mg não é preconizado por este Protocolo. Assim, pacientes em\nuso de tafamidis meglumina 20 mg estão excluídos do uso de tafamidis 61 mg. Do mesmo modo, pacientes em uso de tafamidis\n61 mg estão excluídos do uso de tafamidis meglumina 20 mg.\n       Entretanto, pacientes com amilodoise familiar (hereditária) associada à transtirretina com comprometimento misto\n(neurológico e cardíaco) que já estejam em uso de tafamidis meglumina 20 mg podem migrar para o uso de tafamidis 61 mg,\ncaso seja a escolha terapêutica da equipe médica assistente e respeitando os demais critérios de inclusão.\n\n\n       TRATAMENTO\n\n\n       O tratamento das ATTR é complexo e requer medidas específicas para o controle da progressão da amiloidogênese\nsistêmica, além de terapia direcionada aos sintomas e órgãos afetados pela amiloidose 4,16,17. O atendimento dos pacientes com\nATTR envolve equipe multidisciplinar16,17 e o tratamento com o medicamento tafamidis meglumina 20 mg para ATTR-PN\nhereditária (familiar)36 e tafamidis 61 mg para ATTR-CM (selvagem ou hereditária)43, conforme critérios de inclusão definidos\nneste PCDT, além de transplante hepático conforme o Regulamento Técnico do Sistema Nacional de Transplantes vigente42.\n\n       É crucial que a equipe multiprofissional acompanhe continuamente o paciente, monitorando a evolução da doença,\nfornecendo orientação à família, realizando os encaminhamentos aos especialistas, conforme necessário e coordenando o\natendimento integral ao paciente.\n       Além disso, é importante que pacientes e familiares sejam orientados acerca da doença e suas possíveis complicações e\nriscos, também com auxílio de um relatório escrito. Os pacientes também devem ser informados de que, em caso de emergência,\no médico assistente deve ser comunicado e receber cópia do relatório médico com informações sobre a condição crônica do\npaciente.",
+      "char_count": 4563
+    },
+    {
+      "number": "6.1",
+      "title": "Tratamento não medicamentoso",
+      "depth": 2,
+      "content": "Como se trata de uma doença crônica, multissistêmica e progressiva, os pacientes com ATTR e suas famílias requerem,\ngeralmente, apoio psicológico e social a partir do diagnóstico da doença 16,17.\n       No caso da ATTR forma hereditária (familiar), o aconselhamento genético deve ser oferecido a todas as famílias e aos\npacientes, visando a fornecer informações sobre status genético, diagnóstico pré-natal e chance de recorrência. A ATTR\nhereditária é de padrão autossômico dominante, sendo assim, a chance de um indivíduo heterozigoto afetado por ATTR\nhereditária ter um filho, independente do sexo, com a condição é de 50% 4. Um teste preditivo, ou seja, aquele realizado em\nfamiliar assintomático de um portador da condição genética, pode ser feito em indivíduos adultos, mediante adequado processo\nde aconselhamento genético4. É importante que uma equipe multidisciplinar acompanhe o paciente, sugerindo-se a inclusão,\nalém da equipe médica de multiespecialidades, nutricionistas, psicólogos, fisioterapeutas e enfermeiros 16.\n       O transplante hepático tem como objetivo prevenir a formação de depósitos amiloides adicionais, pela remoção do\nprincipal sítio de produção de qualquer TTR, mutada ou não. Com a substituição do fígado, espera-se que não haja progressão\nda doença6,22.\n       O transplante hepático deve ser realizado no estágio inicial (estágio I de Coutinho) da doença, antes do aparecimento de\nlesões extensas que não poderão ser revertidas com este procedimento 15,44,45.\n       Como em alguns casos o depósito de TTR pode seguir após o transplante hepático, com progressão das manifestações\ncardíacas46, outra possibilidade pode ser o transplante combinado fígado-coração, com aparente melhor prognóstico do que o\ntransplante isolado de apenas um desses órgãos47. No entanto, considerando a pouca disponibilidade de órgãos e os riscos\nassociados ao procedimento, o uso de medicamentos que bloqueiem a síntese hepática de TTR é a estratégia mais utilizada 17.\n       A indicação, realização e acompanhamento pós-transplante hepático devem seguir o Regulamento Técnico do Sistema\nNacional de Transplantes vigente42.",
+      "char_count": 2139
+    },
+    {
+      "number": "6.2",
+      "title": "Tratamento medicamentoso",
+      "depth": 2,
+      "content": "Ressalta-se a importância do acompanhamento dos usuários em relação ao uso dos medicamentos preconizados neste\nPCDT para que alcancem os resultados positivos em relação à efetividade do tratamento e para monitorar o surgimento de\nproblemas relacionados à segurança. Nesse aspecto, a prática do Cuidado Farmacêutico, por meio de orientação, educação em\nsaúde e acompanhamento contínuo, contribui diretamente para o alcance dos melhores resultados em saúde, ao incentivar o uso\napropriado dos medicamentos que sejam indicados, seguros e efetivos, ao estimular a adesão ao tratamento, ao fornecer apoio e\ninformações que promovam a autonomia e o autocuidado dos pacientes.\n       Como a adesão ao tratamento é essencial para que o usuário alcance os resultados esperados, é fundamental que sejam\nfornecidas, no momento da dispensação dos medicamentos, informações acerca do processo de uso do medicamento, interações\nmedicamentosas e possíveis eventos adversos. A integração do Cuidado Farmacêutico aos Protocolos Clínicos e Diretrizes\n\nTerapêuticas é, portanto, fundamental para proporcionar uma assistência à saúde mais segura, efetiva e centrada na pessoa,\nabordando de forma abrangente as necessidades de cada indivíduo.",
+      "char_count": 1221
+    },
+    {
+      "number": "6.2.3",
+      "title": "Polineuropatia amiloide associada à transtirretina (ATTR-PN)",
+      "depth": 3,
+      "content": "O uso de tafamidis meglumina 20 mg é recomendado para o tratamento da ATTR-PN hereditária (familiar) em pacientes\nadultos, sintomáticos, em estágio inicial (estágio I da escala de Coutinho) e não submetidos a transplante hepático 36, uma vez\nque apresentou perfil satisfatório de segurança, eficácia na estabilização da TTR e na redução da progressão da doença 48-50. Para\nessa população, seu uso também está associado à manutenção e até melhora do estado nutricional51.\n        Em pacientes com ATTR-PN, com variantes patogênicas que não a p.Val30Met ou p.Val122Ile, o medicamento foi bem\ntolerado e eficaz na estabilização da TTR, com melhora do índice de massa corporal (IMC) modificado e da qualidade de vida\ndos pacientes52. Os pacientes em uso do medicamento devem ser acompanhados em centros de referência sempre que possível\ne, caso se mostrem não respondedores, deverão ser encaminhados ao transplante hepático, se aplicável.\n        A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) avaliou a incorporação dos\nmedicamentos inotersena e patisirina, conforme Relatórios de Recomendação nº 799 (Portaria SECTICS/MS nº24/2023) 53 e nº\n800 (Portaria SECTICS/MS nº58/2023)54, com recomendação final de não incorporação. A Conitec também avaliou a\nincorporação da vutrisirana para o tratamento de pacientes adultos com amiloidose hereditária mediada por transtirretina com\npolineuropatia em estágio II, conforme Relatório de Recomendação nº 964/2025 e obteve recomendação final de não\nincorporação (Portaria SECTICS/MS nº 11/2025). Portanto, o uso destes medicamentos não é preconizado neste PCDT.",
+      "char_count": 1637
+    },
+    {
+      "number": "6.2.4",
+      "title": "Cardiomiopatia amiloide associada à transtirretina (ATTR-CM)",
+      "depth": 3,
+      "content": "O tafamidis 61 mg é recomendado para o tratamento de pacientes com ATTR-CM (selvagem ou hereditária), classe\nNYHA II ou III e idade acima de 60 anos, pois atua como estabilizador da TTR e retarda o depósito cardíaco. Seu uso resultou\nem redução na mortalidade e na taxa de hospitalizações relacionadas às questões cardiovasculares 43.",
+      "char_count": 334
+    },
+    {
+      "number": "6.2.5",
+      "title": "Medicamento",
+      "depth": 3,
+      "content": "- Tafamidis meglumina: cápsulas de 20 mg;\n        - Tafamidis: cápsulas de 61 mg.",
+      "char_count": 81
+    },
+    {
+      "number": "6.3",
+      "title": "Esquema de administração",
+      "depth": 2,
+      "content": "Tafamidis meglumina:\n        Para tratamento de pacientes com ATTR-PN hereditária (familiar), tafamidis meglumina 20 mg por via oral (VO), uma\nvez ao dia, ingerida com ou sem alimentos. Não são necessários ajustes de dose para pacientes idosos (acima de 65 anos), nem\npara pacientes com comprometimento renal ou comprometimento hepático leve ou moderado 55. O medicamento não deve ser\nprescrito para a população pediátrica, uma vez que a ATTR-PN não é uma doença presente nesta população55, nem para gestantes\ne lactantes56;\n        Tafamidis:\n        Para tratamento de pacientes com ATTR-CM, tafamidis 61 mg por VO, uma vez ao dia.\nNota: Por serem medicamentos diferentes, é importante ressaltar que tafamidis e tafamidis meglumina não são intercambiáveis por mg.",
+      "char_count": 765
+    },
+    {
+      "number": "6.3.1",
+      "title": "Eventos adversos",
+      "depth": 3,
+      "content": "Os eventos adversos em geral são leves e bem tolerados. Os mais comuns são diarreia, dor abdominal, infecção urinária\ne infecção vaginal55,56. Tafamidis contém sorbitol, portanto, pacientes com problemas hereditários de intolerância à frutose não\ndevem tomar este medicamento55.",
+      "char_count": 278
+    },
+    {
+      "number": "6.3.2",
+      "title": "Critérios de interrupção",
+      "depth": 3,
+      "content": "O tempo de tratamento com tafamidis deve ser monitorado para avaliação da necessidade de outra terapia, incluindo a\nrealização de transplante hepático55. Gestantes devem descontinuar o tratamento, podendo retomar após a gestação e período de\nlactação56. Como o medicamento não foi avaliado em pacientes com insuficiência hepática grave, é recomendada precaução no\nseu uso por essa população55.\n       Os critérios de interrupção do tratamento devem ser apresentados de forma clara ao paciente quando o medicamento\nestiver sendo considerado e antes de iniciar seu uso. Durante o acompanhamento clínico do paciente em tratamento\nmedicamentoso, os parâmetros de resposta terapêutica (incluindo as avaliações clínicas e laboratoriais conforme Quadro 3)\ndeverão ser avaliados periodicamente e discutidos com o paciente. No caso de interrupção por falha de adesão, recomenda-se\nque o paciente seja incentivado à adesão e, caso haja comprometimento explícito de seguimento das recomendações médicas, o\npaciente poderá retornar ao tratamento.",
+      "char_count": 1034
+    },
+    {
+      "number": "6.3.3",
+      "title": "Tratamento em populações específicas",
+      "depth": 3,
+      "content": "Os dados disponíveis em humanos são ainda limitados para avaliar o uso em mulheres grávidas. Na dose de 20 mg/dia\nou 80mg/dia, não foram identificados quaisquer riscos associados ao medicamento para defeitos congênitos graves, aborto\nespontâneo ou resultados maternos ou fetais adversos. Entretanto, com base em estudos em animais, este medicamento pode\ncausar danos fetais (com doses nove vezes maior do que a dose máxima recomendada em humanos). Não há estudos controlados\nconduzidos em gestações humanas56.\n       Não há dados específicos sobre o uso em humanos durante a lactação. O medicamento é excretado no leite em estudos\ncom animais. A segurança e a eficácia não foram estabelecidas em pacientes pediátricos 56.\n       Não houve efeitos de tafamidis na fertilidade, no desempenho reprodutivo ou no comportamento de acasalamento em\nratos em qualquer dose55. Sendo assim, o uso de tafamidis não é recomendado durante a gestação e a lactação 55.\n       Os pacientes que já se encontrarem em tratamento com tafamidis 61 mg quando da publicação deste PCDT deverão ser\nreavaliados quanto aos critérios de inclusão e exclusão neste Protocolo.\n\n\n       MONITORAMENTO\n\n\n       Após o início do tratamento, recomenda-se avaliação clínica e laboratorial em até três meses. O paciente deve ser\nacompanhado por equipe multiprofissional, preferencialmente incluindo nutrólogo e fisioterapeuta, neurologista, cardiologista,\nnefrologista, além de coleta de dados de IMC e anamnese completa semestrais. Ainda, o paciente deve ser avaliado anualmente\npor oftalmologista para acompanhamento, com especial atenção à medida de pressão ocular e avaliação do vítreo.\n       O cuidado do paciente deve ocorrer em Centro de Referência (CR), sempre que possível, por ser um serviço com equipe\nmultidisciplinar integrada de especialistas57, assegurando o adequado diagnóstico e acompanhamento.\n       Exames laboratoriais para medir a função renal, cardíaca, hepática, eletrólitos, glicemia, eletroforese de proteínas,\nlipidograma, exame de urina (EAS -Elementos Anormais do Sedimento, creatinina e proteína), eletroneuromiografia,\neletrocardiograma, holter, ecocardiograma, aferição da pressão arterial e marcadores bioquímicos (troponina) devem ser\n\nrealizados a cada 6 meses. Deve-se assumir uma frequência maior para pacientes que apresentem progressão da doença ou\nqualquer outra preocupação.\n        Após 12 meses de tratamento, pacientes com doença estável devem continuar o uso de tafamidis. Já os pacientes que\napresentarem progressão dos sinais ou sintomas devem ser avaliados para opções alternativas de tratamento, como o transplante\nhepático.\n        O médico assistente deve solicitar, periodicamente, informações sobre outros membros afetados da família ou avaliá-los.\nTambém deve avaliar se o paciente e sua família têm uma boa compreensão da doença e dos riscos reprodutivos, fornecendo ou\nencaminhando para orientação e aconselhamento genético adicionais, sempre que aplicável.\n        O Quadro 3 apresenta as avaliações para o acompanhamento de pacientes com ATTR, definindo períodos mínimos para\naquelas avaliações que têm por objetivo detectar a eficácia e segurança da terapia medicamentosa. A periodicidade das demais\navaliações deve ocorrer conforme critério do médico assistente. O seguimento de pacientes submetidos a transplante hepático\ndeve seguir a conduta adotada pelo centro transplantador.\n\n\nQuadro 3 - Avaliações para seguimento clínico dos pacientes com ATTR\n\n                                                                                                  Avaliação            A cada 6         A cada 12\n                                       Avaliações*\n                                                                                                    inicial              meses           meses\n Análise genética específica                                                                           X\n (gene TTR – presença de variante patogênica será detectada nos casos de\n ATTR-PN ou ATTR-CM hereditárias)\n História médica                                                                                       X                   X\n Aconselhamento genético                                                                               X\n Determinação da adesão ao acompanhamento/tratamento                                                                       X\n Avaliação nutricional (peso/altura/IMC)                                                               X                   X\n Avaliação de Sinais Vitais                                                                            X                   X\n Aplicação de questionário de qualidade de vida validado                                               X                                   X\n AVALIAÇÃO LABORATORIAL                                                                                X                   X\n [função renal, hepática, íons, glicemia, eletroforese de proteínas,\n lipidograma, exame de urina (EAS, creatinina e proteína)]\n AVALIAÇÃO NEUROLÓGICA\n - Exame neurológico clínico                                                                           X                   X\n [incluir escalas como polyneuropathy disability score (PND) e avaliação\n sensitivo-motora pelo neuropathy impairmet score (NIS)]\n - Eletroneuromiografia                                                                                X                   X\n AVALIAÇÃO CARDIOLÓGICA**\n - Eletrocardiograma                                                                                   X\n - Ecocardiograma                                                                                      X\n - Holter                                                                                              X\n - Laboratório (BNP ou NT-próBNP e troponina)                                                          X\n AVALIAÇÃO OFTALMOLÓGICA (pressão ocular e avaliação do vítreo)                                        X                                   X\n* Para pacientes em tratamento específico. As demais avaliações devem ser realizadas em períodos determinados pelo médico assistente.\n**A periodicidade da avaliação depende da forma da ATTR-CM e da evolução clínica.\n\nLegenda: IMC= Índice de Massa Corpórea; EAS (Elementos Anormais do Sedimento); BNP = peptídeo natriurético cerebral, do inglês brain natriuretic\npeptide; NT-próBNP = porção N-terminal do precursor de BNP.\n\n\n\n        REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR\n\n\n        Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e a monitorização do\ntratamento bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso do medicamento.\n        O tratamento das ATTR deve ser feito por equipe em serviços especializados ou de referência em doenças raras, para fins\nde diagnóstico e de acompanhamento dos pacientes e de suas famílias e realização de testes pré-sintomáticos para familiares.\nComo o controle da doença exige experiência e familiaridade com manifestações clínicas associadas, convém que o médico\nresponsável tenha experiência e seja treinado nessa atividade.\n        Os serviços especializados ou de referência têm de estar capacitados com equipe multiprofissional que abranja\nneurologista com expertise em doenças neuromusculares e eletrofisiologia, cardiologista, ecocardiografistas, nefrologistas,\noftalmologistas, gastroenterelogistas, neuropatologistas, hematologistas, geneticistas, fisiatras, especialistas em cintilografia e\noutros métodos de imagem como a ressonância magnética, nutricionistas, psicólogos e psiquiatras.\n        Cabe destacar que, sempre que possível, o atendimento da pessoa com ATTR deve ocorrer por equipe multiprofissional,\npossibilitando o desenvolvimento de Projeto Terapêutico Singular (PTS) e a adoção de terapias de apoio, conforme sua\nnecessidade funcional e as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de Saúde (SUS).\n        Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência\nFarmacêutica se encontra o medicamento preconizado neste Protocolo.\n        Os estados e municípios deverão manter atualizadas as informações referentes aos registros de estoque, distribuição e\ndispensação dos medicamentos e encaminhar estas informações ao Ministério da Saúde, via Base Nacional de Dados de Ações\ne Serviços da Assistência Farmacêutica no âmbito do Sistema Único de Saúde (BNAFAR), conforme as normativas vigentes.\n        A indicação de transplante deve observar o Regulamento Técnico do Sistema Nacional de Transplantes vigente e as idades\nmínima e máxima atribuídas aos respectivos procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e\nMateriais Especiais do SUS.\n        Os receptores submetidos a transplante originários dos próprios hospitais transplantadores, neles devem continuar sendo\nassistidos e acompanhados. Os demais receptores transplantados deverão, efetivada a alta do hospital transplantador, ser\ndevidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência e acompanhamento. A\ncomunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte, sempre que necessário, com a\norientação do hospital transplantador e este, com as informações atualizadas sobre a evolução dos transplantados.\n        Em 2014, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças Raras\n(PNAIPDR) e aprovou as Diretrizes para Atenção Integral às Pessoas com doenças raras no âmbito do SUS, por meio da Portaria\nGM/MS nº 199, de 30 de janeiro de 2014. A política tem abrangência transversal na Rede de Atenção à Saúde (RAS) e, como\nobjetivo, reduzir a mortalidade, contribuir para a redução da morbimortalidade e das manifestações secundárias, além de\nmelhorar a qualidade de vida das pessoas, por meio de ações de promoção, prevenção, detecção precoce, tratamento oportuno,\nredução de incapacidade e cuidados paliativos.\n        A linha de cuidado da atenção aos usuários com demanda para a realização das ações na PNAIPDR é estruturada pela\nAPS e Atenção Especializada à Saúde (AES), em conformidade com a Rede de Atenção à Saúde (RAS) e seguindo as Diretrizes\npara Atenção Integral às Pessoas com Doenças Raras no SUS. A APS é responsável pela coordenação do cuidado e por realizar\na atenção contínua da população que está sob sua responsabilidade adstrita, além de ser a porta de entrada prioritária do usuário\n\nna RAS. Já a AES é responsável pelo conjunto de pontos de atenção com diferentes densidades tecnológicas para a realização\nde ações e serviços de urgência, ambulatorial especializado e hospitalar, apoiando e complementando os serviços da APS.\n       Os hospitais universitários, federais e estaduais, em torno de 50 em todo o Brasil, e as associações beneficentes e\nvoluntárias são o locus da atenção à saúde dos pacientes com doenças raras.\n       Porém, para reforçar o atendimento clínico e laboratorial, o Ministério da Saúde incentiva a criação de serviços da AES,\nassim classificados:\n       - Serviço de Atenção Especializada em Doenças Raras: presta serviço de saúde para uma ou mais doenças raras; e\n       - Serviço de Referência em Doenças Raras: presta serviço de saúde para pacientes com doenças raras pertencentes a, no\nmínimo, dois eixos assistenciais (doenças raras de origem genética e de origem não genética).\n       No que diz respeito ao financiamento desses serviços, para além do ressarcimento pelos diversos atendimentos\ndiagnósticos e terapêuticos clínicos e cirúrgicos e a assistência farmacêutica, o Ministério da Saúde instituiu incentivo financeiro\nde custeio mensal para os serviços de AES em doenças raras.\n       Assim, o atendimento de pacientes com doenças raras é feito, prioritariamente, na APS, principal porta de entrada para o\nSUS e, se houver necessidade, o paciente será encaminhado para atendimento especializado em unidade de média ou alta\ncomplexidade.\n       Considerando que cerca de 80% das doenças raras são de origem genética, o Aconselhamento Genético (AG) é\nfundamental na atenção às famílias e pacientes com essas doenças. O AG é um processo de comunicação que lida com os\nproblemas humanos associados à ocorrência ou ao risco de ocorrência de uma doença genética em uma família. Este processo\nenvolve a participação de pessoas adequadamente capacitadas, com o objetivo de ajudar o indivíduo e a família a compreender\nos aspectos envolvidos, incluindo o diagnóstico, o curso provável da doença e os cuidados disponíveis.\n\n\n       TERMO DE ESCLARECIMENTO E RESPONSABILIDADE (TER)\n\n\n       Recomenda-se informar o paciente ou seu responsável legal sobre os potenciais riscos, benefícios e efeitos adversos\nrelacionados ao uso dos medicamentos preconizados neste Protocolo, levando-se em consideração as informações contidas no\nTermo de Esclarecimento e Responsabilidade (TER).\n\n\n       REFERÊNCIAS",
+      "char_count": 13012
+    },
+    {
+      "number": "1",
+      "title": "Westermark P, Benson MD, Buxbaum JN, Cohen AS, Frangione B, Ikeda S-I, et al. A primer of amyloid nomenclature.",
+      "depth": 1,
+      "content": "Amyloid. 2007;14(3):179–83.",
+      "char_count": 27
+    },
+    {
+      "number": "2",
+      "title": "Cohen AD, Comenzo RL. Systemic light-chain amyloidosis: advances in diagnosis, prognosis, and therapy. Hematology.",
+      "depth": 1,
+      "content": "2010;2010(1):287–94.",
+      "char_count": 20
+    },
+    {
+      "number": "3",
+      "title": "Merlini G, Bellotti V. Molecular mechanisms of amyloidosis. N Engl J Med. 2003;349:583–96.",
+      "depth": 1,
+      "content": "4. Sekijima Y. Hereditary Transthyretin Amyloidosis. 2001 Nov 5 [Updated 2021 Jun 17]. In: Adam MP, Mirzaa GM, Pagon RA,\n   et al., editors. GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 1993-2023.",
+      "char_count": 225
+    },
+    {
+      "number": "5",
+      "title": "Hamilton JA, Benson MD. Transthyretin: a review from a structural perspective. Cell Mol Life Sci. 2001;58(10):1491–521.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "6",
+      "title": "Planté-Bordeneuve V. Update in the diagnosis and management of transthyretin familial amyloid polyneuropathy. J Neurol.",
+      "depth": 1,
+      "content": "2014;261:1227–33.",
+      "char_count": 17
+    },
+    {
+      "number": "7",
+      "title": "González-López E, López-Sainz Á, Garcia-Pavia P. Diagnosis and Treatment of Transthyretin Cardiac Amyloidosis. Progress",
+      "depth": 1,
+      "content": "and Hope. Rev Esp Cardiol (Engl Ed). 2017 Nov;70(11):991-1004. English, Spanish. doi: 10.1016/j.rec.2017.05.036. Epub 2017\n   Sep 1.",
+      "char_count": 132
+    },
+    {
+      "number": "8",
+      "title": "Adams D, Koike H, Slama M, Coelho T. Hereditary transthyretin amyloidosis: a model of medical progress for a fatal disease.",
+      "depth": 1,
+      "content": "Nat Rev Neurol 2019;15(07):387–404.",
+      "char_count": 35
+    },
+    {
+      "number": "9",
+      "title": "Conceicão I, Carvalho M. Clinical variability in type I familial amyloid polyneuropathy (Val30Met): Comparison between",
+      "depth": 1,
+      "content": "late- and early-onset cases in Portugal. Muscle Nerve. 2007;35(1):116–8.",
+      "char_count": 72
+    },
+    {
+      "number": "10",
+      "title": "Cruz MW. Regional differences and similarities of familial amyloidotic polyneuropathy (FAP) presentation in Brazil.",
+      "depth": 1,
+      "content": "Amyloid. 2012;19(Suppl.1):65–7.",
+      "char_count": 31
+    },
+    {
+      "number": "11",
+      "title": "Parman Y, Adams D, Obici L, et al; European Network for TTR-FAP (ATTReuNET) Sixty years of transthyretin familial",
+      "depth": 1,
+      "content": "amyloid polyneuropathy (TTR-FAP) in Europe: where are we now? A European network approach to defining the\n   epidemiology and management patterns for TTR-FAP. Curr Opin Neurol 2016;29(Suppl 1, Suppl 1)S3–S13.",
+      "char_count": 208
+    },
+    {
+      "number": "12",
+      "title": "Schmidt HWC. M.; Botteman, M.F.; Carter, J.A.; Chopra, A.S.; Stewart, M.; Hopps, M.; Fallet, S.; Amass, L. Global",
+      "depth": 1,
+      "content": "prevalence estimates of transthyretin familial amyloid polyneuropathy (ATTR-FAP): a systematic review and projections.\n   The 19th annual European Congress of International Society for Pharmacoeconomics and Outcomes Research. Vienna,\n   Austria2016.\n13. Benson MD, Dasgupta NR, Rao R. Diagnosis and Screening of Patients with Hereditary Transthyretin Amyloidosis (hATTR):\n   Current Strategies and Guidelines. Ther Clin Risk Manag 2020; 16:749–758.",
+      "char_count": 448
+    },
+    {
+      "number": "14",
+      "title": "Cruz MW, Pinto MV, Pinto LF, et al. Baseline disease characteristics in Brazilian patients enrolled in Transthyretin",
+      "depth": 1,
+      "content": "Amyloidosis Outcome Survey (THAOS). Arq Neuropsiquiatr 2019;77(02): 96–100.",
+      "char_count": 75
+    },
+    {
+      "number": "15",
+      "title": "Jacobson DR, Pastore R, Pool S, Malendowicz S, Kane I, Shivji A, et al. Revised transthyretin Ile 122 allele frequency in",
+      "depth": 1,
+      "content": "African-Americans. Hum Genet. 1996;98:236–8.\n16. Pinto MV, França MC Jr, Gonçalves MVM, Machado-Costa MC, Freitas MRG, Gondim FAA, Marrone CD, Martinez ARM,\n   Moreira CL, Nascimento OJM, Covaleski APP, Oliveira ASB, Pupe CCB, Rodrigues MMJ, Rotta FT, Scola RH, Marques\n   W Jr, Waddington-Cruz M. Brazilian consensus for diagnosis, management and treatment of hereditary transthyretin\n   amyloidosis with peripheral neuropathy: second edition. Arq Neuropsiquiatr. 2023 Mar;81(3):308-321.\n17. Simões MV, et al. Posicionamento sobre Diagnóstico e Tratamento da Amiloidose Cardíaca – 2021. Arq Bras Cardiol. 2021;\n   117(3):561-598.\n18. Sekijima, Y., Ueda, M., Koike, H. et al. Correction to: Diagnosis and management of transthyretin familial amyloid\n   polyneuropathy in Japan: red-flag symptom clusters and treatment algorithm. Orphanet J Rare Dis 14, 111 (2019).",
+      "char_count": 864
+    },
+    {
+      "number": "19",
+      "title": "Sousa A, Coelho T, Barros J, Sequeiros J. Genetic epidemiology of familial amyloidotic polyneuropathy (FAP)-type I in",
+      "depth": 1,
+      "content": "Povoa do Varzim and Vila do Conde (North of Portugal). Am J Med Genet - Neuropsychiatr Genet. 1995;60:512–21.",
+      "char_count": 109
+    },
+    {
+      "number": "20",
+      "title": "Holmgren G, Costa PM, Andersson C, Asplund K, Steen L, Beckman L, et al. Geographical distribution of TTR met30",
+      "depth": 1,
+      "content": "carriers in northern Sweden: discrepancy between carrier frequency and prevalence rate. J Med Genet. 1994;31:351–4.",
+      "char_count": 115
+    },
+    {
+      "number": "21",
+      "title": "Bittencourt P, Couto C, Clemente C, Farias A, Palácios S, Mies S, et al. Phenotypic expression of familial amyloid",
+      "depth": 1,
+      "content": "polyneuropathy in Brazil. Eur J Neurol. 2005;12(4):289–93.",
+      "char_count": 58
+    },
+    {
+      "number": "22",
+      "title": "Bittencourt P, Couto C, Farias A, Marchiori P, Massarollo P, Mies S. Results of liver transplantation for familial amyloid",
+      "depth": 1,
+      "content": "polyneuropathy type I in Brazil. Liver Transpl. 2002;8(1):34–9.",
+      "char_count": 63
+    },
+    {
+      "number": "23",
+      "title": "Lavigne-Moreira C, Marques VD, Gonçalves MVM, de Oliveira MF, Tomaselli PJ, Nunez JC, do Nascimento OJM, Barreira",
+      "depth": 1,
+      "content": "AA, Marques W Jr. The genetic heterogeneity of hereditary transthyretin amyloidosis in a sample of the Brazilian population.\n   J Peripher Nerv Syst. 2018 Jun;23(2):134-137.\n\n24. Fábio Fernandes, Georgina del Cisne Jadán Luzuriaga, Guilherme Wesley Peixoto da Fonseca, Edileide Barros Correia,\n   Alzira Alves Siqueira Carvalho AVSM et al. Clinical and genetic profiles of patients with hereditary and wild-type\n   transthyretin amyloidosis: the Transthyretin Cardiac Amyloidosis Registry in the state of São Paulo, Brazil (REACT-SP).\n   Orphanet J Rare Dis. 2024;19(1):273.",
+      "char_count": 574
+    },
+    {
+      "number": "25",
+      "title": "Conceição I. Clínica e história natural da polineuropatia amiloidotica familiar. Sinapse. 2006;6(Suppl.1):86–90.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "26",
+      "title": "Ando Y, Coelho T, Berk JL, Cruz MW, Ericzon B-G, Ikeda S, et al. Guideline of transthyretin related hereditary amyloidosis",
+      "depth": 1,
+      "content": "for clinicians. Orphanet J Rare Dis. 2013;8:31.",
+      "char_count": 47
+    },
+    {
+      "number": "27",
+      "title": "Gertz MA, Dispenzieri A. Systemic Amyloidosis Recognition, Prognosis, and Therapy: A Systematic Review. JAMA.",
+      "depth": 1,
+      "content": "2020;324(1):79-89.",
+      "char_count": 18
+    },
+    {
+      "number": "28",
+      "title": "Lobato L, Beirão I, Silva M, Fonseca I, Queiros J, Rocha G, Sarmento AM, Sousa A, Sequeiros J. End-stage renal disease",
+      "depth": 1,
+      "content": "and dialysis in hereditary amyloidosis TTR V30M: presentation, survival and prognostic factors. Amyloid. 2004;11:27–37.",
+      "char_count": 119
+    },
+    {
+      "number": "29",
+      "title": "Wixner J, Mundayat R, Karayal ON, Anan I, Karling P, Suhr OB. THAOS: Gastrointestinal manifestations of transthyretin",
+      "depth": 1,
+      "content": "amyloidosis - common complications of a rare disease. Orphanet J Rare Dis. 2014;9:1–9.",
+      "char_count": 86
+    },
+    {
+      "number": "30",
+      "title": "Fonseca I. Emagrecimento e desnutrição na Polineuropatia Amiloidótica Familiar de tipo português. Sinapse.",
+      "depth": 1,
+      "content": "2006;6(Suppl.1):121–4.",
+      "char_count": 22
+    },
+    {
+      "number": "31",
+      "title": "Ando E, Ando Y, Okamura R, Uchino M, Ando M, Negi A. Ocular manifestations of familial amyloidotic polyneuropathy",
+      "depth": 1,
+      "content": "type I: long term follow up. Br J Ophthamology. 1997;81:295–8.",
+      "char_count": 62
+    },
+    {
+      "number": "32",
+      "title": "Andrade M. Introdução às alterações vésico-esfincterianas na polineuropatia amiloidótica familiar. Sinapse.",
+      "depth": 1,
+      "content": "2006;6(Suppl.1):103–9.\n33. Maia LF, Magalhaes R, Freitas J, Taipa R, Pires MM, Osorio H, et al. CNS involvement in V30M transthyretin amyloidosis:\n   clinical, neuropathological and biochemical findings. J Neurol Neurosurg Psychiatry. 2014;86(2):159–67.",
+      "char_count": 253
+    },
+    {
+      "number": "34",
+      "title": "Sousa L, Coelho T, Taipa R. CNS Involvement in Hereditary Transthyretin Amyloidosis. Neurology 2021;97(24):1111–1119.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "35",
+      "title": "Quintanilha GS, Cruz MW, Silva MTT, Chimelli L. Oculoleptomeningeal Amyloidosis Due to Transthyretin p.Y89H (Y69H)",
+      "depth": 1,
+      "content": "Variant. J Neuropathol Exp Neurol 2020;79(10):1134–1136.",
+      "char_count": 56
+    },
+    {
+      "number": "36",
+      "title": "Ministério da Saúde (Brasil). Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC). Relatório de",
+      "depth": 1,
+      "content": "recomendação: Tafamidis meglumina no tratamento da polineuropatia amiloidótica familiar relacionada à proteína\n   transtirretina. Brasília: Ministério da Saúde; 2018. 43 p.\n37. Ando Y, Adams D, Benson MD, Berk JL, Planté-Bordeneuve V, Coelho T, Conceição I, Ericzon BG, Obici L, Rapezzi C,\n   Sekijima Y, Ueda M, Palladini G, Merlini G. Guidelines and new directions in the therapy and monitoring of ATTRv\n   amyloidosis. Amyloid. 2022 Sep;29(3):143-155.",
+      "char_count": 454
+    },
+    {
+      "number": "38",
+      "title": "Writing Committee; Kittleson MM, Ruberg FL, Ambardekar AV, Brannagan TH, Cheng RK, Clarke JO, Dember LM, Frantz",
+      "depth": 1,
+      "content": "JG, Hershberger RE, Maurer MS, Nativi-Nicolau J, Sanchorawala V, Sheikh FH. 2023 ACC Expert Consensus Decision\n   Pathway on Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis: A Report of the American\n   College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2023 Mar 21;81(11):1076-1126.",
+      "char_count": 336
+    },
+    {
+      "number": "39",
+      "title": "Carretero M, Sáez MS, Posadas-Martínez ML, Aguirre MA, Sorroche P, Negro A, Calandra CR, Salutto V, Lautre A, Conti",
+      "depth": 1,
+      "content": "E, León-Cejas L, Reisin R, Nucifora EM, Rugiero M. Guía de práctica clínica de tratamiento de la polineuropatía amiloidótica\n   familiar [Practice guideline for the treatment of familial amyloid polyneuropathy]. Medicina (B Aires). 2022;82(2):262-274.",
+      "char_count": 251
+    },
+    {
+      "number": "40",
+      "title": "Coutinho P DA, Lima J L, Barbosa A R. Amsterdam: Excerpta Medica; 1980. Forty years of experience with type I amyloid",
+      "depth": 1,
+      "content": "neuropathy: review of 483 cases; pp. 88–98.",
+      "char_count": 43
+    },
+    {
+      "number": "41",
+      "title": "Ministério da Saúde. Ministério da Saúde. 2024. p. 39 Portaria SAES/SECTICS no 10, de 13 de setembro de 2024. Aprova o",
+      "depth": 1,
+      "content": "Protocolo Clínico e Diretrizes Terapêuticas da Insuficiência Cardíaca com Fração de Ejeção Reduzida. Available from:\n   https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-de-insuficiencia-cardiaca",
+      "char_count": 201
+    },
+    {
+      "number": "42",
+      "title": "Brasil. Ministério da Saúde. Gabinete do Ministro. Portaria no 2.600, de 21 de outubro de 2009: Aprova o Regulamento",
+      "depth": 1,
+      "content": "Técnico      do         Sistema        Nacional      de    Transplantes      [Internet].         2009.     Available      from:\n   http://bvsms.saude.gov.br/bvs/saudelegis/gm/2009/prt2600_21_10_2009.html",
+      "char_count": 203
+    },
+    {
+      "number": "43",
+      "title": "Ministério da Saúde (Brasil). Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC). Relatório de",
+      "depth": 1,
+      "content": "recomendação: Tafamidis no tratamento de pacientes com cardiomiopatia amiloide associada à transtirretina (selvagem ou\n   hereditária), classes NYHA II e III acima de 60 anos de idade. Brasília: Ministério da Saúde; 2022. 58 p.",
+      "char_count": 227
+    },
+    {
+      "number": "44",
+      "title": "Suhr O. Impact of liver transplantation on familial amyloidotic polyneuropathy (FAP) patients’ symptoms and complications.",
+      "depth": 1,
+      "content": "Amyloid. 2003;10(Suppl. 1):77–83.",
+      "char_count": 33
+    },
+    {
+      "number": "45",
+      "title": "Drent G, Graveland CW, Hazenberg BPC, Haagsma EB. Quality of life in patients with familial amyloidotic polyneuropathy",
+      "depth": 1,
+      "content": "long-term after liver transplantation. Amyloid. 2009;16(3):133–41.",
+      "char_count": 66
+    },
+    {
+      "number": "46",
+      "title": "Okamoto S, Zhao Y, Lindqvist P, Backman C, Ericzon BG, Wijayatunga P, Henein MY, Suhr OB. Development of",
+      "depth": 1,
+      "content": "cardiomyopathy after liver transplantation in Swedish hereditary transthyretin amyloidosis (ATTR) patients. Amyloid. 2011;\n   Dec;18(4):200-5.",
+      "char_count": 142
+    },
+    {
+      "number": "47",
+      "title": "Sack FU, Kristen A, Goldschmidt H, Schnabel PA, Dengler T, Koch A, Karck M. Treatment options for severe cardiac",
+      "depth": 1,
+      "content": "amyloidosis: heart transplantation combined with chemotherapy and stem cell transplantation for patients with AL-\n   amyloidosis and heart and liver transplantation for patients with ATTR-amyloidosis. Eur J Cardiothorac Surg. 2008\n   Feb;33(2):257-62.",
+      "char_count": 251
+    },
+    {
+      "number": "48",
+      "title": "Cruz MW, Amass L, Keohane D, Schwartz J, Li H, Gundapaneni B. Early intervention with tafamidis provides long-term",
+      "depth": 1,
+      "content": "(5.5-year) delay of neurologic progression in transthyretin hereditary amyloid polyneuropathy. Amyloid. 2016;23(3):178–83.\n49. Coelho T, Maia LF, Martins A, Waddington M. Tafamidis for transthyretin familial amyloid polyneuropathy: a randomized,\n   controlled trial. Neurology. 2012;79:785–92.",
+      "char_count": 293
+    },
+    {
+      "number": "50",
+      "title": "Coelho T, Maia LF, da Silva AM, Cruz MW, Planté-Bordeneuve V, Suhr OB, et al. Long-term effects of tafamidis for the",
+      "depth": 1,
+      "content": "treatment of transthyretin familial amyloid polyneuropathy. J Neurol. 2013;260(11):2802–14.",
+      "char_count": 91
+    },
+    {
+      "number": "51",
+      "title": "Suhr OB, Conceição IM, Karayal ON, Mandel FS, Huertas PE, Ericzon B. Post hoc analysis of nutritional status in patients",
+      "depth": 1,
+      "content": "with transthyretin familial amyloid polyneuropathy: impact of tafamidis. Neurol Ther. 2014;3(2):101–12.",
+      "char_count": 103
+    },
+    {
+      "number": "52",
+      "title": "Merlini G, Planté-Bordeneuve V, Judge DP, Schmidt H, Obici L, Perlini S, et al. Effects of tafamidis on transthyretin",
+      "depth": 1,
+      "content": "stabilization and clinical outcomes in patients with non-Val30Met transthyretin amyloidosis. J Cardiovasc Transl Res.\n   2013;6(6):1011–20.",
+      "char_count": 139
+    },
+    {
+      "number": "53",
+      "title": "Ministério da Saúde (Brasil). Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC). Relatório de",
+      "depth": 1,
+      "content": "recomendação nº 799: Inotersena para o tratamento da polineuropatia amiloidótica familiar relacionada à transtirretina em\n   pacientes adultos em estágio 2 ou pacientes não respondedores a tafamidis meglumina. Portaria SECTICS/MS nº 24/2023 -\n   Publicada               em         11/05/2023.             Disponível          em:                https://www.gov.br/conitec/pt-\n   br/midias/relatorios/2023/20230511_relatorio_799_inotersena_pafttr.pdf",
+      "char_count": 448
+    },
+    {
+      "number": "54",
+      "title": "Ministério da Saúde (Brasil). Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC). Relatório de",
+      "depth": 1,
+      "content": "recomendação nº 800: Patisirana no tratamento de pacientes diagnosticados com amiloidose hereditária relacionada à\n   transtirretina (ATTRh) com polineuropatia em estágio 2 ou que apresentem resposta inadequada ao tafamidis. Portaria\n   SECTICS/MS         nº    58/2023   –     Publicada    em   20/10/2023.    Disponível       em:    https://www.gov.br/conitec/pt-\n   br/midias/relatorios/2023/copy_of_Relatorioderecomendacao800Patisirana_para_ATTRh_polineuropatia.pdf",
+      "char_count": 469
+    },
+    {
+      "number": "55",
+      "title": "Pfizer U.S. Pharmaceuticals Group. Product Information. Vyndaqel (tafamidis). 2019.",
+      "depth": 1,
+      "content": "56. Verma B, Patel P. Tafamidis. [Updated 2023 May 29]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing;",
+      "char_count": 127
+    },
+    {
+      "number": "2023",
+      "title": "Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK574508/",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "57",
+      "title": "BRASIL. Ministério da Saúde. Gabinete do Ministro. Portaria nº 199, de 30 de janeiro de 2014. Brasília, 2014.",
+      "depth": 1,
+      "content": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE TAFAMIDIS, TAFAMIDIS MEGLUMINA\n\n\n       Eu, ______________________________________________________________________________________ (nome\ndo (a) paciente), declaro ter sido informado (a) claramente sobre benefícios, riscos, contraindicações e principais eventos\nadversos relacionados ao uso de tafamidis meglumina ou tafamidis, indicada para o tratamento da polineuropatia amiloide\npor Transtirretina (ATTR-PN) hereditária ou cardiomiopatia amiloide por Transtirretina (ATTR-CM) hereditária ou\nselvagem, respectivamente.\n       Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas pelo(a) médico(a) __________________\n______________________________________________________________________ (nome do(a) médico(a) que prescreve).\n       Assim, declaro que fui claramente informado (a) de que o medicamento que passo a receber pode trazer os seguintes\nbenefícios:\n       - Posterga a progressão da neuropatia periférica;\n       - Melhora a condição nutricional.\n\n\n       Fui também claramente informado (a) a respeito das seguintes contraindicações, potenciais eventos adversos, riscos e\nprecauções:\n       - Medicamento classificado na gestação como fator de risco C (os estudos em animais revelaram toxicidade reprodutiva,\nportanto, não é recomendado seu uso durante a gravidez ou em mulheres com potencial para engravidar que não utilizam métodos\ncontraceptivos);\n       - Contraindicado em casos de hipersensibilidade (alergia) ao fármaco ou aos componentes da fórmula;\n       - Pacientes com problemas hereditários de intolerância à frutose não devem tomar este medicamento;\n       - Mulheres com potencial para engravidar deverão utilizar um método contraceptivo eficaz durante o tratamento com\ntafamidis ou tafamidis meglumina e durante um mês após o tratamento, devido à meia-vida prolongada;\n       - O tafamidis e o tafamidis meglumina não devem ser utilizados durante a amamentação, pois os dados farmacodinâmicos\ne toxicológicos disponíveis em animais mostraram excreção de tafamidis e tafamidis meglumina no leite; assim não pode ser\nexcluído qualquer risco para os recém-nascidos e lactentes;\n       - Os eventos adversos em geral são leves e bem tolerados, sendo que os mais comuns são diarreia, dor abdominal e\ninfecção urinária.\n\n\n       Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a devolvê-lo caso não\nqueira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que continuarei a ser atendido (a), inclusive se\ndesistir de usar o medicamento.\n\n\n       Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas ao meu tratamento,\ndesde que assegurado o anonimato.\n       (   ) Sim (   ) Não\n\n\n       Meu tratamento constará do seguinte medicamento:\n       (   ) Tafamidis meglumina 20 mg (     ) Tafamidis 61mg\n\nLocal:                                            Data:\nNome do paciente:\nCartão Nacional de Saúde:\nNome do responsável legal:\nDocumento de identificação do responsável legal:\n\n\n                                              _____________________________________\n                                             Assinatura do paciente ou do responsável legal\nMédico responsável:                                                                                        CRM:                       UF:\n\n\n                                                     ___________________________\n                                                      Assinatura e carimbo do médico\n                                                       Data:____________________\nNOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência Farmacêutica no SUS se encontra\no medicamento preconizado neste Protocolo.\n\n                                                       APÊNDICE 1\n                           METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA\n\n\n       Escopo e finalidade do Protocolo\n\n\n       O presente apêndice consiste no documento de trabalho do grupo elaborador da atualização do Protocolo Clínico e\nDiretrizes Terapêuticas (PCDT) das Amiloidoses associadas à Transtirretina (ATTR), contendo a descrição da metodologia de\nbusca de evidências científicas, as recomendações e seus julgamentos (fundamentos para a tomada de decisão), tendo como\nobjetivo embasar o texto do PCDT, aumentar a sua transparência e prover considerações adicionais para profissionais da saúde,\ngestores e demais potenciais interessados.\n       O grupo desenvolvedor desta diretriz foi composto por um painel de especialistas sob coordenação do Departamento de\nGestão e Incorporação de Tecnologias em Saúde da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-\nIndustrial da Saúde do Ministério da Saúde (DGITS/SECTICS/MS).\n       Todos os participantes do processo de elaboração do PCDT preencheram o formulário de Declaração de Conflitos de\nInteresse, que foram enviados ao Ministério da Saúde para análise prévia às reuniões de escopo e formulação de recomendações.\n       Esta proposta de atualização do Protocolo Clínico e Diretrizes Terapêuticas (PCDT) tem como finalidade atualizar as\nrecomendações do Ministério da Saúde (MS) para diagnóstico, tratamento, monitoramento e acompanhamento de pessoas com\nAmiloidose relacionada à Transtirretina (ATTR) atendidos no Sistema Único de Saúde (SUS), e não somente àquelas portadoras\ndo fenótipo de polineuropatia amiloide por transtirretina (ATTR-PN) hereditária. A atualização contemplou mudanças nos\ncuidados e monitoramento dos pacientes nos últimos anos.\n       O processo de atualização deste PCDT foi conduzido de acordo com a Diretriz Metodológica de Elaboração de Diretrizes\nClínicas do Ministério da Saúde (2020) e incluiu buscas e avaliação da literatura científica disponível sobre pessoas com\nAmiloidose relacionada à transtirretina (ATTR). Os achados foram traduzidos em recomendações voltadas à assistência no SUS,\nformuladas por um painel de especialistas no tema e representantes de pacientes. Neste contexto, o PCDT constitui um\ninstrumento que confere segurança e efetividade clínica de modo organizado e acessível, com base nas melhores evidências\ncientíficas disponíveis.\n       A partir da versão do PCDT publicada pela Portaria Conjunta SAES-SCTIE/MS nº 22, de 02 de outubro de 2018, foram\nincluídos estudos, diretrizes e as avaliações da Conitec realizadas após essa data para a atualização das evidências e das\nrecomendações sobre o tema, bem como a atualização de dados epidemiológicos.\n\n\n       Equipe de elaboração e partes interessadas\n\n\n       A proposta inicial de atualização do PCDT das Amiloidoses associadas à Transtirretina (ATTR) foi inicialmente discutida\ndurante a reunião de pré-escopo, ocorrida em 06 de dezembro de 2022. A reunião teve a presença de metodologistas e\nespecialistas do Grupo Elaborador, representantes da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-\nIndustrial da Saúde (SECTICS) e Secretaria de Atenção Especializada em Saúde (SAES).\n       Posteriormente, o escopo do documento foi discutido na reunião de escopo, ocorrida em 08 de maio de 2023. A reunião\nteve a presença de metodologistas e especialistas do Grupo Elaborador, representantes da SECTICS e SAES, representantes de\npacientes, de sociedades médicas e especialistas convidados.\n       O Protocolo foi atualizado pelo Núcleo de Avaliação de Tecnologias do Hospital de Clínicas de Porto Alegre (HCPA).\n\n        Todos os membros votantes e metodologistas do Grupo Elaborador declararam seus conflitos de interesse, utilizando a\nDeclaração de Potenciais Conflitos de Interesse (Quadro A).\n\nQuadro A - Questionário de conflitos de interesse diretrizes clínico-assistenciais.",
+      "char_count": 7786
+    },
+    {
+      "number": "1",
+      "title": "Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos benefícios abaixo?",
+      "depth": 1,
+      "content": "Reembolso por comparecimento a eventos na área de interesse da diretriz                                        ( ) Sim\n                                                                                                                ( ) Não\n Honorários por apresentação, consultoria, palestra ou atividades de ensino                                     ( ) Sim\n                                                                                                                ( ) Não\n Financiamento para redação de artigos ou editorias                                                             ( ) Sim\n                                                                                                                ( ) Não\n Suporte para realização ou desenvolvimento de pesquisa na área                                                 ( ) Sim\n                                                                                                                ( ) Não\n Recursos ou apoio financeiro para membro da equipe                                                             ( ) Sim\n                                                                                                                ( ) Não\n Algum outro benefício financeiro                                                                               ( ) Sim\n                                                                                                                ( ) Não",
+      "char_count": 1438
+    },
+    {
+      "number": "2",
+      "title": "Você possui apólices ou ações de alguma empresa que possa de alguma forma ser beneficiada ou                ( ) Sim",
+      "depth": 1,
+      "content": "prejudicada com as recomendações da diretriz?                                                                  ( ) Não",
+      "char_count": 118
+    },
+    {
+      "number": "3",
+      "title": "Você possui algum direito de propriedade intelectual (patentes, registros de marca, royalties) de alguma    ( ) Sim",
+      "depth": 1,
+      "content": "tecnologia ligada ao tema da diretriz?                                                                         ( ) Não",
+      "char_count": 118
+    },
+    {
+      "number": "4",
+      "title": "Você já atuou como perito judicial na área tema da diretriz?                                                ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "5",
+      "title": "Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados pela sua",
+      "depth": 1,
+      "content": "atividade na elaboração ou revisão da diretriz?\n a) Instituição privada com ou sem fins lucrativos                                                              ( ) Sim\n                                                                                                                ( ) Não\n b) Organização governamental ou não-governamental                                                              ( ) Sim\n                                                                                                                ( ) Não\n c) Produtor, distribuidor ou detentor de registro                                                              ( ) Sim\n                                                                                                                ( ) Não\n d) Partido político                                                                                            ( ) Sim\n                                                                                                                ( ) Não\n e) Comitê, sociedade ou grupo de trabalho                                                                      ( ) Sim\n                                                                                                                ( ) Não\n f) Outro grupo de interesse                                                                                    ( ) Sim\n                                                                                                                ( ) Não",
+      "char_count": 1487
+    },
+    {
+      "number": "6",
+      "title": "Você poderia ter algum tipo de benefício clínico?                                                           ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "7",
+      "title": "Você possui uma ligação ou rivalidade acadêmica com alguém cujos interesses possam ser afetados?            ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "8",
+      "title": "Você possui profunda convicção pessoal ou religiosa que pode comprometer o que você irá escrever e que       ( ) Sim",
+      "depth": 1,
+      "content": "deveria ser do conhecimento público?                                                                            ( ) Não",
+      "char_count": 119
+    },
+    {
+      "number": "9",
+      "title": "Existe algum aspecto do seu histórico profissional, que não esteja relacionado acima, que possa afetar sua   ( ) Sim",
+      "depth": 1,
+      "content": "objetividade ou imparcialidade?                                                                                 ( ) Não",
+      "char_count": 119
+    },
+    {
+      "number": "10",
+      "title": "Sua família ou pessoas que mantenha relações próximas possui alguns dos conflitos listados acima?           ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não\n\n\n\n\n       Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas\n\n\n       A proposta de atualização do PCDT das Amiloidoses hereditárias associadas à transtirretina foi apresentada na 119ª\nReunião da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em 17 de setembro\nde 2024. A reunião teve a presença de representantes da Secretaria de Ciência, Tecnologia e Inovação e do Complexo\nEconômico-Industrial da Saúde (SECTICS); Secretaria de Atenção Especializada em Saúde (SAES). O PCDT foi aprovado para\navaliação da Conitec e a proposta foi aprovada para ser apresentada aos membros do Comitê de PCDT da Conitec em sua 134ª\nReunião Ordinária, os quais recomendaram favoravelmente ao texto.\n       Considerando os ajustes em decorrência da Consulta Pública nº 71/2024, a proposta de atualização do PCDT das\nAmiloidoses associadas à transtirretina foi apresentada à Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes\nTerapêuticas, à sua 124ª Reunião Ordinária, realizada em 15 de abril de 2025. A reunião teve a presença de representantes da\nSecretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS), Secretaria de Atenção\nEspecializada à Saúde (SAES), Secretaria de Atenção Primária à Saúde (SAPS), Secretaria de Vigilância em Saúde e Ambiente\n(SVSA) e Secretaria de Saúde Indígena (SESAI). O PCDT foi aprovado para avaliação da Conitec.\n\n\n       Consulta Pública\n\n\n       A Consulta Pública nº 71/2024, para a atualização do Protocolo Clínico e Diretrizes Terapêuticas das Amiloidoses\nHereditárias associadas à Transtirretina (TTR), foi realizada entre os dias 16 de outubro de 2024 a 04 de novembro de 2024.\nForam recebidas cento e vinte e três contribuições, que podem ser verificadas em: https://www.gov.br/conitec/pt-\nbr/midias/consultas/contribuicoes/2024/contribuicoes-da-consulta-publica-71-2024-de-amiloidoses-hereditarias-associadas-a-\ntranstirretina.\n\n\n       Busca da evidência e recomendações\n\n\n       Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME) e o sítio eletrônico da Conitec para a\nidentificação das tecnologias disponíveis no Brasil e tecnologias demandadas ou recentemente incorporadas para o tratamento\ndas ATTR. Não foram encontradas tecnologias disponíveis já incorporadas para o tratamento das ATTR, além do tafamidis e\ntransplante hepático.\n       Foi também realizada, em 08 de setembro de 2023, uma busca por diretrizes clínicas nacionais e internacionais e\nrecomendações de especialistas a respeito da doença. Foram utilizados os termos “Familial Amyloid Neuropathy” OR “Familial\nTransthyretin Cardiac Amyloidosis” OR “Hereditary Amyloidosis, Transthyretin Related” AND “tafamidis meglumine” OR\n\n“treatment” e restringindo-se para estudos em humanos, nos idiomas português, espanhol e inglês, sem limite de data. As\nseguintes bases de dados e websites institucionais que abrigam protocolos e diretrizes foram consultados:\n        - Diretrizes da Associação Médica Brasileira (AMB);\n        - Protocolos Clínicos e Diretrizes terapêuticas do Ministério da Saúde; e\n        - PubMed/MEDLINE.\n          O Quadro B descreve as estratégias utilizadas de acordo com a base de dados.\n\n\nQuadro B - Estratégias de busca, de acordo com a base de dados:\n\n                                                                                                     Número de resultados\n      Bases de dados                                      Estratégia de busca\n                                                                                                         encontrados\n\n                                      ((\"Familial Amyloid Neuropathy\"[MeSH Terms]) OR\n                                        (\"Familial Transthyretin Cardiac Amyloidosis\") OR\n Medline (via Pubmed)              (\"Hereditary Amyloidosis, Transthyretin Related\")) Filters:              67 artigos\n                                      Clinical Trial, Guideline, Meta-Analysis, Randomized\n                                                 Controlled Trial, Systematic Review\n\n                                      'hereditary transthyretin amyloidosis' AND ([cochrane\n                                         review]/lim OR [systematic review]/lim OR [meta\n          Embase                                                                                            88 artigos\n                                 analysis]/lim OR [controlled clinical trial]/lim OR [randomized\n                                             controlled trial]/lim OR [clinical trial]/lim)\n\n                                     Familial Amyloid Neuropathy in Title Abstract Keyword",
+      "char_count": 4718
+    },
+    {
+      "number": "1",
+      "title": "Cochrane Reviews",
+      "depth": 1,
+      "content": "Familial Transthyretin Cardiac Amyloidosis in Title Abstract\n    Cochrane library                                              Keyword                             0 Cochrane Reviews\n\n\n                                      Hereditary Amyloidosis, Transthyretin Related in Title          0 Cochrane Reviews\n                                                            Abstract Keyword\n\n\n\n        Foram localizados 156 artigos nas três bases de dados. Excluindo as 16 duplicatas, 10 artigos foram selecionados para\nleitura na íntegra e apenas quatro13,15,40,41 foram incluídas neste relatório. Outros artigos de conhecimento dos autores foram\nutilizados. A\n        Figura A apresenta a estratégia e os resultados das buscas realizadas.\n\nFigura A - Fluxograma de seleção dos estudos.\n\n\n\n\n        Para as recomendações sobre o tratamento, diagnóstico e monitoramento, foram adotadas as recomendações do PCDT da\nPolineuropatia Amiloidótica Familiar publicado pela Portaria Conjunta SAS/SCTIE/MS n° 16 de 24 de maio de 2018. Também\nforam utilizadas as evidências identificadas pelas buscas, para atualização dos textos, assim como as bulas dos medicamentos\nincorporados ao SUS para o tratamento das ATTR. Diretrizes internacionais, recomendações e consensos de especialistas e\navaliações de outras agências de Avaliação de Tecnologias em Saúde também foram utilizados.\n\n\n        QUESTÃO 1: Qual a eficácia e a segurança do tafamidis no tratamento da cardiomiopatia amiloide associada à\ntranstirretina, selvagem ou hereditária, classes funcionais NYHA II e III, em pessoas acima de 60 anos de idade, quando\ncomparado ao placebo, melhor cuidado de suporte ou transplante?\n\n\n        Recomendação: Adotou-se a deliberação da Conitec, em recomendar a incorporação no SUS do tafamidis 61 mg no\ntratamento de pacientes com cardiopatia amiloide associada à transtirretina (selvagem ou hereditária), classe NYHA II e III\nacima de 60 anos de idade, conforme Relatório de Recomendação nº 899/2024, disponível em: https://www.gov.br/conitec/pt-\nbr/midias/relatorios/2024/tafamidis-61-mg-no-tratamento-de-pacientes-com-cardiopatia-amiloide-associada-a-transtirretina-\nselvagem-ou-hereditaria-classe-nyha-ii-e-ii-acima-de-60-anos-de-idade\n\n\n        A estrutura PICO para esta pergunta foi:\n        P- População: Pacientes acima de 60 anos de idade com cardiomiopatia amiloide associada à transtirretina (hereditária ou\nselvagem), classe NYHA II e III\n        I – Intervenção: Tafamidis\n\n      C – Comparação: Placebo, melhor cuidado de suporte ou transplante\n      O - Desfechos Primários:\n      • Hospitalização por causas cardiovasculares\n      • Mortalidade por todas as causas\n      • Qualidade de vida\n      Secundários:\n      • Teste de caminhada de seis minutos\n      • Eventos adversos não graves ou totais\n      • Eventos adversos graves\n      Desenho de Estudo: Ensaio clínico randomizado\n\n\n      Métodos e resultados da busca:\n      Para responder essa pergunta, foi utilizada a síntese de evidências apresentada no Relatório de Recomendação n° 899/2024\nda Conitec. Não foi realizada uma busca adicional na literatura, uma vez que a busca presente no referido Relatório foi\nconsiderada recente.\n\n                                                         APÊNDICE 2\n                                  HISTÓRICO DE ALTERAÇÕES DO PROTOCOLO\n\n\n     Número do                                                            Tecnologias avaliadas pela Conitec\nRelatório da diretriz\nclínica (Conitec) ou           Principais alterações        Incorporação ou alteração        Não incorporação ou não\n    Portaria de                                                   do uso no SUS                  alteração no SUS\n     Publicação\n                                                                                         Vutrisirana no tratamento de\n                                                                                         pacientes adultos com amiloidose\n                                                                                         hereditária mediada por\n                                                                                         transtirretina com polineuropatia\n                                                                                         em estágio II. [Relatório de\n                                                                                         Recomendação nº 964/2025;\n                                                                                         Portaria SECTICS/MS nº\n                                                                                         11/2025].\n\n\n                                                                                         Inotersena para o tratamento da\n                        Atualização do conteúdo do                                       polineuropatia amiloidótica\n                        PCDT.                              Tafamidis 61 mg no            familiar relacionada à\n                        Ampliação do escopo para           tratamento de pacientes com   transtirretina em pacientes adultos\n                        cardiomiopatia amiloide por        cardiopatia amiloide          no Estágio 2 no SUS [Relatório de\n                        transtirretina (ATTR-CM).          associada à transtirretina    Recomendação nº 922/2024;\nRelatório de\n                        Alteração do título.               (selvagem ou hereditária),    Portaria SECTICS/MS nº\nRecomendação nº\n                        Inclusão das manifestações         classe NYHA II e II acima     47/2024].\n1007 de maio de 2025\n                        neurológicas e cardíacas da        de 60 anos de idade\n                        ATTR, de todos os estágios da      [Relatório de Recomendação Patisirana no tratamento de\n                        doença, na população-alvo.         nº 899/2024; Portaria         pacientes diagnosticados com\n                        Incorporação de tecnologias no     SECTICS/MS nº 26/2024].       amiloidose hereditária relacionada\n                        SUS.                                                             à transtirretina (ATTRh) com\n                                                                                         polineuropatia em estágio 2 ou\n                                                                                         que apresentem resposta\n                                                                                         inadequada ao tafamidis.\n                                                                                         [Relatório de Recomendação nº\n                                                                                         800/2023; Portaria SECTICS/MS\n                                                                                         nº 58/ 2023].\n\n\n                                                                                         Inotersena para o tratamento da\n                                                                                         polineuropatia amiloidótica\n                                                                                         familiar relacionada à\n\n     Número do                                                       Tecnologias avaliadas pela Conitec\nRelatório da diretriz\nclínica (Conitec) ou         Principais alterações    Incorporação ou alteração          Não incorporação ou não\n     Portaria de                                             do uso no SUS                   alteração no SUS\n     Publicação\n                                                                                     transtirretina em pacientes adultos\n                                                                                     não atendidos pela terapia com\n                                                                                     estabilizadores da proteína TTR\n                                                                                     no SUS. [Relatório de\n                                                                                     Recomendação n° 799/2023;\n                                                                                     Portaria SECTICS/MS nº\n                                                                                     24/2023]\n\n\n                                                                                     Tafamidis meglumina no\n                                                                                     tratamento de pacientes com\n                                                                                     cardiomiopatia amiloide associada\n                                                                                     à transtirretina (selvagem ou\n                                                                                     hereditária), classes NYHA II e III\n                                                                                     acima de 60 anos de idade\n                                                                                     [Relatório de Recomendação nº\n                                                                                     795/2022; Portaria SCTIE/MS nº\n                                                                                     177/2022].\n\n\n                                                                                     Tafamidis meglumina no\n                                                                                     tratamento de pacientes com\n                                                                                     cardiomiopatia amiloide associada\n                                                                                     à transtirretina (selvagem ou\n                                                                                     hereditária) acima de 60 anos de\n                                                                                     idade [Relatório de\n                                                                                     Recomendação nº 10/2021;\n                                                                                     Portaria SCTIE/MS nº 10/2021].\n                                                      Tafamidis meglumina no\nPortaria Conjunta\n                                                      tratamento da polineuropatia\nSAS-SCTIE/MS nº\n                                                      amiloidótica familiar\n22, de 2 de outubro     Primeira versão do PCDT da\n                                                      relacionada à proteína\nde 2018                 Polineuropatia Amiloidótica                                  -\n                                                      transtirretina [Relatório de\n[Relatório de           Familiar\n                                                      Recomendação nº 339/2018;\nRecomendação nº\n                                                      Portaria SCTIE/MS nº\n371/2018]\n                                                      2/2018].",
+      "char_count": 11099
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3.1",
+      "content": ""
+    },
+    "treatment": {
+      "number": "6.1",
+      "content": "Como se trata de uma doença crônica, multissistêmica e progressiva, os pacientes com ATTR e suas famílias requerem,\ngeralmente, apoio psicológico e social a partir do diagnóstico da doença 16,17.\n       No caso da ATTR forma hereditária (familiar), o aconselhamento genético deve ser oferecido a todas as famílias e aos\npacientes, visando a fornecer informações sobre status genético, diagnóstico pré-natal e chance de recorrência. A ATTR\nhereditária é de padrão autossômico dominante, sendo assim, a chance de um indivíduo heterozigoto afetado por ATTR\nhereditária ter um filho, independente do sexo, com a condição é de 50% 4. Um teste preditivo, ou seja, aquele realizado em\nfamiliar assintomático de um portador da condição genética, pode ser feito em indivíduos adultos, mediante adequado processo\nde aconselhamento genético4. É importante que uma equipe multidisciplinar acompanhe o paciente, sugerindo-se a inclusão,\nalém da equipe médica de multiespecialidades, nutricionistas, psicólogos, fisioterapeutas e enfermeiros 16.\n       O transplante hepático tem como objetivo prevenir a formação de depósitos amiloides adicionais, pela remoção do\nprincipal sítio de produção de qualquer TTR, mutada ou não. Com a substituição do fígado, espera-se que não haja progressão\nda doença6,22.\n       O transplante hepático deve ser realizado no estágio inicial (estágio I de Coutinho) da doença, antes do aparecimento de\nlesões extensas que não poderão ser revertidas com este procedimento 15,44,45.\n       Como em alguns casos o depósito de TTR pode seguir após o transplante hepático, com progressão das manifestações\ncardíacas46, outra possibilidade pode ser o transplante combinado fígado-coração, com aparente melhor prognóstico do que o\ntransplante isolado de apenas um desses órgãos47. No entanto, considerando a pouca disponibilidade de órgãos e os riscos\nassociados ao procedimento, o uso de medicamentos que bloqueiem a síntese hepática de TTR é a estratégia mais utilizada 17.\n       A indicação, realização e acompanhamento pós-transplante hepático devem seguir o Regulamento Técnico do Sistema\nNacional de Transplantes vigente42."
+    }
+  },
+  "stats": {
+    "section_count": 84,
+    "char_count": 92691,
+    "depth1_count": 59
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "slug": "mucopolissacaridose-tipo-ii",
+  "name_pt": "Mucopolissacaridose tipo II",
+  "icd10": "E76.1",
+  "orphanet": "ORPHA:580",
+  "omim": "309900",
+  "url_source": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-da-mucopolissacaridose-tipo-ii",
+  "sections": [
+    {
+      "number": "1",
+      "title": "INTRODUÇÃO",
+      "depth": 1,
+      "content": "A mucopolissacaridose tipo II (MPS II) ou síndrome de Hunter é a única mucopolissacaridose com herança\nligada ao cromossomo X recessiva, sendo causada pela atividade deficiente da iduronato-2-sulfatase (IDS). Essa\nenzima catalisa o primeiro passo da degradação dos glicosaminoglicanos (GAG), sulfato de dermatan e sulfato de\nheparan. Assim, sua deficiência causa o acúmulo desses GAG nos tecidos e o aumento da sua excreção urinária1. O\ngene IDS, que codifica a enzima IDS, localiza-se na região cromossômica Xq28, abrange 44kb e está estruturado\nem nove éxons2.\n       Dado o seu padrão de herança, os pacientes são principalmente do sexo masculino; as mulheres heterozigotas\nsão, geralmente, assintomáticas3-5. Ainda assim, há alguns relatos de pacientes do sexo feminino afetadas, mas com\nfenótipo atenuado6,7.\n       As manifestações clínicas são heterogêneas e progressivas e, de acordo com a ocorrência de regressão\nneurológica (caracterizada por perda dos marcos do desenvolvimento neuropsicomotor ou perda de funções\nneurológicas já adquiridas, confirmada por avaliação formal com neurologista), a doença pode ser classificada em\ngrave ou atenuada8,9. No entanto, a MPS II tem sido considerada como um espectro de doenças com envolvimento\nsomático e neurocognitivo, em vez de uma doença com uma delimitação clara entre os dois subtipos previamente\ndefinidos10. As manifestações comuns incluem fácies típica, obstrução de vias aéreas superiores, regurgitação\nvalvular cardíaca, doença pulmonar restritiva, hepatoesplenomegalia, hérnias, contraturas articulares, irritabilidade,\napneia obstrutiva do sono e redução da qualidade de vida. Achados adicionais incluem baixa estatura, macrocefalia\ncom ou sem hidrocefalia comunicante, macroglossia, perda auditiva e síndrome do túnel do carpo 9. Na forma\ngrave, as manifestações se iniciam até os dois anos de idade, progredindo para sintomas somáticos e deficiência\ncognitiva durante a infância; a regressão neurológica se consolida, em média, aos 6 anos de idade8,9.\n       Os pacientes com a forma atenuada apresentam os primeiros sintomas na infância tardia, com progressão da\ndoença somática mais lenta e branda; esses podem vir a apresentar pouca ou nenhuma deficiência cognitiva, não\nocorrendo regressão neurológica8,9. Não há como predizer, em idade precoce, se o paciente apresentará regressão\nneurológica, forma grave da doença ou forma atenuada. A expectativa de vida é, em média, de 20 anos em\npacientes com a forma grave, mas alguns indivíduos podem sobreviver até a 4ª ou 5ª décadas, caso apresentem\nforma atenuada9.\n       Estudos internacionais estimam que a incidência geral de MPS II seja entre 1:77.000 e 1:165.000 nascidos\nvivos do sexo masculino11,12 ou entre 1:156.000 e 1:320.000 recém-nascidos vivos (masculino e feminino)11,12. Não\nforam localizados dados sobre a prevalência na população geral. O fenótipo grave, com regressão neurológica,\npode ser cerca de duas vezes mais prevalente que a forma atenuada da doença 7; estima-se que alguma forma de\nenvolvimento neurológico esteja presente em até 84% dos pacientes12. Os dados da Rede MPS Brasil indicam que a\nMPS II é o tipo de mucopolissacaridose mais frequente no país, com 358 casos entre 1982 e 201913, em torno 10\n\n                                                                                                                    2\n\npacientes/ano. A incidência mínima da MPS II no Brasil seria estimada, portanto, em 1:140.000 recém-nascidos\nvivos com 1:106.000 recém-nascidos do sexo masculino14,15.\n         A chance de um novo filho do sexo masculino, do mesmo casal, apresentar MPS II é de 50%, se a mãe for\nheterozigota. Em cerca de um terço dos casos sem história familiar, acontece mutação nova, ou seja, a mãe não é\nheterozigota, com chance virtualmente nula de recorrência familiar9. Assim, é importante que a família dos\npacientes com MPS II receba adequado aconselhamento genético, por pessoas capacitadas.\n         Não há tratamento curativo para a MPS II. A conduta terapêutica nesses pacientes envolve equipe\nmultidisciplinar e inclui intervenções realizadas para amenizar o fenótipo, como cirurgias, ou intervenções\nespecíficas, como o transplante de células tronco-hematopoiéticas (TCTH) ou a terapia de reposição enzimática\n(TRE) intravenosa (IV)9,16. As evidências sobre as alternativas terapêuticas, sobre o uso intratecal de TRE e a\nterapia gênica, são insuficientes para solicitação de registro ou ainda estão em fase de desenvolvimento9,16-20. Há\num ensaio clínico em andamento sobre o uso de alfapabinafuspe, uma terapia de reposição enzimática capaz de\natravessar a barreira hemato-encefálica e potencialmente tratar as manifestações da MPS II no Sistema Nervoso\nCentral e, portanto, o medicamento ainda não possui registro válido no Brasil21-23.\n         A identificação da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento\nespecializado dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos\ncasos.\n         Este Protocolo visa a nortear o diagnóstico, tratamento e acompanhamento dos pacientes com MPS II no\nâmbito do Sistema Único de Saúde, incluindo os critérios para uso da terapia de reposição enzimática e do TCTH.",
+      "char_count": 5258
+    },
+    {
+      "number": "2",
+      "title": "CLASSIFICAÇÃO           ESTATÍSTICA         INTERNACIONAL            DE    DOENÇAS      E    PROBLEMAS",
+      "depth": 1,
+      "content": "RELACIONADOS À SAÚDE (CID-10)\n\n\n         - E76.1 Mucopolissacaridose do tipo II.",
+      "char_count": 80
+    },
+    {
+      "number": "3",
+      "title": "DIAGNÓSTICO",
+      "depth": 1,
+      "content": "O diagnóstico de MPS II é realizado pela suspeita clínica, sendo confirmado por marcadores bioquímicos e\nteste genético. A suspeita deve ocorrer em indivíduos, principalmente do sexo masculino, que apresentem pelo\nmenos um dos seguintes sinais e sintomas relacionados à doença, especialmente se combinados, com início\ntipicamente entre 18 meses e quatro anos de idade9,19:\n         - Características faciais sugestivas de doença lisossômica - face de “depósito”;\n         - Infecções respiratórias superiores precoces e de repetição, incluindo otite média, excluídas as causas mais\nfrequentes, tipo resfriados comuns;\n         - Hérnia inguinal ou umbilical, especialmente se concomitantes e em crianças, excluídas as causas mais\nfrequentes;\n         - Hepatoesplenomegalia, excluídas as causas mais frequentes;\n\n                                                                                                                    3\n\n        - Alterações esqueléticas ou articulares típicas - disostose múltipla, giba, limitação da amplitude de\nmovimento (AM) das articulações, mãos em garra;\n        - Síndrome do túnel do carpo em crianças;\n        - Achados oculares característicos - papiledema, atrofia óptica e, raramente, opacificação de córnea;\n        - História familiar compatível, como: irmão do sexo masculino com MPS II; primo ou tio (sexo masculino),\npelo lado materno, com MPS II; ou história familiar de MPS compatível com herança ligada ao X recessiva.\n        Ressalta-se que os achados clínicos variam conforme a gravidade da doença e, por si só, não são\ndiagnósticos. Assim, é necessária a confirmação por análises bioquímicas ou genéticas9.\n        A Figura 1 apresenta o fluxograma de diagnóstico e tratamento da MPS II.\n\n\nFigura 1 - Fluxograma de diagnóstico e tratamento da MPS II.",
+      "char_count": 1804
+    },
+    {
+      "number": "3.1",
+      "title": "Diagnóstico laboratorial",
+      "depth": 2,
+      "content": "A confirmação do diagnóstico de MPS II envolve métodos bioquímicos e genéticos.",
+      "char_count": 79
+    },
+    {
+      "number": "3.1.1",
+      "title": "Atividade da Iduronato-2-sulfatase (IDS)",
+      "depth": 3,
+      "content": "A redução ou ausência de atividade da IDS em fibroblastos, leucócitos, sangue impregnado em papel-filtro\nou plasma sugerem fortemente o diagnóstico de MPS II, mas não são suficientes para confirmação como único\nteste, devido à possibilidade de ocorrência de deficiência de múltiplas sulfatases, doença genética causada por\nmutações no gene SUMF1, entre outros. Portanto, é necessário documentar a atividade normal de ao menos uma\noutra sulfatase como, por exemplo, da arilsulfatase B. A maioria dos pacientes do sexo masculino com MPS II\napresentam atividade indetectável da IDS8,9.\n        A medida da atividade enzimática em gotas de sangue impregnadas em papel-filtro tem a vantagem do\ntransporte e da manipulação do material serem mais fáceis, no entanto, deve-se considerar o método de triagem\n                                                                                                                4\n\nutilizado, devido aos casos de falso-positivos e falso-negativos associados24-26. Desta forma, sugere-se que a medida\nda IDS em papel-filtro seja considerada como triagem e que o diagnóstico seja firmado por análise em leucócitos,\nplasma ou fibroblastos. A medida da atividade da IDS em vilo coriônico cultivado ou em amniócitos é,\nrotineiramente, utilizada no diagnóstico pré-natal de MPS II9. Como os resultados por vezes diferem entre os\nlaboratórios, é importante que os valores de referência para a atividade da IDS sejam estabelecidos em cada\nserviço25. O diagnóstico de MPS II em indivíduo do sexo feminino é uma situação muito rara 6,7. O modo mais\nconfiável, tanto para o diagnóstico da doença como para o diagnóstico de heterozigotas, é a análise genética9.",
+      "char_count": 1681
+    },
+    {
+      "number": "3.1.2",
+      "title": "Análise de GAG urinários",
+      "depth": 3,
+      "content": "A análise de GAG urinários pode ser quantitativa, pelo método espectrofotométrico27, ou permitir a\nidentificação do tipo de GAG que está sendo excretado em quantidade aumentada na urina, por cromatografia ou\neletroforese27,28. Na MPS II, ocorre aumento da excreção dos sulfatos de dermatan e de heparan1,28, porém nenhum\ndos dois métodos prediz a enzima lisossômica deficiente, uma vez que não são específicos para as diferentes MPS.\nNo entanto, uma anormalidade detectada por um ou por ambos os métodos sugere a presença provável de algum\ntipo de MPS e a necessidade de realização de testes adicionais.\n       Caso o paciente já esteja em tratamento, a quantificação da GAG também é útil para sua monitorização, uma\nvez que ocorre diminuição de sua excreção28,29. Salienta-se que os GAG não podem ser considerados como\nmarcadores de gravidade da doença9.",
+      "char_count": 855
+    },
+    {
+      "number": "3.1.3",
+      "title": "Teste genético",
+      "depth": 3,
+      "content": "A análise do gene IDS e a detecção da variante patogênica causadora da doença em um paciente do sexo\nmasculino pode ser útil para obter o diagnóstico molecular preciso, para realizar o diagnóstico genético pré e pós-\nnatal na família e para a detecção de heterozigotas, facilitando o aconselhamento genético individual e familiar 9.\nEntretanto, há grande variação genotípica na MPS II, com mais de 600 diferentes variantes já descritas para o gene\nIDS, sendo cerca de 70% mutações privadas, ou seja, específicas para uma determinada família19. Cerca de 82%\ndos pacientes apresentam mutações de ponto ou pequenas inserções/deleções; 9%, deleções de éxons ou do gene\ninteiro e 9% rearranjos complexos resultantes, principalmente, da recombinação com o pseudogene IDSP1,\nlocalizado 25 kb telomérico ao IDS9. A taxa de detecção de variantes patogênicas por sequenciamento pelo método\nSanger das regiões exônicas e éxon-íntron do gene IDS é de, aproximadamente, 82%9.",
+      "char_count": 962
+    },
+    {
+      "number": "3.2",
+      "title": "Associação genótipo-fenótipo clínico",
+      "depth": 2,
+      "content": "A maior importância dos estudos que correlacionam genótipo-fenótipo é a tentativa de identificação, em\nidade precoce, daqueles indivíduos que apresentarão a forma grave da doença. No entanto, este tipo de correlação\nnem sempre é confiável9. Variantes no gene IDS de indivíduos gravemente afetados causam influência significativa\nna estrutura terciária da proteína IDS, resultando na perda da atividade enzimática, enquanto a maioria das\nvariantes em pacientes com fenótipo atenuado tem a estrutura da proteína afetada parcialmente, com preservação de\nalguma atividade enzimática residual, causando manifestações clínicas mais leves9,30.\n\n                                                                                                                   5\n\n        Para algumas variantes, há associação entre genótipo e fenótipo. Por exemplo, a variante c.1122C>T está\nassociada a um fenótipo lentamente progressivo e inteligência normal, mais frequentemente31. A variante\np.Ser333Leu está associada a fenótipo grave com mais frequência. A deleção total do gene IDS e rearranjos\ncomplexos costumam se associar a formas graves13,31,32.",
+      "char_count": 1133
+    },
+    {
+      "number": "4",
+      "title": "CRITÉRIOS DE INCLUSÃO",
+      "depth": 1,
+      "content": "Serão incluídos neste PCDT todos os pacientes que apresentarem pelo menos um dos sinais ou sintomas\ndescritos no item “Diagnóstico”, além da confirmação do diagnóstico de MPS II, conforme um dos critérios abaixo\nrelacionados.\n       - Atividade da enzima IDS menor que 10% do limite inferior dos valores de referência em plasma,\nleucócitos ou fibroblastos E atividade normal de pelo menos outra sulfatase (medida na mesma amostra em que foi\ndeterminada a atividade da IDS) E presença de níveis aumentados de GAG totais na urina ou de excreção urinária\naumentada de sulfatos de dermatan e heparan;\n       OU\n       - Presença de variante reconhecidamente patogênica no gene IDS.\n       Para uso de TRE (idursulfase alfa)\n       Para serem elegíveis à TRE com idursulfase alfa, os pacientes devem apresentar diagnóstico confirmado de\nMPS II E não apresentar regressão neurológica.\n       Todos os pacientes com MPS II, incluindo os que não foram transplantados ou os que tiveram falha do\nprocedimento, podem apresentar benefícios por receber TRE, uma vez que ela pode melhorar a hepatomegalia, a\nmobilidade articular e reduzir a excreção de GAG urinários. Já foi demonstrado que a TRE antes do TCTH é bem\ntolerada e pode melhorar a condição clínica pré TCTH de alguns pacientes, desde que seu início não atrase a\nrealização do procedimento. Além disso, a TRE não causa nenhuma interferência em relação ao enxerto ou no\nsucesso do transplante.\n       Para o TCTH\n       Para elegibilidade ao TCTH, o paciente deve ter diagnóstico confirmado de MPS II e observar as regras\nestabelecidas para transplantes, conforme normas técnicas e operacionais do Sistema Nacional de\nTransplantes1,33,34.\n       TCTH pode ser indicado como tratamento para a forma grave com regressão neurológica da MPS II, único\ntratamento disponível capaz de proporcionar benefícios9,34.",
+      "char_count": 1853
+    },
+    {
+      "number": "5",
+      "title": "CRITÉRIOS DE EXCLUSÃO",
+      "depth": 1,
+      "content": "Para a TRE com idursulfase alfa\n       Serão excluídos os pacientes que apresentarem algum dos seguintes critérios:\n\n\n                                                                                                             6\n\n       - Regressão neurológica, ou seja, perda dos marcos do desenvolvimento neuropsicomotor ou perda de\nfunções neurológicas já adquiridas, confirmada por avaliação formal com neurologista;\n       - Condição médica irreversível que implique em sobrevida menor que 6 meses, como resultado da MPS II ou\nde outra doença associada, acordado entre mais de um especialista;\n       - Idade maior que 18 anos e que, após serem informados sobre os potenciais riscos e benefícios associados ao\ntratamento com idursulfase alfa, recusarem o tratamento;\n       Para o TCTH\n       Serão excluídos os pacientes para o TCTH alogênico mieloablativo aparentado com doadores homozigotos\nportadores de mutações patogênicas no gene IDS. A indicação de transplante envolvendo doadores heterozigotos\nportadores de mutações patogênicas no gene IDS deve ser avaliada caso-a-caso.",
+      "char_count": 1085
+    },
+    {
+      "number": "6",
+      "title": "TRATAMENTO",
+      "depth": 1,
+      "content": "O atendimento dos pacientes com MPS II envolve equipe multidisciplinar9,14,33 e tratamento específico com\nidursulfase alfa9,33,34 e/ou TCTH9.\n       Por se tratar de uma doença crônica, progressiva e multissistêmica, frequentemente, requer cuidados por\nequipe multiprofissional, com fonoaudiólogos, fisioterapeutas, terapeutas ocupacionais, equipe de enfermagem e\ndiferentes especialidades médicas9,10,19,33,34.\n       É crucial que um profissional médico acompanhe continuamente o paciente, monitorando a evolução da\ndoença, fornecendo orientação à família, encaminhando a especialistas quando necessário e coordenando o\natendimento geral do indivíduo.\n       Sempre que disponível, o paciente deve ser acompanhado em CR, pois esses serviços possuem uma equipe\nmultidisciplinar integrada de especialistas31 que assegura o cuidado integral aos pacientes com MPS II, desde o\ndiagnóstico, tratamento e seguimento.\n       Além disso, é importante que os pacientes e as famílias sejam orientados sobre sua doença, possíveis\ncomplicações e seus os riscos, por meio de relatório escrito. Os pacientes também devem ser orientados a procurar\no médico assistente em caso de emergência, que deve ser informado da doença e receber cópia do relatório.",
+      "char_count": 1239
+    },
+    {
+      "number": "6.1",
+      "title": "Tratamentos das manifestações clínicas",
+      "depth": 2,
+      "content": "As principais manifestações clínicas da MPS II e suas opções de tratamento de suporte/sintomáticos podem\nser encontradas no Quadro 1.\n       É importante frisar que nem todos os pacientes apresentarão todas as manifestações citadas, as quais\ncostumam ser mais frequentes e mais graves nos pacientes com a forma grave da doença. Da mesma forma, nem\ntodas as alternativas terapêuticas serão adequadas a todos os pacientes com MPS II.\n\n\n\n\n                                                                                                                 7\n\nQuadro 1 - Principais manifestações clínicas da MPS II e alternativas terapêuticas de suporte e sintomáticas.\n\n    Órgão/sistema                              Manifestação clínica                                             Avaliação/tratamento\n                               Atraso de desenvolvimento                                         Psicopedagogia, fonoaudiologia,\n                               neuropsicomotor.                                                  fisioterapia, psicomotricidade.\n                                                                                                 Derivação ventrículo-peritoneal,\n Sistema nervoso\n                               Hidrocefalia / Hipertensão intracraniana                          Ressonância magnética de crânio,\n central\n                                                                                                 raquimanometria.\n                               Crises convulsivas, alterações ciclo sono-                        Exame eletroencefalográfico.\n                               vigília, distúrbio do comportamento.                              Medicamentoso, psicológico.\n                                                                                                 Ressonância magnética de coluna. Estudos\n Sistema Nervoso               Compressão medular.                                               neurofisiológicos.\n Periférico                                                                                      Cirúrgico, fisioterapia.\n                               Síndrome do Túnel do Carpo.                                       Cirúrgico\n                               Acuidade visual diminuída.\n                               Atrofia do Nervo Óptico.\n Olhos                                                                                           Avaliação oftalmológica.\n                               Glaucoma.\n                               Retinose pigmentar.\n                                                                                                 Amigdalectomia, adenoidectomia,\n                               Síndrome da apneia obstrutiva do sono.                            oxigenoterapia.\n Vias aéreas                                                                                     Avaliação pneumológica.\n                               Infecções de repetição, hipersecreção                             Medicamentoso\n                               Doença pulmonar restritiva                                        Fisioterapia\n Tecido conjuntivo             Hérnias.                                                          Cirúrgico.\n                                                                                                 Fisioterapia, terapia ocupacional.\n Articulações                  Dor, contraturas.\n                                                                                                 Medicamentoso.\n Ossos                         Giba toracolombar, geno valgo.                                    Coletes, cirúrgico.\n                               Hipoacusia.                                                       Próteses (em casos específicos).\n Orelhas\n                               Otites de repetição                                               Medicamentoso, cirúrgico.\n                               Diarreia.                                                         Orientação nutricional.\n                               Ganho inadequado ou excessivo de peso                             Orientação nutricional.\n Gastrointestinal\n                                                                                                 Medicamentoso, fonoaudiologia. Cirurgia\n                               Distúrbio da deglutição.\n                                                                                                 (gastrostomia).\n Bucomaxilo                    Má oclusão, dentição anômala.                                     Cirúrgico. Aparelho ortodôntico.\n                               Valvulopatias, cardiomiopatia, insuficiência                      Avaliação cardiológica.\n Cardiovascular\n                               cardíaca.                                                         Medicamentoso, cirúrgico.\n\n\n\n\n                                                                                                                                            8",
+      "char_count": 4981
+    },
+    {
+      "number": "6.1.1",
+      "title": "Tratamento das manifestações neurológicas",
+      "depth": 3,
+      "content": "Dependendo da gravidade da doença, as manifestações neurológicas dos pacientes com MPS II podem\nincluir atraso na obtenção dos marcos do desenvolvimento, comprometimento cognitivo e convulsões 9,19. Os sinais\nneurológicos mais comuns são as alterações de comportamento e cognição, mais frequentes na forma progressiva\nprecoce7,9.\n       As crises convulsivas podem ser tratadas com anticonvulsivantes, usualmente indicados para crises tônico-\nclônicas e, preferencialmente, iniciar com monoterapia e a menor dose efetiva, conforme orientação do PCDT de\nEpilepsia vigente35.\n       Pode ocorrer hidrocefalia comunicante, compressão da medula espinhal e síndrome do túnel do carpo, que\npodem necessitar de intervenção cirúrgica9,10,36,37. A síndrome do túnel do carpo é prevalente e pode ser difícil\ndeterminar se a dor é pela compressão do nervo mediano. Sugere-se, assim, estudos de condução a partir de 5 anos\nde idade9,10,37.",
+      "char_count": 927
+    },
+    {
+      "number": "6.1.2",
+      "title": "Tratamento das manifestações oftalmológicas",
+      "depth": 3,
+      "content": "O envolvimento ocular na MPS II consiste, geralmente, em edema do disco óptico, papiledema, atrofia\nóptica e degeneração pigmentar da retina. A opacidade da córnea é rara, ainda que lesões de córnea discretas\npossam ser observadas. O glaucoma, raramente presente, deve ser tratado prontamente se detectado9,38.\n       O reconhecimento e o tratamento precoce do comprometimento oftalmológico são recomendados e os\npacientes devem ser submetidos à avaliação oftalmológica anual, incluindo medida da pressão intraocular 38. O\ntratamento das complicações oculares em pacientes com MPS II não difere substancialmente das condutas\nutilizadas em outros indivíduos, como o uso de lentes corretivas, as quais devem ser prescritas, conforme\napropriado9,38.",
+      "char_count": 746
+    },
+    {
+      "number": "6.1.3",
+      "title": "Tratamento das manifestações respiratórias",
+      "depth": 3,
+      "content": "Muitas alterações anatômicas da MPS II contribuem para aumentar a morbidade e mortalidade relacionadas\nao comprometimento das vias aéreas19. Um dos objetivos do tratamento clínico é melhorar o controle das infecções\nrecorrentes das vias aéreas10. Solução salina isotônica nasal ou hipertônica pode ser usada para eliminar crostas e\nsecreções, melhorar a mobilidade dos cílios e reduzir o edema da mucosa39. É comum a ocorrência de infecções\nrespiratórias de vias aéreas superiores crônicas e recorrentes com mais de seis episódios ao ano e os pacientes\npodem se beneficiar da vacina contra Streptococcus pneumoniae e Haemophilus influenzae10. Antibióticos são\nutilizados para o tratamento de exacerbações respiratórias de origem bacteriana aguda, como otite média ou\namigdalite, em cursos de 10 a 14 dias, de acordo com critérios clínicos. O uso de corticoides sistêmicos por breves\nperíodos pode ajudar a reduzir o edema e a facilitar a drenagem de secreções. Além disso, medicamentos para\ntratamento da asma, se presente, devem ser administrados conforme a condição clínica e orientação do PCDT de\nAsma vigente40.\n       O tratamento inicial para apneia obstrutiva do sono inclui suplementação noturna de oxigênio. A\namigdalectomia e adenoidectomia podem ser realizadas, mas o benefício pode ser temporário e parcial, devido ao\n\n                                                                                                                 9\n\nenvolvimento progressivo da garganta e da traqueia9,10. O papel da fisioterapia respiratória não foi estudado\ndiretamente na MPS II, mas se sabe que a fisioterapia visa a melhorar a função pulmonar, ventilação e biomecânica\nrespiratória na MPS II.",
+      "char_count": 1694
+    },
+    {
+      "number": "6.1.4",
+      "title": "Tratamento das manifestações musculoesqueléticas e ortopédicas",
+      "depth": 3,
+      "content": "As complicações ortopédicas são comuns em pacientes com MPS II, tais como: baixa estatura, deformidades\nda coluna, mãos em garra, rigidez e contraturas articulares, que podem causar incapacidade significativa41. As\n\"disostoses múltiplas\" são achados radiográficos encontrados em todos os tipos de MPS e se manifestam como um\nespessamento generalizado da maioria dos ossos longos, particularmente costelas, com centros de ossificação\nepifisária irregulares em muitas áreas9.\n      A fisioterapia motora dinâmica pode trazer benefícios aos pacientes e seu objetivo principal é a prevenção de\ndeformidades osteoarticulares e incentivo de mudanças de decúbito, visando a facilitar as atividades de vida diária,\nmelhorar a mobilidade do paciente e sua independência, além de fornecer orientação familiar para promover uma\nmelhor qualidade de vida41. No entanto, inexistem estudos que avaliem o papel da fisioterapia motora,\nespecificamente, na MPS II. Programas específicos voltados para a necessidade de cada indivíduo devem ser\ndesenvolvidos. Sugere-se envolver mobilização, treinamento de força e resistência, aprimoramento das habilidades\nmotoras finas para as mãos e treinamento de marcha para articulações dos membros inferiores 34,41.\n      É importante que o paciente possa realizar o treino sozinho, uma vez que sessões de treinamento regulares e\ncurtas de 10 minutos/dia, por exemplo, podem ser mais eficazes do que uma sessão semanal com um\nfisioterapeuta33. Além disso, é importante documentar o progresso do paciente, realizando avaliações basais e\nperiódicas. Antes do início da fisioterapia, recomenda-se avaliar se as manifestações musculoesqueléticas presentes\nnão são de origem neurológica. Deve-se evitar a hiperextensão da cabeça devido ao comprometimento atlanto-\naxial41. A instabilidade desta articulação pode ser avaliada por radiografias de flexão-extensão do pescoço.",
+      "char_count": 1888
+    },
+    {
+      "number": "6.1.5",
+      "title": "Tratamento da dor",
+      "depth": 3,
+      "content": "Pacientes com MPS II frequentemente apresentam dor, especialmente devido a contraturas articulares e\nalterações do sistema nervoso periférico41. A aplicação de escalas de dor pode auxiliar na avaliação e na instituição\nde tratamento apropriado42. Intervenções medicamentosas e não medicamentosas podem ser utilizadas, de acordo\ncom a intensidade da dor 9,41,42, conforme PCDT da Dor crônica vigente43.",
+      "char_count": 401
+    },
+    {
+      "number": "6.1.6",
+      "title": "Tratamento das manifestações audiológicas",
+      "depth": 3,
+      "content": "A perda de audição ocorre na quase totalidade dos pacientes e pode contribuir para problemas\ncomportamentais e dificuldades de aprendizado, podendo causar dificuldades sociais semelhantes ao observado em\ndistúrbios do espectro autista19,44. Por isso, o uso de aparelhos auditivos é um aspecto importante do controle da\ndoença44.\n\n\n\n\n                                                                                                                  10\n\n       Também é comum a ocorrência de otite média crônica, podendo ocorrer perda auditiva condutiva. Deste\nmodo, avaliações otológicas e audiológicas devem ser realizadas pelo menos a cada 6 a 12 meses e, no caso de\notites, estas devem ser tratadas, conforme necessário33,44.",
+      "char_count": 726
+    },
+    {
+      "number": "6.1.7",
+      "title": "Tratamento das manifestações digestivas",
+      "depth": 3,
+      "content": "O acúmulo de GAG leva ao aumento do fígado e baço em pacientes com MPS II. Sendo assim, distensão\nabdominal, hérnias umbilicais e hérnias inguinais são comumente observadas nesses pacientes, necessitando\navaliação e tratamento específicos9,19. Entretanto, disfunção específica hepática e esplênica não costumam\nocorrer19. Diarreia crônica é frequente nas formas graves da doença e pode necessitar intervenção e orientação\nnutricional9,19.\n       A disfagia orofaríngea é bastante prevalente em pacientes com MPS II, mesmo naqueles sem\ncomprometimento neurológico45. Essa alteração pode afetar as funções respiratória e nutricional, devendo ser\nmonitoradas45,46.",
+      "char_count": 661
+    },
+    {
+      "number": "6.1.8",
+      "title": "Tratamento das manifestações bucomaxilares",
+      "depth": 3,
+      "content": "O cuidado oral padrão deve ser realizado sempre que necessário e é recomendada avaliação a cada seis\nmeses47. Devido à abertura limitada do maxilar, procedimentos odontológicos de rotina podem ser difíceis de serem\nrealizados e, alguns, exigirão anestesia geral, representando riscos particulares em pacientes com MPS II33,47.\n       Há relatos de erupção dentária atrasada, particularmente com os primeiros molares permanentes 47. Além\ndisso, recomenda-se acompanhamento fonoterápico, uma vez que os pacientes apresentam comprometimento da\ndeglutição, da mastigação e muitos apresentam respiração bucal46.\n       Assim, a terapia fonoaudiológica em motricidade orofacial para pacientes com MPS pode aumentar o tônus\nmuscular, mudar padrões funcionais e prevenir desvios no desenvolvimento craniofacial, além de auxiliar na\ncorreta orientação dos familiares na presença de dificuldades46.",
+      "char_count": 888
+    },
+    {
+      "number": "6.1.9",
+      "title": "Tratamento das manifestações cardíacas",
+      "depth": 3,
+      "content": "As complicações cardiovasculares estão presentes na maioria dos pacientes e se manifestam em idade\nprecoce9,48. As modificações típicas incluem doença valvar afetando as válvulas mitral, aórtica, tricúspide e\npulmonar em frequência decrescente, respectivamente, hipertrofia ventricular, hipertensão arterial, arritmias\n(taquicardia, bradicardia, bloqueio atrioventricular)33,48. O envolvimento cardíaco deve ser avaliado no diagnóstico\ne ser monitorado após, com ecocardiografia, eletrocardiograma e Holter regularmente, se indicado33.\n       O cuidado do envolvimento cardíaco é essencialmente de suporte, envolvendo identificação e tratamento de\npacientes com insuficiência cardíaca congestiva, desenvolvida como resultado da miocardiopatia, geralmente\nhipertrófica, ou, mais raramente, devido à disfunção valvar grave10. Nesse caso, o paciente deve ser tratado com\nbeta-bloqueadores, inibidores da enzima conversora da angiotensina (ECA) ou diuréticos, conforme avaliação\nclínica e tratamento preconizado para a população geral. Em casos extremos, os pacientes podem ser submetidos à\nvalvoplastia com balão ou reparação/substituição valvar cirúrgica, embora tais procedimentos sejam raros 10. A\n\n                                                                                                                  11\n\nhipertensão é, geralmente, sub-diagnosticada em pacientes com MPS II e deve ser tratada com medicamentos\nutilizados para tal condição. As arritmias devem ser tratadas com ablação, medicamentos antiarrítmicos,\nanticoagulantes e, se necessário, com desfibrilador cardioversor implantável10. A profilaxia para endocardite\nbacteriana é indicada apenas para pacientes com história de endocardite ou prótese valvar49.",
+      "char_count": 1728
+    },
+    {
+      "number": "6.1.10",
+      "title": "Outros aspectos do acompanhamento clínico",
+      "depth": 3,
+      "content": "Como se trata de uma doença crônica, multissistêmica e progressiva, os pacientes com MPS II e suas\nfamílias requerem, geralmente, apoio psicológico e social considerável a partir do diagnóstico10. As associações de\npacientes fornecem apoio psicossocial muito importante e a possibilidade de estabelecer vínculos com outros\nindivíduos afetados, proporcionando troca de experiências e melhor enfrentamento das dificuldades encontradas.\n         Deve ser oferecido aconselhamento genético a todas as famílias e aos pacientes, visando fornecer\ninformações sobre heterozigotas, diagnóstico pré-natal e chance de recorrência. A chance de um novo filho do sexo\nmasculino do mesmo casal apresentar MPS II é de 50%, se a mãe for heterozigota9. É importante que uma equipe\nmultidisciplinar acompanhe o paciente, com nutricionistas, fonoaudiólogos, psicólogos, fisioterapeutas e\ndentistas10,33,34.",
+      "char_count": 886
+    },
+    {
+      "number": "6.2",
+      "title": "Tratamento cirúrgico",
+      "depth": 2,
+      "content": "Muitos pacientes apresentam infecções respiratórias recorrentes e obstruções de vias aéreas, sendo que a\nindicação de adenoidectomia e amigdalectomia pode ser apropriada10. Entretanto, o bloqueio das vias aéreas nas\nmucopolissacaridoses é multifatorial e os resultados de adenotonsilectomia variam. Na maioria dos casos, a\nmelhora a médio prazo na qualidade respiratória é percebida. A cirurgia das vias aéreas pode ser complicada pela\nmacroglossia, abertura limitada da boca e instabilidade da coluna cervical. Além disso, existe o risco de\ncompressão medular aguda após a hiperextensão do pescoço36.\n       Uma alternativa de realização de adenoidectomia quando o acesso pela abertura bucal está comprometido é a\ncirurgia endoscópica por via nasal50. No entanto, à medida que a doença progride, a traqueostomia pode ser\nnecessária10. Há evidência que adenoamigdalectomia é efetiva em crianças com MPS II diagnosticadas com apneia\nobstrutiva do sono leve a moderada, conforme revisão sistemática da Cochrane51. A traqueostomia deve ser evitada,\nsempre que possível, por dificuldades na técnica cirúrgica, endurecimento da traqueia, alterações anatômicas\nsignificativas, como pescoço curto, além da alta taxa de complicações pós-operatórias, como traqueíte, pneumonia\nrecorrente e bloqueio da traqueostomia por secreções espessas52. A broncoscopia pode ser realizada para uma\navaliação mais detalhada das vias aéreas33. A deglutição, já prejudicada pela anatomia e pelo comprometimento\nneurológico, tende a piorar, aumentando o risco de aspiração53. Os desafios da gestão de uma traqueostomia nesses\npacientes, associados à dificuldade de aceitação pelo paciente e pela família, também devem ser considerados na\ntomada de decisão.\n       Em pacientes com perda auditiva secundária à otite crônica secretora, pode ser discutida a possibilidade de\nmiringotomia e colocação de tubos de ventilação ou o uso de aparelhos auditivos10,34. Ambos são efetivos, mas os\naparelhos auditivos são preferidos nas crianças com comorbidades significativas10.\n\n                                                                                                                 12\n\n      Complicações neurológicas, como hidrocefalia comunicante e compressão medular, podem surgir ao longo\nda evolução da doença9. Os sinais clássicos de hipertensão intracraniana geralmente estão ausentes, evoluem de\nforma insidiosa e os sintomas são difíceis de distinguir de danos primários ao cérebro10. Alterações\ncomportamentais, como agitação ou hipoatividade, podem ser sinais de hipertensão intracraniana54. Pode ser difícil\na diferenciação entre hidrocefalia e atrofia cerebral e, sendo assim, a combinação de estudos de imagem e\nraquimanometria para medida de pressão liquórica pode fornecer um diagnóstico mais confiável54.\n      Em pacientes com hidrocefalia comunicante ou evidência de aumento ventricular progressivo, a derivação\nventriculoperitoneal pode ser eficaz em reduzir a pressão intracraniana 36,54. Embora pouco se saiba sobre como\nmodificar a progressão da doença, há relatos de melhora motora, de sintomas como dor de cabeça ou do\ncomportamento do sono, após a colocação da derivação36. Devido ao mecanismo particular da hipertensão\nintracraniana nas mucopolissacaridoses, recomenda-se utilizar válvulas de alta pressão, no intuito de evitar\nsíndrome de hiperdrenagem54.\n      Uma característica comum da MPS II é a compressão progressiva da medula espinhal, que resulta em\nmielopatia cervical e pode levar a atividade reduzida, dificuldade para sentar-se, paresias e espasticidades, dor ou\nperda de sensibilidade na parte superior e inferior do corpo, bem como disfunção vesical e intestinal 10,36. O dano\nmedular pode ser irreversível se não tratado. Recomenda-se, então, considerar a descompressão cirúrgica quando\nocorrem os sintomas e o diagnóstico é confirmado10,36.\n      Em pacientes com síndrome do túnel do carpo, a descompressão cirúrgica do nervo mediano é indicada 9,37.\nNos pacientes com MPS II, a articulação do quadril pode apresentar o acetábulo muito raso, ocorrendo o\nachatamento da cabeça do fêmur, levando à osteoartrite e à redução da mobilidade. Assim, os pacientes podem\nnecessitar de artroplastia do quadril com colocação de prótese33. Como se trata de um procedimento de grande\nporte, os riscos, benefícios e a expectativa de vida do paciente devem ser considerados. As hérnias inguinais e\numbilicais são comuns entre os pacientes com MPS II e, em muitos deles, a história de reparo de uma hérnia pode\nanteceder o diagnóstico da doença9,33.\n      O risco anestésico em muitos desses pacientes é elevado por características próprias da doença, como\npescoço curto e obstrução das vias aéreas superiores. Sempre que possível, as cirurgias devem ser realizadas em\nCR com experiência no cuidado de pacientes com MPS, sendo fundamental a presença de anestesista com\nhabilidade em intubação difícil para a realização dos procedimentos, pois a necessidade de acompanhar a intubação\ncom fibroscópio é frequente. As máscaras laríngeas podem ser usadas para a viabilização das vias aéreas por\nperíodos curtos ou para facilitar a intubação de fibra óptica55. A extubação também apresenta risco importante,\ncomo edema pulmonar pós-operatório e edema das vias aéreas superiores. Além disso, alguns pacientes podem não\nconseguir manter a via aérea após a extubação, resultando na necessidade de reintubação urgente ou\ntraqueostomia10,55. Como a extubação precoce pode reduzir esse risco55, a anestesia local ou regional deve ser\nconsiderada, sempre que possível10.\n\n\n\n\n                                                                                                                 13",
+      "char_count": 5682
+    },
+    {
+      "number": "6.3",
+      "title": "Tratamento com TCTH",
+      "depth": 2,
+      "content": "Para elegibilidade ao TCTH, o paciente deve ter diagnóstico de MPS II e observar normas técnicas do\nSistema Nacional de Transplantes. A utilização das fontes de células-tronco hematopoéticas, de medula óssea, de\nsangue periférico ou de sangue de cordão umbilical, deve considerar os riscos para o doador e os riscos e benefícios\npara o receptor1,5,30,36.\n       O TCTH alogênico mieloablativo, aparentado (preferencialmente com doadores homozigotos normais, ou\nseja, não portadores de variantes patogênicas no gene IDS) e o não aparentado, parecem ter risco de\nmorbimortalidade progressivamente menor com o passar dos anos e alguns efeitos positivos na MPS II.\n       A indicação de transplante envolvendo doadoras heterozigotas portadoras de variantes patogênicas no gene\nIDS deve ser avaliada caso-a-caso.\n       O TCTH pode ser indicado como tratamento para a forma grave com regressão neurológica da MPS II, uma\nvez que ele é o único tratamento atualmente disponível, potencialmente capaz de proporcionar benefícios em\ntermos neurológicos, quando critérios rígidos de seleção são respeitados. Assim, o TCTH alogênico pode ser\nindicado em idade precoce, preferencialmente, até 3 anos de idade9,33.\n       Para a autorização do TCTH alogênico aparentado de medula óssea, de sangue periférico ou de sangue de\ncordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no Registro Nacional\nde Receptores de Medula Óssea ou outros precursores hematopoéticos – REREME/INCA/MS, e devem ser\nobservadas as normas técnicas e operacionais do Sistema Nacional de Transplantes. Os resultados de todos os casos\nde MPS tipo II submetidos a TCTH mieloablativo halogênico aparentado ou não aparentado de medula óssea, de\nsangue periférico ou de sangue de cordão umbilical deverão ter sua evolução registrada no REREME a cada três\nmeses até completar pelo menos um ano da realização do transplante.",
+      "char_count": 1919
+    },
+    {
+      "number": "6.4",
+      "title": "Tratamento medicamentoso",
+      "depth": 2,
+      "content": "A idursulfase alfa é uma forma recombinante da IDS produzida por técnicas de engenharia genética\nutilizando a linhagem celular derivada de fibrossarcoma (HT-1080) que produz uma proteína glicosilada análoga à\nIDS humana nativa29. Segundo avaliações, a TRE pode reduzir a hepatoesplenomegalia e a excreção de GAG\nurinários e melhorar a capacidade funcional29,56.\n       Segundo revisão sistemática com meta-análise57, há efeitos positivos na distância percorrida no Teste da\nCaminhada de 6 minutos (TC6M) e na capacidade vital forçada (CVF), embora ambos sejam considerados\nclinicamente não significativos. A maioria dos estudos não incluiu pacientes com regressão neurológica, que é o\nfenótipo grave e, ainda, a idade ótima para o início da TRE é desconhecida. Sugere-se que o início precoce, nos\nprimeiros meses de vida, tenha benefício adicional57.",
+      "char_count": 850
+    },
+    {
+      "number": "6.4.1",
+      "title": "Medicamento",
+      "depth": 3,
+      "content": "- Idursulfase alfa: 2 mg/mL solução injetável.\n\n\n\n\n                                                                                                                 14",
+      "char_count": 166
+    },
+    {
+      "number": "6.4.2",
+      "title": "Esquema de administração",
+      "depth": 3,
+      "content": "A dose de idursulfase alfa é de 0,5 mg/kg de peso corporal administrado uma vez por semana por infusão\nintravenosa (IV). A solução deve ser diluída em 100 mL de cloreto de sódio a 0,9% e administrada durante 1 a 3\nhoras.\n         Deve ser feita em ambiente hospitalar ou ambulatorial, sob vigilância de um médico ou outro profissional de\nsaúde em ambiente dotado de infraestrutura necessária ao manejo clínico relacionado às intercorrências. Infusões\ndomiciliares podem ser consideradas após 6 meses de tratamento, caso não tenham ocorrido intercorrências.\n         Recomenda-se o uso de um dispositivo de infusão com um filtro de 0,2 μm58. A taxa de infusão inicial deve\nser 8 mL/hora nos primeiros 15 minutos e, se bem tolerado, pode ser aumentada em 8 mL/hora a cada 15 minutos,\naté uma taxa máxima de 100 mL/h. Se a taxa for reduzida, o tempo de infusão não deve exceder 8 horas, uma vez\nque o medicamento não possui conservantes59. A administração de medicamentos antitérmicos e anti-histamínicos\nantes das infusões não deve ser considerada como recomendação padrão, sendo utilizada somente para prevenção\nde recorrência de reações à infusão60.\n         O uso de idursulfase alfa administrada por infusão IV na dose de 0,5 mg/kg quinzenalmente é relatada em\nalguns centros e é considerada prescrição off label, não aprovada no registro do medicamento60. O estudo de\nMuenzer et al. (2006)29 considerou os desfechos em pacientes utilizando a dose de 0,5 mg/kg semanalmente, a dose\nde 0,5 mg/kg quinzenalmente e placebo e identificou uma taxa de melhora estatisticamente significante no TC6M\nquando comparou pacientes que utilizaram a dose semanal e o placebo (44,3  12,3 metros versus 7,3  9,5 metros;\nP=0,0131). Já com a dose quinzenal, apesar de pequena melhora, não houve significância estatística (30,3  10,3\nmetros versus 7,3  9,5 metros; P=0,0732). Ainda, os resultados referentes à CVF absoluta foram estatisticamente\nsuperiores no tratamento com idursulfase semanal quando comparado ao grupo placebo (0,22  0,05 litros versus\n0,06  0,03 litros; P=0.0011); e entre o grupo da idursulfase quinzenal e o grupo placebo (0,07  0,03 litros versus\n0,06  0,03 litros; P=0,0176). No entanto, quando comparado a intervenção da idursulfase com o placebo, houve\nmelhora no escore composto pela distância percorrida no TC6M e a previsão da porcentagem da CVF, tanto na\nintervenção com idursulfase semanal (escore diferença do tratamento= 18,96  6,47; P=0,0049) quanto quinzenal\n(escore diferença do tratamento = 12,86  6,17; P=0,0416)29. Não há estudos comparando de forma direta o uso\nsemanal e quinzenal da enzima. Sendo assim, a mudança de dose e esquema posológico não está preconizado neste\nPCDT, visto que não foram identificadas evidências sobre eficácia, efetividade ou segurança de esquemas\nposológicos de administração quinzenal60.",
+      "char_count": 2849
+    },
+    {
+      "number": "6.4.3",
+      "title": "Eventos adversos",
+      "depth": 3,
+      "content": "Os eventos adversos relatados, na maioria dos casos, são leves e facilmente tratáveis, apesar de frequentes,\ntanto relacionado à infusão quanto ao tratamento em si. Os eventos adversos graves com risco de vida, que\nocorreram durante a TRE, estavam dentro do esperado para a história natural da MPS II e não foram relacionados\nao medicamento20,29,61–63.\n\n\n\n                                                                                                                  15\n\n      Os eventos adversos relacionados à infusão são frequentes, mas podem ser atenuados com medicamentos,\nconforme o caso. Os eventos mais comuns foram cefaleia, febre, reações cutâneas, como urticária e eritema60–63,\nvômitos63, dispneia, dor abdominal e síncope vasovagal62.\n      Em relação ao desenvolvimento de anticorpos IgG anti-idursulfase alfa, sabe-se que ocorrem em 50% a 60%\ndos pacientes29,58,63-66 e em 67,9% dos pacientes pediátricos incidem em pelo menos uma ocasião64. Apesar da alta\nprevalência de anticorpos entre os pacientes tratados, a sua presença não parece reduzir o efeito do tratamento de\nforma clinicamente significativa58,67. Quando houver reação mediada por IgE à infusão, deve ser discutida a\npossibilidade do uso de protocolos que promovam a tolerabilidade66.",
+      "char_count": 1265
+    },
+    {
+      "number": "6.4.4",
+      "title": "Critérios de interrupção",
+      "depth": 3,
+      "content": "O tempo de tratamento não é pré-determinado, mas devido às características da doença e à ausência de\ntratamento específico alternativo, deve ser mantido por toda a vida do paciente. Para fins deste PCDT, recomenda-\nse que a TRE seja interrompida nas seguintes situações34:\n      1) Desenvolvimento de regressão neurológica com perda de funções adquiridas, durante a vigência do\ntratamento;\n      2) Ausência de benefício clínico associado ao tratamento, considerando o período de 12 meses após o início\ndas infusões. A presença de pelo menos um dos itens a seguir é evidência de benefício clínico:\n      a) redução da excreção urinária de GAG, em pelo menos 50%;\n      b) qualquer redução da hepatomegalia por quaisquer dos métodos utilizados para aferição da mesma (exame\nfísico, ecografia abdominal ou ressonância abdominal);\n      c) qualquer redução da esplenomegalia por quaisquer dos métodos utilizados para aferição da mesma (exame\nfísico, ecografia abdominal ou ressonância abdominal);\n      d) melhora da qualidade de vida, aferida por questionários validados.\n      3) Falta de adesão ao tratamento, ou seja, pacientes que não apresentarem pelo menos 50% de adesão ao\nnúmero de infusões previstas em um ano; ou ao número de consultas previstas em um ano; ou ao número de\navaliações previstas em um ano com o médico responsável pelo seguimento do paciente; desde que previamente\ninseridos, sem sucesso, em programa específico para melhora de adesão, ou seja, pacientes que mesmo após o\nprograma não comparecerem a pelo menos 50% do número de infusões, consultas ou de avaliações previstas em\num ano.\n      4) Pacientes que apresentarem hipersensibilidade ou reação adversa grave (choque anafilático, risco de óbito)\ncom o uso da idursulfase alfa, que não podem ser controlados com segurança utilizando medidas terapêuticas e\npreventivas apropriadas.\n      5) Pacientes que desenvolverem condição irreversível que implique em morte iminente, cujo prognóstico não\nse alterará devido ao uso da TRE, como resultado da MPS II ou de outra doença associada, em acordo entre mais\nde um especialista.\n      6) Pacientes com idade > 18 anos e que, após devidamente informados sobre os riscos e benefícios de sua\ndecisão, optarem por não mais se submeterem ao tratamento com TRE IV com idursulfase alfa.\n\n                                                                                                                16\n\n       Os critérios de interrupção do tratamento devem ser apresentados, de forma clara, aos pais/paciente ou aos\nresponsáveis quando a TRE estiver sendo considerada e antes de iniciá-la. Durante o acompanhamento clínico do\npaciente em TRE, os parâmetros de resposta terapêutica deverão ser avaliados periodicamente e discutidos com os\npais/paciente ou responsáveis. No caso de interrupção por falha de adesão, o paciente e familiares deverão ser\ninseridos em programa de incentivo à adesão e poderão retornar ao tratamento, caso haja comprometimento\nexplícito de seguimento das recomendações médicas.",
+      "char_count": 3020
+    },
+    {
+      "number": "6.5",
+      "title": "Tratamento em populações específicas",
+      "depth": 2,
+      "content": "A idursulfase alfa é considerada um medicamento classe C para uso na gestação e aleitamento. Foi excretada\nno leite de ratas lactantes em uma concentração 4 a 5 vezes maior do que no plasma, mas não se sabe se é excretada\nno leite humano68. Ainda, como a doença é ligada ao X e recessiva, as mulheres são, geralmente, assintomáticas e\nnão há relatos na literatura de pacientes femininas tratadas com idursulfase alfa, até o momento. Sendo assim, o uso\nda TRE com idursulfase alfa em mulheres grávidas ou que estejam amamentando não é recomendado68.\n       Não foram encontradas evidências na literatura sobre o efeito na espermatogênese em pacientes tratados com\nidursulfase alfa. Contudo, o uso do medicamento não apresentou efeito na fertilidade nem na reprodutibilidade de\nratos do sexo masculino68.",
+      "char_count": 802
+    },
+    {
+      "number": "7",
+      "title": "MONITORAMENTO",
+      "depth": 1,
+      "content": "Os pacientes devem ser monitorizados para a resposta terapêutica e os eventos adversos. O médico deve\nrealizar anamnese completa em cada visita e coletar dados de altura, em pé ou decúbito dorsal ou por segmento, em\ncaso de restrições nos membros inferiores, peso e perímetro cefálico, de preferência usando o mesmo instrumento\ndevidamente calibrado. O exame físico deve ser completo e incluir sinais vitais (temperatura, frequência cardíaca,\nfrequência respiratória e pressão arterial), bem como medidas para quantificação do tamanho do fígado por\nhepatimetria e do baço. A avaliação do desenvolvimento sexual deve ser realizada em adolescentes, de acordo com\nos critérios de Tanner10,34.\n       Nas visitas, dados sobre todas as avaliações realizadas desde o último agendamento devem ser obtidos e os\ntestes necessários devem ser solicitados, incluindo avaliação por especialistas em neurologia, otorrinolaringologia,\noftalmologia, cardiologia e pneumologia; um estudo do sono; e avaliação de volumes viscerais com RNM, TC ou,\nquando o paciente não for capaz de passar por esses exames, com ecografia10,34.\n       Para fins de diagnóstico e acompanhamento, radiografias do crânio de perfil, de coluna vertebral de perfil,\nincluindo região cervical, tórax póstero-anterior, coxofemoral póstero-anterior e ambas as mãos devem ser\nrealizadas10,34. Exposição excessiva à radiação deve ser evitada. As avaliações de rotina devem ser realizadas\nanualmente pelo pediatra ou clínico, além de ginecologista para adolescentes e mulheres adultas, com vacinas\nseguindo o calendário vacinal brasileiro, orientação dietética, exames e informações preventivas.\n\n\n\n\n                                                                                                                 17\n\n      O médico assistente sempre deve solicitar informações sobre ou avaliar, periodicamente, outros membros\nafetados da família, além de avaliar se a família tem uma boa compreensão da doença e riscos reprodutivos,\nfornecendo ou encaminhando para orientação e aconselhamento genético adicionais, quando aplicável.\n      Pacientes com MPS também devem ser monitorados por outros profissionais como dentistas, fisioterapeutas,\nfonoaudiólogos, terapeutas ocupacionais, nutricionistas e psicólogos10,33,34. É papel do médico transmitir a estes\nprofissionais informações pertinentes, discutir os riscos e benefícios das intervenções e incentivar a família a seguir\ncorretamente as terapias. O médico também é responsável, juntamente com o assistente social, por identificar as\ndificuldades encontradas pelas famílias e deve procurar ajudá-los, orientando-os nas avaliações e tratamento,\natividades de vida diária, atividades escolares e inserção social do paciente e sua família. O Apêndice 2 apresenta\nas avaliações consideradas mínimas para o acompanhamento de pacientes com MPS II. São definidos períodos\nmínimos apenas para aquelas avaliações que têm por objetivo detectar a eficácia e segurança da TRE; para as\ndemais, a periodicidade de avaliações fica a critério do médico assistente.\n      O seguimento de pacientes submetidos a TCTH deve seguir a conduta adotada pelo centro transplantador.",
+      "char_count": 3164
+    },
+    {
+      "number": "8",
+      "title": "REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR",
+      "depth": 1,
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e o\nmonitoramento dos tratamentos clínico e de reabilitação necessários, bem como a verificação periódica das doses\nprescritas e dispensadas e a adequação de uso do medicamento.\n      O tratamento da MPS II deve ser feito por equipe em serviços especializados ou de referência em doenças\nraras, para fins de diagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle da doença\nexige experiência e familiaridade com manifestações clínicas associadas, convém que o médico responsável tenha\nexperiência e seja treinado nessa atividade. Cabe destacar que, sempre que possível, o atendimento da pessoa com\nMPS II deve ocorrer por equipe multiprofissional, possibilitando o desenvolvimento de Projeto Terapêutico\nSingular (PTS) e a adoção de terapias de apoio conforme sua necessidade funcional e as Diretrizes para Atenção\nIntegral às Pessoas com Doenças Raras no Sistema Único de Saúde (SUS).\n      Para a administração dos medicamentos é essencial o atendimento centralizado, para maior racionalidade do\nuso e avaliação da efetividade. A infusão deve ser feita em ambiente hospitalar ou ambulatorial sob vigilância de\num médico ou outro profissional da saúde, devido ao risco de reações durante a infusão. Infusões domiciliares\npodem ser consideradas após 6 meses de tratamento sem intercorrências.\n      Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica se encontra o medicamento preconizado neste Protocolo.\n      Os Estados e municípios deverão manter atualizadas as informações referentes aos registros de estoque,\ndistribuição e dispensação dos medicamentos e encaminhar estas informações ao Ministério da Saúde via Base\nNacional de Dados de Ações e Serviços da Assistência Farmacêutica no âmbito do Sistema Único de Saúde\n(BNAFAR), conforme as normas vigentes.\n\n\n                                                                                                                    18\n\n       Para a autorização do TCTH alogênico aparentado ou não aparentado de medula óssea, de sangue periférico\nou de sangue de cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no\nRegistro Nacional de Receptores de Medula Óssea ou outros precursores hematopoéticos – REREME/INCA/MS e\ndevem ser observadas as normas técnicas e operacionais do Sistema Nacional de Transplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem continuar sendo\nassistidos e acompanhados; os demais receptores transplantados deverão, efetivada a alta do hospital\ntransplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência e\nacompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte,\nsempre que necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre a\nevolução dos transplantados.\n       Os resultados de todos os casos MPS II submetidos a TCTH mieloablativo alogênico aparentado ou não\naparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical, do tipo mieloablativo, deverão\nter sua evolução registrada no REREME a cada três meses até completar pelo menos um ano da realização do\ntransplante.\n       Em 2014, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças\nRaras e aprovou as Diretrizes para Atenção Integral às Pessoas com doenças raras no âmbito do Sistema Único de\nSaúde (SUS) por meio da Portaria GM/MS nº 199, de 30 de janeiro de 2014 (consolidada no Anexo XXXVIII da\nPortaria de Consolidação GM/MS nº 2/2017 e na Seção XIV do Capítulo II do Título III da Portaria de\nConsolidação GM/MS nº 6/2017), relativas à Política Nacional de Atenção Integral às Pessoas com Doenças Raras.\n       A política tem abrangência transversal na Rede de Atenção à Saúde (RAS) e como objetivo reduzir a\nmortalidade, contribuir para a redução da morbimortalidade e das manifestações secundárias e a melhoria da\nqualidade de vida das pessoas, por meio de ações de promoção, prevenção, detecção precoce, tratamento oportuno,\nredução de incapacidade e cuidados paliativos. A linha de cuidado da atenção aos usuários com demanda para a\nrealização das ações na Política Nacional de Atenção Integral às Pessoas com Doenças Raras é estruturada pela\nAtenção Primária e Atenção Especializada, em conformidade com a Rede de Atenção à Saúde (RAS) e seguindo as\nDiretrizes para Atenção Integral às Pessoas com Doenças Raras no SUS. A Atenção Primária é responsável pela\ncoordenação do cuidado e por realizar a atenção contínua da população que está sob sua responsabilidade adstrita,\nalém de ser a porta de entrada prioritária do usuário na RAS. Já a Atenção Especializada é responsável pelo\nconjunto de pontos de atenção com diferentes densidades tecnológicas para a realização de ações e serviços de\nurgência, ambulatorial especializado e hospitalar, apoiando e complementando os serviços da Atenção Primária.\n       Os hospitais universitários, federais e estaduais, em torno de 50 em todo o Brasil e as associações\nbeneficentes e voluntárias são o lócus da atenção à saúde dos pacientes com doenças raras. Porém, para reforçar o\natendimento clínico e laboratorial, o Ministério da Saúde incentiva a criação de serviços da Atenção Especializada,\nassim classificados:\n       • Serviço de Atenção Especializada em Doenças Raras: presta serviço de saúde para uma ou mais doenças\nraras; e\n\n\n                                                                                                                19\n\n        • Serviço de Referência em Doenças Raras: presta serviço de saúde para pacientes com doenças raras\npertencentes a, no mínimo, dois eixos assistenciais (doenças raras de origem genética e de origem não genética).\n        No que diz respeito ao financiamento desses serviços, para além do ressarcimento pelos diversos\natendimentos diagnósticos e terapêuticos clínicos e cirúrgicos e a assistência farmacêutica, o Ministério da Saúde\ninstituiu incentivo financeiro de custeio mensal para os Serviços de Atenção Especializada em Doenças Raras e\npara os Serviços de Referência em Doenças Raras.\n        Assim, o atendimento de pacientes com doenças raras é feito prioritariamente na Atenção Primária, principal\nporta de entrada para o SUS e, se houver necessidade, o paciente será encaminhado para atendimento especializado\nem unidade de média ou alta complexidade, e a linha de cuidados de pacientes com Doenças Raras é estruturada\npela Atenção Primária e Atenção Especializada, em conformidade com a Rede de Atenção à Saúde e seguindo as\nDiretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de Saúde.\n        Considerando que cerca de 80% das doenças raras são de origem genética, o aconselhamento genético (AG)\né fundamental na atenção às famílias e pacientes com essas doenças. O aconselhamento genético é um processo de\ncomunicação que lida com os problemas humanos associados à ocorrência ou ao risco de ocorrência de uma doença\ngenética em uma família. Este processo envolve a participação de pessoas adequadamente capacitadas, com o\nobjetivo de ajudar o indivíduo e a família a compreender os aspectos envolvidos, incluindo o diagnóstico, o curso\nprovável da doença e os cuidados disponíveis.\n        Pacientes com suspeita de deficiência intelectual devem ser encaminhados, preferencialmente, a um serviço\nespecializado ou de referência em doenças raras para seu adequado diagnóstico.",
+      "char_count": 7667
+    },
+    {
+      "number": "9",
+      "title": "TERMO DE ESCLARECIMENTO E RESPONSABILIDADE (TER)",
+      "depth": 1,
+      "content": "Deve-se informar o paciente ou seu responsável legal sobre os potenciais riscos, benefícios e efeitos adversos\nrelacionados ao uso dos medicamentos preconizados neste Protocolo, levando-se em consideração as informações\ncontidas no TER.",
+      "char_count": 236
+    },
+    {
+      "number": "10",
+      "title": "REFERÊNCIAS",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "1",
+      "title": "Neufeld EF MJ. The Mucopolysaccharidoses. In: Scriver CR, editor. The Metabolic & Molecular Bases of",
+      "depth": 1,
+      "content": "Inherited Disease. New York; Montreal: McGraw-Hill; 2010.",
+      "char_count": 57
+    },
+    {
+      "number": "2",
+      "title": "D'Avanzo F, Rigon L, Zanetti A, Tomanin R. Mucopolysaccharidosis Type II: One Hundred Years of",
+      "depth": 1,
+      "content": "Research, Diagnosis, and Treatment. Int J Mol Sci. 2020 Feb 13;21(4):1258.\n      3. de Camargo Pinto LL, Maluf SW, Leistner-Segal S, Zimmer da Silva C, Brusius-Facchin A, Burin MG, et\n         al. Are MPS II heterozygotes actually asymptomatic? A study based on clinical and biochemical data,\n         Xinactivation analysis and imaging evaluations. Am J Med Genet A. 2011;155A: 50–57.",
+      "char_count": 385
+    },
+    {
+      "number": "4",
+      "title": "Schwartz IVD, Pinto LLC, Breda G, Lima L, Ribeiro MG, Mota JG, et al. Clinical and biochemical studies",
+      "depth": 1,
+      "content": "in mucopolysaccharidosis type II carriers. J Inherit Metab Dis. 2009;32: 732–738.\n\n                                                                                                                   20",
+      "char_count": 200
+    },
+    {
+      "number": "5",
+      "title": "Schwartz IVD, Ribeiro MG, Mota JG, Toralles MBP, Correia P, Horovitz D, et al. A clinical study of 77",
+      "depth": 1,
+      "content": "patients with mucopolysaccharidosis type II. ActaPaediatr. 2007;96: 63–70.\n6. Tuschl K, Gal A, Paschke E, Kircher S, Bodamer OA (2005) Mucopolysaccharidosis type II in females:\n   case report and review of literature. Pediatr Neurol 32:270–272.",
+      "char_count": 244
+    },
+    {
+      "number": "7",
+      "title": "Wraith JE, Scarpa M, Beck M, et al. Mucopolysaccharidosis type II (Hunter syndrome): a clinical review",
+      "depth": 1,
+      "content": "and recommendations for treatment in the era of enzyme replacement therapy. Eur J Pediatr,\n   2008;167(3):267-277.",
+      "char_count": 114
+    },
+    {
+      "number": "8",
+      "title": "Martin R, Beck M, Eng C, Giugliani R, Harmatz P, Muñoz V, et al. Recognition and diagnosis of",
+      "depth": 1,
+      "content": "mucopolysaccharidosis II (Hunter syndrome). Pediatrics. 2008;121: e377–86.\n9. Scarpa M. Mucopolysaccharidosis Type II. 2007 Nov 6 [Updated 2018 Oct 4]. In: Adam MP, Mirzaa GM,\n   Pagon RA, et al., editors. GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle;\n   1993-2023.\n10. Scarpa M, Almássy Z, Beck M, Bodamer O, Bruce IA, De Meirleir L, et al. Mucopolysaccharidosis type II:\n   European recommendations for the diagnosis and multidisciplinary management of a rare disease.\n   Orphanet J Rare Dis. 2011;6: 72.",
+      "char_count": 534
+    },
+    {
+      "number": "11",
+      "title": "Nelson J, Crowhurst J, Carey B, Greed L. Incidence of the mucopolysaccharidoses in Western Australia.",
+      "depth": 1,
+      "content": "Am J Med Genet A. 2003;123A: 310–313.",
+      "char_count": 37
+    },
+    {
+      "number": "12",
+      "title": "Baehner F, Schmiedeskamp C, Krummenauer F, Miebach E, Bajbouj M, Whybra C, et al. Cumulative",
+      "depth": 1,
+      "content": "incidence rates of the mucopolysaccharidoses in Germany. J Inherit Metab Dis. 2005;28: 1011–1017.",
+      "char_count": 97
+    },
+    {
+      "number": "13",
+      "title": "Josahkian JA, Trapp FB, Burin MG, Michelin-Tirelli K, Magalhães APPS, Sebastião FM, Bender F, Mari",
+      "depth": 1,
+      "content": "JF, Brusius-Facchin AC, Leistner-Segal S, Málaga DR, Giugliani R. Updated birth prevalence and relative\n   frequency of      mucopolysaccharidoses    across   Brazilian   regions.   Genet Mol   Biol. 2021 Jan\n   27;44(1):e20200138.",
+      "char_count": 231
+    },
+    {
+      "number": "14",
+      "title": "Wraith JE, Beck M, Giugliani R, Clarke J, Martin R, Muenzer J, et al. Initial report from the Hunter",
+      "depth": 1,
+      "content": "Outcome Survey. Genet Med. 2008;10: 508–516.",
+      "char_count": 44
+    },
+    {
+      "number": "15",
+      "title": "Giugliani R, Federhen A, Michelin-Tirelli K, Riegel M, Burin M. Relative frequency and estimated",
+      "depth": 1,
+      "content": "minimal frequency of Lysosomal Storage Diseases in Brazil: Report from a Reference Laboratory. Genet\n   Mol Biol. 2017;40: 31–39.\n16. Schwartz IV, Souza CFM de, Giugliani R. Treatment of inborn errors of metabolism. J Pediatr. 2008;84:\n   S8–19.",
+      "char_count": 245
+    },
+    {
+      "number": "17",
+      "title": "Motas S, Haurigot V, Garcia M, Marcó S, Ribera A, Roca C, et al. CNS-directed gene therapy for the",
+      "depth": 1,
+      "content": "treatment of neurologic and somatic mucopolysaccharidosis type II (Hunter syndrome). JCI Insight.\n   2016;1: e86696.",
+      "char_count": 116
+    },
+    {
+      "number": "18",
+      "title": "Muenzer J, Hendriksz CJ, Fan Z, Vijayaraghavan S, Perry V, Santra S, et al. A phase I/II study of",
+      "depth": 1,
+      "content": "intrathecal idursulfase-IT in children with severe mucopolysaccharidosis II. Genet Med. 2016;18: 73–81.\n\n\n\n\n                                                                                                             21",
+      "char_count": 219
+    },
+    {
+      "number": "19",
+      "title": "Mohamed S, He QQ, Singh AA, Ferro V. Mucopolysaccharidosis type II (Hunter syndrome): Clinical and",
+      "depth": 1,
+      "content": "biochemical aspects of the disease and approaches to its diagnosis and treatment. Adv Carbohydr Chem\n   Biochem. 2020;77:71-117.",
+      "char_count": 128
+    },
+    {
+      "number": "20",
+      "title": "Muenzer J, Burton BK, Harmatz P, Gutiérrez-Solana LG, Ruiz-Garcia M, Jones SA, Guffon N, Inbar-",
+      "depth": 1,
+      "content": "Feigenberg M, Bratkovic D, Hale M, Wu Y, Yee KS, Whiteman DAH, Alexanderian D; SHP609-302\n   study group. Long-term open-label extension study of the safety and efficacy of intrathecal idursulfase-IT\n   in patients with neuronopathic mucopolysaccharidosis II. Mol Genet Metab. 2022 Sep-Oct;137(1-2):92-\n   103.\n21. Giugliani R, Martins AM, So S, Yamamoto T, Yamaoka M, Ikeda T, Tanizawa K, Sonoda H, Schmidt M,\n   Sato Y. Iduronate-2-sulfatase fused with anti-hTfR antibody, pabinafusp alfa, for MPS-II: A phase 2 trial in\n   Brazil. Mol Ther. 2021 Jul 7;29(7):2378-2386.",
+      "char_count": 571
+    },
+    {
+      "number": "22",
+      "title": "Okuyama T, Eto Y, Sakai N, Nakamura K, Yamamoto T, Yamaoka M, Ikeda T, So S, Tanizawa K, Sonoda",
+      "depth": 1,
+      "content": "H, Sato Y. A Phase 2/3 Trial of Pabinafusp Alfa, IDS Fused with Anti-Human Transferrin Receptor\n   Antibody, Targeting Neurodegeneration in MPS-II. Mol Ther. 2021 Feb 3;29(2):671-679.",
+      "char_count": 183
+    },
+    {
+      "number": "23",
+      "title": "Falavigna M, Migliavaca CB, Tanaka E, Santos M. Innovative mechanisms of pre-marketing authorization",
+      "depth": 1,
+      "content": "access for rare diseases in Brazil: a case study of pabinafusp-alfa for mucopolysaccharidosis type II. J Bras\n   Econ Saude. 2023;15(1):67-70.",
+      "char_count": 142
+    },
+    {
+      "number": "24",
+      "title": "Cobos PN, Steglich C, Santer R, Lukacs Z, Gal A. Dried blood spots allow targeted screening to diagnose",
+      "depth": 1,
+      "content": "mucopolysaccharidosis and mucolipidosis. JIMD Rep. 2015;15: 123–132.",
+      "char_count": 68
+    },
+    {
+      "number": "25",
+      "title": "Rezende MM, Müller KB, Pereira VG, D’Almeida V. Brazilian reference values for MPS II screening in",
+      "depth": 1,
+      "content": "12 dried blood spots--a fluorimetric assay. ClinBiochem. 2014;47: 1297–1299.\n26. de Jong JG, Hasselman JJ, van Landeghem AA, Vader HL, Wevers RA. The spot test is not a reliable\n   screening procedure for mucopolysaccharidoses. Clin Chem. 1991;37: 572–575.",
+      "char_count": 256
+    },
+    {
+      "number": "27",
+      "title": "Auray-Blais C, Lavoie P, Tomatsu S, Valayannopoulos V, Mitchell JJ, Raiman J, et al. UPLC-MS/MS",
+      "depth": 1,
+      "content": "detection of disaccharides derived from glycosaminoglycans as biomarkers of mucopolysaccharidoses.\n   Anal ChimActa. 2016;936: 139–148.",
+      "char_count": 135
+    },
+    {
+      "number": "28",
+      "title": "PLC-MS/MS detection of disaccharides derived from glycosaminoglycans as biomarkers of",
+      "depth": 1,
+      "content": "mucopolysaccharidoses. Anal ChimActa. 2016;936: 139–148.",
+      "char_count": 56
+    },
+    {
+      "number": "29",
+      "title": "Muenzer J, Wraith JE, Beck M, Giugliani R, Harmatz P, Eng CM, et al. A phase II/III clinical study of",
+      "depth": 1,
+      "content": "enzyme replacement therapy with idursulfase in mucopolysaccharidosis II (Hunter syndrome). Genet Med.\n   2006;8: 465–473.",
+      "char_count": 121
+    },
+    {
+      "number": "30",
+      "title": "Froissart R, Da Silva IM, Maire I. Mucopolysaccharidosis type II: an update on mutation spectrum.",
+      "depth": 1,
+      "content": "ActaPaediatr. 2007;96: 71–77.\n31. Kato T, Kato Z, Kuratsubo I, Tanaka N, Ishigami T, Kajihara JI, Sukegawa-Hayasaka K, Orii K, Isogai K,\n   Fukao T, Shimozawa N, Orii T, Kondo N, Suzuki Y. Mutational and structural analysis of Japanese\n   patients with mucopolysaccharidosis type II. J Hum Genet. 2005;50(8):395-402.\n\n\n                                                                                                             22",
+      "char_count": 430
+    },
+    {
+      "number": "32",
+      "title": "Brusius-Facchin AC, Schwartz IVD, Zimmer C, Ribeiro MG, Acosta AX, Horovitz D, et al.",
+      "depth": 1,
+      "content": "Mucopolysaccharidosis type II: identification of 30 novel mutations among Latin American patients. Mol\n   Genet Metab. 2014;111: 133–138.\n33. Muenzer J, Beck M, Eng CM, Escolar ML, Giugliani R, Guffon NH, Harmatz P, Kamin W, Kampmann C,\n   Koseoglu ST, Link B, Martin RA, Molter DW, Muñoz Rojas MV, Ogilvie JW, Parini R, Ramaswami U,\n   Scarpa M, Schwartz IV, Wood RE, Wraith E. Multidisciplinary management of Hunter\n   syndrome. Pediatrics. 2009;124:e1228–39.",
+      "char_count": 461
+    },
+    {
+      "number": "34",
+      "title": "Giugliani R, Villarreal MLS, Valdez CAA, Hawilou AM, Guelbert N, Garzón LNC, et al. Guidelines for",
+      "depth": 1,
+      "content": "diagnosis and treatment of Hunter Syndrome for clinicians in Latin America. Genet Mol Biol. 2014;37:\n   315–329.",
+      "char_count": 112
+    },
+    {
+      "number": "35",
+      "title": "Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Epilepsia. Portaria Conjunta",
+      "depth": 1,
+      "content": "SAS/SCTIE/MS nº 17, de 21 de junho de 2018. Acesso em 28 nov 2023. Disponível em:\n   https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt_epilepisia_2019.pdf",
+      "char_count": 160
+    },
+    {
+      "number": "36",
+      "title": "Ballenger   CE, Swift TR, Leshner         RT, El Gammal         TA, McDonald TF. Myelopathy in",
+      "depth": 1,
+      "content": "mucopolysaccharidosis type II (Hunter syndrome). Ann Neurol. 1980;7: 382–385.",
+      "char_count": 77
+    },
+    {
+      "number": "37",
+      "title": "Haddad FS, Jones DH, Vellodi A, Kane N, Pitt MC. Carpal tunnel syndrome in the mucopolysaccharidoses",
+      "depth": 1,
+      "content": "and mucolipidoses. J Bone Joint Surg Br. 1997;79: 576–582.",
+      "char_count": 58
+    },
+    {
+      "number": "38",
+      "title": "Ashworth JL, Biswas S, Wraith E, Lloyd IC. Mucopolysaccharidoses and the eye. Surv",
+      "depth": 1,
+      "content": "Ophthalmol. 2006;51:1–17.",
+      "char_count": 25
+    },
+    {
+      "number": "39",
+      "title": "Principi N, Esposito S. Nasal Irrigation: An Imprecisely Defined Medical Procedure. Int J Environ Res",
+      "depth": 1,
+      "content": "Public Health. 2017;14. doi:10.3390/ijerph14050516.",
+      "char_count": 51
+    },
+    {
+      "number": "40",
+      "title": "Brasil. Ministério da Saúde. Protocolos Clínicos e Diretrizes Terapêuticas da Asma.                  Portaria",
+      "depth": 1,
+      "content": "SAES/SECTICS/MS nº 32, de 20 de dezembro de 2023. Acesso em 29 dez 2023. Disponível em:\n   https://www.gov.br/conitec/pt-br/midias/relatorios/portaria/2023/portaria-conjunta-saes-sectics-no-32-pcdt-\n   asma.pdf",
+      "char_count": 210
+    },
+    {
+      "number": "41",
+      "title": "Link B, de Camargo Pinto LL, Giugliani R, Wraith JE, Guffon N, Eich E, et al. Orthopedic manifestations",
+      "depth": 1,
+      "content": "in patients with mucopolysaccharidosis type II (Hunter syndrome) enrolled in the Hunter Outcome Survey.\n   OrthopRev . 2010;2: e16.",
+      "char_count": 131
+    },
+    {
+      "number": "42",
+      "title": "Raluy-Callado M, Chen WH, Whiteman DA, Fang J, Wiklund I. The impact of Hunter syndrome",
+      "depth": 1,
+      "content": "(mucopolysaccharidosis type II) on health-related quality of life. Orphanet J Rare Dis. 2013;8:101.",
+      "char_count": 99
+    },
+    {
+      "number": "43",
+      "title": "Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Dor Crônica. Portaria",
+      "depth": 1,
+      "content": "SAES/SAPS/SECTICS/MS nº 1, de 22 de agosto de 2024. Acesso em 11 out 2024. Disponível em:\n   https://www.gov.br/conitec/pt-br/midias/protocolos/dorcronica-1.pdf",
+      "char_count": 160
+    },
+    {
+      "number": "44",
+      "title": "Keilmann A, Nakarat T, Bruce IA, Molter D, Malm G; HOS Investigators. Hearing loss in patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidosis II: data from HOS - the Hunter Outcome Survey. J Inherit Metab Dis. 2012\n   Mar;35(2):343-53.\n\n\n                                                                                                              23\n\n45. Carneiro L, Souza CFM, Giugliani R, Fagondes SC. Oropharyngeal Dysphagia in Mucopolysaccharidoses:\n   Evidence from Videofluoroscopic Swallowing Study. J inborn errors metab screen. 2022;10:e20220004.",
+      "char_count": 436
+    },
+    {
+      "number": "46",
+      "title": "Turra GS, Schwartz IV. Evaluation of orofacial motricity in patients with mucopolysaccharidosis: a cross-",
+      "depth": 1,
+      "content": "sectional study. J Pediatr 2009;85(3):254-260.",
+      "char_count": 46
+    },
+    {
+      "number": "47",
+      "title": "Ríos AV, Llorensi M. Manifestaciones bucales de pacientes con mucopolisacaridosis. Revista de la",
+      "depth": 1,
+      "content": "Asociación Odontológica Argentina, 109(1), 34-40. Epub 15 de abril de 2021.",
+      "char_count": 75
+    },
+    {
+      "number": "48",
+      "title": "Kampmann C, Beck M, Morin I, Loehr JP. Prevalence and characterization of cardiac involvement in",
+      "depth": 1,
+      "content": "Hunter syndrome. J Pediatr. 2011;159: 327–31.e2.",
+      "char_count": 48
+    },
+    {
+      "number": "49",
+      "title": "Wilson W, Taubert KA, Gewitz M, Lockhart PB, Baddour LM, Levison M, et al. Prevention of infective",
+      "depth": 1,
+      "content": "endocarditis: guidelines from the American Heart Association: a guideline from the American Heart\n   Association Rheumatic Fever, Endocarditis, and Kawasaki Disease Committee, Council on Cardiovascular\n   Disease in the Young, and the Council on Clinical Cardiology, Council on Cardiovascular Surgery and\n   Anesthesia, and the Quality of Care and Outcomes Research Interdisciplinary Working Group. Circulation.\n   2007;116:1736-1754.",
+      "char_count": 434
+    },
+    {
+      "number": "50",
+      "title": "D’Ascanio L, Manzini M. Safe and rapid approach to the deviated nasal septum in children. Laryngoscope.",
+      "depth": 1,
+      "content": "2009;119: 2000–2003.",
+      "char_count": 20
+    },
+    {
+      "number": "51",
+      "title": "Venekamp RP, Hearne BJ, Chandrasekharan D, Blackshaw H, Lim J, Schilder AGM. Tonsillectomy or",
+      "depth": 1,
+      "content": "adenotonsillectomy versus non-surgical management for obstructive sleep-disordered breathing in children.\n   Cochrane Database of Systematic Reviews. 2015.",
+      "char_count": 155
+    },
+    {
+      "number": "52",
+      "title": "Jeong H-S, Cho D-Y, Ahn KM, Jin D-K. Complications of tracheotomy in patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidoses type II (Hunter syndrome). Int J PediatrOtorhinolaryngol. 2006;70: 1765–1769.",
+      "char_count": 99
+    },
+    {
+      "number": "53",
+      "title": "Fraga JC, Souza JCK de, Kruel J. Pediatrictracheostomy. J Pediatr .2009;85: 97–103.",
+      "depth": 1,
+      "content": "",
+      "char_count": 0
+    },
+    {
+      "number": "54",
+      "title": "Dalla Corte A, Corte AD, de Souza CFM, Anés M,                      Giugliani R. Hydrocephalus and",
+      "depth": 1,
+      "content": "mucopolysaccharidoses: what do we know and what do we not know? Childs Nerv Syst. 2017;33: 1073–\n   1080.\n55. Clark BM, Sprung J, Weingarten TN, Warner ME. Anesthesia for patients with mucopolysaccharidoses:\n   Comprehensive review of the literature with emphasis on airway management. Bosn J Basic Med Sci.",
+      "char_count": 307
+    },
+    {
+      "number": "2018",
+      "title": "Feb 20;18(1):1-7.",
+      "depth": 1,
+      "content": "56. da Silva EM, Strufaldi MW, Andriolo RB, Silva LA. Enzyme replacement therapy with idursulfase for\n   mucopolysaccharidosis type II (Hunter syndrome). Cochrane Database Syst Rev. 2016 Feb\n   5;2(2):CD008185.",
+      "char_count": 210
+    },
+    {
+      "number": "57",
+      "title": "Alegra T, Eizerik DP, de Cerqueira CCS, Pereira TV, Dornelles AD, Schwartz IVD. [Efficacy and safety",
+      "depth": 1,
+      "content": "of idursulfase therapy in patients with mucopolysaccharidosis type II with and without comparison to\n   placebo: systematic review and meta-analysis]. CadSaude Publica. 2013;29 Suppl 1: S45–58.",
+      "char_count": 193
+    },
+    {
+      "number": "58",
+      "title": "Pano A, Barbier AJ, Bielefeld B, Whiteman DAH, Amato DA. Immunogenicity of idursulfase and clinical",
+      "depth": 1,
+      "content": "outcomes in very young patients (16 months to 7.5 years) with mucopolysaccharidosis II (Hunter\n   syndrome). Orphanet J RareDis. 2015;10: 50.\n\n                                                                                                          24",
+      "char_count": 251
+    },
+    {
+      "number": "59",
+      "title": "Sweetman S. Idursulfase. Martindale: The Complete Drug Reference. 2009. p. 2324.",
+      "depth": 1,
+      "content": "60. Elaprase: Idursulfase. In: Bulário Eletrônico ANVISA [Internet]. Acesso em 27 ago 2023. Disponível em:\n   https://consultas.anvisa.gov.br/#/medicamentos/25351779252202068/",
+      "char_count": 175
+    },
+    {
+      "number": "61",
+      "title": "Muenzer J, Gucsavas-Calikoglu M, McCandless SE, Schuetz TJ, Kimura A. A phase I/II clinical trial of",
+      "depth": 1,
+      "content": "enzyme replacement therapy in mucopolysaccharidosis II (Hunter syndrome). Mol Genet Metab. 2007;90:\n   329–337.\n62. Okuyama T, Tanaka A, Suzuki Y, Ida H, Tanaka T, Cox GF, et al. Japan Elaprase Treatment (JET) study:\n   idursulfase enzyme replacement therapy in adult patients with attenuated Hunter syndrome\n   (Mucopolysaccharidosis II, MPS II). Mol Genet Metab. 2010;99: 18–25.",
+      "char_count": 380
+    },
+    {
+      "number": "63",
+      "title": "Muenzer J, Beck M, Eng CM, Giugliani R, Harmatz P, Martin R, et al. Long-term, open-labeled extension",
+      "depth": 1,
+      "content": "study of idursulfase in the treatment of Hunter syndrome. Genet Med. 2011;13: 95–101.",
+      "char_count": 85
+    },
+    {
+      "number": "64",
+      "title": "Giugliani R, Hwu W-L, Tylki-Szymanska A, Whiteman DAH, Pano A. A multicenter, open-label study",
+      "depth": 1,
+      "content": "evaluating safety and clinical outcomes in children (1.4-7.5 years) with Hunter syndrome receiving\n   idursulfase enzyme replacement therapy. Genet Med. 2014;16: 435–441.",
+      "char_count": 170
+    },
+    {
+      "number": "65",
+      "title": "Kim J, Park MR, Kim DS, Lee JO, Maeng SH, Cho SY, et al. IgE-mediated anaphylaxis and allergic",
+      "depth": 1,
+      "content": "reactions to idursulfase in patients with Hunter syndrome. Allergy. 2013;68: 796–802.",
+      "char_count": 85
+    },
+    {
+      "number": "66",
+      "title": "Giugliani R, Harmatz P, Jones SA, Mendelsohn NJ, Vellodi A, Qiu Y, et al. Evaluation of impact of",
+      "depth": 1,
+      "content": "antiidursulfase   antibodies     during    long-term   idursulfase      enzyme     replacement   therapy    in\n   mucopolysaccharidosis II patients. Mol Genet Metab Rep. 2017;12: 2–7.",
+      "char_count": 183
+    },
+    {
+      "number": "67",
+      "title": "Barbier AJ, Bielefeld B, Whiteman DAH, Natarajan M, Pano A, Amato DA. The relationship between",
+      "depth": 1,
+      "content": "anti-idursulfase antibody status and safety and efficacy outcomes in attenuated mucopolysaccharidosis II\n   patients aged 5 years and older treated with intravenous idursulfase. Mol Genet Metab. 2013;110: 303–310.",
+      "char_count": 213
+    },
+    {
+      "number": "68",
+      "title": "Drugs and Lactation Database (LactMed®) [Internet]. Bethesda (MD): National Institute of Child Health",
+      "depth": 1,
+      "content": "and    Human      Development;     2006.    Idursulfase.   Atualizado     em     21/06/2021. Disponível    em:\n   https://www.ncbi.nlm.nih.gov/books/NBK500606/.\n\n\n\n\n                                                                                                               25\n\n                         TERMO DE ESCLARECIMENTO E RESPONSABILIDADE\n                                              IDURSULFASE ALFA\n\n\n      Eu, ______________________________________________________________________________ (nome\ndo paciente), declaro ter sido informado claramente sobre benefícios, riscos, contraindicações e principais efeitos\nadversos relacionados ao uso de idursulfase alfa, indicada para o tratamento da mucopolissacaridose tipo II\n(MPS II).\n      Os termos médicos foram explicados e todas as minhas dúvidas foram resolvidas pelo(a) médico(a)________\n_______________________________________________________________________________________ (nome\ndo(a) médico(a) que prescreve).\n      Assim, declaro que fui claramente informado (a) de que o medicamento que passo a receber pode trazer os\nseguintes benefícios:\n      - Melhora dos sintomas da doença, como hepatomegalia e rigidez articular.\n      Fui também claramente informado (a) a respeito das seguintes contraindicações, potenciais efeitos adversos e\nriscos:\n      - Desenvolvimento de regressão neurológica (perda de funções adquiridas) durante a vigência do tratamento,\numa vez que não há benefício comprovado da TRE nos pacientes que já possuem regressão neurológica;\n      - O uso da TRE com idursulfase alfa em mulheres grávidas ou que estejam amamentando não é\nrecomendado;\n      - Os eventos adversos da idursulfase alfa relacionados à infusão mais comuns são dores de cabeça, febre,\nreações na pele (urticária e eritema);\n      - Contraindicação em casos de hipersensibilidade (alergia) ao fármaco ou aos componentes da fórmula.\n      Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a devolvê-lo\ncaso não queira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que continuarei a ser\natendido (a), inclusive se desistir de usar o medicamento.\n\n\n      Autorizo o Ministério da Saúde e as Secretarias de Saúde a fazerem uso de informações relativas ao meu\ntratamento, desde que assegurado o anonimato.\n      (   ) Sim\n      (   ) Não\n      Meu tratamento constará do seguinte medicamento:\n      (   ) Idursulfase alfa\n\n\n\n\n                                                                                                                26\n\nLocal:                                                Data:\nNome do paciente:\nCartão Nacional de Saúde:\nNome do responsável legal:\nDocumento de identificação do responsável legal:\n\n\n_____________________________________\nAssinatura do paciente ou do responsável legal\nMédico responsável:                                                                          CRM:                         UF:\n\n\n___________________________\nAssinatura e carimbo do médico\nData:____________________\nNOTA: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência Farmacêutica no SUS se\nencontra o medicamento preconizado neste Protocolo.\n\n\n\n\n                                                                                                                                     27\n\n                                                 APÊNDICE 1\n                     METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA",
+      "char_count": 3499
+    },
+    {
+      "number": "1",
+      "title": "Escopo e finalidade do Protocolo",
+      "depth": 1,
+      "content": "A atualização do PCDT da Mucopolissacaridose tipo II (MPS II)1 foi uma demanda que cumpre o Decreto nº\n7.508 de 28 de junho de 2011. O presente apêndice consiste no documento de trabalho do grupo elaborador da\natualização do PCDT MPS II1, contendo a descrição dos aspectos metodológicos, tendo como objetivo embasar o\ntexto do PCDT, aumentar a sua transparência e prover considerações adicionais para profissionais da saúde,\ngestores e demais potenciais interessados.\n      A proposta inicial de atualização do PCDT da MPS II foi inicialmente discutida durante a reunião de pré-\nescopo, ocorrida em 03 de outubro de 2022. A reunião teve a presença de metodologistas e especialista do grupo\nelaborador, e representantes da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial\nda Saúde (SECTICS) e da Secretaria de Atenção Especializada em Saúde (SAES).\n      Posteriormente, o escopo do documento foi discutido em reunião, ocorrida em 10 de abril de 2023. A reunião\nteve a presença de metodologistas e especialista do grupo elaborador, representantes da SECTICS, SAES e de\nespecialistas externos convidados.\n      Foram consultados a Relação Nacional de Medicamentos Essenciais (RENAME)2 e o sítio eletrônico da\nConitec para a identificação das tecnologias terapêuticas disponíveis no Brasil e tecnologias demandadas ou\nrecentemente incorporadas para o tratamento da MPS II. Não foram encontradas tecnologias disponíveis já\nincorporadas para o tratamento da MPS II, além da idursulfase alfa e TCTH.\n      Adicionalmente não foram identificadas novas tecnologias diagnósticas e terapêuticas a serem priorizadas\nnesse PCDT. As buscas de evidências foram realizadas em bases de dados com data a partir da publicação do\nPCDT vigente e contemplaram o atendimento às necessidades sinalizadas pelos especialistas durante a reunião de\nescopo. Dentre elas destaca-se: a citação da terapia de reposição enzimática quinzenal (realizada de forma off\nlabel), dados sobre o TCTH e a revisão da frequência da realização da dosagem de glicosaminoglicanos urinários.",
+      "char_count": 2075
+    },
+    {
+      "number": "2",
+      "title": "Equipe de elaboração e partes interessadas",
+      "depth": 1,
+      "content": "Colaboração externa\n      O Protocolo foi atualizado pelo NATS Nuclimed do Hospital das Clínicas de Porto Alegre.\n      Declaração e Manejo de Conflitos de Interesse\n      Todos os membros votantes e metodologistas do Grupo Elaborador declararam seus conflitos de interesse,\nutilizando a Declaração de Potenciais Conflitos de Interesse (Quadro A).\n\n\n\n\n                                                                                                              28\n\nQuadro A - Questionário de conflitos de interesse diretrizes clínico-assistenciais.",
+      "char_count": 549
+    },
+    {
+      "number": "1",
+      "title": "Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos",
+      "depth": 1,
+      "content": "benefícios abaixo?\n a) Reembolso por comparecimento a eventos na área de interesse da diretriz                   ( ) Sim\n                                                                                              ( ) Não\n b) Honorários por apresentação, consultoria, palestra ou atividades de ensino                ( ) Sim\n                                                                                              ( ) Não\n c) Financiamento para redação de artigos ou editorias                                        ( ) Sim\n                                                                                              ( ) Não\n d) Suporte para realização ou desenvolvimento de pesquisa na área                            ( ) Sim\n                                                                                              ( ) Não\n e) Recursos ou apoio financeiro para membro da equipe                                        ( ) Sim\n                                                                                              ( ) Não\n f) Algum outro benefício financeiro                                                          ( ) Sim\n                                                                                              ( ) Não",
+      "char_count": 1242
+    },
+    {
+      "number": "2",
+      "title": "Você possui apólices ou ações de alguma empresa que possa de alguma forma ser             ( ) Sim",
+      "depth": 1,
+      "content": "beneficiada ou prejudicada com as recomendações da diretriz?                                 ( ) Não",
+      "char_count": 100
+    },
+    {
+      "number": "3",
+      "title": "Você possui algum direito de propriedade intelectual (patentes, registros de marca,       ( ) Sim",
+      "depth": 1,
+      "content": "royalties) de alguma tecnologia ligada ao tema da diretriz?                                  ( ) Não",
+      "char_count": 100
+    },
+    {
+      "number": "4",
+      "title": "Você já atuou como perito judicial na área tema da diretriz?                              ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não",
+      "char_count": 7
+    },
+    {
+      "number": "5",
+      "title": "Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados",
+      "depth": 1,
+      "content": "pela sua atividade na elaboração ou revisão da diretriz?\n a) Instituição privada com ou sem fins lucrativos                                            ( ) Sim\n                                                                                              ( ) Não\n b) Organização governamental ou não-governamental                                            ( ) Sim\n                                                                                              ( ) Não\n c) Produtor, distribuidor ou detentor de registro                                            ( ) Sim\n                                                                                              ( ) Não\n d) Partido político                                                                          ( ) Sim\n                                                                                              ( ) Não\n e) Comitê, sociedade ou grupo de trabalho                                                    ( ) Sim\n                                                                                              ( ) Não\n f) Outro grupo de interesse                                                                  ( ) Sim\n                                                                                              ( ) Não",
+      "char_count": 1280
+    },
+    {
+      "number": "6",
+      "title": "Você poderia ter algum tipo de benefício clínico?                                         ( ) Sim",
+      "depth": 1,
+      "content": "( ) Não\n                                                                                                            29",
+      "char_count": 118
+    },
+    {
+      "number": "7",
+      "title": "Você possui uma ligação ou rivalidade acadêmica com alguém cujos interesses possam ser         ( ) Sim",
+      "depth": 1,
+      "content": "afetados?                                                                                         ( ) Não",
+      "char_count": 105
+    },
+    {
+      "number": "8",
+      "title": "Você possui profunda convicção pessoal ou religiosa que pode comprometer o que você irá        ( ) Sim",
+      "depth": 1,
+      "content": "escrever e que deveria ser do conhecimento público?                                               ( ) Não",
+      "char_count": 105
+    },
+    {
+      "number": "9",
+      "title": "Existe algum aspecto do seu histórico profissional, que não esteja relacionado acima, que      ( ) Sim",
+      "depth": 1,
+      "content": "possa afetar sua objetividade ou imparcialidade?                                                  ( ) Não",
+      "char_count": 105
+    },
+    {
+      "number": "10",
+      "title": "Sua família ou pessoas que mantenha relações próximas possui alguns dos conflitos             ( ) Sim",
+      "depth": 1,
+      "content": "listados acima?                                                                                   ( ) Não\n\n\n      Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas\n\n\n      A proposta de atualização do PCDT da Mucopolissacaridose tipo II foi apresentada na 117ª Reunião da\nSubcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em julho de 2024. A\nreunião teve a presença de representantes da Secretaria de Ciência, Tecnologia e Inovação e do Complexo\nEconômico-Industrial da Saúde (SECTICS); Secretaria de Atenção Especializada em Saúde (SAES) e Secretaria de\nVigilância em Saúde e Ambiente (SVSA). O PCDT foi aprovado para avaliação da Conitec e a proposta foi\napresentada aos membros do Comitê de PCDT da Conitec em sua 19ª Reunião Extraordinária, os quais\nrecomendaram favoravelmente ao texto.\n      Consulta pública\n      A Consulta Pública nº 52/2024, para a atualização do Protocolo Clínico e Diretrizes Terapêuticas da\nMucopolissacaridose tipo II, foi realizada entre os dias 26/08/2024 e 16/09/2024. Foram recebidas 17\ncontribuições,       que        podem         ser       verificadas       em:        https://www.gov.br/conitec/pt-\nbr/midias/consultas/contribuicoes/2024/contribuicao-da-cp-52-de-2024-pcdt-da-mucopolissacaridose-tipo-ii.",
+      "char_count": 1331
+    },
+    {
+      "number": "3",
+      "title": "Busca da evidência e recomendações",
+      "depth": 1,
+      "content": "Por se tratar de atualização do PCDT da MPS II1, o trabalho envolveu a revisão das recomendações já\npublicadas e a busca de novos artigos publicados para o cuidado dos pacientes com MPS II. Optou-se por definir\numa data de início para as buscas, baseada na data de busca de publicações do PCDT publicado por meio da\nPortaria Conjunta SAS/SCTIE/MS nº 16/2018. Assim, em relação às diretrizes clínicas para a MPS II as bases de\ndados foram pesquisadas de janeiro de 2018 até a data de 20 de novembro de 2023 (data final da busca).\n      Foi também realizada, em 20 de novembro de 2023, busca por estudos clínicos, ensaios clínicos\nrandomizados, meta-análises, revisões sistemáticas, diretrizes clínicas e a busca está detalhada no Quadro B.\n\n\n\n\n                                                                                                                30\n\nQuadro B - Estratégias de busca, de acordo com a base de dados\n\n                                                                                                Número de resultados\n     Bases de dados                                         Estratégia de busca\n                                                                                                      encontrados\n\n                                  ((\"Mucopolysaccharidosis II\"[MeSH Terms]) OR (\"MPS\n Medline (via                     II\") OR (\"Mucopolysaccharidosis II\")) Filters: Clinical\n                                                                                              12 artigos\n Pubmed)                          Trial, Guideline, Meta-Analysis, Randomized Controlled\n                                  Trial, Systematic Review\n\n                                  ('mucopolysaccharidosis ii'/exp OR\n                                  'mucopolysaccharidosis ii' OR\n                                  (('mucopolysaccharidosis'/exp OR\n                                  mucopolysaccharidosis) AND ii)) AND ([cochrane\n Embase                                                                                       31 artigos\n                                  review]/lim OR [systematic review]/lim OR [meta-\n                                  analysis]/lim OR [controlled clinical trial]/lim OR\n                                  [randomized controlled trial]/lim) AND [01-01-2018]/sd\n                                  NOT [21-11-2023]/sd\n\n\n Cochrane library                 Mucopolysaccharidosis II in Title Abstract Keyword          0 Cochrane Reviews\n\nNota: Realizadas entre 01 de janeiro de 2018 e 20 de novembro de 2023.\nTambém foram consultadas manualmente as seguintes bases específicas de diretrizes clínicas:\n- NICE guidelines (http://www.nice.org.uk/guidance/published?type=CG);\n- National Library of Australia (http://webarchive.nla.gov.au/gov/);\n- Diretrizes Associação Médica Brasileira (AMB).\n\n\n\n        Foram localizados 43 artigos em duas bases de dados. Excluindo as 9 duplicatas restaram 34 artigos; sendo\nque apenas três3-5 foram selecionados para leitura na íntegra e incorporados a este relatório, abordando\nespecialmente tópicos sobre a terapia de reposição enzimática, seus benefícios e possíveis efeitos adversos.\nAdicionalmente, outros 16 artigos6-21 foram identificados por busca manual/consultada a(s) base(s) PubMed e\nEmbase e incluídos artigos de conhecimento dos autores. Tais artigos visaram responder aos questionamentos sobre\nmanifestações clínicas específicas, diagnóstico e abordagem terapêutica da mucopolissacaridose tipo II.\n\n\n\n4.      REFERÊNCIAS:",
+      "char_count": 3509
+    },
+    {
+      "number": "1",
+      "title": "Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Mucopolissacaridose tipo II.",
+      "depth": 1,
+      "content": "Portaria SAS/SCTIE/MS nº 16, de 24 de maio de 2018. Acesso em 28 nov 2023. Disponível em:\n           https://www.gov.br/saude/pt-br/assuntos/pcdt/arquivos/2018/pcdt_mps-ii.pdf\n\n\n                                                                                                                       31",
+      "char_count": 299
+    },
+    {
+      "number": "2",
+      "title": "Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde.",
+      "depth": 1,
+      "content": "Departamento de Assistência Farmacêutica e Insumos Estratégicos. Relação Nacional de Medicamentos\n   Essenciais Rename 2022 [recurso eletrônico] / Ministério da Saúde, Secretaria de Ciência, Tecnologia,\n   Inovação e Insumos Estratégicos em Saúde, Departamento de Assistência Farmacêutica e Insumos\n   Estratégicos. – Brasília: Ministério da Saúde, 2022.",
+      "char_count": 354
+    },
+    {
+      "number": "3",
+      "title": "Muenzer J, Burton BK, Harmatz P, Gutiérrez-Solana LG, Ruiz-Garcia M, Jones SA, Guffon N, Inbar-",
+      "depth": 1,
+      "content": "Feigenberg M, Bratkovic D, Hale M, Wu Y, Yee KS, Whiteman DAH, Alexanderian D; SHP609-302\n   study group. Long-term open-label extension study of the safety and efficacy of intrathecal idursulfase-IT\n   in patients with neuronopathic mucopolysaccharidosis II. Mol Genet Metab. 2022 Sep-Oct;137(1-2):92-\n   103.\n4. da Silva EM, Strufaldi MW, Andriolo RB, Silva LA. Enzyme replacement therapy with idursulfase for\n   mucopolysaccharidosis type II (Hunter syndrome). Cochrane Database Syst Rev. 2016 Feb\n   5;2(2):CD008185.",
+      "char_count": 520
+    },
+    {
+      "number": "5",
+      "title": "Muenzer J, Beck M, Eng CM, Giugliani R, Harmatz P, Martin R, et al. Long-term, open-labeled extension",
+      "depth": 1,
+      "content": "study of idursulfase in the treatment of Hunter syndrome. Genet Med. 2011;13: 95–101.",
+      "char_count": 85
+    },
+    {
+      "number": "6",
+      "title": "D'Avanzo F, Rigon L, Zanetti A, Tomanin R. Mucopolysaccharidosis Type II: One Hundred Years of",
+      "depth": 1,
+      "content": "Research, Diagnosis, and Treatment. Int J Mol Sci. 2020 Feb 13;21(4):1258.\n7. Tuschl K, Gal A, Paschke E, Kircher S, Bodamer OA (2005) Mucopolysaccharidosis type II in females:\n   case report and review of literature. Pediatr Neurol 32:270–272.",
+      "char_count": 244
+    },
+    {
+      "number": "8",
+      "title": "Wraith JE, Scarpa M, Beck M, et al. Mucopolysaccharidosis type II (Hunter syndrome): a clinical review",
+      "depth": 1,
+      "content": "and recommendations for treatment in the era of enzyme replacement therapy. Eur J Pediatr,\n   2008;167(3):267-277.",
+      "char_count": 114
+    },
+    {
+      "number": "9",
+      "title": "Josahkian JA, Trapp FB, Burin MG, Michelin-Tirelli K, Magalhães APPS, Sebastião FM, Bender F, Mari",
+      "depth": 1,
+      "content": "JF, Brusius-Facchin AC, Leistner-Segal S, Málaga DR, Giugliani R. Updated birth prevalence and relative\n   frequency of     mucopolysaccharidoses     across      Brazilian   regions.   Genet Mol   Biol. 2021 Jan\n   27;44(1):e20200138.",
+      "char_count": 234
+    },
+    {
+      "number": "10",
+      "title": "Mohamed S, He QQ, Singh AA, Ferro V. Mucopolysaccharidosis type II (Hunter syndrome): Clinical and",
+      "depth": 1,
+      "content": "biochemical aspects of the disease and approaches to its diagnosis and treatment. Adv Carbohydr Chem\n   Biochem. 2020;77:71-117.\n11. Kato T, Kato Z, Kuratsubo I, Tanaka N, Ishigami T, Kajihara JI, Sukegawa-Hayasaka K, Orii K, Isogai K,\n   Fukao T, Shimozawa N, Orii T, Kondo N, Suzuki Y. Mutational and structural analysis of Japanese\n   patients with mucopolysaccharidosis type II. J Hum Genet. 2005;50(8):395-402.",
+      "char_count": 415
+    },
+    {
+      "number": "12",
+      "title": "Ashworth JL, Biswas S, Wraith E, Lloyd IC. Mucopolysaccharidoses and the eye. Surv",
+      "depth": 1,
+      "content": "Ophthalmol. 2006;51:1–17.",
+      "char_count": 25
+    },
+    {
+      "number": "13",
+      "title": "Brasil. Ministério da Saúde. Protocolos Clínicos e Diretrizes Terapêuticas da Asma.              Portaria",
+      "depth": 1,
+      "content": "SAES/SECTICS/MS nº 32, de 20 de dezembro de 2023. Acesso em 29 dez 2023. Disponível em:\n\n\n                                                                                                          32\n\n   https://www.gov.br/conitec/pt-br/midias/relatorios/portaria/2023/portaria-conjunta-saes-sectics-no-32-pcdt-\n   asma.pdf",
+      "char_count": 322
+    },
+    {
+      "number": "14",
+      "title": "Raluy-Callado M, Chen WH, Whiteman DA, Fang J, Wiklund I. The impact of Hunter syndrome",
+      "depth": 1,
+      "content": "(mucopolysaccharidosis type II) on health-related quality of life. Orphanet J Rare Dis. 2013;8:101.",
+      "char_count": 99
+    },
+    {
+      "number": "15",
+      "title": "Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Dor Crônica. Portaria",
+      "depth": 1,
+      "content": "SAES/SAPS/SECTICS/MS nº 1, de 22 de agosto de 2024. Acesso em 11 out 2024. Disponível em:\n   https://www.gov.br/conitec/pt-br/midias/protocolos/dorcronica-1.pdf",
+      "char_count": 160
+    },
+    {
+      "number": "16",
+      "title": "Keilmann A, Nakarat T, Bruce IA, Molter D, Malm G; HOS Investigators. Hearing loss in patients with",
+      "depth": 1,
+      "content": "mucopolysaccharidosis II: data from HOS - the Hunter Outcome Survey. J Inherit Metab Dis. 2012\n   Mar;35(2):343-53.\n17. Carneiro L, Souza CFM, Giugliani R, Fagondes SC. Oropharyngeal Dysphagia in Mucopolysaccharidoses:\n   Evidence from Videofluoroscopic Swallowing Study. J inborn errors metab screen [Internet].\n   2022;10:e20220004.",
+      "char_count": 334
+    },
+    {
+      "number": "18",
+      "title": "Ríos AV, Llorensi M. Manifestaciones bucales de pacientes con mucopolisacaridosis. Revista de la",
+      "depth": 1,
+      "content": "Asociación Odontológica Argentina, 109(1), 34-40. Epub 15 de abril de 2021.",
+      "char_count": 75
+    },
+    {
+      "number": "19",
+      "title": "Barbier AJ, Bielefeld B, Whiteman DAH, Natarajan M, Pano A, Amato DA. The relationship between",
+      "depth": 1,
+      "content": "anti-idursulfase antibody status and safety and efficacy outcomes in attenuated mucopolysaccharidosis II\n   patients aged 5 years and older treated with intravenous idursulfase. Mol Genet Metab. 2013;110: 303–310.",
+      "char_count": 213
+    },
+    {
+      "number": "20",
+      "title": "Drugs and Lactation Database (LactMed®) [Internet]. Bethesda (MD): National Institute of Child Health",
+      "depth": 1,
+      "content": "and    Human     Development;     2006.   Idursulfase.   Atualizado    em    21/06/2021. Disponível    em:\n   https://www.ncbi.nlm.nih.gov/books/NBK500606/",
+      "char_count": 155
+    },
+    {
+      "number": "21",
+      "title": "Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde.",
+      "depth": 1,
+      "content": "Departamento de Assistência Farmacêutica e Insumos Estratégicos. Relação Nacional de Medicamentos\n   Essenciais Rename 2022. Brasília: Ministério da Saúde, 2022.\n\n\n\n\n                                                                                                           33\n\n                                                                   APÊNDICE 2\n  PROGRAMA MÍNIMO DE AVALIAÇÕES PARA SEGUIMENTO CLÍNICO DOS PACIENTES COM\n                                                         MPS II SOB TRE OU NÃO\n\n\n                                                                                                Avaliação             A cada 6          A cada 12\n                                     Avaliações\n                                                                                                  inicial               meses            meses\n Atividade enzimática                                                                                X\n Análise genética específica                                                                         X\n GAG urinários                                                                                       X                                     X\n História médica                                                                                     X                     X\n Aconselhamento Genético                                                                             X\n Revisão do número de infusões realizadas no período                                                                       X\n Determinação da adesão ao acompanhamento/tratamento                                                                       X\n Avaliação nutricional (peso/altura)                                                                 X                     X\n Avaliação de Sinais Vitais                                                                          X                     X\n Hepatimetria                                                                                        X                     X\n Aplicação de questionário de qualidade de vida validado                                             X                                     X\n AVALIAÇÃO NEUROLÓGICA\n - Exame neurológico clínico                                                                         X                                     X\n - RNM de crânio e/ou TC de crânio                                                                   X\n - RNM de coluna\n - Velocidade de condução do nervo mediano                                                           X\n - Avaliação do neurodesenvolvimento por neurologista                                                X                                     X\n AVALIAÇÃO OFTALMOLÓGICA (acuidade visual, retina,                                                   X\n córnea)\n AUDIOMETRIA                                                                                         X\n AVALIAÇÃO FUNCIONAL\n - Eletrocardiograma                                                                                 X\n - Ecocardiograma                                                                                    X\n - CVF/VEF1                                                                                          X\n - Polissonografia                                                                                   X\n - Avaliação de Mobilidade Articular                                                                 X\n RX ÓSSEO                                                                                            X\n* Para pacientes em tratamento específico. As demais avaliações devem ser realizadas em períodos determinados pelo médico assistente.\nCVF = Capacidade vital forçada; GAG = glicosaminoglicanos; RNM = Ressonância magnética; TC = Tomografia computadorizada; VEF1 = volume\nexpiratório forçado no primeiro segundo.\n\n\n\n\n                                                                                                                                                 34\n\n                                                APÊNDICE 3\n                           HISTÓRICO DE ALTERAÇÕES DO PROTOCOLO\n\n\n\n    Número do                                               Tecnologias avaliadas pela Conitec\nRelatório da diretriz\n                            Principais\nclínica (Conitec) ou                          Incorporação ou alteração do      Não incorporação ou não\n                            alterações\n    Portaria de                                        uso no SUS                   alteração no SUS\n    Publicação\n    Relatório de\n                          Atualização de\n Recomendação nº                                             -                              -\n                             conteúdo\n     940/2024\n                                               Idursulfase como terapia de\n                                                 reposição enzimática na\n                                                mucopolissacaridose tipo II\n                                                [Relatório Técnico nº 311;\nRelatório nº 342/2018                         Portaria SCTIE/MS nº 62/2017]\n                         Primeira versão do\n                             PCDT da\n  Portaria Conjunta                            Ampliação do Transplante de                  -\n                        Mucopolissacaridose\n SAS/SCTIE/MS n°                                     Células-Tronco\n                               tipo II\n      16/2018                                     Hematopoiéticas para\n                                               Mucopolissacaridose Tipo II\n                                               [Relatório Técnico nº 330 ;\n                                                  Portaria SCTIE/MS nº\n                                                        09/2018].\n\n\n\n\n                                                                                                          35",
+      "char_count": 5949
+    }
+  ],
+  "key_sections": {
+    "diagnostic_criteria": {
+      "number": "3",
+      "content": "O diagnóstico de MPS II é realizado pela suspeita clínica, sendo confirmado por marcadores bioquímicos e\nteste genético. A suspeita deve ocorrer em indivíduos, principalmente do sexo masculino, que apresentem pelo\nmenos um dos seguintes sinais e sintomas relacionados à doença, especialmente se combinados, com início\ntipicamente entre 18 meses e quatro anos de idade9,19:\n         - Características faciais sugestivas de doença lisossômica - face de “depósito”;\n         - Infecções respiratórias superiores precoces e de repetição, incluindo otite média, excluídas as causas mais\nfrequentes, tipo resfriados comuns;\n         - Hérnia inguinal ou umbilical, especialmente se concomitantes e em crianças, excluídas as causas mais\nfrequentes;\n         - Hepatoesplenomegalia, excluídas as causas mais frequentes;\n\n                                                                                                                    3\n\n        - Alterações esqueléticas ou articulares típicas - disostose múltipla, giba, limitação da amplitude de\nmovimento (AM) das articulações, mãos em garra;\n        - Síndrome do túnel do carpo em crianças;\n        - Achados oculares característicos - papiledema, atrofia óptica e, raramente, opacificação de córnea;\n        - História familiar compatível, como: irmão do sexo masculino com MPS II; primo ou tio (sexo masculino),\npelo lado materno, com MPS II; ou história familiar de MPS compatível com herança ligada ao X recessiva.\n        Ressalta-se que os achados clínicos variam conforme a gravidade da doença e, por si só, não são\ndiagnósticos. Assim, é necessária a confirmação por análises bioquímicas ou genéticas9.\n        A Figura 1 apresenta o fluxograma de diagnóstico e tratamento da MPS II.\n\n\nFigura 1 - Fluxograma de diagnóstico e tratamento da MPS II."
+    },
+    "inclusion_criteria": {
+      "number": "4",
+      "content": "Serão incluídos neste PCDT todos os pacientes que apresentarem pelo menos um dos sinais ou sintomas\ndescritos no item “Diagnóstico”, além da confirmação do diagnóstico de MPS II, conforme um dos critérios abaixo\nrelacionados.\n       - Atividade da enzima IDS menor que 10% do limite inferior dos valores de referência em plasma,\nleucócitos ou fibroblastos E atividade normal de pelo menos outra sulfatase (medida na mesma amostra em que foi\ndeterminada a atividade da IDS) E presença de níveis aumentados de GAG totais na urina ou de excreção urinária\naumentada de sulfatos de dermatan e heparan;\n       OU\n       - Presença de variante reconhecidamente patogênica no gene IDS.\n       Para uso de TRE (idursulfase alfa)\n       Para serem elegíveis à TRE com idursulfase alfa, os pacientes devem apresentar diagnóstico confirmado de\nMPS II E não apresentar regressão neurológica.\n       Todos os pacientes com MPS II, incluindo os que não foram transplantados ou os que tiveram falha do\nprocedimento, podem apresentar benefícios por receber TRE, uma vez que ela pode melhorar a hepatomegalia, a\nmobilidade articular e reduzir a excreção de GAG urinários. Já foi demonstrado que a TRE antes do TCTH é bem\ntolerada e pode melhorar a condição clínica pré TCTH de alguns pacientes, desde que seu início não atrase a\nrealização do procedimento. Além disso, a TRE não causa nenhuma interferência em relação ao enxerto ou no\nsucesso do transplante.\n       Para o TCTH\n       Para elegibilidade ao TCTH, o paciente deve ter diagnóstico confirmado de MPS II e observar as regras\nestabelecidas para transplantes, conforme normas técnicas e operacionais do Sistema Nacional de\nTransplantes1,33,34.\n       TCTH pode ser indicado como tratamento para a forma grave com regressão neurológica da MPS II, único\ntratamento disponível capaz de proporcionar benefícios9,34."
+    },
+    "exclusion_criteria": {
+      "number": "5",
+      "content": "Para a TRE com idursulfase alfa\n       Serão excluídos os pacientes que apresentarem algum dos seguintes critérios:\n\n\n                                                                                                             6\n\n       - Regressão neurológica, ou seja, perda dos marcos do desenvolvimento neuropsicomotor ou perda de\nfunções neurológicas já adquiridas, confirmada por avaliação formal com neurologista;\n       - Condição médica irreversível que implique em sobrevida menor que 6 meses, como resultado da MPS II ou\nde outra doença associada, acordado entre mais de um especialista;\n       - Idade maior que 18 anos e que, após serem informados sobre os potenciais riscos e benefícios associados ao\ntratamento com idursulfase alfa, recusarem o tratamento;\n       Para o TCTH\n       Serão excluídos os pacientes para o TCTH alogênico mieloablativo aparentado com doadores homozigotos\nportadores de mutações patogênicas no gene IDS. A indicação de transplante envolvendo doadores heterozigotos\nportadores de mutações patogênicas no gene IDS deve ser avaliada caso-a-caso."
+    },
+    "treatment": {
+      "number": "6",
+      "content": "O atendimento dos pacientes com MPS II envolve equipe multidisciplinar9,14,33 e tratamento específico com\nidursulfase alfa9,33,34 e/ou TCTH9.\n       Por se tratar de uma doença crônica, progressiva e multissistêmica, frequentemente, requer cuidados por\nequipe multiprofissional, com fonoaudiólogos, fisioterapeutas, terapeutas ocupacionais, equipe de enfermagem e\ndiferentes especialidades médicas9,10,19,33,34.\n       É crucial que um profissional médico acompanhe continuamente o paciente, monitorando a evolução da\ndoença, fornecendo orientação à família, encaminhando a especialistas quando necessário e coordenando o\natendimento geral do indivíduo.\n       Sempre que disponível, o paciente deve ser acompanhado em CR, pois esses serviços possuem uma equipe\nmultidisciplinar integrada de especialistas31 que assegura o cuidado integral aos pacientes com MPS II, desde o\ndiagnóstico, tratamento e seguimento.\n       Além disso, é importante que os pacientes e as famílias sejam orientados sobre sua doença, possíveis\ncomplicações e seus os riscos, por meio de relatório escrito. Os pacientes também devem ser orientados a procurar\no médico assistente em caso de emergência, que deve ser informado da doença e receber cópia do relatório."
+    },
+    "monitoring": {
+      "number": "7",
+      "content": "Os pacientes devem ser monitorizados para a resposta terapêutica e os eventos adversos. O médico deve\nrealizar anamnese completa em cada visita e coletar dados de altura, em pé ou decúbito dorsal ou por segmento, em\ncaso de restrições nos membros inferiores, peso e perímetro cefálico, de preferência usando o mesmo instrumento\ndevidamente calibrado. O exame físico deve ser completo e incluir sinais vitais (temperatura, frequência cardíaca,\nfrequência respiratória e pressão arterial), bem como medidas para quantificação do tamanho do fígado por\nhepatimetria e do baço. A avaliação do desenvolvimento sexual deve ser realizada em adolescentes, de acordo com\nos critérios de Tanner10,34.\n       Nas visitas, dados sobre todas as avaliações realizadas desde o último agendamento devem ser obtidos e os\ntestes necessários devem ser solicitados, incluindo avaliação por especialistas em neurologia, otorrinolaringologia,\noftalmologia, cardiologia e pneumologia; um estudo do sono; e avaliação de volumes viscerais com RNM, TC ou,\nquando o paciente não for capaz de passar por esses exames, com ecografia10,34.\n       Para fins de diagnóstico e acompanhamento, radiografias do crânio de perfil, de coluna vertebral de perfil,\nincluindo região cervical, tórax póstero-anterior, coxofemoral póstero-anterior e ambas as mãos devem ser\nrealizadas10,34. Exposição excessiva à radiação deve ser evitada. As avaliações de rotina devem ser realizadas\nanualmente pelo pediatra ou clínico, além de ginecologista para adolescentes e mulheres adultas, com vacinas\nseguindo o calendário vacinal brasileiro, orientação dietética, exames e informações preventivas.\n\n\n\n\n                                                                                                                 17\n\n      O médico assistente sempre deve solicitar informações sobre ou avaliar, periodicamente, outros membros\nafetados da família, além de avaliar se a família tem uma boa compreensão da doença e riscos reprodutivos,\nfornecendo ou encaminhando para orientação e aconselhamento genético adicionais, quando aplicável.\n      Pacientes com MPS também devem ser monitorados por outros profissionais como dentistas, fisioterapeutas,\nfonoaudiólogos, terapeutas ocupacionais, nutricionistas e psicólogos10,33,34. É papel do médico transmitir a estes\nprofissionais informações pertinentes, discutir os riscos e benefícios das intervenções e incentivar a família a seguir\ncorretamente as terapias. O médico também é responsável, juntamente com o assistente social, por identificar as\ndificuldades encontradas pelas famílias e deve procurar ajudá-los, orientando-os nas avaliações e tratamento,\natividades de vida diária, atividades escolares e inserção social do paciente e sua família. O Apêndice 2 apresenta\nas avaliações consideradas mínimas para o acompanhamento de pacientes com MPS II. São definidos períodos\nmínimos apenas para aquelas avaliações que têm por objetivo detectar a eficácia e segurança da TRE; para as\ndemais, a periodicidade de avaliações fica a critério do médico assistente.\n      O seguimento de pacientes submetidos a TCTH deve seguir a conduta adotada pelo centro transplantador."
+    },
+    "regulation": {
+      "number": "8",
+      "content": "Devem ser observados os critérios de inclusão e exclusão de pacientes neste PCDT, a duração e o\nmonitoramento dos tratamentos clínico e de reabilitação necessários, bem como a verificação periódica das doses\nprescritas e dispensadas e a adequação de uso do medicamento.\n      O tratamento da MPS II deve ser feito por equipe em serviços especializados ou de referência em doenças\nraras, para fins de diagnóstico e de acompanhamento dos pacientes e de suas famílias. Como o controle da doença\nexige experiência e familiaridade com manifestações clínicas associadas, convém que o médico responsável tenha\nexperiência e seja treinado nessa atividade. Cabe destacar que, sempre que possível, o atendimento da pessoa com\nMPS II deve ocorrer por equipe multiprofissional, possibilitando o desenvolvimento de Projeto Terapêutico\nSingular (PTS) e a adoção de terapias de apoio conforme sua necessidade funcional e as Diretrizes para Atenção\nIntegral às Pessoas com Doenças Raras no Sistema Único de Saúde (SUS).\n      Para a administração dos medicamentos é essencial o atendimento centralizado, para maior racionalidade do\nuso e avaliação da efetividade. A infusão deve ser feita em ambiente hospitalar ou ambulatorial sob vigilância de\num médico ou outro profissional da saúde, devido ao risco de reações durante a infusão. Infusões domiciliares\npodem ser consideradas após 6 meses de tratamento sem intercorrências.\n      Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da\nAssistência Farmacêutica se encontra o medicamento preconizado neste Protocolo.\n      Os Estados e municípios deverão manter atualizadas as informações referentes aos registros de estoque,\ndistribuição e dispensação dos medicamentos e encaminhar estas informações ao Ministério da Saúde via Base\nNacional de Dados de Ações e Serviços da Assistência Farmacêutica no âmbito do Sistema Único de Saúde\n(BNAFAR), conforme as normas vigentes.\n\n\n                                                                                                                    18\n\n       Para a autorização do TCTH alogênico aparentado ou não aparentado de medula óssea, de sangue periférico\nou de sangue de cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no\nRegistro Nacional de Receptores de Medula Óssea ou outros precursores hematopoéticos – REREME/INCA/MS e\ndevem ser observadas as normas técnicas e operacionais do Sistema Nacional de Transplantes.\n       Os receptores transplantados originários dos próprios hospitais transplantadores neles devem continuar sendo\nassistidos e acompanhados; os demais receptores transplantados deverão, efetivada a alta do hospital\ntransplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência e\nacompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte,\nsempre que necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre a\nevolução dos transplantados.\n       Os resultados de todos os casos MPS II submetidos a TCTH mieloablativo alogênico aparentado ou não\naparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical, do tipo mieloablativo, deverão\nter sua evolução registrada no REREME a cada três meses até completar pelo menos um ano da realização do\ntransplante.\n       Em 2014, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças\nRaras e aprovou as Diretrizes para Atenção Integral às Pessoas com doenças raras no âmbito do Sistema Único de\nSaúde (SUS) por meio da Portaria GM/MS nº 199, de 30 de janeiro de 2014 (consolidada no Anexo XXXVIII da\nPortaria de Consolidação GM/MS nº 2/2017 e na Seção XIV do Capítulo II do Título III da Portaria de\nConsolidação GM/MS nº 6/2017), relativas à Política Nacional de Atenção Integral às Pessoas com Doenças Raras.\n       A política tem abrangência transversal na Rede de Atenção à Saúde (RAS) e como objetivo reduzir a\nmortalidade, contribuir para a redução da morbimortalidade e das manifestações secundárias e a melhoria da\nqualidade de vida das pessoas, por meio de ações de promoção, prevenção, detecção precoce, tratamento oportuno,\nredução de incapacidade e cuidados paliativos. A linha de cuidado da atenção aos usuários com demanda para a\nrealização das ações na Política Nacional de Atenção Integral às Pessoas com Doenças Raras é estruturada pela\nAtenção Primária e Atenção Especializada, em conformidade com a Rede de Atenção à Saúde (RAS) e seguindo as\nDiretrizes para Atenção Integral às Pessoas com Doenças Raras no SUS. A Atenção Primária é responsável pela\ncoordenação do cuidado e por realizar a atenção contínua da população que está sob sua responsabilidade adstrita,\nalém de ser a porta de entrada prioritária do usuário na RAS. Já a Atenção Especializada é responsável pelo\nconjunto de pontos de atenção com diferentes densidades tecnológicas para a realização de ações e serviços de\nurgência, ambulatorial especializado e hospitalar, apoiando e complementando os serviços da Atenção Primária.\n       Os hospitais universitários, federais e estaduais, em torno de 50 em todo o Brasil e as associações\nbeneficentes e voluntárias são o lócus da atenção à saúde dos pacientes com doenças raras. Porém, para reforçar o\natendimento clínico e laboratorial, o Ministério da Saúde incentiva a criação de serviços da Atenção Especializada,\nassim classificados:\n       • Serviço de Atenção Especializada em Doenças Raras: presta serviço de saúde para uma ou mais doenças\nraras; e\n\n\n                                                                                                                19\n\n        • Serviço de Referência em Doenças Raras: presta serviço de saúde para pacientes com doenças raras\npertencentes a, no mínimo, dois eixos assistenciais (doenças raras de origem genética e de origem não genética).\n        No que diz respeito ao financiamento desses serviços, para além do ressarcimento pelos diversos\natendimentos diagnósticos e terapêuticos clínicos e cirúrgicos e a assistência farmacêutica, o Ministério da Saúde\ninstituiu incentivo financeiro de custeio mensal para os Serviços de Atenção Especializada em Doenças Raras e\npara os Serviços de Referência em Doenças Raras.\n        Assim, o atendimento de pacientes com doenças raras é feito prioritariamente na Atenção Primária, principal\nporta de entrada para o SUS e, se houver necessidade, o paciente será encaminhado para atendimento especializado\nem unidade de média ou alta complexidade, e a linha de cuidados de pacientes com Doenças Raras é estruturada\npela Atenção Primária e Atenção Especializada, em conformidade com a Rede de Atenção à Saúde e seguindo as\nDiretrizes para Atenção Integral às Pessoas com Doenças Raras no Sistema Único de Saúde.\n        Considerando que cerca de 80% das doenças raras são de origem genética, o aconselhamento genético (AG)\né fundamental na atenção às famílias e pacientes com essas doenças. O aconselhamento genético é um processo de\ncomunicação que lida com os problemas humanos associados à ocorrência ou ao risco de ocorrência de uma doença\ngenética em uma família. Este processo envolve a participação de pessoas adequadamente capacitadas, com o\nobjetivo de ajudar o indivíduo e a família a compreender os aspectos envolvidos, incluindo o diagnóstico, o curso\nprovável da doença e os cuidados disponíveis.\n        Pacientes com suspeita de deficiência intelectual devem ser encaminhados, preferencialmente, a um serviço\nespecializado ou de referência em doenças raras para seu adequado diagnóstico."
+    }
+  },
+  "stats": {
+    "section_count": 119,
+    "char_count": 107053,
+    "depth1_count": 95
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "schema_version": "0.1",
+  "description": "Curated list of Brazilian Ministry of Health PCDTs (Protocolos Clínicos e Diretrizes Terapêuticas) covering rare diseases. Source: gov.br/conitec. Used as the SUS-conduta layer for RareBench-BR.",
+  "last_curated_at": "2026-05-04",
+  "pcdts": [
+    {
+      "slug": "doenca-de-gaucher",
+      "name_pt": "Doença de Gaucher",
+      "icd10": "E75.2",
+      "orphanet": "ORPHA:355",
+      "omim": "230800",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portaria-no-10-pcdt-doenca-de-gaucher.pdf"
+    },
+    {
+      "slug": "doenca-de-pompe",
+      "name_pt": "Doença de Pompe",
+      "icd10": "E74.0",
+      "orphanet": "ORPHA:365",
+      "omim": "232300",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/protocolo_uso/portaria-conjunta-pcdt-doena-de-pompe10-08-2020.pdf"
+    },
+    {
+      "slug": "atrofia-muscular-espinhal-5q",
+      "name_pt": "Atrofia Muscular Espinhal 5q Tipos I e II",
+      "icd10": "G12.0",
+      "orphanet": "ORPHA:83330",
+      "omim": "253300",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20230522_portariaconjuntano6atrofiamuscularespinhal5qtipos1e2.pdf"
+    },
+    {
+      "slug": "hemoglobinuria-paroxistica-noturna",
+      "name_pt": "Hemoglobinúria Paroxística Noturna",
+      "icd10": "D59.5",
+      "orphanet": "ORPHA:447",
+      "omim": "300818",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt__hpn.pdf"
+    },
+    {
+      "slug": "fibrose-cistica",
+      "name_pt": "Fibrose Cística",
+      "icd10": "E84",
+      "orphanet": "ORPHA:586",
+      "omim": "219700",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20211230_portal-portaria-conjunta-no-25_pcdt_fibrose-cistica.pdf"
+    },
+    {
+      "slug": "doenca-de-wilson",
+      "name_pt": "Doença de Wilson",
+      "icd10": "E83.0",
+      "orphanet": "ORPHA:905",
+      "omim": "277900",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/protocolo-clinico-e-diretrizes-terapeuticas-da-doenca-de-wilson"
+    },
+    {
+      "slug": "doenca-de-fabry",
+      "name_pt": "Doença de Fabry",
+      "icd10": "E75.2",
+      "orphanet": "ORPHA:324",
+      "omim": "301500",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/protocolo-clinico-e-diretrizes-terapeuticas-da-doenca-de-fabry"
+    },
+    {
+      "slug": "mucopolissacaridose-tipo-i",
+      "name_pt": "Mucopolissacaridose tipo I",
+      "icd10": "E76.0",
+      "orphanet": "ORPHA:579",
+      "omim": "607014",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-munopolissacaridose-tipo-i.pdf"
+    },
+    {
+      "slug": "mucopolissacaridose-tipo-ii",
+      "name_pt": "Mucopolissacaridose tipo II",
+      "icd10": "E76.1",
+      "orphanet": "ORPHA:580",
+      "omim": "309900",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-da-mucopolissacaridose-tipo-ii"
+    },
+    {
+      "slug": "mucopolissacaridose-tipo-iva",
+      "name_pt": "Mucopolissacaridose tipo IV A",
+      "icd10": "E76.2",
+      "orphanet": "ORPHA:582",
+      "omim": "253000",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt_mucopolissacaridosetipoiva.pdf"
+    },
+    {
+      "slug": "mucopolissacaridose-tipo-vi",
+      "name_pt": "Mucopolissacaridose tipo VI",
+      "icd10": "E76.2",
+      "orphanet": "ORPHA:583",
+      "omim": "253200",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt_mucopolissacaridosetipovi.pdf"
+    },
+    {
+      "slug": "mucopolissacaridose-tipo-vii",
+      "name_pt": "Mucopolissacaridose tipo VII",
+      "icd10": "E76.2",
+      "orphanet": "ORPHA:584",
+      "omim": "253220",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20210531_pcdt_mps_vii.pdf"
+    },
+    {
+      "slug": "hipertensao-pulmonar",
+      "name_pt": "Hipertensão Pulmonar",
+      "icd10": "I27",
+      "orphanet": "ORPHA:182090",
+      "omim": null,
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portariaconjuntano10pcdthipertensaopulmonar.pdf"
+    },
+    {
+      "slug": "esclerose-lateral-amiotrofica",
+      "name_pt": "Esclerose Lateral Amiotrófica",
+      "icd10": "G12.2",
+      "orphanet": "ORPHA:803",
+      "omim": "105400",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portaria_conjunta_pcdt_ela.pdf"
+    },
+    {
+      "slug": "esclerose-multipla",
+      "name_pt": "Esclerose Múltipla",
+      "icd10": "G35",
+      "orphanet": "ORPHA:802",
+      "omim": "126200",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-de-esclerose-multipla"
+    },
+    {
+      "slug": "miastenia-gravis",
+      "name_pt": "Miastenia Gravis",
+      "icd10": "G70.0",
+      "orphanet": "ORPHA:589",
+      "omim": "254200",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/copy_of_20220530_PORTAL_PCDT_Miastenia_Gravis.pdf"
+    },
+    {
+      "slug": "fenilcetonuria",
+      "name_pt": "Fenilcetonúria",
+      "icd10": "E70.0",
+      "orphanet": "ORPHA:716",
+      "omim": "261600",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portaria-conjunta-pcdt-fenilcetonuria_saes.pdf"
+    },
+    {
+      "slug": "doenca-falciforme",
+      "name_pt": "Doença Falciforme",
+      "icd10": "D57",
+      "orphanet": "ORPHA:232",
+      "omim": "603903",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-da-doenca-falciforme"
+    },
+    {
+      "slug": "acromegalia",
+      "name_pt": "Acromegalia",
+      "icd10": "E22.0",
+      "orphanet": "ORPHA:963",
+      "omim": "102200",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portaria-no-23-pcdt-acromegalia.pdf"
+    },
+    {
+      "slug": "lupus-eritematoso-sistemico",
+      "name_pt": "Lúpus Eritematoso Sistêmico",
+      "icd10": "M32",
+      "orphanet": "ORPHA:536",
+      "omim": "152700",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20221109_pcdt_lupus.pdf"
+    },
+    {
+      "slug": "sindrome-falencia-medular",
+      "name_pt": "Síndrome de Falência Medular",
+      "icd10": "D61",
+      "orphanet": "ORPHA:88",
+      "omim": "609135",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20221109_pcdt_sindrome_falencias_medulares.pdf"
+    },
+    {
+      "slug": "lipofuscinose-ceroide-neuronal-2",
+      "name_pt": "Lipofuscinose Ceroide Neuronal tipo 2",
+      "icd10": "E75.4",
+      "orphanet": "ORPHA:228337",
+      "omim": "204500",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portariaconjuntano8pcdtlipofuscinoseceroideneuronaltipo2.pdf"
+    },
+    {
+      "slug": "amiloidoses-transtirretina",
+      "name_pt": "Amiloidoses Associadas à Transtirretina (PAF Andrade)",
+      "icd10": "E85.1",
+      "orphanet": "ORPHA:85451",
+      "omim": "105210",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/AmiloidosesAssociadasaTranstirretina.pdf"
+    },
+    {
+      "slug": "osteogenese-imperfeita",
+      "name_pt": "Osteogênese Imperfeita",
+      "icd10": "Q78.0",
+      "orphanet": "ORPHA:666",
+      "omim": "166200",
+      "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/20220926_pcdt_osteogenese_imperfeita.pdf"
+    }
+  ]
+}
