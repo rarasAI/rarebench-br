@@ -11,15 +11,29 @@ Existing rare-disease benchmarks each cover one axis:
 
 **RareBench-BR is the first to unite Dx + Brazilian PCDT conduta + real DataSUS dispensation patterns.**
 
-## Structure
+## Structure — RareBench-BR v2 SUS Suite
 
-| Layer | N | Description | Status |
-|---|---:|---|---|
-| `L1` | 1,122 | RareBench (RAMEDIS/LIRICAL/HMS/MME/PUMCH) localized to PT-BR | re-translated |
-| `L3_v2` | 135 | 24 official MS PCDTs × 5-10 clinical presentations | **new** |
-| `L4` | 81 | Hard BR cases: tropical phenocopies, founder mutations, IEI, sparse HPO, neonatal screening | **new** |
-| `L5_realsus` | 267 | **Anchored in 52k real APAC trajectories (CNS-linked, 2017-2020+)** | **new — world first** |
-| **Total** | **1,605** | | |
+| Layer | N | Task | Source | Novel? |
+|---|---:|---|---|---|
+| `L1` | 1,122 | HPO → Dx | Chen et al. NeurIPS 2024 (localized PT-BR) | re-translated |
+| `L3_v2` | 135 | Dx + PCDT mapping | 24 official MS PCDTs × clinical variations | **new** |
+| `L4` | 81 | Dx — tropical phenocopies + founder mutations BR | Hard BR cases | **new** |
+| `L5_realsus` v1 | 267 | Dx + CEAF medication | DataSUS APAC patterns | **new** |
+| `L5_realsus` v2 | 619 | Dx + CEAF (expanded, 50/disease) | DataSUS APAC patterns | **new** |
+| **`L6_trajectory_forecast`** | **200** | Predict next event in real trajectory | **52k CNS-linked trajectories** | **🌟 world first** |
+| **`L7_geographic_equity`** | **60** | Predict UF treatment concentration | **Real APAC UF data** | **🌟 world first** |
+| **`L8_persistence`** | **120** | Predict treatment duration | **Real APAC longitudinal** | **🌟 world first** |
+| **Total** | **2,604** | | | |
+
+### Why L6/L7/L8 are unique
+
+No prior rare-disease benchmark uses **longitudinal patient-trajectory data** as ground truth. We extracted these tasks from **52,343 real anonymized APAC trajectories** (LGPD-safe, no CNS hash, only aggregated patterns):
+
+- **L6 — Trajectory Forecast**: given first 3-5 APAC authorizations, predict the next event. Tests whether the model knows the real flow of SUS care (continuation vs switch vs combination vs discontinuation).
+- **L7 — Geographic Equity**: given ORPHA + UF of residence, predict the percentage of national authorizations that go to that UF. Tests whether the model knows the geographic concentration of rare-disease treatment in Brazil.
+- **L8 — Persistence**: given disease and start year, predict treatment duration bucket. Tests whether the model knows how long real Brazilian patients stay on therapy.
+
+These are not synthetic — they are derived from observed real-world SUS dispensation patterns aggregated from 4+ years of data.
 
 ## L5 — the world's first DataSUS-anchored rare-disease benchmark layer
 

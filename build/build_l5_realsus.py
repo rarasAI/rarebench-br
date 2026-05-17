@@ -16,7 +16,7 @@ from pathlib import Path
 random.seed(42)
 
 PATTERNS = "/tmp/sus_patterns_v1.json"
-OUT = "/Users/dimas/rarasnet-swarm-py/rarebench_br/cases/L5_realsus.jsonl"
+OUT = "/Users/dimas/rarasnet-swarm-py/rarebench_br/cases/L5_realsus_v2.jsonl"
 
 # CID → (nome PT, ORPHA correto, OMIM, PCDT slug, fármaco CEAF típico,
 #  apresentação clínica template, HPO list, cultural PT-BR qualifiers)
@@ -323,8 +323,8 @@ for orpha_code, pattern in patterns["per_orpha_patterns"].items():
     cid = list(pattern["top_5_cids"].keys())[0] if pattern["top_5_cids"] else None
     if cid not in DISEASE_MAP:
         continue
-    # 30 cases per disease (or ~3% of real n, max 60)
-    n_cases = min(60, max(20, pattern["n_patients_in_sus"] // 500))
+    # 50 cases per disease (or ~3% of real n, max 80)
+    n_cases = min(80, max(50, pattern["n_patients_in_sus"] // 300))
     for _ in range(n_cases):
         cases.append(render_case(cid, pattern, i))
         i += 1
